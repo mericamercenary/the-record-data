@@ -1,0 +1,417 @@
+{
+  "weekStart": "2026-09-28",
+  "weekEnd": "2026-10-04",
+  "matters": [
+    {
+      "id": "us-congress-119-hr-7008",
+      "jurisdiction": "United States",
+      "jurisdiction_level": "federal",
+      "body": "U.S. Congress",
+      "chamber": "House",
+      "session": "119th Congress, 2nd Session",
+      "number": "H.R. 7008",
+      "title": "A bill to amend chapter 131 of title 5 to require certain restrictions on stocks for Members of Congress and their spouses and dependents, and for other purposes.",
+      "official_title": "To amend chapter 131 of title 5 to require certain restrictions on stocks for Members of Congress and their spouses and dependents, and for other purposes.",
+      "sponsors": [
+        "Rep. Steil, Bryan [R-WI-1]"
+      ],
+      "status": "Cloture on the Motion to Proceed Rejected",
+      "last_action_at": "2026-09-30T11:58:00-04:00",
+      "last_action_text": "September 30, 2026, 11:58 AM | On Cloture on the Motion to Proceed H.R. 7008 | Cloture on the Motion to Proceed Rejected (53-47, 3/5 majority required)",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00253.xml",
+      "topics": [
+        "Family relationships",
+        "Financial services and investments",
+        "Government ethics and transparency, public corruption",
+        "Government information and archives",
+        "Members of Congress",
+        "Securities"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "us-congress-119-hr-9340",
+      "jurisdiction": "United States",
+      "jurisdiction_level": "federal",
+      "body": "U.S. Congress",
+      "chamber": "House",
+      "session": "119th Congress, 2nd Session",
+      "number": "H.R. 9340",
+      "title": "A bill to amend the Public Utility Regulatory Policies Act of 1978 to establish a Federal standard relating to the recovery of the full, incremental costs of upgrades that serve large-load customers, and for other purposes.",
+      "official_title": "To amend the Public Utility Regulatory Policies Act of 1978 to establish a Federal standard relating to the recovery of the full, incremental costs of upgrades that serve large-load customers, and for other purposes.",
+      "sponsors": [
+        "Rep. Evans, Gabe [R-CO-8]"
+      ],
+      "status": "Cloture on the Motion to Proceed Rejected",
+      "last_action_at": "2026-09-30T12:51:00-04:00",
+      "last_action_text": "September 30, 2026, 12:51 PM | On Cloture on the Motion to Proceed H.R. 9340 | Cloture on the Motion to Proceed Rejected (57-43, 3/5 majority required)",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00254.xml",
+      "topics": [
+        "Administrative law and regulatory procedures",
+        "Electric power generation and transmission",
+        "Energy efficiency and conservation",
+        "Energy prices",
+        "Energy storage, supplies, demand",
+        "Federal Energy Regulatory Commission (FERC)",
+        "Federal preemption",
+        "Intergovernmental relations",
+        "Public utilities and utility rates",
+        "State and local government operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "us-congress-119-pn-1129",
+      "jurisdiction": "United States",
+      "jurisdiction_level": "federal",
+      "body": "UNKNOWN",
+      "chamber": "UNKNOWN",
+      "session": "119th Congress, 2nd Session",
+      "number": "PN1129",
+      "title": "Keith Sonderling, of Florida, to be Secretary of Labor",
+      "official_title": "UNKNOWN",
+      "sponsors": [],
+      "status": "Nomination Confirmed",
+      "last_action_at": "2026-09-30T21:29:00-04:00",
+      "last_action_text": "September 30, 2026, 09:29 PM | On the Nomination PN1129 | Nomination Confirmed (47-41)",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00256.xml",
+      "topics": [
+        "UNKNOWN"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "us-congress-119-s-4668",
+      "jurisdiction": "United States",
+      "jurisdiction_level": "federal",
+      "body": "U.S. Congress",
+      "chamber": "Senate",
+      "session": "119th Congress, 2nd Session",
+      "number": "S. 4668",
+      "title": "A bill to protect the name, image, and likeness rights of, and provide protections for, student athletes and to promote fair competition among intercollegiate athletics, and for other purposes.",
+      "official_title": "A bill to protect the name, image, and likeness rights of, and provide protections for, student athletes and to promote fair competition among intercollegiate athletics, and for other purposes.",
+      "sponsors": [
+        "Sen. Cruz, Ted [R-TX]"
+      ],
+      "status": "Bill Passed",
+      "last_action_at": "2026-09-28T21:42:00-04:00",
+      "last_action_text": "September 28, 2026, 09:42 PM | On Passage of the Bill S. 4668 | Bill Passed (77-22)",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00250.xml",
+      "topics": [
+        "Athletes",
+        "Contracts and agency",
+        "Digital media",
+        "Higher education",
+        "Inflation and prices",
+        "Intellectual property",
+        "Licensing and registrations",
+        "School athletics",
+        "State and local government operations",
+        "Television and film",
+        "User charges and fees",
+        "Wages and earnings"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "us-congress-119-samdt-6758",
+      "jurisdiction": "United States",
+      "jurisdiction_level": "federal",
+      "body": "UNKNOWN",
+      "chamber": "UNKNOWN",
+      "session": "119th Congress, 2nd Session",
+      "number": "S.Amdt. 6758",
+      "title": "To improve the bill.",
+      "official_title": "UNKNOWN",
+      "sponsors": null,
+      "status": "Amendment Rejected",
+      "last_action_at": "2026-09-28T19:38:00-04:00",
+      "last_action_text": "September 28, 2026, 07:38 PM | On the Amendment S.Amdt. 6758 to S.Amdt. 6776 to S. 4668 (No short title on file) | Amendment Rejected (1-94)",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00246.xml",
+      "topics": [
+        "UNKNOWN"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "us-congress-119-samdt-6760",
+      "jurisdiction": "United States",
+      "jurisdiction_level": "federal",
+      "body": "UNKNOWN",
+      "chamber": "UNKNOWN",
+      "session": "119th Congress, 2nd Session",
+      "number": "S.Amdt. 6760",
+      "title": "To limit price increases for college athletics tickets.",
+      "official_title": "UNKNOWN",
+      "sponsors": null,
+      "status": "Amendment Rejected",
+      "last_action_at": "2026-09-28T20:08:00-04:00",
+      "last_action_text": "September 28, 2026, 08:08 PM | On the Amendment S.Amdt. 6760 to S.Amdt. 6776 to S. 4668 (No short title on file) | Amendment Rejected (42-54, 3/5 majority required)",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00247.xml",
+      "topics": [
+        "UNKNOWN"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "us-congress-119-samdt-6805",
+      "jurisdiction": "United States",
+      "jurisdiction_level": "federal",
+      "body": "UNKNOWN",
+      "chamber": "UNKNOWN",
+      "session": "119th Congress, 2nd Session",
+      "number": "S.Amdt. 6805",
+      "title": "To increase the limitation on funding for post-eligibility insurance and catastrophic injury for student athletes.",
+      "official_title": "UNKNOWN",
+      "sponsors": null,
+      "status": "Amendment Rejected",
+      "last_action_at": "2026-09-28T20:41:00-04:00",
+      "last_action_text": "September 28, 2026, 08:41 PM | On the Amendment S.Amdt. 6805 to S.Amdt. 6776 to S. 4668 (No short title on file) | Amendment Rejected (49-50)",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00248.xml",
+      "topics": [
+        "UNKNOWN"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "us-congress-119-samdt-6828",
+      "jurisdiction": "United States",
+      "jurisdiction_level": "federal",
+      "body": "UNKNOWN",
+      "chamber": "UNKNOWN",
+      "session": "119th Congress, 2nd Session",
+      "number": "S.Amdt. 6828",
+      "title": "To modify the provision relating to the relationship of this Act to existing law.",
+      "official_title": "UNKNOWN",
+      "sponsors": null,
+      "status": "Amendment Agreed to",
+      "last_action_at": "2026-09-28T18:41:00-04:00",
+      "last_action_text": "September 28, 2026, 06:41 PM | On the Amendment S.Amdt. 6828 to S.Amdt. 6776 to S. 4668 (No short title on file) | Amendment Agreed to (96-1)",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00245.xml",
+      "topics": [
+        "UNKNOWN"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "us-congress-119-samdt-6835",
+      "jurisdiction": "United States",
+      "jurisdiction_level": "federal",
+      "body": "UNKNOWN",
+      "chamber": "UNKNOWN",
+      "session": "119th Congress, 2nd Session",
+      "number": "S.Amdt. 6835",
+      "title": "To establish certain standards with respect to coaches of varsity sports teams.",
+      "official_title": "UNKNOWN",
+      "sponsors": null,
+      "status": "Amendment Rejected",
+      "last_action_at": "2026-09-28T21:21:00-04:00",
+      "last_action_text": "September 28, 2026, 09:21 PM | On the Amendment S.Amdt. 6835 to S.Amdt. 6776 to S. 4668 (No short title on file) | Amendment Rejected (47-52)",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00249.xml",
+      "topics": [
+        "UNKNOWN"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "us-congress-119-sjres-197",
+      "jurisdiction": "United States",
+      "jurisdiction_level": "federal",
+      "body": "U.S. Congress",
+      "chamber": "Senate",
+      "session": "119th Congress, 2nd Session",
+      "number": "S.J.Res. 197",
+      "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare &amp; Medicaid Services of the Department of Health and Human Services relating to \"Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program\".",
+      "official_title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare &amp; Medicaid Services of the Department of Health and Human Services relating to \"Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program\".",
+      "sponsors": [
+        "Sen. Baldwin, Tammy [D-WI]"
+      ],
+      "status": "Motion to Proceed Rejected",
+      "last_action_at": "2026-09-29T14:21:00-04:00",
+      "last_action_text": "September 29, 2026, 02:21 PM | On the Motion to Proceed S.J.Res. 197 | Motion to Proceed Rejected (48-51)",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00251.xml",
+      "topics": [
+        "Administrative law and regulatory procedures",
+        "Civil actions and liability",
+        "Congressional oversight",
+        "Data collection, sharing, protection",
+        "Dental care",
+        "Department of Health and Human Services",
+        "Health care costs and insurance",
+        "Medicaid",
+        "Medicare",
+        "User charges and fees"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "us-congress-119-sres-852",
+      "jurisdiction": "United States",
+      "jurisdiction_level": "federal",
+      "body": "U.S. Congress",
+      "chamber": "Senate",
+      "session": "119th Congress, 2nd Session",
+      "number": "S.Res. 852",
+      "title": "A resolution requesting information on Israel's human rights practices pursuant to section 502B(c) of the Foreign Assistance Act of 1961.",
+      "official_title": "A resolution requesting information on Israel's human rights practices pursuant to section 502B(c) of the Foreign Assistance Act of 1961.",
+      "sponsors": [
+        "Sen. Van Hollen, Chris [D-MD]"
+      ],
+      "status": "Motion to Discharge Rejected",
+      "last_action_at": "2026-09-29T18:32:00-04:00",
+      "last_action_text": "September 29, 2026, 06:32 PM | On the Motion to Discharge S.Res. 852 | Motion to Discharge Rejected (47-51)",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00252.xml",
+      "topics": [
+        "International Affairs"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "actions": [
+    {
+      "id": "us-senate-119-2-roll-245",
+      "matter_id": "us-congress-119-samdt-6828",
+      "at": "2026-09-28T18:41:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 96,
+      "nays": 1,
+      "nvs": 3,
+      "result": "Amendment Agreed to",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00245.xml"
+    },
+    {
+      "id": "us-senate-119-2-roll-246",
+      "matter_id": "us-congress-119-samdt-6758",
+      "at": "2026-09-28T19:38:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 1,
+      "nays": 94,
+      "nvs": 5,
+      "result": "Amendment Rejected",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00246.xml"
+    },
+    {
+      "id": "us-senate-119-2-roll-247",
+      "matter_id": "us-congress-119-samdt-6760",
+      "at": "2026-09-28T20:08:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 42,
+      "nays": 54,
+      "nvs": 4,
+      "result": "Amendment Rejected",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00247.xml"
+    },
+    {
+      "id": "us-senate-119-2-roll-248",
+      "matter_id": "us-congress-119-samdt-6805",
+      "at": "2026-09-28T20:41:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 49,
+      "nays": 50,
+      "nvs": 1,
+      "result": "Amendment Rejected",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00248.xml"
+    },
+    {
+      "id": "us-senate-119-2-roll-249",
+      "matter_id": "us-congress-119-samdt-6835",
+      "at": "2026-09-28T21:21:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 47,
+      "nays": 52,
+      "nvs": 1,
+      "result": "Amendment Rejected",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00249.xml"
+    },
+    {
+      "id": "us-senate-119-2-roll-250",
+      "matter_id": "us-congress-119-s-4668",
+      "at": "2026-09-28T21:42:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 77,
+      "nays": 22,
+      "nvs": 1,
+      "result": "Bill Passed",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00250.xml"
+    },
+    {
+      "id": "us-senate-119-2-roll-251",
+      "matter_id": "us-congress-119-sjres-197",
+      "at": "2026-09-29T14:21:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 48,
+      "nays": 51,
+      "nvs": 1,
+      "result": "Motion to Proceed Rejected",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00251.xml"
+    },
+    {
+      "id": "us-senate-119-2-roll-252",
+      "matter_id": "us-congress-119-sres-852",
+      "at": "2026-09-29T18:32:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 47,
+      "nays": 51,
+      "nvs": 2,
+      "result": "Motion to Discharge Rejected",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00252.xml"
+    },
+    {
+      "id": "us-senate-119-2-roll-253",
+      "matter_id": "us-congress-119-hr-7008",
+      "at": "2026-09-30T11:58:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 53,
+      "nays": 47,
+      "nvs": 0,
+      "result": "Cloture on the Motion to Proceed Rejected",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00253.xml"
+    },
+    {
+      "id": "us-senate-119-2-roll-254",
+      "matter_id": "us-congress-119-hr-9340",
+      "at": "2026-09-30T12:51:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 57,
+      "nays": 43,
+      "nvs": 0,
+      "result": "Cloture on the Motion to Proceed Rejected",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00254.xml"
+    },
+    {
+      "id": "us-senate-119-2-roll-255",
+      "matter_id": "us-congress-119-pn-1129",
+      "at": "2026-09-30T13:41:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 53,
+      "nays": 47,
+      "nvs": 0,
+      "result": "Cloture Motion Agreed to",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00255.xml"
+    },
+    {
+      "id": "us-senate-119-2-roll-256",
+      "matter_id": "us-congress-119-pn-1129",
+      "at": "2026-09-30T21:29:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 47,
+      "nays": 41,
+      "nvs": 12,
+      "result": "Nomination Confirmed",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00256.xml"
+    }
+  ],
+  "digest": null
+}
