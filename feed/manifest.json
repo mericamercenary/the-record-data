@@ -1,0 +1,16 @@
+{
+  "feed": "the-record-weeks",
+  "schema_version": 1,
+  "generated_at": "2026-10-08T16:26:00-04:00",
+  "weeks": [
+    {
+      "week_start": "2026-09-21",
+      "week_end": "2026-09-27",
+      "path": "weeks/2026-09-21.json",
+      "sha256": "02a5e3f60bc14d8cbeb52a12f96a53e02c75af40013b8af81d65a080e07afec4",
+      "matters": 4,
+      "actions": 6,
+      "integrity_report": "INTEGRITY_REPORT-2026-09-28.md"
+    }
+  ]
+}

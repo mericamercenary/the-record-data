@@ -1,0 +1,210 @@
+{
+  "weekStart": "2026-09-21",
+  "weekEnd": "2026-09-27",
+  "matters": [
+    {
+      "id": "us-congress-119-hconres-89",
+      "jurisdiction": "United States",
+      "jurisdiction_level": "federal",
+      "body": "U.S. Congress",
+      "chamber": "House",
+      "session": "119th Congress, 2nd Session",
+      "number": "H.Con.Res. 89",
+      "title": "A concurrent resolution directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
+      "official_title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
+      "sponsors": [
+        "Rep. Jayapal, Pramila [D-WA-7]"
+      ],
+      "status": "Rejected in Senate",
+      "last_action_at": "2026-09-24T13:45:00-04:00",
+      "last_action_text": "Sep 24, 2026, 01:45 PM ET | Senate Vote 244: On the Concurrent Resolution H.Con.Res. 89 | Concurrent Resolution Rejected (49-50) | Yeas 49, Nays 50, Not Voting 1",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00244.xml",
+      "topics": [],
+      "confidence": "high"
+    },
+    {
+      "id": "us-congress-119-pn-999-1",
+      "jurisdiction": "United States",
+      "jurisdiction_level": "federal",
+      "body": "U.S. Senate",
+      "chamber": "Senate",
+      "session": "119th Congress, 2nd Session",
+      "number": "PN999-1",
+      "title": "Angela Veronica Colmenero, of Texas, to be United States District Judge for the Southern District of Texas",
+      "official_title": "Angela Veronica Colmenero, of Texas, to be United States District Judge for the Southern District of Texas, vice Lee H. Rosenthal, retired.",
+      "sponsors": [],
+      "status": "Confirmed",
+      "last_action_at": "2026-09-23T14:16:00-04:00",
+      "last_action_text": "Sep 23, 2026, 02:16 PM ET | Senate Vote 241: On the Nomination PN999-1 | Nomination Confirmed (Yeas 50, Nays 47, Not Voting 3)",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00241.xml",
+      "topics": [],
+      "confidence": "high"
+    },
+    {
+      "id": "us-congress-119-s-4668",
+      "jurisdiction": "United States",
+      "jurisdiction_level": "federal",
+      "body": "U.S. Senate",
+      "chamber": "Senate",
+      "session": "119th Congress, 2nd Session",
+      "number": "S. 4668",
+      "title": "A bill to protect the name, image, and likeness rights of, and provide protections for, student athletes and to promote fair competition among intercollegiate athletics, and for other purposes.",
+      "official_title": "A bill to protect the name, image, and likeness rights of, and provide protections for, student athletes and to promote fair competition among intercollegiate athletics, and for other purposes.",
+      "sponsors": [
+        "Sen. Cruz, Ted [R-TX]"
+      ],
+      "status": "Cloture agreed to",
+      "last_action_at": "2026-09-24T11:46:00-04:00",
+      "last_action_text": "Sep 24, 2026, 11:46 AM ET | Senate Vote 243: On the Cloture Motion S. 4668 (Motion to Invoke Cloture: S. 4668, as Amended) | Cloture Motion Agreed to (74-25, 3/5 majority required) | Yeas 74, Nays 25, Not Voting 1",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00243.xml",
+      "topics": [],
+      "confidence": "high"
+    },
+    {
+      "id": "us-congress-119-samdt-6776",
+      "jurisdiction": "United States",
+      "jurisdiction_level": "federal",
+      "body": "U.S. Senate",
+      "chamber": "Senate",
+      "session": "119th Congress, 2nd Session",
+      "number": "S.Amdt. 6776",
+      "title": "Cruz Amdt. No. 6776 to S. 4668; In the nature of a substitute.",
+      "official_title": "In the nature of a substitute.",
+      "sponsors": [
+        "Sen. Cruz, Ted [R-TX]"
+      ],
+      "status": "Agreed to",
+      "last_action_at": "2026-09-24T10:48:00-04:00",
+      "last_action_text": "Sep 24, 2026, 10:48 AM ET | Senate Vote 242: On the Amendment S.Amdt. 6776 to S. 4668 | Amendment Agreed to (Yeas 77, Nays 23, Not Voting 0)",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00242.xml",
+      "topics": [],
+      "confidence": "high"
+    }
+  ],
+  "actions": [
+    {
+      "id": "us-senate-119-2-roll-239",
+      "matter_id": "us-congress-119-pn-999-1",
+      "at": "2026-09-22T17:42:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 52,
+      "nays": 43,
+      "nvs": 5,
+      "result": "Cloture Motion Agreed to",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00239.xml"
+    },
+    {
+      "id": "us-senate-119-2-roll-240",
+      "matter_id": "us-congress-119-samdt-6776",
+      "at": "2026-09-22T18:37:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 70,
+      "nays": 21,
+      "nvs": 9,
+      "result": "Cloture Motion Agreed to",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00240.htm"
+    },
+    {
+      "id": "us-senate-119-2-roll-241",
+      "matter_id": "us-congress-119-pn-999-1",
+      "at": "2026-09-23T14:16:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 50,
+      "nays": 47,
+      "nvs": 3,
+      "result": "Nomination Confirmed",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00241.xml"
+    },
+    {
+      "id": "us-senate-119-2-roll-242",
+      "matter_id": "us-congress-119-samdt-6776",
+      "at": "2026-09-24T10:48:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 77,
+      "nays": 23,
+      "nvs": 0,
+      "result": "Amendment Agreed to",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00242.xml"
+    },
+    {
+      "id": "us-senate-119-2-roll-243",
+      "matter_id": "us-congress-119-s-4668",
+      "at": "2026-09-24T11:46:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 74,
+      "nays": 25,
+      "nvs": 1,
+      "result": "Cloture Motion Agreed to",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00243.xml"
+    },
+    {
+      "id": "us-senate-119-2-roll-244",
+      "matter_id": "us-congress-119-hconres-89",
+      "at": "2026-09-24T13:45:00-04:00",
+      "kind": "voted",
+      "chamber": "Senate",
+      "yeas": 49,
+      "nays": 50,
+      "nvs": 1,
+      "result": "Concurrent Resolution Rejected",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00244.xml"
+    }
+  ],
+  "digest": {
+    "product": "P0/P1",
+    "object": "Meta",
+    "tier": "FEDERAL_STATE",
+    "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00244.xml ; https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00243.xml ; https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00242.xml ; https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00241.xml",
+    "confidence": "high",
+    "date_et": "2026-09-28",
+    "week_of": "Mon Sep 21 to Sun Sep 27 ET",
+    "week_start": "2026-09-21",
+    "week_end": "2026-09-27",
+    "jurisdictions_covered": [
+      "United States Congress",
+      "Alabama",
+      "Alaska",
+      "Arizona",
+      "Arkansas"
+    ],
+    "congress_lines": [
+      "H.Con.Res. 89: War Powers Resolution concurrent resolution on removing U.S. Armed Forces from hostilities with Iran. Concurrent Resolution Rejected (Senate Vote 244, Yeas 49, Nays 50, Not Voting 1), 2026-09-24 01:45 PM ET",
+      "S. 4668: student athlete name, image, and likeness bill. Cloture Motion Agreed to (Senate Vote 243, Yeas 74, Nays 25, Not Voting 1; 3/5 majority), 2026-09-24 11:46 AM ET",
+      "S.Amdt. 6776: Cruz substitute to S. 4668. Amendment Agreed to (Senate Vote 242, Yeas 77, Nays 23, Not Voting 0), 2026-09-24 10:48 AM ET",
+      "PN999-1: nomination of Angela Veronica Colmenero to be U.S. District Judge (S.D. Tex.). Nomination Confirmed (Senate Vote 241, Yeas 50, Nays 47, Not Voting 3), 2026-09-23 02:16 PM ET"
+    ],
+    "state_notes": [
+      {
+        "name": "Alabama",
+        "note": "No in-window Actions (2026 Regular Session adjourned 2026-04-09)"
+      },
+      {
+        "name": "Alaska",
+        "note": "No in-window Actions"
+      },
+      {
+        "name": "Arizona",
+        "note": "No in-window Actions"
+      },
+      {
+        "name": "Arkansas",
+        "note": "No in-window Actions"
+      }
+    ],
+    "inventory_note": "Inventory as of 2026-09-28 04:20 PM ET (Matter marks the week complete): 4 of the 8–15 target. House roll calls and the named states have zero in-window Actions. Ranked by recency of official Action.",
+    "matter_ids": [
+      "us-congress-119-hconres-89",
+      "us-congress-119-s-4668",
+      "us-congress-119-samdt-6776",
+      "us-congress-119-pn-999-1"
+    ],
+    "watch_list": "No watch list recorded.",
+    "followed_that_did_not_move": "Followed Matters that did not move: none.",
+    "integrity_banner": "Summaries are unofficial. Official text and votes control."
+  }
+}
