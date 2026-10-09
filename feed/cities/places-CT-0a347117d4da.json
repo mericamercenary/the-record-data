@@ -1,0 +1,3891 @@
+{
+ "bundle": "cities-places",
+ "schema_version": 1,
+ "state": "CT",
+ "sources": [
+  {
+   "name": "U.S. Census Bureau, 2025 Gazetteer Files (places and counties)",
+   "url": "https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html"
+  },
+  {
+   "name": "U.S. Census Bureau, Vintage 2025 population estimates for cities and towns (July 1, 2025)",
+   "url": "https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 Census counts (TIGERweb, Census 2020 places)",
+   "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_Census2020/MapServer"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 place-to-county list",
+   "url": "https://www.census.gov/library/reference/code-lists/ansi.html"
+  }
+ ],
+ "places": [
+  {
+   "geoid": "0901150",
+   "name": "Ansonia",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.34425,
+   "lon": -73.06982,
+   "land_sqmi": 6.019,
+   "water_sqmi": 0.168,
+   "population": {
+    "count": 19216,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southwestern",
+   "description": "Ansonia is a city in southwestern Connecticut. It covers about 6 square miles of land and 0.2 square miles of water, and about 19,216 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0902480",
+   "name": "Ball Pond",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.46165,
+   "lon": -73.52685,
+   "land_sqmi": 1.128,
+   "water_sqmi": 0.128,
+   "population": {
+    "count": 2189,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Ball Pond is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land and 0.1 square miles of water, and 2,189 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0902550",
+   "name": "Baltic",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.6097,
+   "lon": -72.0819,
+   "land_sqmi": 1.245,
+   "water_sqmi": 0.067,
+   "population": {
+    "count": 1186,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Baltic is a community in eastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land and 0.1 square miles of water, and 1,186 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0902690",
+   "name": "Bantam",
+   "kind": "21",
+   "counties": [],
+   "lat": 41.72475,
+   "lon": -73.24226,
+   "land_sqmi": 1.01,
+   "water_sqmi": 0,
+   "population": {
+    "count": 772,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Bantam is a borough in western Connecticut. It covers about 1 square mile of land, and about 772 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0904790",
+   "name": "Bethel",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.36029,
+   "lon": -73.41394,
+   "land_sqmi": 6.163,
+   "water_sqmi": 0.033,
+   "population": {
+    "count": 11582,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Bethel is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.2 square miles of land, and 11,582 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0904945",
+   "name": "Bethlehem Village",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.64396,
+   "lon": -73.20279,
+   "land_sqmi": 7.788,
+   "water_sqmi": 0.266,
+   "population": {
+    "count": 1970,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Bethlehem Village is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.8 square miles of land and 0.3 square miles of water, and 1,970 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0904965",
+   "name": "Bigelow Corners",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.46501,
+   "lon": -73.5082,
+   "land_sqmi": 0.67,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 617,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Bigelow Corners is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 617 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0906050",
+   "name": "Blue Hills",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.81337,
+   "lon": -72.69544,
+   "land_sqmi": 1.166,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2762,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Blue Hills is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 2,762 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0906155",
+   "name": "Bogus Hill",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.50809,
+   "lon": -73.46298,
+   "land_sqmi": 0.102,
+   "water_sqmi": 0.074,
+   "population": {
+    "count": 100,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Bogus Hill is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land and 0.1 square miles of water, and 100 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0906680",
+   "name": "Botsford",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.35878,
+   "lon": -73.26716,
+   "land_sqmi": 0.813,
+   "water_sqmi": 0,
+   "population": {
+    "count": 499,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Botsford is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 499 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0907100",
+   "name": "Branchville",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.26784,
+   "lon": -73.44337,
+   "land_sqmi": 0.201,
+   "water_sqmi": 0,
+   "population": {
+    "count": 262,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Branchville is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 262 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0907345",
+   "name": "Branford Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.27765,
+   "lon": -72.81609,
+   "land_sqmi": 1.867,
+   "water_sqmi": 0.206,
+   "population": {
+    "count": 6026,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Branford Center is a community in southern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land and 0.2 square miles of water, and 6,026 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0908000",
+   "name": "Bridgeport",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.18739,
+   "lon": -73.19576,
+   "land_sqmi": 16.064,
+   "water_sqmi": 3.361,
+   "population": {
+    "count": 152273,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southwestern",
+   "description": "Bridgeport is a city in southwestern Connecticut. It covers about 16 square miles of land and 3.4 square miles of water, and about 152,273 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0908140",
+   "name": "Bridgewater",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.53478,
+   "lon": -73.36458,
+   "land_sqmi": 0.272,
+   "water_sqmi": 0,
+   "population": {
+    "count": 133,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Bridgewater is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 133 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0908420",
+   "name": "Bristol",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.68158,
+   "lon": -72.94075,
+   "land_sqmi": 26.399,
+   "water_sqmi": 0.402,
+   "population": {
+    "count": 62341,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "central",
+   "description": "Bristol is a city in central Connecticut. It covers about 26 square miles of land and 0.4 square miles of water, and about 62,341 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0908770",
+   "name": "Broad Brook",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.91115,
+   "lon": -72.54113,
+   "land_sqmi": 5.925,
+   "water_sqmi": 0.034,
+   "population": {
+    "count": 3998,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Broad Brook is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.9 square miles of land, and 3,998 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0909050",
+   "name": "Brookfield Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.46236,
+   "lon": -73.38753,
+   "land_sqmi": 0.509,
+   "water_sqmi": 0,
+   "population": null,
+   "position": "western",
+   "description": "Brookfield Center is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0909120",
+   "name": "Brooklyn",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.78975,
+   "lon": -71.95477,
+   "land_sqmi": 1.154,
+   "water_sqmi": 0,
+   "population": {
+    "count": 952,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Brooklyn is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 952 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0910660",
+   "name": "Byram",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.0011,
+   "lon": -73.65412,
+   "land_sqmi": 0.791,
+   "water_sqmi": 0.063,
+   "population": {
+    "count": 4493,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Byram is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land and 0.1 square miles of water, and 4,493 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0910870",
+   "name": "Canaan",
+   "kind": "57",
+   "counties": [],
+   "lat": 42.04011,
+   "lon": -73.33288,
+   "land_sqmi": 1.745,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1190,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Canaan is a community in northwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land, and 1,190 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0911360",
+   "name": "Candlewood Isle",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.48853,
+   "lon": -73.45328,
+   "land_sqmi": 0.392,
+   "water_sqmi": 0.797,
+   "population": {
+    "count": 491,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Candlewood Isle is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land and 0.8 square miles of water, and 491 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0911430",
+   "name": "Candlewood Knolls",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.47906,
+   "lon": -73.46361,
+   "land_sqmi": 0.151,
+   "water_sqmi": 0,
+   "population": {
+    "count": 255,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Candlewood Knolls is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 255 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0911500",
+   "name": "Candlewood Lake Club",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.49314,
+   "lon": -73.43679,
+   "land_sqmi": 0.308,
+   "water_sqmi": 0.093,
+   "population": {
+    "count": 305,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Candlewood Lake Club is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land and 0.1 square miles of water, and 305 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0911640",
+   "name": "Candlewood Orchards",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.47162,
+   "lon": -73.4373,
+   "land_sqmi": 0.289,
+   "water_sqmi": 0,
+   "population": {
+    "count": 752,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Candlewood Orchards is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 752 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0911780",
+   "name": "Candlewood Shores",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.48005,
+   "lon": -73.43804,
+   "land_sqmi": 0.231,
+   "water_sqmi": 0.062,
+   "population": {
+    "count": 665,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Candlewood Shores is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land and 0.1 square miles of water, and 665 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0911990",
+   "name": "Cannondale",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.21616,
+   "lon": -73.42526,
+   "land_sqmi": 0.333,
+   "water_sqmi": 0,
+   "population": {
+    "count": 396,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Cannondale is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 396 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0912370",
+   "name": "Canton Valley",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.83156,
+   "lon": -72.89774,
+   "land_sqmi": 1.76,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1623,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Canton Valley is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land, and 1,623 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0914200",
+   "name": "Cheshire Village",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.50409,
+   "lon": -72.89687,
+   "land_sqmi": 4.002,
+   "water_sqmi": 0,
+   "population": {
+    "count": 6499,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Cheshire Village is a community in central Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4 square miles of land, and 6,499 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0914370",
+   "name": "Chester Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.40301,
+   "lon": -72.45695,
+   "land_sqmi": 2.676,
+   "water_sqmi": 0.028,
+   "population": {
+    "count": 1720,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Chester Center is a community in southern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.7 square miles of land, and 1,720 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0914615",
+   "name": "Chimney Point",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.5015,
+   "lon": -73.44143,
+   "land_sqmi": 0.063,
+   "water_sqmi": 0.05,
+   "population": {
+    "count": 133,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Chimney Point is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land and 0.1 square miles of water, and 133 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0915420",
+   "name": "Clinton",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.2764,
+   "lon": -72.529,
+   "land_sqmi": 2.393,
+   "water_sqmi": 0.282,
+   "population": {
+    "count": 3441,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Clinton is a community in southern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land and 0.3 square miles of water, and 3,441 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0915840",
+   "name": "Colchester",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.57759,
+   "lon": -72.33274,
+   "land_sqmi": 4.469,
+   "water_sqmi": 0,
+   "population": {
+    "count": 4700,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Colchester is a community in eastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.5 square miles of land, and 4,700 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0916085",
+   "name": "Coleytown",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.1769,
+   "lon": -73.34336,
+   "land_sqmi": 3.696,
+   "water_sqmi": 0.007,
+   "population": {
+    "count": 3522,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Coleytown is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.7 square miles of land, and 3,522 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0916120",
+   "name": "Collinsville",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.82225,
+   "lon": -72.92449,
+   "land_sqmi": 3.134,
+   "water_sqmi": 0.419,
+   "population": {
+    "count": 3721,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Collinsville is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.1 square miles of land and 0.4 square miles of water, and 3,721 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0916525",
+   "name": "Compo",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.12276,
+   "lon": -73.35153,
+   "land_sqmi": 1.692,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3354,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Compo is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land, and 3,354 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0916960",
+   "name": "Conning Towers-Nautilus Park",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.38924,
+   "lon": -72.06378,
+   "land_sqmi": 5.199,
+   "water_sqmi": 0.634,
+   "population": {
+    "count": 8870,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Conning Towers-Nautilus Park is a community in southeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.2 square miles of land and 0.6 square miles of water, and 8,870 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0917170",
+   "name": "Cornwall",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.84432,
+   "lon": -73.33267,
+   "land_sqmi": 0.564,
+   "water_sqmi": 0,
+   "population": {
+    "count": 120,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Cornwall is a community in northwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 120 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0917310",
+   "name": "Cornwall Bridge",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.80618,
+   "lon": -73.38439,
+   "land_sqmi": 2.053,
+   "water_sqmi": 0.074,
+   "population": {
+    "count": 287,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Cornwall Bridge is a community in northwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land and 0.1 square miles of water, and 287 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0917520",
+   "name": "Cos Cob",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.04859,
+   "lon": -73.5919,
+   "land_sqmi": 2.152,
+   "water_sqmi": 0.119,
+   "population": {
+    "count": 6873,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Cos Cob is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land and 0.1 square miles of water, and 6,873 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0917835",
+   "name": "Coventry Lake",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.77917,
+   "lon": -72.33402,
+   "land_sqmi": 3.575,
+   "water_sqmi": 0.593,
+   "population": {
+    "count": 2823,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Coventry Lake is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.6 square miles of land and 0.6 square miles of water, and 2,823 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0918220",
+   "name": "Crystal Lake",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.93305,
+   "lon": -72.38129,
+   "land_sqmi": 8.919,
+   "water_sqmi": 0.275,
+   "population": {
+    "count": 2152,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Crystal Lake is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8.9 square miles of land and 0.3 square miles of water, and 2,152 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0918430",
+   "name": "Danbury",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.39874,
+   "lon": -73.4781,
+   "land_sqmi": 42.044,
+   "water_sqmi": 2.227,
+   "population": {
+    "count": 89033,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southwestern",
+   "description": "Danbury is a city in southwestern Connecticut. It covers about 42 square miles of land and 2.2 square miles of water, and about 89,033 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0918675",
+   "name": "Daniels Farm",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.2769,
+   "lon": -73.21226,
+   "land_sqmi": 4.877,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 6150,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Daniels Farm is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.9 square miles of land, and 6,150 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0918780",
+   "name": "Danielson",
+   "kind": "21",
+   "counties": [],
+   "lat": 41.80711,
+   "lon": -71.88436,
+   "land_sqmi": 1.094,
+   "water_sqmi": 0.066,
+   "population": {
+    "count": 4265,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Danielson is a borough in northeastern Connecticut. It covers about 1.1 square miles of land and 0.1 square miles of water, and about 4,265 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0918936",
+   "name": "Darien Downtown",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.07674,
+   "lon": -73.46967,
+   "land_sqmi": 0.788,
+   "water_sqmi": 0.015,
+   "population": {
+    "count": 1147,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Darien Downtown is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 1,147 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0918990",
+   "name": "Dayville",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.84422,
+   "lon": -71.88239,
+   "land_sqmi": 0.932,
+   "water_sqmi": 0,
+   "population": {
+    "count": 631,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Dayville is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 631 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0919200",
+   "name": "Deep River Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.37886,
+   "lon": -72.44049,
+   "land_sqmi": 3.796,
+   "water_sqmi": 0.148,
+   "population": {
+    "count": 2765,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Deep River Center is a community in southern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.8 square miles of land and 0.1 square miles of water, and 2,765 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0919480",
+   "name": "Derby",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.32612,
+   "lon": -73.08257,
+   "land_sqmi": 5.056,
+   "water_sqmi": 0.35,
+   "population": {
+    "count": 12925,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southwestern",
+   "description": "Derby is a city in southwestern Connecticut. It covers about 5.1 square miles of land and 0.4 square miles of water, and about 12,925 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0920250",
+   "name": "Dodgingtown",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.37977,
+   "lon": -73.35237,
+   "land_sqmi": 0.43,
+   "water_sqmi": 0,
+   "population": {
+    "count": 380,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Dodgingtown is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 380 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0920740",
+   "name": "Durham",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.46892,
+   "lon": -72.68452,
+   "land_sqmi": 8.249,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 3771,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Durham is a community in central Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8.2 square miles of land, and 3,771 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0921160",
+   "name": "East Brooklyn",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.79209,
+   "lon": -71.90638,
+   "land_sqmi": 2.541,
+   "water_sqmi": 0.029,
+   "population": {
+    "count": 2205,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "East Brooklyn is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.5 square miles of land, and 2,205 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0922420",
+   "name": "East Hampton",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.57383,
+   "lon": -72.48494,
+   "land_sqmi": 4.05,
+   "water_sqmi": 0.02,
+   "population": {
+    "count": 2960,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "East Hampton is a community in central Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.1 square miles of land, and 2,960 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0922700",
+   "name": "East Hartford",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.7607,
+   "lon": -72.60765,
+   "land_sqmi": 18.007,
+   "water_sqmi": 0.735,
+   "population": {
+    "count": 51045,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "East Hartford is a community in central Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 18 square miles of land and 0.7 square miles of water, and 51,045 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0922980",
+   "name": "East Haven",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.29345,
+   "lon": -72.85899,
+   "land_sqmi": 12.296,
+   "water_sqmi": 1.203,
+   "population": {
+    "count": 27923,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "East Haven is a community in southern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 12 square miles of land and 1.2 square miles of water, and 27,923 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0924520",
+   "name": "East Village",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.36044,
+   "lon": -73.18653,
+   "land_sqmi": 6.507,
+   "water_sqmi": 0.153,
+   "population": {
+    "count": 4057,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "East Village is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.5 square miles of land and 0.2 square miles of water, and 4,057 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0926370",
+   "name": "Essex Village",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.35665,
+   "lon": -72.39354,
+   "land_sqmi": 3.841,
+   "water_sqmi": 1.32,
+   "population": {
+    "count": 2583,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Essex Village is a community in southeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.8 square miles of land and 1.3 square miles of water, and 2,583 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0926698",
+   "name": "Fairfield University",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.15895,
+   "lon": -73.25706,
+   "land_sqmi": 0.337,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2884,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Fairfield University is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 2,884 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0927390",
+   "name": "Falls Village",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.95763,
+   "lon": -73.35621,
+   "land_sqmi": 1.595,
+   "water_sqmi": 0,
+   "population": {
+    "count": 383,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Falls Village is a community in northwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land, and 383 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0927810",
+   "name": "Fenwick",
+   "kind": "21",
+   "counties": [],
+   "lat": 41.27107,
+   "lon": -72.35458,
+   "land_sqmi": 0.39,
+   "water_sqmi": 0,
+   "population": {
+    "count": 44,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southeastern",
+   "description": "Fenwick is a borough in southeastern Connecticut. It covers about 0.4 square miles of land, and about 44 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0930190",
+   "name": "Gales Ferry",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.42172,
+   "lon": -72.0845,
+   "land_sqmi": 0.965,
+   "water_sqmi": 0.352,
+   "population": {
+    "count": 1159,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Gales Ferry is a community in southeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land and 0.4 square miles of water, and 1,159 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0930470",
+   "name": "Gaylordsville",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.64172,
+   "lon": -73.48096,
+   "land_sqmi": 1.589,
+   "water_sqmi": 0.061,
+   "population": {
+    "count": 603,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Gaylordsville is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land and 0.1 square miles of water, and 603 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0930540",
+   "name": "Georgetown",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.24199,
+   "lon": -73.43567,
+   "land_sqmi": 2.869,
+   "water_sqmi": 0.024,
+   "population": {
+    "count": 1832,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Georgetown is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.9 square miles of land, and 1,832 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0931270",
+   "name": "Glastonbury Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.70067,
+   "lon": -72.59942,
+   "land_sqmi": 4.953,
+   "water_sqmi": 0.095,
+   "population": {
+    "count": 8459,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Glastonbury Center is a community in central Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5 square miles of land and 0.1 square miles of water, and 8,459 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0931520",
+   "name": "Glenville",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.03522,
+   "lon": -73.66416,
+   "land_sqmi": 0.75,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2762,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Glenville is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 2,762 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0933480",
+   "name": "Greens Farms",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.1241,
+   "lon": -73.32269,
+   "land_sqmi": 3.803,
+   "water_sqmi": 0.643,
+   "population": {
+    "count": 3125,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Greens Farms is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.8 square miles of land and 0.6 square miles of water, and 3,125 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0933690",
+   "name": "Greenwich",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.02777,
+   "lon": -73.62693,
+   "land_sqmi": 4.842,
+   "water_sqmi": 0.324,
+   "population": {
+    "count": 13836,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Greenwich is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.8 square miles of land and 0.3 square miles of water, and 13,836 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0934180",
+   "name": "Groton",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.32505,
+   "lon": -72.06686,
+   "land_sqmi": 3.083,
+   "water_sqmi": 3.678,
+   "population": {
+    "count": 10160,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southeastern",
+   "description": "Groton is a city in southeastern Connecticut. It covers about 3.1 square miles of land and 3.7 square miles of water, and about 10,160 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0934460",
+   "name": "Groton Long Point",
+   "kind": "21",
+   "counties": [],
+   "lat": 41.31419,
+   "lon": -72.01015,
+   "land_sqmi": 0.427,
+   "water_sqmi": 0.016,
+   "population": {
+    "count": 522,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southeastern",
+   "description": "Groton Long Point is a borough in southeastern Connecticut. It covers about 0.4 square miles of land, and about 522 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0935020",
+   "name": "Guilford Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.28051,
+   "lon": -72.67622,
+   "land_sqmi": 2.181,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 2586,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Guilford Center is a community in southern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land, and 2,586 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0937000",
+   "name": "Hartford",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.76593,
+   "lon": -72.68158,
+   "land_sqmi": 17.411,
+   "water_sqmi": 0.676,
+   "population": {
+    "count": 121981,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "Hartford is a city in northern Connecticut. It covers about 17 square miles of land and 0.7 square miles of water, and about 121,981 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0937490",
+   "name": "Hawleyville",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.42891,
+   "lon": -73.35044,
+   "land_sqmi": 0.467,
+   "water_sqmi": 0,
+   "population": {
+    "count": 151,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Hawleyville is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 151 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0937770",
+   "name": "Hazardville",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.99089,
+   "lon": -72.53204,
+   "land_sqmi": 5.672,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 6870,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Hazardville is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.7 square miles of land, and 6,870 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0937930",
+   "name": "Heritage Village",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.48592,
+   "lon": -73.23329,
+   "land_sqmi": 2.619,
+   "water_sqmi": 0.016,
+   "population": {
+    "count": 5091,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Heritage Village is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land, and 5,091 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0938050",
+   "name": "Higganum",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.4907,
+   "lon": -72.55777,
+   "land_sqmi": 6.205,
+   "water_sqmi": 0.311,
+   "population": {
+    "count": 2089,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Higganum is a community in central Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.2 square miles of land and 0.3 square miles of water, and 2,089 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0939695",
+   "name": "Indian Field",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.01984,
+   "lon": -73.60803,
+   "land_sqmi": 0.897,
+   "water_sqmi": 1.08,
+   "population": {
+    "count": 705,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Indian Field is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land and 1.1 square miles of water, and 705 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0939747",
+   "name": "Inglenook",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.52307,
+   "lon": -73.47354,
+   "land_sqmi": 0.442,
+   "water_sqmi": 0,
+   "population": {
+    "count": 799,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Inglenook is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 799 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0939940",
+   "name": "Jewett City",
+   "kind": "21",
+   "counties": [],
+   "lat": 41.6072,
+   "lon": -71.97979,
+   "land_sqmi": 0.705,
+   "water_sqmi": 0.038,
+   "population": {
+    "count": 3456,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Jewett City is a borough in eastern Connecticut. It covers about 0.7 square miles of land, and about 3,456 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0940077",
+   "name": "Kellogg Point",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.46819,
+   "lon": -73.45989,
+   "land_sqmi": 0.045,
+   "water_sqmi": 0,
+   "population": {
+    "count": 20,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Kellogg Point is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers less than 0.1 square miles of land, and 20 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0940150",
+   "name": "Kensington",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.62562,
+   "lon": -72.76872,
+   "land_sqmi": 5.995,
+   "water_sqmi": 0.165,
+   "population": {
+    "count": 9962,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Kensington is a community in central Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6 square miles of land and 0.2 square miles of water, and 9,962 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0940920",
+   "name": "Knollcrest",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.50119,
+   "lon": -73.46687,
+   "land_sqmi": 0.168,
+   "water_sqmi": 0,
+   "population": {
+    "count": 334,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Knollcrest is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 334 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0941226",
+   "name": "Lake Bungee",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.95653,
+   "lon": -72.06903,
+   "land_sqmi": 0.368,
+   "water_sqmi": 0.174,
+   "population": {
+    "count": 601,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Lake Bungee is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land and 0.2 square miles of water, and 601 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0941238",
+   "name": "Lake Chaffee",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.93796,
+   "lon": -72.19696,
+   "land_sqmi": 0.132,
+   "water_sqmi": 0.082,
+   "population": {
+    "count": 282,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Lake Chaffee is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land and 0.1 square miles of water, and 282 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0941410",
+   "name": "Lake Pocotopaug",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.602,
+   "lon": -72.50177,
+   "land_sqmi": 5.491,
+   "water_sqmi": 0.802,
+   "population": {
+    "count": 4901,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Lake Pocotopaug is a community in central Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.5 square miles of land and 0.8 square miles of water, and 4,901 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0941585",
+   "name": "Lakes East",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.33068,
+   "lon": -73.49254,
+   "land_sqmi": 0.907,
+   "water_sqmi": 0.095,
+   "population": {
+    "count": 1299,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Lakes East is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land and 0.1 square miles of water, and 1,299 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0941714",
+   "name": "Lakeside Woods",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.55481,
+   "lon": -73.48402,
+   "land_sqmi": 0.582,
+   "water_sqmi": 0,
+   "population": {
+    "count": 309,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Lakeside Woods is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 309 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0941736",
+   "name": "Lakes West",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.33632,
+   "lon": -73.51194,
+   "land_sqmi": 1.341,
+   "water_sqmi": 0.021,
+   "population": {
+    "count": 1186,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Lakes West is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 1,186 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0941830",
+   "name": "Lakeville",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.96215,
+   "lon": -73.4433,
+   "land_sqmi": 3.828,
+   "water_sqmi": 0.558,
+   "population": {
+    "count": 1059,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Lakeville is a community in northwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.8 square miles of land and 0.6 square miles of water, and 1,059 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0943300",
+   "name": "Litchfield",
+   "kind": "21",
+   "counties": [],
+   "lat": 41.7457,
+   "lon": -73.18924,
+   "land_sqmi": 1.373,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1220,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Litchfield is a borough in western Connecticut. It covers about 1.4 square miles of land, and about 1,220 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0943580",
+   "name": "Long Hill",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.2666,
+   "lon": -73.22836,
+   "land_sqmi": 3.235,
+   "water_sqmi": 0,
+   "population": {
+    "count": 8039,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Long Hill is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.2 square miles of land, and 8,039 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0943790",
+   "name": "Long Hill",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.34961,
+   "lon": -72.05053,
+   "land_sqmi": 1.538,
+   "water_sqmi": 0.045,
+   "population": {
+    "count": 3948,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Long Hill is a community in southeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 3,948 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0944000",
+   "name": "Lordship",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.15302,
+   "lon": -73.11423,
+   "land_sqmi": 0.837,
+   "water_sqmi": 0.632,
+   "population": {
+    "count": 2954,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Lordship is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land and 0.6 square miles of water, and 2,954 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0944630",
+   "name": "Madison Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.28022,
+   "lon": -72.60227,
+   "land_sqmi": 2.04,
+   "water_sqmi": 0.012,
+   "population": {
+    "count": 2250,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Madison Center is a community in southern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land, and 2,250 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0944660",
+   "name": "Mamanasco Lake",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.31817,
+   "lon": -73.5298,
+   "land_sqmi": 0.409,
+   "water_sqmi": 0.135,
+   "population": {
+    "count": 509,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Mamanasco Lake is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land and 0.1 square miles of water, and 509 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0944690",
+   "name": "Manchester",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.77963,
+   "lon": -72.52016,
+   "land_sqmi": 9.235,
+   "water_sqmi": 0.038,
+   "population": {
+    "count": 36379,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Manchester is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 9.2 square miles of land, and 36,379 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0945120",
+   "name": "Mansfield Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.76709,
+   "lon": -72.18686,
+   "land_sqmi": 3.143,
+   "water_sqmi": 0.345,
+   "population": {
+    "count": 1021,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Mansfield Center is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.1 square miles of land and 0.3 square miles of water, and 1,021 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0945995",
+   "name": "Mashantucket",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.46444,
+   "lon": -71.9748,
+   "land_sqmi": 2.566,
+   "water_sqmi": 0,
+   "population": {
+    "count": 457,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Mashantucket is a community in eastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land, and 457 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0946240",
+   "name": "Mechanicsville",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.95064,
+   "lon": -71.88544,
+   "land_sqmi": 0.835,
+   "water_sqmi": 0,
+   "population": {
+    "count": 540,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Mechanicsville is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 540 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0946450",
+   "name": "Meriden",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.53678,
+   "lon": -72.79454,
+   "land_sqmi": 23.732,
+   "water_sqmi": 0.363,
+   "population": {
+    "count": 60810,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "central",
+   "description": "Meriden is a city in central Connecticut. It covers about 24 square miles of land and 0.4 square miles of water, and about 60,810 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0947290",
+   "name": "Middletown",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.54861,
+   "lon": -72.65678,
+   "land_sqmi": 41.018,
+   "water_sqmi": 1.347,
+   "population": {
+    "count": 48439,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "central",
+   "description": "Middletown is a city in central Connecticut. It covers about 41 square miles of land and 1.3 square miles of water, and about 48,439 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0947515",
+   "name": "Milford",
+   "kind": "00",
+   "counties": [],
+   "lat": 41.22364,
+   "lon": -73.06456,
+   "land_sqmi": 21.905,
+   "water_sqmi": 3.225,
+   "population": {
+    "count": 51215,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southwestern",
+   "description": "Milford is a city in southwestern Connecticut. It covers about 22 square miles of land and 3.2 square miles of water, and about 51,215 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0947990",
+   "name": "Mill Plain",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.15469,
+   "lon": -73.26828,
+   "land_sqmi": 0.498,
+   "water_sqmi": 0.007,
+   "population": {
+    "count": 1654,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Mill Plain is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 1,654 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0949110",
+   "name": "Moodus",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.50189,
+   "lon": -72.43554,
+   "land_sqmi": 3.367,
+   "water_sqmi": 0.02,
+   "population": {
+    "count": 1982,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Moodus is a community in central Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.4 square miles of land, and 1,982 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0949180",
+   "name": "Moosup",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.71699,
+   "lon": -71.87522,
+   "land_sqmi": 2.437,
+   "water_sqmi": 0.037,
+   "population": {
+    "count": 3113,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Moosup is a community in eastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land, and 3,113 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0949720",
+   "name": "Murray",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.19741,
+   "lon": -73.28952,
+   "land_sqmi": 1.476,
+   "water_sqmi": 0,
+   "population": {
+    "count": 848,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Murray is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 848 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0949810",
+   "name": "Mystic",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.35598,
+   "lon": -71.95588,
+   "land_sqmi": 3.649,
+   "water_sqmi": 0.433,
+   "population": {
+    "count": 4348,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Mystic is a community in southeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.6 square miles of land and 0.4 square miles of water, and 4,348 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0949880",
+   "name": "Naugatuck",
+   "kind": "21",
+   "counties": [],
+   "lat": 41.48779,
+   "lon": -73.05155,
+   "land_sqmi": 16.384,
+   "water_sqmi": 0.095,
+   "population": {
+    "count": 32230,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Naugatuck is a borough in western Connecticut. It covers about 16 square miles of land and 0.1 square miles of water, and about 32,230 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0950370",
+   "name": "New Britain",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.67656,
+   "lon": -72.78616,
+   "land_sqmi": 13.396,
+   "water_sqmi": 0.072,
+   "population": {
+    "count": 76286,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "central",
+   "description": "New Britain is a city in central Connecticut. It covers about 13 square miles of land and 0.1 square miles of water, and about 76,286 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0950576",
+   "name": "New Canaan",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.1417,
+   "lon": -73.49014,
+   "land_sqmi": 1.549,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 6220,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "New Canaan is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 6,220 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0951420",
+   "name": "New Hartford Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.88089,
+   "lon": -72.97283,
+   "land_sqmi": 3.187,
+   "water_sqmi": 0.206,
+   "population": {
+    "count": 1284,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "New Hartford Center is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.2 square miles of land and 0.2 square miles of water, and 1,284 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0952000",
+   "name": "New Haven",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.31081,
+   "lon": -72.92495,
+   "land_sqmi": 18.69,
+   "water_sqmi": 1.443,
+   "population": {
+    "count": 138774,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "New Haven is a city in southern Connecticut. It covers about 19 square miles of land and 1.4 square miles of water, and about 138,774 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0952210",
+   "name": "Newington",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.68699,
+   "lon": -72.73084,
+   "land_sqmi": 13.141,
+   "water_sqmi": 0,
+   "population": {
+    "count": 30536,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Newington is a community in central Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 13 square miles of land, and 30,536 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0952280",
+   "name": "New London",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.33296,
+   "lon": -72.09618,
+   "land_sqmi": 5.607,
+   "water_sqmi": 4.984,
+   "population": {
+    "count": 28003,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southeastern",
+   "description": "New London is a city in southeastern Connecticut. It covers about 5.6 square miles of land and 5 square miles of water, and about 28,003 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0952560",
+   "name": "New Milford",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.5803,
+   "lon": -73.40393,
+   "land_sqmi": 4.066,
+   "water_sqmi": 0.104,
+   "population": {
+    "count": 7160,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "New Milford is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.1 square miles of land and 0.1 square miles of water, and 7,160 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0952770",
+   "name": "New Preston",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.69131,
+   "lon": -73.3344,
+   "land_sqmi": 7.319,
+   "water_sqmi": 0.506,
+   "population": {
+    "count": 1126,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "New Preston is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.3 square miles of land and 0.5 square miles of water, and 1,126 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0952910",
+   "name": "Newtown",
+   "kind": "21",
+   "counties": [],
+   "lat": 41.4119,
+   "lon": -73.31195,
+   "land_sqmi": 2.304,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1980,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southwestern",
+   "description": "Newtown is a borough in southwestern Connecticut. It covers about 2.3 square miles of land, and about 1,980 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0953120",
+   "name": "Niantic",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.31677,
+   "lon": -72.19986,
+   "land_sqmi": 1.507,
+   "water_sqmi": 2.059,
+   "population": {
+    "count": 3194,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Niantic is a community in southeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land and 2.1 square miles of water, and 3,194 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0953260",
+   "name": "Noank",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.3375,
+   "lon": -71.99756,
+   "land_sqmi": 1.525,
+   "water_sqmi": 0.694,
+   "population": {
+    "count": 1654,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Noank is a community in southeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land and 0.7 square miles of water, and 1,654 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0953400",
+   "name": "Norfolk",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.99171,
+   "lon": -73.19404,
+   "land_sqmi": 1.15,
+   "water_sqmi": 0,
+   "population": {
+    "count": 551,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Norfolk is a community in northwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 551 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0953540",
+   "name": "Noroton",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.05836,
+   "lon": -73.49053,
+   "land_sqmi": 1.805,
+   "water_sqmi": 0.51,
+   "population": {
+    "count": 5317,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Noroton is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land and 0.5 square miles of water, and 5,317 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0953610",
+   "name": "Noroton Heights",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.07409,
+   "lon": -73.49722,
+   "land_sqmi": 0.876,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3116,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Noroton Heights is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 3,116 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0954450",
+   "name": "Northford",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.39581,
+   "lon": -72.78318,
+   "land_sqmi": 7.985,
+   "water_sqmi": 0.011,
+   "population": {
+    "count": 6082,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Northford is a community in southern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8 square miles of land, and 6,082 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0954660",
+   "name": "North Granby",
+   "kind": "57",
+   "counties": [],
+   "lat": 42.01599,
+   "lon": -72.84318,
+   "land_sqmi": 8.342,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 1835,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "North Granby is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8.3 square miles of land, and 1,835 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0954730",
+   "name": "North Grosvenor Dale",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.98624,
+   "lon": -71.90334,
+   "land_sqmi": 2.266,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1464,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "North Grosvenor Dale is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.3 square miles of land, and 1,464 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0954940",
+   "name": "North Haven",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.38147,
+   "lon": -72.85637,
+   "land_sqmi": 20.801,
+   "water_sqmi": 0.276,
+   "population": {
+    "count": 24253,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "North Haven is a community in southern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 21 square miles of land and 0.3 square miles of water, and 24,253 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0955725",
+   "name": "Northwest Harwinton",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.77645,
+   "lon": -73.07949,
+   "land_sqmi": 8.699,
+   "water_sqmi": 0.11,
+   "population": {
+    "count": 3158,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Northwest Harwinton is a community in northwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8.7 square miles of land and 0.1 square miles of water, and 3,158 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0955990",
+   "name": "Norwalk",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.09274,
+   "lon": -73.4198,
+   "land_sqmi": 22.891,
+   "water_sqmi": 13.482,
+   "population": {
+    "count": 94508,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southwestern",
+   "description": "Norwalk is a city in southwestern Connecticut. It covers about 23 square miles of land and 13 square miles of water, and about 94,508 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0956200",
+   "name": "Norwich",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.54801,
+   "lon": -72.08945,
+   "land_sqmi": 28.064,
+   "water_sqmi": 1.343,
+   "population": {
+    "count": 40001,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Norwich is a city in eastern Connecticut. It covers about 28 square miles of land and 1.3 square miles of water, and about 40,001 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0956690",
+   "name": "Oakville",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.58897,
+   "lon": -73.09047,
+   "land_sqmi": 3.976,
+   "water_sqmi": 0.035,
+   "population": {
+    "count": 9504,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Oakville is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4 square miles of land, and 9,504 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0956900",
+   "name": "Old Greenwich",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.02012,
+   "lon": -73.56767,
+   "land_sqmi": 1.995,
+   "water_sqmi": 1.483,
+   "population": {
+    "count": 6962,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Old Greenwich is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land and 1.5 square miles of water, and 6,962 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0956935",
+   "name": "Old Hill",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.14994,
+   "lon": -73.37938,
+   "land_sqmi": 2.159,
+   "water_sqmi": 0.035,
+   "population": {
+    "count": 2676,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Old Hill is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land, and 2,676 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0957180",
+   "name": "Old Mystic",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.38363,
+   "lon": -71.98625,
+   "land_sqmi": 4.29,
+   "water_sqmi": 0.095,
+   "population": {
+    "count": 3493,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Old Mystic is a community in southeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.3 square miles of land and 0.1 square miles of water, and 3,493 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0957390",
+   "name": "Old Saybrook Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.28663,
+   "lon": -72.35818,
+   "land_sqmi": 1.972,
+   "water_sqmi": 0.906,
+   "population": {
+    "count": 2278,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Old Saybrook Center is a community in southeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land and 0.9 square miles of water, and 2,278 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0957670",
+   "name": "Orange",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.28495,
+   "lon": -73.02464,
+   "land_sqmi": 17.181,
+   "water_sqmi": 0.238,
+   "population": {
+    "count": 14280,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Orange is a community in southern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 17 square miles of land and 0.2 square miles of water, and 14,280 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0957880",
+   "name": "Oronoque",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.25916,
+   "lon": -73.11064,
+   "land_sqmi": 2.254,
+   "water_sqmi": 0.054,
+   "population": {
+    "count": 3790,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Oronoque is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.3 square miles of land and 0.1 square miles of water, and 3,790 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0958520",
+   "name": "Oxoboxo River",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.44486,
+   "lon": -72.12686,
+   "land_sqmi": 4.255,
+   "water_sqmi": 0.221,
+   "population": {
+    "count": 2955,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Oxoboxo River is a community in southeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.3 square miles of land and 0.2 square miles of water, and 2,955 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0959140",
+   "name": "Pawcatuck",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.37389,
+   "lon": -71.85642,
+   "land_sqmi": 3.412,
+   "water_sqmi": 0.013,
+   "population": {
+    "count": 5433,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Pawcatuck is a community in southeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.4 square miles of land, and 5,433 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0959210",
+   "name": "Pemberwick",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.01819,
+   "lon": -73.6562,
+   "land_sqmi": 0.676,
+   "water_sqmi": 0.014,
+   "population": {
+    "count": 3899,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Pemberwick is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 3,899 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0960090",
+   "name": "Plainfield Village",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.67518,
+   "lon": -71.92471,
+   "land_sqmi": 1.706,
+   "water_sqmi": 0.02,
+   "population": {
+    "count": 2580,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Plainfield Village is a community in eastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land, and 2,580 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0960260",
+   "name": "Plantsville",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.58316,
+   "lon": -72.89185,
+   "land_sqmi": 0.995,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2016,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Plantsville is a community in central Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 2,016 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0960365",
+   "name": "Plattsville",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.22594,
+   "lon": -73.2591,
+   "land_sqmi": 0.995,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1131,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Plattsville is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 1,131 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0960540",
+   "name": "Pleasant Valley",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.90833,
+   "lon": -72.99231,
+   "land_sqmi": 0.509,
+   "water_sqmi": 0,
+   "population": {
+    "count": 161,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Pleasant Valley is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 161 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0961555",
+   "name": "Poplar Plains",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.16887,
+   "lon": -73.37824,
+   "land_sqmi": 1.068,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 1322,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Poplar Plains is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 1,322 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0961730",
+   "name": "Poquonock Bridge",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.33643,
+   "lon": -72.01227,
+   "land_sqmi": 1.342,
+   "water_sqmi": 0.072,
+   "population": {
+    "count": 1686,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Poquonock Bridge is a community in southeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land and 0.1 square miles of water, and 1,686 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0961870",
+   "name": "Portland",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.57746,
+   "lon": -72.61979,
+   "land_sqmi": 5.995,
+   "water_sqmi": 0.63,
+   "population": {
+    "count": 5813,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Portland is a community in central Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6 square miles of land and 0.6 square miles of water, and 5,813 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0962640",
+   "name": "Putnam",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.91675,
+   "lon": -71.9107,
+   "land_sqmi": 3.898,
+   "water_sqmi": 0.048,
+   "population": {
+    "count": 7065,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Putnam is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.9 square miles of land, and 7,065 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0963165",
+   "name": "Quasset Lake",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.9223,
+   "lon": -71.98138,
+   "land_sqmi": 0.326,
+   "water_sqmi": 0.138,
+   "population": {
+    "count": 187,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Quasset Lake is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land and 0.1 square miles of water, and 187 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0963270",
+   "name": "Quinebaug",
+   "kind": "57",
+   "counties": [],
+   "lat": 42.01148,
+   "lon": -71.92607,
+   "land_sqmi": 4.343,
+   "water_sqmi": 0.191,
+   "population": {
+    "count": 1114,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Quinebaug is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.3 square miles of land and 0.2 square miles of water, and 1,114 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0963313",
+   "name": "Quinnipiac University",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.4201,
+   "lon": -72.89361,
+   "land_sqmi": 0.385,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3639,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Quinnipiac University is a community in southern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 3,639 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0963620",
+   "name": "Redding Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.30666,
+   "lon": -73.38302,
+   "land_sqmi": 0.689,
+   "water_sqmi": 0,
+   "population": {
+    "count": 315,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Redding Center is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 315 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0963830",
+   "name": "Ridgebury",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.35677,
+   "lon": -73.53589,
+   "land_sqmi": 5.484,
+   "water_sqmi": 0.009,
+   "population": {
+    "count": 2223,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Ridgebury is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.5 square miles of land, and 2,223 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0963900",
+   "name": "Ridgefield",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.26969,
+   "lon": -73.49261,
+   "land_sqmi": 6.256,
+   "water_sqmi": 0.007,
+   "population": {
+    "count": 7596,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Ridgefield is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.3 square miles of land, and 7,596 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0964530",
+   "name": "Riverside",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.03009,
+   "lon": -73.58372,
+   "land_sqmi": 2.421,
+   "water_sqmi": 0.806,
+   "population": {
+    "count": 8843,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Riverside is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land and 0.8 square miles of water, and 8,843 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0964880",
+   "name": "Riverton",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.96314,
+   "lon": -73.01656,
+   "land_sqmi": 0.483,
+   "water_sqmi": 0,
+   "population": {
+    "count": 160,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Riverton is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 160 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0965160",
+   "name": "Rock Ridge",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.03442,
+   "lon": -73.6484,
+   "land_sqmi": 0.91,
+   "water_sqmi": 0,
+   "population": {
+    "count": 658,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Rock Ridge is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 658 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0965230",
+   "name": "Rockville",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.86652,
+   "lon": -72.45127,
+   "land_sqmi": 1.839,
+   "water_sqmi": 0.055,
+   "population": {
+    "count": 7920,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Rockville is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land and 0.1 square miles of water, and 7,920 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0965685",
+   "name": "Route 7 Gateway",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.31876,
+   "lon": -73.47538,
+   "land_sqmi": 0.678,
+   "water_sqmi": 0.038,
+   "population": {
+    "count": 818,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Route 7 Gateway is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 818 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0966086",
+   "name": "Sacred Heart University",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.22148,
+   "lon": -73.2442,
+   "land_sqmi": 0.119,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1446,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Sacred Heart University is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 1,446 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0966113",
+   "name": "Sail Harbor",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.52419,
+   "lon": -73.46422,
+   "land_sqmi": 0.468,
+   "water_sqmi": 0.16,
+   "population": {
+    "count": 175,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Sail Harbor is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land and 0.2 square miles of water, and 175 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0966455",
+   "name": "Salmon Brook",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.95749,
+   "lon": -72.7919,
+   "land_sqmi": 3.288,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2428,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Salmon Brook is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.3 square miles of land, and 2,428 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0966700",
+   "name": "Sandy Hook",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.409,
+   "lon": -73.24263,
+   "land_sqmi": 16.063,
+   "water_sqmi": 0.678,
+   "population": {
+    "count": 9114,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Sandy Hook is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 16 square miles of land and 0.7 square miles of water, and 9,114 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0966770",
+   "name": "Saugatuck",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.11213,
+   "lon": -73.36877,
+   "land_sqmi": 1.858,
+   "water_sqmi": 1.388,
+   "population": {
+    "count": 2937,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Saugatuck is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land and 1.4 square miles of water, and 2,937 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0967050",
+   "name": "Saybrook Manor",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.28343,
+   "lon": -72.4066,
+   "land_sqmi": 0.773,
+   "water_sqmi": 0.198,
+   "population": {
+    "count": 1172,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Saybrook Manor is a community in southern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land and 0.2 square miles of water, and 1,172 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0967890",
+   "name": "Sharon",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.87903,
+   "lon": -73.46163,
+   "land_sqmi": 2.992,
+   "water_sqmi": 0.02,
+   "population": {
+    "count": 662,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Sharon is a community in northwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land, and 662 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0968100",
+   "name": "Shelton",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.30458,
+   "lon": -73.13921,
+   "land_sqmi": 30.631,
+   "water_sqmi": 1.271,
+   "population": {
+    "count": 42880,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southwestern",
+   "description": "Shelton is a city in southwestern Connecticut. It covers about 31 square miles of land and 1.3 square miles of water, and about 42,880 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0968240",
+   "name": "Sherman",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.57211,
+   "lon": -73.49506,
+   "land_sqmi": 0.349,
+   "water_sqmi": 0.012,
+   "population": {
+    "count": 115,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Sherman is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 115 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0968450",
+   "name": "Sherwood Manor",
+   "kind": "57",
+   "counties": [],
+   "lat": 42.01117,
+   "lon": -72.56738,
+   "land_sqmi": 3.765,
+   "water_sqmi": 0.006,
+   "population": {
+    "count": 5372,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Sherwood Manor is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.8 square miles of land, and 5,372 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0969010",
+   "name": "Simsbury Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.8806,
+   "lon": -72.80674,
+   "land_sqmi": 4.562,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 6268,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Simsbury Center is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.6 square miles of land, and 6,268 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0969150",
+   "name": "Somers",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.99169,
+   "lon": -72.44512,
+   "land_sqmi": 2.446,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1990,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Somers is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land, and 1,990 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0969990",
+   "name": "South Coventry",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.75675,
+   "lon": -72.30173,
+   "land_sqmi": 3.248,
+   "water_sqmi": 0.004,
+   "population": {
+    "count": 1612,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "South Coventry is a community in eastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.2 square miles of land, and 1,612 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0971040",
+   "name": "Southport",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.13494,
+   "lon": -73.28712,
+   "land_sqmi": 0.867,
+   "water_sqmi": 0.134,
+   "population": {
+    "count": 1797,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Southport is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land and 0.1 square miles of water, and 1,797 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0971215",
+   "name": "South Wilton",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.1723,
+   "lon": -73.41697,
+   "land_sqmi": 1.12,
+   "water_sqmi": 0.027,
+   "population": {
+    "count": 1447,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "South Wilton is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 1,447 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0971250",
+   "name": "South Windham",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.68419,
+   "lon": -72.18247,
+   "land_sqmi": 3.116,
+   "water_sqmi": 0.027,
+   "population": {
+    "count": 1383,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "South Windham is a community in eastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.1 square miles of land, and 1,383 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0971460",
+   "name": "Southwood Acres",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.9582,
+   "lon": -72.57264,
+   "land_sqmi": 5.313,
+   "water_sqmi": 0,
+   "population": {
+    "count": 7879,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Southwood Acres is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.3 square miles of land, and 7,879 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0971530",
+   "name": "South Woodstock",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.92959,
+   "lon": -71.95564,
+   "land_sqmi": 4.862,
+   "water_sqmi": 0.026,
+   "population": {
+    "count": 1493,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "South Woodstock is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.9 square miles of land, and 1,493 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0972300",
+   "name": "Stafford Springs",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.96786,
+   "lon": -72.30638,
+   "land_sqmi": 6.375,
+   "water_sqmi": 0.036,
+   "population": {
+    "count": 4780,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Stafford Springs is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.4 square miles of land, and 4,780 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0973000",
+   "name": "Stamford",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.07961,
+   "lon": -73.54608,
+   "land_sqmi": 37.629,
+   "water_sqmi": 14.4,
+   "population": {
+    "count": 139535,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southwestern",
+   "description": "Stamford is a city in southwestern Connecticut. It covers about 38 square miles of land and 14 square miles of water, and about 139,535 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0973175",
+   "name": "Staples",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.15537,
+   "lon": -73.32563,
+   "land_sqmi": 4.349,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 6954,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Staples is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.3 square miles of land, and 6,954 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0973280",
+   "name": "Stepney",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.32436,
+   "lon": -73.26839,
+   "land_sqmi": 6.718,
+   "water_sqmi": 0.01,
+   "population": {
+    "count": 4280,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Stepney is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.7 square miles of land, and 4,280 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0973700",
+   "name": "Stonington",
+   "kind": "21",
+   "counties": [],
+   "lat": 41.33476,
+   "lon": -71.89946,
+   "land_sqmi": 0.341,
+   "water_sqmi": 0.403,
+   "population": {
+    "count": 1017,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southeastern",
+   "description": "Stonington is a borough in southeastern Connecticut. It covers about 0.3 square miles of land and 0.4 square miles of water, and about 1,017 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0973980",
+   "name": "Storrs",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.80894,
+   "lon": -72.25162,
+   "land_sqmi": 7.454,
+   "water_sqmi": 0.043,
+   "population": {
+    "count": 15979,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Storrs is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.5 square miles of land, and 15,979 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0974303",
+   "name": "Stratford Downtown",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.19885,
+   "lon": -73.12767,
+   "land_sqmi": 0.625,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1473,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Stratford Downtown is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 1,473 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0974655",
+   "name": "Suffield Depot",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.98521,
+   "lon": -72.63925,
+   "land_sqmi": 2.142,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 1440,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Suffield Depot is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land, and 1,440 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0975065",
+   "name": "Taylor Corners",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.44641,
+   "lon": -73.52869,
+   "land_sqmi": 0.499,
+   "water_sqmi": 0,
+   "population": {
+    "count": 645,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Taylor Corners is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 645 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0975100",
+   "name": "Tariffville",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.90756,
+   "lon": -72.76818,
+   "land_sqmi": 0.645,
+   "water_sqmi": 0.052,
+   "population": {
+    "count": 1324,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Tariffville is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land and 0.1 square miles of water, and 1,324 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0975116",
+   "name": "Tashua",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.27502,
+   "lon": -73.25444,
+   "land_sqmi": 3.663,
+   "water_sqmi": 0.133,
+   "population": {
+    "count": 3857,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Tashua is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.7 square miles of land and 0.1 square miles of water, and 3,857 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0975200",
+   "name": "Terramuggus",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.63357,
+   "lon": -72.47182,
+   "land_sqmi": 1.149,
+   "water_sqmi": 0.127,
+   "population": {
+    "count": 990,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Terramuggus is a community in central Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land and 0.1 square miles of water, and 990 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0975240",
+   "name": "Terryville",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.67784,
+   "lon": -73.00793,
+   "land_sqmi": 2.761,
+   "water_sqmi": 0.027,
+   "population": {
+    "count": 5202,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Terryville is a community in central Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.8 square miles of land, and 5,202 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0975660",
+   "name": "Thomaston",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.67686,
+   "lon": -73.08301,
+   "land_sqmi": 1.199,
+   "water_sqmi": 0.007,
+   "population": {
+    "count": 1928,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Thomaston is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 1,928 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0975940",
+   "name": "Thompsonville",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.99214,
+   "lon": -72.59652,
+   "land_sqmi": 2.035,
+   "water_sqmi": 0.304,
+   "population": {
+    "count": 8514,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Thompsonville is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land and 0.3 square miles of water, and 8,514 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0976150",
+   "name": "Tokeneke",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.05346,
+   "lon": -73.46256,
+   "land_sqmi": 2.34,
+   "water_sqmi": 1.641,
+   "population": {
+    "count": 2794,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Tokeneke is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.3 square miles of land and 1.6 square miles of water, and 2,794 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0976400",
+   "name": "Topstone",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.29631,
+   "lon": -73.44657,
+   "land_sqmi": 0.185,
+   "water_sqmi": 0,
+   "population": {
+    "count": 113,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Topstone is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 113 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0976500",
+   "name": "Torrington",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.83407,
+   "lon": -73.13141,
+   "land_sqmi": 39.762,
+   "water_sqmi": 0.557,
+   "population": {
+    "count": 35796,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northwestern",
+   "description": "Torrington is a city in northwestern Connecticut. It covers about 40 square miles of land and 0.6 square miles of water, and about 35,796 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0977278",
+   "name": "Trumbull Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.2424,
+   "lon": -73.18348,
+   "land_sqmi": 5.703,
+   "water_sqmi": 0.104,
+   "population": {
+    "count": 9746,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Trumbull Center is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.7 square miles of land and 0.1 square miles of water, and 9,746 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0978880",
+   "name": "Wallingford Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.44992,
+   "lon": -72.81833,
+   "land_sqmi": 7.258,
+   "water_sqmi": 0.12,
+   "population": {
+    "count": 18278,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Wallingford Center is a community in southern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.3 square miles of land and 0.1 square miles of water, and 18,278 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0980000",
+   "name": "Waterbury",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.5585,
+   "lon": -73.03669,
+   "land_sqmi": 28.557,
+   "water_sqmi": 0.422,
+   "population": {
+    "count": 115771,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "central",
+   "description": "Waterbury is a city in central Connecticut. It covers about 29 square miles of land and 0.4 square miles of water, and about 115,771 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0980210",
+   "name": "Waterford",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.34627,
+   "lon": -72.12934,
+   "land_sqmi": 1.888,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 3074,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Waterford is a community in southeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land, and 3,074 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0980420",
+   "name": "Watertown",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.60116,
+   "lon": -73.12147,
+   "land_sqmi": 2.362,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 3938,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Watertown is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land, and 3,938 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0980630",
+   "name": "Wauregan",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.75047,
+   "lon": -71.91486,
+   "land_sqmi": 1.639,
+   "water_sqmi": 0.021,
+   "population": {
+    "count": 1539,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Wauregan is a community in eastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land, and 1,539 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0980770",
+   "name": "Weatogue",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.84724,
+   "lon": -72.82977,
+   "land_sqmi": 2.996,
+   "water_sqmi": 0.02,
+   "population": {
+    "count": 2906,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Weatogue is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land, and 2,906 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0981750",
+   "name": "Westbrook Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.2814,
+   "lon": -72.44235,
+   "land_sqmi": 1.688,
+   "water_sqmi": 0.41,
+   "population": {
+    "count": 2220,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Westbrook Center is a community in southern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land and 0.4 square miles of water, and 2,220 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0982030",
+   "name": "West Cornwall",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.86421,
+   "lon": -73.36079,
+   "land_sqmi": 1.566,
+   "water_sqmi": 0,
+   "population": {
+    "count": 138,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "West Cornwall is a community in northwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land, and 138 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0982660",
+   "name": "West Hartford",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.76657,
+   "lon": -72.75494,
+   "land_sqmi": 21.807,
+   "water_sqmi": 0.423,
+   "population": {
+    "count": 64083,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "West Hartford is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 22 square miles of land and 0.4 square miles of water, and 64,083 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0982800",
+   "name": "West Haven",
+   "kind": "25",
+   "counties": [],
+   "lat": 41.27212,
+   "lon": -72.9675,
+   "land_sqmi": 10.75,
+   "water_sqmi": 0.167,
+   "population": {
+    "count": 55351,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "West Haven is a city in southern Connecticut. It covers about 11 square miles of land and 0.2 square miles of water, and about 55,351 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0983045",
+   "name": "West Mountain",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.30008,
+   "lon": -73.54231,
+   "land_sqmi": 2.129,
+   "water_sqmi": 0.052,
+   "population": {
+    "count": 603,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "West Mountain is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land and 0.1 square miles of water, and 603 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0983360",
+   "name": "Weston",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.20324,
+   "lon": -73.37878,
+   "land_sqmi": 1.499,
+   "water_sqmi": 0,
+   "population": {
+    "count": 980,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Weston is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 980 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0983586",
+   "name": "Westport Village",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.14335,
+   "lon": -73.36025,
+   "land_sqmi": 1.273,
+   "water_sqmi": 0.099,
+   "population": {
+    "count": 3251,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Westport Village is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land and 0.1 square miles of water, and 3,251 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0983990",
+   "name": "West Simsbury",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.87573,
+   "lon": -72.84507,
+   "land_sqmi": 4.632,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2521,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "West Simsbury is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.6 square miles of land, and 2,521 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0984970",
+   "name": "Wethersfield",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.70248,
+   "lon": -72.6693,
+   "land_sqmi": 12.302,
+   "water_sqmi": 0.8,
+   "population": {
+    "count": 27298,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Wethersfield is a community in central Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 12 square miles of land and 0.8 square miles of water, and 27,298 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0985810",
+   "name": "Willimantic",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.71656,
+   "lon": -72.21173,
+   "land_sqmi": 5.421,
+   "water_sqmi": 0.133,
+   "population": {
+    "count": 18149,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Willimantic is a community in eastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.4 square miles of land and 0.1 square miles of water, and 18,149 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0986380",
+   "name": "Wilton Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.19128,
+   "lon": -73.42616,
+   "land_sqmi": 1.002,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1466,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Wilton Center is a community in southwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 1,466 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0987140",
+   "name": "Windsor Locks",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.92779,
+   "lon": -72.65162,
+   "land_sqmi": 9.024,
+   "water_sqmi": 0.341,
+   "population": {
+    "count": 12613,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Windsor Locks is a community in northern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 9 square miles of land and 0.3 square miles of water, and 12,613 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0987350",
+   "name": "Winsted",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.92585,
+   "lon": -73.06754,
+   "land_sqmi": 4.881,
+   "water_sqmi": 0.179,
+   "population": {
+    "count": 7192,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Winsted is a community in northwestern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.9 square miles of land and 0.2 square miles of water, and 7,192 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0987455",
+   "name": "Witches Woods",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.94641,
+   "lon": -72.07423,
+   "land_sqmi": 0.092,
+   "water_sqmi": 0.11,
+   "population": {
+    "count": 114,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Witches Woods is a community in northeastern Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land and 0.1 square miles of water, and 114 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0987980",
+   "name": "Woodbury Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.54387,
+   "lon": -73.20486,
+   "land_sqmi": 2.023,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1335,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Woodbury Center is a community in western Connecticut that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land, and 1,335 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "0988050",
+   "name": "Woodmont",
+   "kind": "21",
+   "counties": [],
+   "lat": 41.22155,
+   "lon": -72.99507,
+   "land_sqmi": 0.275,
+   "water_sqmi": 0.72,
+   "population": {
+    "count": 2391,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Woodmont is a borough in southern Connecticut. It covers about 0.3 square miles of land and 0.7 square miles of water, and about 2,391 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  }
+ ]
+}

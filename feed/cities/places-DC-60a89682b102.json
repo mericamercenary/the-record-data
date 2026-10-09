@@ -1,0 +1,45 @@
+{
+ "bundle": "cities-places",
+ "schema_version": 1,
+ "state": "DC",
+ "sources": [
+  {
+   "name": "U.S. Census Bureau, 2025 Gazetteer Files (places and counties)",
+   "url": "https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html"
+  },
+  {
+   "name": "U.S. Census Bureau, Vintage 2025 population estimates for cities and towns (July 1, 2025)",
+   "url": "https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 Census counts (TIGERweb, Census 2020 places)",
+   "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_Census2020/MapServer"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 place-to-county list",
+   "url": "https://www.census.gov/library/reference/code-lists/ansi.html"
+  }
+ ],
+ "places": [
+  {
+   "geoid": "1150000",
+   "name": "Washington",
+   "kind": "25",
+   "counties": [
+    "District of Columbia"
+   ],
+   "lat": 38.90424,
+   "lon": -77.01652,
+   "land_sqmi": 61.127,
+   "water_sqmi": 7.223,
+   "population": {
+    "count": 693645,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Washington is a city in the District of Columbia. It covers about 61 square miles of land and 7.2 square miles of water, and about 693,645 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  }
+ ]
+}

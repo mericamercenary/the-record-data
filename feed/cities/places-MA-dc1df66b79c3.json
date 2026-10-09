@@ -1,0 +1,4978 @@
+{
+ "bundle": "cities-places",
+ "schema_version": 1,
+ "state": "MA",
+ "sources": [
+  {
+   "name": "U.S. Census Bureau, 2025 Gazetteer Files (places and counties)",
+   "url": "https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html"
+  },
+  {
+   "name": "U.S. Census Bureau, Vintage 2025 population estimates for cities and towns (July 1, 2025)",
+   "url": "https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 Census counts (TIGERweb, Census 2020 places)",
+   "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_Census2020/MapServer"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 place-to-county list",
+   "url": "https://www.census.gov/library/reference/code-lists/ansi.html"
+  }
+ ],
+ "places": [
+  {
+   "geoid": "2500135",
+   "name": "Abington",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 42.11602,
+   "lon": -70.95681,
+   "land_sqmi": 9.961,
+   "water_sqmi": 0.228,
+   "population": {
+    "count": 17062,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Abington is a community in Plymouth County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 10 square miles of land and 0.2 square miles of water, and 17,062 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2500530",
+   "name": "Acushnet Center",
+   "kind": "57",
+   "counties": [
+    "Bristol County"
+   ],
+   "lat": 41.685,
+   "lon": -70.90669,
+   "land_sqmi": 1.415,
+   "water_sqmi": 0.029,
+   "population": {
+    "count": 3030,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Acushnet Center is a community in Bristol County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.4 square miles of land, and 3,030 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2500590",
+   "name": "Adams",
+   "kind": "57",
+   "counties": [
+    "Berkshire County"
+   ],
+   "lat": 42.62909,
+   "lon": -73.11875,
+   "land_sqmi": 2.45,
+   "water_sqmi": 0.026,
+   "population": {
+    "count": 5466,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Adams is a community in Berkshire County in northwestern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.5 square miles of land, and 5,466 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2500840",
+   "name": "Agawam Town",
+   "kind": "25",
+   "counties": [
+    "Hampden County"
+   ],
+   "lat": 42.06358,
+   "lon": -72.65359,
+   "land_sqmi": 23.322,
+   "water_sqmi": 1.013,
+   "population": {
+    "count": 28783,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Agawam Town is a city in Hampden County in western Massachusetts. It covers about 23 square miles of land and 1 square mile of water, and about 28,783 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2501185",
+   "name": "Amesbury",
+   "kind": "25",
+   "counties": [],
+   "lat": 42.85128,
+   "lon": -70.95579,
+   "land_sqmi": 12.292,
+   "water_sqmi": 1.44,
+   "population": {
+    "count": 17588,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Amesbury is a city in northeastern Massachusetts. It covers about 12 square miles of land and 1.4 square miles of water, and about 17,588 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2501370",
+   "name": "Amherst Town",
+   "kind": "25",
+   "counties": [
+    "Hampshire County"
+   ],
+   "lat": 42.36353,
+   "lon": -72.50729,
+   "land_sqmi": 27.624,
+   "water_sqmi": 0.131,
+   "population": {
+    "count": 40920,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Amherst Town is a city in Hampshire County in western Massachusetts. It covers about 28 square miles of land and 0.1 square miles of water, and about 40,920 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2501430",
+   "name": "Andover",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.65567,
+   "lon": -71.14224,
+   "land_sqmi": 3.688,
+   "water_sqmi": 0.081,
+   "population": {
+    "count": 9735,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Andover is a community in Essex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.7 square miles of land and 0.1 square miles of water, and 9,735 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2501640",
+   "name": "Arlington",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.41872,
+   "lon": -71.16391,
+   "land_sqmi": 5.142,
+   "water_sqmi": 0.342,
+   "population": {
+    "count": 46308,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Arlington is a community in Middlesex County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.1 square miles of land and 0.3 square miles of water, and 46,308 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2502515",
+   "name": "Athol",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.59338,
+   "lon": -72.23023,
+   "land_sqmi": 8.187,
+   "water_sqmi": 0.28,
+   "population": {
+    "count": 8486,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Athol is a community in Worcester County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8.2 square miles of land and 0.3 square miles of water, and 8,486 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2502690",
+   "name": "Attleboro",
+   "kind": "25",
+   "counties": [
+    "Bristol County"
+   ],
+   "lat": 41.93165,
+   "lon": -71.2945,
+   "land_sqmi": 26.78,
+   "water_sqmi": 0.992,
+   "population": {
+    "count": 47447,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Attleboro is a city in Bristol County in southern Massachusetts. It covers about 27 square miles of land and 1 square mile of water, and about 47,447 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2503040",
+   "name": "Ayer",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.56222,
+   "lon": -71.58484,
+   "land_sqmi": 1.326,
+   "water_sqmi": 0.063,
+   "population": {
+    "count": 2986,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Ayer is a community in Middlesex County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land and 0.1 square miles of water, and 2,986 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2503355",
+   "name": "Baldwinville",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.60485,
+   "lon": -72.07882,
+   "land_sqmi": 2.566,
+   "water_sqmi": 0.081,
+   "population": {
+    "count": 2117,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Baldwinville is a community in Worcester County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land and 0.1 square miles of water, and 2,117 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2503690",
+   "name": "Barnstable Town",
+   "kind": "25",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.66148,
+   "lon": -70.35695,
+   "land_sqmi": 59.929,
+   "water_sqmi": 16.537,
+   "population": {
+    "count": 50101,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southeastern",
+   "description": "Barnstable Town is a city in Barnstable County in southeastern Massachusetts. It covers about 60 square miles of land and 17 square miles of water, and about 50,101 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2503705",
+   "name": "Barre",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.42301,
+   "lon": -72.10638,
+   "land_sqmi": 1.582,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1029,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Barre is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land, and 1,029 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2504790",
+   "name": "Belchertown",
+   "kind": "57",
+   "counties": [
+    "Hampshire County"
+   ],
+   "lat": 42.27189,
+   "lon": -72.40281,
+   "land_sqmi": 5.031,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 3129,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Belchertown is a community in Hampshire County in western Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5 square miles of land, and 3,129 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2504965",
+   "name": "Bellingham",
+   "kind": "57",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.09404,
+   "lon": -71.47863,
+   "land_sqmi": 5.392,
+   "water_sqmi": 0.098,
+   "population": {
+    "count": 4782,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Bellingham is a community in Norfolk County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.4 square miles of land and 0.1 square miles of water, and 4,782 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2505105",
+   "name": "Belmont",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.39532,
+   "lon": -71.18028,
+   "land_sqmi": 4.647,
+   "water_sqmi": 0.071,
+   "population": {
+    "count": 27295,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Belmont is a community in Middlesex County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.6 square miles of land and 0.1 square miles of water, and 27,295 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2505595",
+   "name": "Beverly",
+   "kind": "25",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.55666,
+   "lon": -70.84496,
+   "land_sqmi": 15.09,
+   "water_sqmi": 7.497,
+   "population": {
+    "count": 43363,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Beverly is a city in Essex County in northeastern Massachusetts. It covers about 15 square miles of land and 7.5 square miles of water, and about 43,363 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2506050",
+   "name": "Blandford",
+   "kind": "57",
+   "counties": [
+    "Hampden County"
+   ],
+   "lat": 42.17501,
+   "lon": -72.92386,
+   "land_sqmi": 1.15,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 363,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Blandford is a community in Hampden County in western Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 363 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2506170",
+   "name": "Bliss Corner",
+   "kind": "57",
+   "counties": [
+    "Bristol County"
+   ],
+   "lat": 41.60513,
+   "lon": -70.94237,
+   "land_sqmi": 2.001,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 5480,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Bliss Corner is a community in Bristol County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land, and 5,480 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2507000",
+   "name": "Boston",
+   "kind": "25",
+   "counties": [
+    "Suffolk County"
+   ],
+   "lat": 42.33855,
+   "lon": -71.01825,
+   "land_sqmi": 48.341,
+   "water_sqmi": 41.273,
+   "population": {
+    "count": 672973,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Boston is a city in Suffolk County in eastern Massachusetts. It covers about 48 square miles of land and 41 square miles of water, and about 672,973 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2507140",
+   "name": "Bourne",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.73201,
+   "lon": -70.61577,
+   "land_sqmi": 1.705,
+   "water_sqmi": 1.252,
+   "population": {
+    "count": 1497,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Bourne is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land and 1.3 square miles of water, and 1,497 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2507385",
+   "name": "Boxford",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.66371,
+   "lon": -70.98422,
+   "land_sqmi": 5.364,
+   "water_sqmi": 0.109,
+   "population": {
+    "count": 2432,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Boxford is a community in Essex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.4 square miles of land and 0.1 square miles of water, and 2,432 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2507740",
+   "name": "Braintree Town",
+   "kind": "25",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.20619,
+   "lon": -71.00232,
+   "land_sqmi": 13.762,
+   "water_sqmi": 0.802,
+   "population": {
+    "count": 38957,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Braintree Town is a city in Norfolk County in eastern Massachusetts. It covers about 14 square miles of land and 0.8 square miles of water, and about 38,957 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2507945",
+   "name": "Brewster",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.76093,
+   "lon": -70.07037,
+   "land_sqmi": 3.897,
+   "water_sqmi": 0.058,
+   "population": {
+    "count": 2028,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Brewster is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.9 square miles of land and 0.1 square miles of water, and 2,028 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2508130",
+   "name": "Bridgewater Town",
+   "kind": "25",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 41.97238,
+   "lon": -70.97877,
+   "land_sqmi": 27.241,
+   "water_sqmi": 1.12,
+   "population": {
+    "count": 29309,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southeastern",
+   "description": "Bridgewater Town is a city in Plymouth County in southeastern Massachusetts. It covers about 27 square miles of land and 1.1 square miles of water, and about 29,309 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2509000",
+   "name": "Brockton",
+   "kind": "25",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 42.08254,
+   "lon": -71.02464,
+   "land_sqmi": 21.333,
+   "water_sqmi": 0.184,
+   "population": {
+    "count": 106134,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Brockton is a city in Plymouth County in eastern Massachusetts. It covers about 21 square miles of land and 0.2 square miles of water, and about 106,134 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2509070",
+   "name": "Brookfield",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.215,
+   "lon": -72.10274,
+   "land_sqmi": 1.152,
+   "water_sqmi": 0,
+   "population": {
+    "count": 824,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Brookfield is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 824 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2509210",
+   "name": "Brookline",
+   "kind": "57",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.32385,
+   "lon": -71.142,
+   "land_sqmi": 6.759,
+   "water_sqmi": 0.071,
+   "population": {
+    "count": 63191,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Brookline is a community in Norfolk County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.8 square miles of land and 0.1 square miles of water, and 63,191 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2509875",
+   "name": "Burlington",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.50323,
+   "lon": -71.20171,
+   "land_sqmi": 11.75,
+   "water_sqmi": 0.113,
+   "population": {
+    "count": 26377,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Burlington is a community in Middlesex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 12 square miles of land and 0.1 square miles of water, and 26,377 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2510015",
+   "name": "Buzzards Bay",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.75407,
+   "lon": -70.61606,
+   "land_sqmi": 1.905,
+   "water_sqmi": 1.053,
+   "population": {
+    "count": 4279,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Buzzards Bay is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land and 1.1 square miles of water, and 4,279 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2511000",
+   "name": "Cambridge",
+   "kind": "25",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.37604,
+   "lon": -71.11868,
+   "land_sqmi": 6.397,
+   "water_sqmi": 0.707,
+   "population": {
+    "count": 122588,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Cambridge is a city in Middlesex County in eastern Massachusetts. It covers about 6.4 square miles of land and 0.7 square miles of water, and about 122,588 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2511945",
+   "name": "Cedar Crest",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 42.07645,
+   "lon": -70.6614,
+   "land_sqmi": 1.458,
+   "water_sqmi": 0.056,
+   "population": {
+    "count": 2230,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Cedar Crest is a community in Plymouth County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land and 0.1 square miles of water, and 2,230 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2512960",
+   "name": "Chatham",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.67385,
+   "lon": -69.96296,
+   "land_sqmi": 2.637,
+   "water_sqmi": 0.849,
+   "population": {
+    "count": 1551,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Chatham is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land and 0.8 square miles of water, and 1,551 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2513205",
+   "name": "Chelsea",
+   "kind": "25",
+   "counties": [
+    "Suffolk County"
+   ],
+   "lat": 42.39682,
+   "lon": -71.03135,
+   "land_sqmi": 2.219,
+   "water_sqmi": 0.247,
+   "population": {
+    "count": 40130,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Chelsea is a city in Suffolk County in eastern Massachusetts. It covers about 2.2 square miles of land and 0.2 square miles of water, and about 40,130 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2513310",
+   "name": "Cheshire",
+   "kind": "57",
+   "counties": [
+    "Berkshire County"
+   ],
+   "lat": 42.56114,
+   "lon": -73.16234,
+   "land_sqmi": 0.384,
+   "water_sqmi": 0,
+   "population": {
+    "count": 545,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Cheshire is a community in Berkshire County in northwestern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 545 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2513450",
+   "name": "Chester",
+   "kind": "57",
+   "counties": [
+    "Hampden County"
+   ],
+   "lat": 42.28071,
+   "lon": -72.98014,
+   "land_sqmi": 1.395,
+   "water_sqmi": 0.032,
+   "population": {
+    "count": 552,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Chester is a community in Hampden County in western Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.4 square miles of land, and 552 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2513660",
+   "name": "Chicopee",
+   "kind": "25",
+   "counties": [
+    "Hampden County"
+   ],
+   "lat": 42.17759,
+   "lon": -72.57019,
+   "land_sqmi": 22.906,
+   "water_sqmi": 0.966,
+   "population": {
+    "count": 55310,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Chicopee is a city in Hampden County in western Massachusetts. It covers about 23 square miles of land and 1 square mile of water, and about 55,310 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2514430",
+   "name": "Clinton",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.41888,
+   "lon": -71.6862,
+   "land_sqmi": 1.493,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 8166,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Clinton is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 8,166 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2514570",
+   "name": "Cochituate",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.32773,
+   "lon": -71.35231,
+   "land_sqmi": 3.809,
+   "water_sqmi": 0.357,
+   "population": {
+    "count": 6927,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Cochituate is a community in Middlesex County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.8 square miles of land and 0.4 square miles of water, and 6,927 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2515340",
+   "name": "Cordaville",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.27206,
+   "lon": -71.52279,
+   "land_sqmi": 1.816,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 2703,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Cordaville is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land, and 2,703 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2516285",
+   "name": "Danvers",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.57417,
+   "lon": -70.95052,
+   "land_sqmi": 13.279,
+   "water_sqmi": 0.906,
+   "population": {
+    "count": 28087,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Danvers is a community in Essex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 13 square miles of land and 0.9 square miles of water, and 28,087 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2516530",
+   "name": "Dedham",
+   "kind": "57",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.24687,
+   "lon": -71.17946,
+   "land_sqmi": 10.27,
+   "water_sqmi": 0.414,
+   "population": {
+    "count": 25364,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Dedham is a community in Norfolk County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 10 square miles of land and 0.4 square miles of water, and 25,364 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2516635",
+   "name": "Deerfield",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 42.5479,
+   "lon": -72.6024,
+   "land_sqmi": 1.837,
+   "water_sqmi": 0.032,
+   "population": {
+    "count": 479,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Deerfield is a community in Franklin County in northwestern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land, and 479 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2516740",
+   "name": "Dennis",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.73025,
+   "lon": -70.19739,
+   "land_sqmi": 4.911,
+   "water_sqmi": 0.215,
+   "population": {
+    "count": 2399,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Dennis is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.9 square miles of land and 0.2 square miles of water, and 2,399 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2516810",
+   "name": "Dennis Port",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.66807,
+   "lon": -70.13698,
+   "land_sqmi": 3.038,
+   "water_sqmi": 0.254,
+   "population": {
+    "count": 3487,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Dennis Port is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land and 0.3 square miles of water, and 3,487 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2516840",
+   "name": "Devens",
+   "kind": "57",
+   "counties": [
+    "Middlesex County",
+    "Worcester County"
+   ],
+   "lat": 42.54337,
+   "lon": -71.61403,
+   "land_sqmi": 6.784,
+   "water_sqmi": 0.09,
+   "population": {
+    "count": 1697,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Devens is a community in Middlesex and Worcester counties in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.8 square miles of land and 0.1 square miles of water, and 1,697 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2517370",
+   "name": "Dover",
+   "kind": "57",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.24667,
+   "lon": -71.26807,
+   "land_sqmi": 4.241,
+   "water_sqmi": 0.114,
+   "population": {
+    "count": 2452,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Dover is a community in Norfolk County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.2 square miles of land and 0.1 square miles of water, and 2,452 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2517860",
+   "name": "Duxbury",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 42.04435,
+   "lon": -70.67924,
+   "land_sqmi": 2.208,
+   "water_sqmi": 0.452,
+   "population": {
+    "count": 1896,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Duxbury is a community in Plymouth County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land and 0.5 square miles of water, and 1,896 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2518595",
+   "name": "East Brookfield",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.2291,
+   "lon": -72.05243,
+   "land_sqmi": 1.618,
+   "water_sqmi": 0.156,
+   "population": {
+    "count": 1292,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "East Brookfield is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land and 0.2 square miles of water, and 1,292 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2518840",
+   "name": "East Dennis",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.73543,
+   "lon": -70.15741,
+   "land_sqmi": 4.835,
+   "water_sqmi": 0.146,
+   "population": {
+    "count": 2585,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "East Dennis is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.8 square miles of land and 0.1 square miles of water, and 2,585 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2518875",
+   "name": "East Douglas",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.0811,
+   "lon": -71.71949,
+   "land_sqmi": 3.407,
+   "water_sqmi": 0.12,
+   "population": {
+    "count": 2702,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "East Douglas is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.4 square miles of land and 0.1 square miles of water, and 2,702 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2518980",
+   "name": "East Falmouth",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.56825,
+   "lon": -70.55744,
+   "land_sqmi": 5.436,
+   "water_sqmi": 0.855,
+   "population": {
+    "count": 6278,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "East Falmouth is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.4 square miles of land and 0.9 square miles of water, and 6,278 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2519365",
+   "name": "Easthampton",
+   "kind": "25",
+   "counties": [],
+   "lat": 42.26544,
+   "lon": -72.67081,
+   "land_sqmi": 13.323,
+   "water_sqmi": 0.281,
+   "population": {
+    "count": 15851,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Easthampton is a city in western Massachusetts. It covers about 13 square miles of land and 0.3 square miles of water, and about 15,851 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2519400",
+   "name": "East Harwich",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.7086,
+   "lon": -70.03178,
+   "land_sqmi": 8.02,
+   "water_sqmi": 0.75,
+   "population": {
+    "count": 5250,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "East Harwich is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8 square miles of land and 0.8 square miles of water, and 5,250 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2520310",
+   "name": "East Pepperell",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.66253,
+   "lon": -71.5621,
+   "land_sqmi": 1.416,
+   "water_sqmi": 0.037,
+   "population": {
+    "count": 2120,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "East Pepperell is a community in Middlesex County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.4 square miles of land, and 2,120 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2520380",
+   "name": "East Sandwich",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.73426,
+   "lon": -70.43068,
+   "land_sqmi": 7.516,
+   "water_sqmi": 0.128,
+   "population": {
+    "count": 3669,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "East Sandwich is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.5 square miles of land and 0.1 square miles of water, and 3,669 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2521115",
+   "name": "Edgartown",
+   "kind": "57",
+   "counties": [
+    "Dukes County"
+   ],
+   "lat": 41.38991,
+   "lon": -70.51967,
+   "land_sqmi": 1.195,
+   "water_sqmi": 0.006,
+   "population": {
+    "count": 1107,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Edgartown is a community in Dukes County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 1,107 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2521815",
+   "name": "Essex",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.64045,
+   "lon": -70.77116,
+   "land_sqmi": 2.059,
+   "water_sqmi": 0.177,
+   "population": {
+    "count": 1517,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Essex is a community in Essex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land and 0.2 square miles of water, and 1,517 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2521990",
+   "name": "Everett",
+   "kind": "25",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.40594,
+   "lon": -71.05465,
+   "land_sqmi": 3.417,
+   "water_sqmi": 0.246,
+   "population": {
+    "count": 53572,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Everett is a city in Middlesex County in eastern Massachusetts. It covers about 3.4 square miles of land and 0.2 square miles of water, and about 53,572 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2523000",
+   "name": "Fall River",
+   "kind": "25",
+   "counties": [
+    "Bristol County"
+   ],
+   "lat": 41.72535,
+   "lon": -71.09416,
+   "land_sqmi": 33.123,
+   "water_sqmi": 7.115,
+   "population": {
+    "count": 95298,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southeastern",
+   "description": "Fall River is a city in Bristol County in southeastern Massachusetts. It covers about 33 square miles of land and 7.1 square miles of water, and about 95,298 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2523070",
+   "name": "Falmouth",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.55139,
+   "lon": -70.60885,
+   "land_sqmi": 2.088,
+   "water_sqmi": 0.165,
+   "population": {
+    "count": 3818,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Falmouth is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land and 0.2 square miles of water, and 3,818 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2523840",
+   "name": "Fiskdale",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.1247,
+   "lon": -72.11091,
+   "land_sqmi": 3.168,
+   "water_sqmi": 0.144,
+   "population": {
+    "count": 2797,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Fiskdale is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.2 square miles of land and 0.1 square miles of water, and 2,797 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2523875",
+   "name": "Fitchburg",
+   "kind": "25",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.60198,
+   "lon": -71.81587,
+   "land_sqmi": 27.824,
+   "water_sqmi": 0.293,
+   "population": {
+    "count": 42136,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "Fitchburg is a city in Worcester County in northern Massachusetts. It covers about 28 square miles of land and 0.3 square miles of water, and about 42,136 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2524190",
+   "name": "Forestdale",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.68349,
+   "lon": -70.51079,
+   "land_sqmi": 3.814,
+   "water_sqmi": 0.365,
+   "population": {
+    "count": 4116,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Forestdale is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.8 square miles of land and 0.4 square miles of water, and 4,116 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2524855",
+   "name": "Foxborough",
+   "kind": "57",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.06402,
+   "lon": -71.2484,
+   "land_sqmi": 2.878,
+   "water_sqmi": 0.044,
+   "population": {
+    "count": 6227,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Foxborough is a community in Norfolk County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.9 square miles of land, and 6,227 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2524960",
+   "name": "Framingham",
+   "kind": "25",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.30791,
+   "lon": -71.4362,
+   "land_sqmi": 25.044,
+   "water_sqmi": 1.461,
+   "population": {
+    "count": 73021,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "central",
+   "description": "Framingham is a city in Middlesex County in central Massachusetts. It covers about 25 square miles of land and 1.5 square miles of water, and about 73,021 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2525172",
+   "name": "Franklin Town",
+   "kind": "25",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.08486,
+   "lon": -71.41057,
+   "land_sqmi": 26.639,
+   "water_sqmi": 0.389,
+   "population": {
+    "count": 33955,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "central",
+   "description": "Franklin Town is a city in Norfolk County in central Massachusetts. It covers about 27 square miles of land and 0.4 square miles of water, and about 33,955 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2525485",
+   "name": "Gardner",
+   "kind": "25",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.58421,
+   "lon": -71.98874,
+   "land_sqmi": 22.066,
+   "water_sqmi": 0.948,
+   "population": {
+    "count": 21483,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "Gardner is a city in Worcester County in northern Massachusetts. It covers about 22 square miles of land and 0.9 square miles of water, and about 21,483 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2526150",
+   "name": "Gloucester",
+   "kind": "25",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.62885,
+   "lon": -70.68587,
+   "land_sqmi": 26.193,
+   "water_sqmi": 15.319,
+   "population": {
+    "count": 30627,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Gloucester is a city in Essex County in northeastern Massachusetts. It covers about 26 square miles of land and 15 square miles of water, and about 30,627 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2526500",
+   "name": "Granby",
+   "kind": "57",
+   "counties": [
+    "Hampshire County"
+   ],
+   "lat": 42.26595,
+   "lon": -72.52885,
+   "land_sqmi": 3.475,
+   "water_sqmi": 0.004,
+   "population": {
+    "count": 1306,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Granby is a community in Hampshire County in western Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.5 square miles of land, and 1,306 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2526780",
+   "name": "Great Barrington",
+   "kind": "57",
+   "counties": [
+    "Berkshire County"
+   ],
+   "lat": 42.19397,
+   "lon": -73.36147,
+   "land_sqmi": 1.441,
+   "water_sqmi": 0.047,
+   "population": {
+    "count": 2234,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Great Barrington is a community in Berkshire County in western Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.4 square miles of land, and 2,234 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2527060",
+   "name": "Greenfield",
+   "kind": "25",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 42.61467,
+   "lon": -72.59706,
+   "land_sqmi": 21.413,
+   "water_sqmi": 0.461,
+   "population": {
+    "count": 17691,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northwestern",
+   "description": "Greenfield is a city in Franklin County in northwestern Massachusetts. It covers about 21 square miles of land and 0.5 square miles of water, and about 17,691 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2527130",
+   "name": "Green Harbor",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 42.066,
+   "lon": -70.64873,
+   "land_sqmi": 0.333,
+   "water_sqmi": 0.11,
+   "population": {
+    "count": 394,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Green Harbor is a community in Plymouth County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land and 0.1 square miles of water, and 394 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2527445",
+   "name": "Groton",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.61164,
+   "lon": -71.56474,
+   "land_sqmi": 1.672,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 1353,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Groton is a community in Middlesex County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land, and 1,353 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2528425",
+   "name": "Hanscom AFB",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.45823,
+   "lon": -71.27932,
+   "land_sqmi": 0.892,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1516,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Hanscom AFB is a community in Middlesex County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 1,516 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2528460",
+   "name": "Hanson",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 42.06503,
+   "lon": -70.84977,
+   "land_sqmi": 1.835,
+   "water_sqmi": 0.257,
+   "population": {
+    "count": 2028,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Hanson is a community in Plymouth County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land and 0.3 square miles of water, and 2,028 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2529055",
+   "name": "Harwich Center",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.69208,
+   "lon": -70.06632,
+   "land_sqmi": 2.249,
+   "water_sqmi": 0.042,
+   "population": {
+    "count": 1995,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Harwich Center is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land, and 1,995 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2529090",
+   "name": "Harwich Port",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.67344,
+   "lon": -70.06542,
+   "land_sqmi": 2.632,
+   "water_sqmi": 0.247,
+   "population": {
+    "count": 1899,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Harwich Port is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land and 0.2 square miles of water, and 1,899 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2529230",
+   "name": "Hatfield",
+   "kind": "57",
+   "counties": [
+    "Hampshire County"
+   ],
+   "lat": 42.37288,
+   "lon": -72.60374,
+   "land_sqmi": 2.45,
+   "water_sqmi": 0.085,
+   "population": {
+    "count": 1453,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Hatfield is a community in Hampshire County in western Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.5 square miles of land and 0.1 square miles of water, and 1,453 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2529405",
+   "name": "Haverhill",
+   "kind": "25",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.78295,
+   "lon": -71.08744,
+   "land_sqmi": 33.036,
+   "water_sqmi": 2.66,
+   "population": {
+    "count": 68361,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Haverhill is a city in Essex County in northeastern Massachusetts. It covers about 33 square miles of land and 2.7 square miles of water, and about 68,361 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2530175",
+   "name": "Hingham",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 42.23314,
+   "lon": -70.88953,
+   "land_sqmi": 3.098,
+   "water_sqmi": 0.062,
+   "population": {
+    "count": 5979,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Hingham is a community in Plymouth County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.1 square miles of land and 0.1 square miles of water, and 5,979 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2530420",
+   "name": "Holbrook",
+   "kind": "57",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.14035,
+   "lon": -70.99786,
+   "land_sqmi": 7.255,
+   "water_sqmi": 0.109,
+   "population": {
+    "count": 11405,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Holbrook is a community in Norfolk County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.3 square miles of land and 0.1 square miles of water, and 11,405 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2530630",
+   "name": "Holland",
+   "kind": "57",
+   "counties": [
+    "Hampden County"
+   ],
+   "lat": 42.05105,
+   "lon": -72.15281,
+   "land_sqmi": 2.654,
+   "water_sqmi": 0.613,
+   "population": {
+    "count": 1551,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Holland is a community in Hampden County in southern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.7 square miles of land and 0.6 square miles of water, and 1,551 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2530840",
+   "name": "Holyoke",
+   "kind": "25",
+   "counties": [
+    "Hampden County"
+   ],
+   "lat": 42.21166,
+   "lon": -72.64245,
+   "land_sqmi": 21.169,
+   "water_sqmi": 1.632,
+   "population": {
+    "count": 38023,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Holyoke is a city in Hampden County in western Massachusetts. It covers about 21 square miles of land and 1.6 square miles of water, and about 38,023 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2530980",
+   "name": "Hopedale",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.12689,
+   "lon": -71.54029,
+   "land_sqmi": 1.748,
+   "water_sqmi": 0.004,
+   "population": {
+    "count": 3939,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Hopedale is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land, and 3,939 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2531050",
+   "name": "Hopkinton",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.22556,
+   "lon": -71.5241,
+   "land_sqmi": 1.532,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 2651,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Hopkinton is a community in Middlesex County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 2,651 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2531295",
+   "name": "Housatonic",
+   "kind": "57",
+   "counties": [
+    "Berkshire County"
+   ],
+   "lat": 42.24118,
+   "lon": -73.35622,
+   "land_sqmi": 0.891,
+   "water_sqmi": 0.086,
+   "population": {
+    "count": 1083,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Housatonic is a community in Berkshire County in western Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land and 0.1 square miles of water, and 1,083 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2531575",
+   "name": "Hudson",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.39209,
+   "lon": -71.56495,
+   "land_sqmi": 5.746,
+   "water_sqmi": 0.175,
+   "population": {
+    "count": 15749,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Hudson is a community in Middlesex County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.7 square miles of land and 0.2 square miles of water, and 15,749 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2531680",
+   "name": "Hull",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 42.34023,
+   "lon": -70.8833,
+   "land_sqmi": 2.875,
+   "water_sqmi": 25.335,
+   "population": {
+    "count": 10072,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Hull is a community in Plymouth County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.9 square miles of land and 25 square miles of water, and 10,072 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2531750",
+   "name": "Huntington",
+   "kind": "57",
+   "counties": [
+    "Hampshire County"
+   ],
+   "lat": 42.24384,
+   "lon": -72.89182,
+   "land_sqmi": 4.629,
+   "water_sqmi": 0.114,
+   "population": {
+    "count": 857,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Huntington is a community in Hampshire County in western Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.6 square miles of land and 0.1 square miles of water, and 857 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2532275",
+   "name": "Ipswich",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.67573,
+   "lon": -70.82201,
+   "land_sqmi": 1.639,
+   "water_sqmi": 0.103,
+   "population": {
+    "count": 4370,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Ipswich is a community in Essex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land and 0.1 square miles of water, and 4,370 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2533185",
+   "name": "Kingston",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 41.99618,
+   "lon": -70.72155,
+   "land_sqmi": 4.811,
+   "water_sqmi": 1.47,
+   "population": {
+    "count": 5700,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Kingston is a community in Plymouth County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.8 square miles of land and 1.5 square miles of water, and 5,700 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2534550",
+   "name": "Lawrence",
+   "kind": "25",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.70027,
+   "lon": -71.16136,
+   "land_sqmi": 6.93,
+   "water_sqmi": 0.499,
+   "population": {
+    "count": 89320,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Lawrence is a city in Essex County in northeastern Massachusetts. It covers about 6.9 square miles of land and 0.5 square miles of water, and about 89,320 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2534620",
+   "name": "Lee",
+   "kind": "57",
+   "counties": [
+    "Berkshire County"
+   ],
+   "lat": 42.30684,
+   "lon": -73.25074,
+   "land_sqmi": 1.325,
+   "water_sqmi": 0.036,
+   "population": {
+    "count": 1880,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Lee is a community in Berkshire County in western Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 1,880 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2534935",
+   "name": "Lenox",
+   "kind": "57",
+   "counties": [
+    "Berkshire County"
+   ],
+   "lat": 42.36123,
+   "lon": -73.28679,
+   "land_sqmi": 1.995,
+   "water_sqmi": 0.01,
+   "population": {
+    "count": 1639,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Lenox is a community in Berkshire County in western Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land, and 1,639 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2535040",
+   "name": "Lenox Dale",
+   "kind": "57",
+   "counties": [
+    "Berkshire County"
+   ],
+   "lat": 42.33373,
+   "lon": -73.2492,
+   "land_sqmi": 0.547,
+   "water_sqmi": 0.009,
+   "population": {
+    "count": 466,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Lenox Dale is a community in Berkshire County in western Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 466 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2535075",
+   "name": "Leominster",
+   "kind": "25",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.52088,
+   "lon": -71.77061,
+   "land_sqmi": 28.823,
+   "water_sqmi": 0.859,
+   "population": {
+    "count": 44194,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "Leominster is a city in Worcester County in northern Massachusetts. It covers about 29 square miles of land and 0.9 square miles of water, and about 44,194 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2535250",
+   "name": "Lexington",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.44522,
+   "lon": -71.23001,
+   "land_sqmi": 16.433,
+   "water_sqmi": 0.206,
+   "population": {
+    "count": 34454,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Lexington is a community in Middlesex County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 16 square miles of land and 0.2 square miles of water, and 34,454 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2536020",
+   "name": "Littleton Common",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.53448,
+   "lon": -71.47213,
+   "land_sqmi": 3.54,
+   "water_sqmi": 0.163,
+   "population": {
+    "count": 3065,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Littleton Common is a community in Middlesex County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.5 square miles of land and 0.2 square miles of water, and 3,065 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2536335",
+   "name": "Longmeadow",
+   "kind": "57",
+   "counties": [
+    "Hampden County"
+   ],
+   "lat": 42.04805,
+   "lon": -72.56927,
+   "land_sqmi": 9.089,
+   "water_sqmi": 0.506,
+   "population": {
+    "count": 15853,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Longmeadow is a community in Hampden County in southwestern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 9.1 square miles of land and 0.5 square miles of water, and 15,853 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2537000",
+   "name": "Lowell",
+   "kind": "25",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.639,
+   "lon": -71.32102,
+   "land_sqmi": 13.61,
+   "water_sqmi": 0.919,
+   "population": {
+    "count": 119971,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "Lowell is a city in Middlesex County in northern Massachusetts. It covers about 14 square miles of land and 0.9 square miles of water, and about 119,971 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2537385",
+   "name": "Lunenburg",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.59342,
+   "lon": -71.72697,
+   "land_sqmi": 3.797,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1789,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Lunenburg is a community in Worcester County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.8 square miles of land, and 1,789 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2537490",
+   "name": "Lynn",
+   "kind": "25",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.47476,
+   "lon": -70.96203,
+   "land_sqmi": 10.739,
+   "water_sqmi": 2.781,
+   "population": {
+    "count": 104236,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Lynn is a city in Essex County in northeastern Massachusetts. It covers about 11 square miles of land and 2.8 square miles of water, and about 104,236 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2537595",
+   "name": "Lynnfield",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.53415,
+   "lon": -71.03833,
+   "land_sqmi": 9.855,
+   "water_sqmi": 0.586,
+   "population": {
+    "count": 13000,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Lynnfield is a community in Essex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 9.9 square miles of land and 0.6 square miles of water, and 13,000 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2537735",
+   "name": "Madaket",
+   "kind": "57",
+   "counties": [
+    "Nantucket County"
+   ],
+   "lat": 41.28239,
+   "lon": -70.18331,
+   "land_sqmi": 1.986,
+   "water_sqmi": 0.422,
+   "population": {
+    "count": 377,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Madaket is a community in Nantucket County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land and 0.4 square miles of water, and 377 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2537875",
+   "name": "Malden",
+   "kind": "25",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.42938,
+   "lon": -71.05871,
+   "land_sqmi": 5.045,
+   "water_sqmi": 0.038,
+   "population": {
+    "count": 66370,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Malden is a city in Middlesex County in eastern Massachusetts. It covers about 5 square miles of land, and about 66,370 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2538230",
+   "name": "Mansfield Center",
+   "kind": "57",
+   "counties": [
+    "Bristol County"
+   ],
+   "lat": 42.02196,
+   "lon": -71.21784,
+   "land_sqmi": 2.756,
+   "water_sqmi": 0.062,
+   "population": {
+    "count": 7830,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Mansfield Center is a community in Bristol County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.8 square miles of land and 0.1 square miles of water, and 7,830 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2538435",
+   "name": "Marblehead",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.49563,
+   "lon": -70.83582,
+   "land_sqmi": 4.379,
+   "water_sqmi": 15.203,
+   "population": {
+    "count": 20441,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Marblehead is a community in Essex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.4 square miles of land and 15 square miles of water, and 20,441 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2538575",
+   "name": "Marion Center",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 41.69661,
+   "lon": -70.7555,
+   "land_sqmi": 1.025,
+   "water_sqmi": 0.094,
+   "population": {
+    "count": 1172,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Marion Center is a community in Plymouth County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land and 0.1 square miles of water, and 1,172 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2538715",
+   "name": "Marlborough",
+   "kind": "25",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.34962,
+   "lon": -71.54721,
+   "land_sqmi": 20.864,
+   "water_sqmi": 1.237,
+   "population": {
+    "count": 42772,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "central",
+   "description": "Marlborough is a city in Middlesex County in central Massachusetts. It covers about 21 square miles of land and 1.2 square miles of water, and about 42,772 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2538820",
+   "name": "Marshfield",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 42.10223,
+   "lon": -70.6894,
+   "land_sqmi": 5.053,
+   "water_sqmi": 0.076,
+   "population": {
+    "count": 4653,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Marshfield is a community in Plymouth County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.1 square miles of land and 0.1 square miles of water, and 4,653 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2538960",
+   "name": "Marshfield Hills",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 42.14331,
+   "lon": -70.72907,
+   "land_sqmi": 4.583,
+   "water_sqmi": 0.352,
+   "population": {
+    "count": 2491,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Marshfield Hills is a community in Plymouth County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.6 square miles of land and 0.4 square miles of water, and 2,491 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2539152",
+   "name": "Mashpee Neck",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.61272,
+   "lon": -70.46793,
+   "land_sqmi": 1.266,
+   "water_sqmi": 0.171,
+   "population": {
+    "count": 1076,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Mashpee Neck is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land and 0.2 square miles of water, and 1,076 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2539485",
+   "name": "Mattapoisett Center",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 41.67196,
+   "lon": -70.79917,
+   "land_sqmi": 4.885,
+   "water_sqmi": 0.07,
+   "population": {
+    "count": 3190,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Mattapoisett Center is a community in Plymouth County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.9 square miles of land and 0.1 square miles of water, and 3,190 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2539660",
+   "name": "Maynard",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.42596,
+   "lon": -71.45626,
+   "land_sqmi": 5.21,
+   "water_sqmi": 0.156,
+   "population": {
+    "count": 10746,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Maynard is a community in Middlesex County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.2 square miles of land and 0.2 square miles of water, and 10,746 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2539730",
+   "name": "Medfield",
+   "kind": "57",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.18701,
+   "lon": -71.30041,
+   "land_sqmi": 4.948,
+   "water_sqmi": 0.09,
+   "population": {
+    "count": 6939,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Medfield is a community in Norfolk County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.9 square miles of land and 0.1 square miles of water, and 6,939 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2539835",
+   "name": "Medford",
+   "kind": "25",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.42384,
+   "lon": -71.10923,
+   "land_sqmi": 8.101,
+   "water_sqmi": 0.56,
+   "population": {
+    "count": 59834,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Medford is a city in Middlesex County in eastern Massachusetts. It covers about 8.1 square miles of land and 0.6 square miles of water, and about 59,834 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2540115",
+   "name": "Melrose",
+   "kind": "25",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.45572,
+   "lon": -71.05902,
+   "land_sqmi": 4.683,
+   "water_sqmi": 0.085,
+   "population": {
+    "count": 29597,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Melrose is a city in Middlesex County in northeastern Massachusetts. It covers about 4.7 square miles of land and 0.1 square miles of water, and about 29,597 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2540675",
+   "name": "Methuen",
+   "kind": "25",
+   "counties": [],
+   "lat": 42.74264,
+   "lon": -71.17865,
+   "land_sqmi": 22.212,
+   "water_sqmi": 0.78,
+   "population": {
+    "count": 54584,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Methuen is a city in northeastern Massachusetts. It covers about 22 square miles of land and 0.8 square miles of water, and about 54,584 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2540885",
+   "name": "Middleborough Center",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 41.89422,
+   "lon": -70.92569,
+   "land_sqmi": 3.928,
+   "water_sqmi": 0.1,
+   "population": {
+    "count": 7921,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Middleborough Center is a community in Plymouth County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.9 square miles of land and 0.1 square miles of water, and 7,921 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2541200",
+   "name": "Milford",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.15066,
+   "lon": -71.51778,
+   "land_sqmi": 10.154,
+   "water_sqmi": 0.236,
+   "population": {
+    "count": 26971,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Milford is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 10 square miles of land and 0.2 square miles of water, and 26,971 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2541410",
+   "name": "Millers Falls",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 42.57918,
+   "lon": -72.49223,
+   "land_sqmi": 0.913,
+   "water_sqmi": 0.046,
+   "population": {
+    "count": 994,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Millers Falls is a community in Franklin County in northwestern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 994 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2541532",
+   "name": "Millis-Clicquot",
+   "kind": "57",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.16682,
+   "lon": -71.34923,
+   "land_sqmi": 3.137,
+   "water_sqmi": 0.038,
+   "population": {
+    "count": 4499,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Millis-Clicquot is a community in Norfolk County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.1 square miles of land, and 4,499 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2541725",
+   "name": "Milton",
+   "kind": "57",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.24156,
+   "lon": -71.08244,
+   "land_sqmi": 13.011,
+   "water_sqmi": 0.301,
+   "population": {
+    "count": 28630,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Milton is a community in Norfolk County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 13 square miles of land and 0.3 square miles of water, and 28,630 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2541960",
+   "name": "Monomoscoy Island",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.57595,
+   "lon": -70.49921,
+   "land_sqmi": 0.232,
+   "water_sqmi": 0,
+   "population": {
+    "count": 139,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Monomoscoy Island is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 139 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2542180",
+   "name": "Monson Center",
+   "kind": "57",
+   "counties": [
+    "Hampden County"
+   ],
+   "lat": 42.09785,
+   "lon": -72.29614,
+   "land_sqmi": 3.355,
+   "water_sqmi": 0.011,
+   "population": {
+    "count": 1952,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Monson Center is a community in Hampden County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.4 square miles of land, and 1,952 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2542670",
+   "name": "Monument Beach",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.7189,
+   "lon": -70.59998,
+   "land_sqmi": 2.582,
+   "water_sqmi": 0.881,
+   "population": {
+    "count": 2784,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Monument Beach is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land and 0.9 square miles of water, and 2,784 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2543615",
+   "name": "Nahant",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.41824,
+   "lon": -70.93273,
+   "land_sqmi": 1.076,
+   "water_sqmi": 14.556,
+   "population": {
+    "count": 3334,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Nahant is a community in Essex County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land and 15 square miles of water, and 3,334 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2543755",
+   "name": "Nantucket",
+   "kind": "57",
+   "counties": [
+    "Nantucket County"
+   ],
+   "lat": 41.27145,
+   "lon": -70.09588,
+   "land_sqmi": 5.823,
+   "water_sqmi": 0.722,
+   "population": {
+    "count": 10166,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Nantucket is a community in Nantucket County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.8 square miles of land and 0.7 square miles of water, and 10,166 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2544140",
+   "name": "Needham",
+   "kind": "57",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.28159,
+   "lon": -71.24241,
+   "land_sqmi": 12.298,
+   "water_sqmi": 0.424,
+   "population": {
+    "count": 32091,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Needham is a community in Norfolk County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 12 square miles of land and 0.4 square miles of water, and 32,091 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2545000",
+   "name": "New Bedford",
+   "kind": "25",
+   "counties": [
+    "Bristol County"
+   ],
+   "lat": 41.6613,
+   "lon": -70.93791,
+   "land_sqmi": 20.004,
+   "water_sqmi": 4.128,
+   "population": {
+    "count": 101834,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southeastern",
+   "description": "New Bedford is a city in Bristol County in southeastern Massachusetts. It covers about 20 square miles of land and 4.1 square miles of water, and about 101,834 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2545245",
+   "name": "Newburyport",
+   "kind": "25",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.81214,
+   "lon": -70.88665,
+   "land_sqmi": 8.35,
+   "water_sqmi": 2.358,
+   "population": {
+    "count": 19148,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Newburyport is a city in Essex County in northeastern Massachusetts. It covers about 8.4 square miles of land and 2.4 square miles of water, and about 19,148 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2545500",
+   "name": "New Seabury",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.57485,
+   "lon": -70.47903,
+   "land_sqmi": 2.394,
+   "water_sqmi": 0.167,
+   "population": {
+    "count": 852,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "New Seabury is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land and 0.2 square miles of water, and 852 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2545560",
+   "name": "Newton",
+   "kind": "25",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.33177,
+   "lon": -71.2084,
+   "land_sqmi": 17.828,
+   "water_sqmi": 0.33,
+   "population": {
+    "count": 90741,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Newton is a city in Middlesex County in eastern Massachusetts. It covers about 18 square miles of land and 0.3 square miles of water, and about 90,741 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2546225",
+   "name": "North Adams",
+   "kind": "25",
+   "counties": [
+    "Berkshire County"
+   ],
+   "lat": 42.67557,
+   "lon": -73.11811,
+   "land_sqmi": 20.347,
+   "water_sqmi": 0.267,
+   "population": {
+    "count": 12368,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northwestern",
+   "description": "North Adams is a city in Berkshire County in northwestern Massachusetts. It covers about 20 square miles of land and 0.3 square miles of water, and about 12,368 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2546330",
+   "name": "Northampton",
+   "kind": "25",
+   "counties": [
+    "Hampshire County"
+   ],
+   "lat": 42.32704,
+   "lon": -72.67463,
+   "land_sqmi": 34.245,
+   "water_sqmi": 1.504,
+   "population": {
+    "count": 31047,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Northampton is a city in Hampshire County in western Massachusetts. It covers about 34 square miles of land and 1.5 square miles of water, and about 31,047 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2546598",
+   "name": "North Attleborough Town",
+   "kind": "25",
+   "counties": [
+    "Bristol County"
+   ],
+   "lat": 41.97045,
+   "lon": -71.33493,
+   "land_sqmi": 18.856,
+   "water_sqmi": 0.524,
+   "population": {
+    "count": 31506,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "North Attleborough Town is a city in Bristol County in southern Massachusetts. It covers about 19 square miles of land and 0.5 square miles of water, and about 31,506 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2546785",
+   "name": "Northborough",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.31195,
+   "lon": -71.64773,
+   "land_sqmi": 3.285,
+   "water_sqmi": 0.028,
+   "population": {
+    "count": 6474,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Northborough is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.3 square miles of land, and 6,474 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2547100",
+   "name": "North Brookfield",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.27117,
+   "lon": -72.08421,
+   "land_sqmi": 1.476,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2256,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "North Brookfield is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 2,256 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2547590",
+   "name": "North Eastham",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.83332,
+   "lon": -70.00379,
+   "land_sqmi": 3.443,
+   "water_sqmi": 8.51,
+   "population": {
+    "count": 2296,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "North Eastham is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.4 square miles of land and 8.5 square miles of water, and 2,296 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2547730",
+   "name": "North Falmouth",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.64199,
+   "lon": -70.63072,
+   "land_sqmi": 3.893,
+   "water_sqmi": 2.722,
+   "population": {
+    "count": 3293,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "North Falmouth is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.9 square miles of land and 2.7 square miles of water, and 3,293 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2547800",
+   "name": "Northfield",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 42.71325,
+   "lon": -72.42267,
+   "land_sqmi": 4.453,
+   "water_sqmi": 0.018,
+   "population": {
+    "count": 1051,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Northfield is a community in Franklin County in northwestern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.5 square miles of land, and 1,051 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2548220",
+   "name": "North Lakeville",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 41.86001,
+   "lon": -70.93927,
+   "land_sqmi": 5.045,
+   "water_sqmi": 0.13,
+   "population": {
+    "count": 3290,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "North Lakeville is a community in Plymouth County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5 square miles of land and 0.1 square miles of water, and 3,290 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2548710",
+   "name": "North Pembroke",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 42.09773,
+   "lon": -70.78328,
+   "land_sqmi": 4.475,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 3490,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "North Pembroke is a community in Plymouth County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.5 square miles of land, and 3,490 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2548780",
+   "name": "North Plymouth",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 41.9753,
+   "lon": -70.68064,
+   "land_sqmi": 1.246,
+   "water_sqmi": 2.227,
+   "population": {
+    "count": 3983,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "North Plymouth is a community in Plymouth County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land and 2.2 square miles of water, and 3,983 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2549165",
+   "name": "North Scituate",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 42.21281,
+   "lon": -70.76629,
+   "land_sqmi": 3.757,
+   "water_sqmi": 0.051,
+   "population": {
+    "count": 5414,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "North Scituate is a community in Plymouth County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.8 square miles of land and 0.1 square miles of water, and 5,414 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2549200",
+   "name": "North Seekonk",
+   "kind": "57",
+   "counties": [
+    "Bristol County"
+   ],
+   "lat": 41.88465,
+   "lon": -71.33036,
+   "land_sqmi": 1.399,
+   "water_sqmi": 0.026,
+   "population": {
+    "count": 2726,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "North Seekonk is a community in Bristol County in southern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.4 square miles of land, and 2,726 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2549700",
+   "name": "Northwest Harwich",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.69362,
+   "lon": -70.10529,
+   "land_sqmi": 7.983,
+   "water_sqmi": 1.171,
+   "population": {
+    "count": 4296,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Northwest Harwich is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8 square miles of land and 1.2 square miles of water, and 4,296 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2549710",
+   "name": "North Westport",
+   "kind": "57",
+   "counties": [
+    "Bristol County"
+   ],
+   "lat": 41.67311,
+   "lon": -71.11114,
+   "land_sqmi": 5.189,
+   "water_sqmi": 0.988,
+   "population": {
+    "count": 4720,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "North Westport is a community in Bristol County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.2 square miles of land and 1 square mile of water, and 4,720 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2550005",
+   "name": "Norton Center",
+   "kind": "57",
+   "counties": [
+    "Bristol County"
+   ],
+   "lat": 41.97446,
+   "lon": -71.18855,
+   "land_sqmi": 1.697,
+   "water_sqmi": 0.105,
+   "population": {
+    "count": 2677,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Norton Center is a community in Bristol County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land and 0.1 square miles of water, and 2,677 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2550285",
+   "name": "Norwood",
+   "kind": "57",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.18736,
+   "lon": -71.19597,
+   "land_sqmi": 10.379,
+   "water_sqmi": 0.172,
+   "population": {
+    "count": 31611,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Norwood is a community in Norfolk County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 10 square miles of land and 0.2 square miles of water, and 31,611 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2550425",
+   "name": "Oak Bluffs",
+   "kind": "57",
+   "counties": [
+    "Dukes County"
+   ],
+   "lat": 41.45381,
+   "lon": -70.56486,
+   "land_sqmi": 1.811,
+   "water_sqmi": 0.098,
+   "population": {
+    "count": 2324,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Oak Bluffs is a community in Dukes County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land and 0.1 square miles of water, and 2,324 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2550862",
+   "name": "Ocean Bluff-Brant Rock",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 42.10221,
+   "lon": -70.65758,
+   "land_sqmi": 2.175,
+   "water_sqmi": 2.214,
+   "population": {
+    "count": 4744,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Ocean Bluff-Brant Rock is a community in Plymouth County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land and 2.2 square miles of water, and 4,744 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2550880",
+   "name": "Ocean Grove",
+   "kind": "57",
+   "counties": [
+    "Bristol County"
+   ],
+   "lat": 41.72881,
+   "lon": -71.20919,
+   "land_sqmi": 0.662,
+   "water_sqmi": 0.176,
+   "population": {
+    "count": 2904,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Ocean Grove is a community in Bristol County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land and 0.2 square miles of water, and 2,904 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2551160",
+   "name": "Onset",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 41.746,
+   "lon": -70.66826,
+   "land_sqmi": 1.078,
+   "water_sqmi": 0.216,
+   "population": {
+    "count": 1617,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Onset is a community in Plymouth County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land and 0.2 square miles of water, and 1,617 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2551230",
+   "name": "Orange",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 42.60544,
+   "lon": -72.29207,
+   "land_sqmi": 5.992,
+   "water_sqmi": 0.065,
+   "population": {
+    "count": 3636,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Orange is a community in Franklin County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6 square miles of land and 0.1 square miles of water, and 3,636 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2551405",
+   "name": "Orleans",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.78776,
+   "lon": -70.00151,
+   "land_sqmi": 2.32,
+   "water_sqmi": 0.155,
+   "population": {
+    "count": 1767,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Orleans is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.3 square miles of land and 0.2 square miles of water, and 1,767 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2551790",
+   "name": "Oxford",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.11588,
+   "lon": -71.87009,
+   "land_sqmi": 3.464,
+   "water_sqmi": 0.223,
+   "population": {
+    "count": 5928,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Oxford is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.5 square miles of land and 0.2 square miles of water, and 5,928 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2552144",
+   "name": "Palmer Town",
+   "kind": "25",
+   "counties": [
+    "Hampden County"
+   ],
+   "lat": 42.18886,
+   "lon": -72.30648,
+   "land_sqmi": 31.576,
+   "water_sqmi": 0.422,
+   "population": {
+    "count": 12367,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "central",
+   "description": "Palmer Town is a city in Hampden County in central Massachusetts. It covers about 32 square miles of land and 0.4 square miles of water, and about 12,367 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2552490",
+   "name": "Peabody",
+   "kind": "25",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.53431,
+   "lon": -70.96944,
+   "land_sqmi": 16.237,
+   "water_sqmi": 0.574,
+   "population": {
+    "count": 55953,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Peabody is a city in Essex County in northeastern Massachusetts. It covers about 16 square miles of land and 0.6 square miles of water, and about 55,953 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2552770",
+   "name": "Pepperell",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.67549,
+   "lon": -71.59209,
+   "land_sqmi": 2.071,
+   "water_sqmi": 0.071,
+   "population": {
+    "count": 2390,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Pepperell is a community in Middlesex County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land and 0.1 square miles of water, and 2,390 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2553085",
+   "name": "Petersham",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.49104,
+   "lon": -72.18725,
+   "land_sqmi": 1.234,
+   "water_sqmi": 0,
+   "population": {
+    "count": 225,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Petersham is a community in Worcester County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 225 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2553680",
+   "name": "Pinehurst",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.53352,
+   "lon": -71.23349,
+   "land_sqmi": 3.73,
+   "water_sqmi": 0.038,
+   "population": {
+    "count": 7368,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Pinehurst is a community in Middlesex County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.7 square miles of land, and 7,368 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2553960",
+   "name": "Pittsfield",
+   "kind": "25",
+   "counties": [
+    "Berkshire County"
+   ],
+   "lat": 42.45184,
+   "lon": -73.26068,
+   "land_sqmi": 40.468,
+   "water_sqmi": 1.994,
+   "population": {
+    "count": 42909,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northwestern",
+   "description": "Pittsfield is a city in Berkshire County in northwestern Massachusetts. It covers about 40 square miles of land and 2 square miles of water, and about 42,909 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2554275",
+   "name": "Plymouth",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 41.95834,
+   "lon": -70.6638,
+   "land_sqmi": 2.238,
+   "water_sqmi": 1.644,
+   "population": {
+    "count": 7667,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Plymouth is a community in Plymouth County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land and 1.6 square miles of water, and 7,667 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2554450",
+   "name": "Pocasset",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.68702,
+   "lon": -70.64964,
+   "land_sqmi": 3.699,
+   "water_sqmi": 6.102,
+   "population": {
+    "count": 2843,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Pocasset is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.7 square miles of land and 6.1 square miles of water, and 2,843 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2555070",
+   "name": "Popponesset",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.5736,
+   "lon": -70.46341,
+   "land_sqmi": 0.299,
+   "water_sqmi": 0.019,
+   "population": {
+    "count": 280,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Popponesset is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 280 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2555090",
+   "name": "Popponesset Island",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.58364,
+   "lon": -70.45957,
+   "land_sqmi": 0.065,
+   "water_sqmi": 0.333,
+   "population": {
+    "count": 45,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Popponesset Island is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land and 0.3 square miles of water, and 45 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2555535",
+   "name": "Provincetown",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 42.05642,
+   "lon": -70.17857,
+   "land_sqmi": 1.801,
+   "water_sqmi": 3.514,
+   "population": {
+    "count": 3318,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Provincetown is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land and 3.5 square miles of water, and 3,318 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2555745",
+   "name": "Quincy",
+   "kind": "25",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.26101,
+   "lon": -71.00899,
+   "land_sqmi": 16.573,
+   "water_sqmi": 10.334,
+   "population": {
+    "count": 103173,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Quincy is a city in Norfolk County in eastern Massachusetts. It covers about 17 square miles of land and 10 square miles of water, and about 103,173 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2556000",
+   "name": "Randolph Town",
+   "kind": "25",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.17899,
+   "lon": -71.05265,
+   "land_sqmi": 9.829,
+   "water_sqmi": 0.586,
+   "population": {
+    "count": 34948,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Randolph Town is a city in Norfolk County in eastern Massachusetts. It covers about 9.8 square miles of land and 0.6 square miles of water, and about 34,948 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2556095",
+   "name": "Raynham Center",
+   "kind": "57",
+   "counties": [
+    "Bristol County"
+   ],
+   "lat": 41.93048,
+   "lon": -71.04621,
+   "land_sqmi": 4.216,
+   "water_sqmi": 0.126,
+   "population": {
+    "count": 4365,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Raynham Center is a community in Bristol County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.2 square miles of land and 0.1 square miles of water, and 4,365 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2556165",
+   "name": "Reading",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.53518,
+   "lon": -71.10542,
+   "land_sqmi": 9.976,
+   "water_sqmi": 0.014,
+   "population": {
+    "count": 25518,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Reading is a community in Middlesex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 10 square miles of land, and 25,518 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2556585",
+   "name": "Revere",
+   "kind": "25",
+   "counties": [
+    "Suffolk County"
+   ],
+   "lat": 42.42101,
+   "lon": -70.99036,
+   "land_sqmi": 5.704,
+   "water_sqmi": 4.428,
+   "population": {
+    "count": 60141,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Revere is a city in Suffolk County in eastern Massachusetts. It covers about 5.7 square miles of land and 4.4 square miles of water, and about 60,141 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2557845",
+   "name": "Rockport",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.6407,
+   "lon": -70.62025,
+   "land_sqmi": 3.98,
+   "water_sqmi": 0.107,
+   "population": {
+    "count": 5010,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Rockport is a community in Essex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4 square miles of land and 0.1 square miles of water, and 5,010 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2558370",
+   "name": "Rowley",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.71797,
+   "lon": -70.86692,
+   "land_sqmi": 1.714,
+   "water_sqmi": 0.028,
+   "population": {
+    "count": 1523,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Rowley is a community in Essex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land, and 1,523 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2558615",
+   "name": "Russell",
+   "kind": "57",
+   "counties": [
+    "Hampden County"
+   ],
+   "lat": 42.20394,
+   "lon": -72.86186,
+   "land_sqmi": 2.302,
+   "water_sqmi": 0.042,
+   "population": {
+    "count": 690,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Russell is a community in Hampden County in western Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.3 square miles of land, and 690 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2558790",
+   "name": "Rutland",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.37153,
+   "lon": -71.95774,
+   "land_sqmi": 2.958,
+   "water_sqmi": 0.234,
+   "population": {
+    "count": 2179,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Rutland is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land and 0.2 square miles of water, and 2,179 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2558965",
+   "name": "Sagamore",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.78282,
+   "lon": -70.5321,
+   "land_sqmi": 3.33,
+   "water_sqmi": 0.179,
+   "population": {
+    "count": 3851,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Sagamore is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.3 square miles of land and 0.2 square miles of water, and 3,851 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2559105",
+   "name": "Salem",
+   "kind": "25",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.49925,
+   "lon": -70.8982,
+   "land_sqmi": 8.294,
+   "water_sqmi": 10.007,
+   "population": {
+    "count": 45381,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Salem is a city in Essex County in northeastern Massachusetts. It covers about 8.3 square miles of land and 10 square miles of water, and about 45,381 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2559210",
+   "name": "Salisbury",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.8311,
+   "lon": -70.84711,
+   "land_sqmi": 5.881,
+   "water_sqmi": 1.881,
+   "population": {
+    "count": 5629,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Salisbury is a community in Essex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.9 square miles of land and 1.9 square miles of water, and 5,629 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2559700",
+   "name": "Sandwich",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.75707,
+   "lon": -70.49802,
+   "land_sqmi": 3.621,
+   "water_sqmi": 0.187,
+   "population": {
+    "count": 2998,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Sandwich is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.6 square miles of land and 0.2 square miles of water, and 2,998 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2560050",
+   "name": "Saugus",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.46843,
+   "lon": -71.01395,
+   "land_sqmi": 10.775,
+   "water_sqmi": 0.987,
+   "population": {
+    "count": 28619,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Saugus is a community in Essex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 11 square miles of land and 1 square mile of water, and 28,619 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2560295",
+   "name": "Scituate",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 42.18029,
+   "lon": -70.73438,
+   "land_sqmi": 4.063,
+   "water_sqmi": 0.847,
+   "population": {
+    "count": 5620,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Scituate is a community in Plymouth County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.1 square miles of land and 0.8 square miles of water, and 5,620 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2560505",
+   "name": "Seabrook",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.58538,
+   "lon": -70.49795,
+   "land_sqmi": 0.352,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 448,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Seabrook is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 448 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2560627",
+   "name": "Seconsett Island",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.56679,
+   "lon": -70.51222,
+   "land_sqmi": 0.103,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 98,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Seconsett Island is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 98 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2560820",
+   "name": "Sharon",
+   "kind": "57",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.11752,
+   "lon": -71.18603,
+   "land_sqmi": 2.992,
+   "water_sqmi": 0.039,
+   "population": {
+    "count": 6184,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Sharon is a community in Norfolk County in eastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land, and 6,184 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2561205",
+   "name": "Shelburne Falls",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 42.60951,
+   "lon": -72.74698,
+   "land_sqmi": 2.629,
+   "water_sqmi": 0.083,
+   "population": {
+    "count": 1719,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Shelburne Falls is a community in Franklin County in northwestern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land and 0.1 square miles of water, and 1,719 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2561555",
+   "name": "Shirley",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.53647,
+   "lon": -71.66735,
+   "land_sqmi": 1.318,
+   "water_sqmi": 0.017,
+   "population": {
+    "count": 1611,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Shirley is a community in Middlesex County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 1,611 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2561940",
+   "name": "Siasconset",
+   "kind": "57",
+   "counties": [
+    "Nantucket County"
+   ],
+   "lat": 41.26526,
+   "lon": -69.97303,
+   "land_sqmi": 2.126,
+   "water_sqmi": 0.326,
+   "population": {
+    "count": 505,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Siasconset is a community in Nantucket County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land and 0.3 square miles of water, and 505 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2562300",
+   "name": "Smith Mills",
+   "kind": "57",
+   "counties": [
+    "Bristol County"
+   ],
+   "lat": 41.64674,
+   "lon": -70.99837,
+   "land_sqmi": 4.668,
+   "water_sqmi": 0.081,
+   "population": {
+    "count": 4832,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Smith Mills is a community in Bristol County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.7 square miles of land and 0.1 square miles of water, and 4,832 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2562465",
+   "name": "Somerset",
+   "kind": "57",
+   "counties": [
+    "Bristol County"
+   ],
+   "lat": 41.73848,
+   "lon": -71.16505,
+   "land_sqmi": 7.898,
+   "water_sqmi": 3.992,
+   "population": {
+    "count": 18303,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Somerset is a community in Bristol County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.9 square miles of land and 4 square miles of water, and 18,303 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2562535",
+   "name": "Somerville",
+   "kind": "25",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.39045,
+   "lon": -71.10103,
+   "land_sqmi": 4.12,
+   "water_sqmi": 0.099,
+   "population": {
+    "count": 84211,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Somerville is a city in Middlesex County in eastern Massachusetts. It covers about 4.1 square miles of land and 0.1 square miles of water, and about 84,211 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2562780",
+   "name": "South Ashburnham",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.62106,
+   "lon": -71.94343,
+   "land_sqmi": 2.984,
+   "water_sqmi": 0.011,
+   "population": {
+    "count": 1136,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "South Ashburnham is a community in Worcester County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land, and 1,136 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2563345",
+   "name": "Southbridge Town",
+   "kind": "25",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.05974,
+   "lon": -72.03391,
+   "land_sqmi": 20.245,
+   "water_sqmi": 0.616,
+   "population": {
+    "count": 18105,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "central",
+   "description": "Southbridge Town is a city in Worcester County in central Massachusetts. It covers about 20 square miles of land and 0.6 square miles of water, and about 18,105 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2563620",
+   "name": "South Deerfield",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 42.4814,
+   "lon": -72.58979,
+   "land_sqmi": 3.154,
+   "water_sqmi": 0.11,
+   "population": {
+    "count": 1930,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "South Deerfield is a community in Franklin County in northwestern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.2 square miles of land and 0.1 square miles of water, and 1,930 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2563655",
+   "name": "South Dennis",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.70407,
+   "lon": -70.15065,
+   "land_sqmi": 4.55,
+   "water_sqmi": 0.199,
+   "population": {
+    "count": 3899,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "South Dennis is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.6 square miles of land and 0.2 square miles of water, and 3,899 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2563690",
+   "name": "South Duxbury",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 42.01811,
+   "lon": -70.68965,
+   "land_sqmi": 2.935,
+   "water_sqmi": 1.474,
+   "population": {
+    "count": 3463,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "South Duxbury is a community in Plymouth County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.9 square miles of land and 1.5 square miles of water, and 3,463 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2564460",
+   "name": "South Lancaster",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.43702,
+   "lon": -71.69709,
+   "land_sqmi": 1.326,
+   "water_sqmi": 0.015,
+   "population": {
+    "count": 1838,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "South Lancaster is a community in Worcester County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 1,838 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2566035",
+   "name": "South Yarmouth",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.66708,
+   "lon": -70.20079,
+   "land_sqmi": 6.956,
+   "water_sqmi": 0.855,
+   "population": {
+    "count": 11703,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "South Yarmouth is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7 square miles of land and 0.9 square miles of water, and 11,703 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2566070",
+   "name": "Spencer",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.24858,
+   "lon": -71.99313,
+   "land_sqmi": 2.11,
+   "water_sqmi": 0.062,
+   "population": {
+    "count": 5810,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Spencer is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land and 0.1 square miles of water, and 5,810 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2567000",
+   "name": "Springfield",
+   "kind": "25",
+   "counties": [
+    "Hampden County"
+   ],
+   "lat": 42.11545,
+   "lon": -72.53998,
+   "land_sqmi": 31.87,
+   "water_sqmi": 1.21,
+   "population": {
+    "count": 154702,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Springfield is a city in Hampden County in western Massachusetts. It covers about 32 square miles of land and 1.2 square miles of water, and about 154,702 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2567700",
+   "name": "Stoneham",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.47421,
+   "lon": -71.09767,
+   "land_sqmi": 6.016,
+   "water_sqmi": 0.631,
+   "population": {
+    "count": 23244,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Stoneham is a community in Middlesex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6 square miles of land and 0.6 square miles of water, and 23,244 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2568120",
+   "name": "Sturbridge",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.09711,
+   "lon": -72.055,
+   "land_sqmi": 5.33,
+   "water_sqmi": 0.075,
+   "population": {
+    "count": 2385,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Sturbridge is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.3 square miles of land and 0.1 square miles of water, and 2,385 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2568680",
+   "name": "Swampscott",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.46806,
+   "lon": -70.89126,
+   "land_sqmi": 3.022,
+   "water_sqmi": 3.687,
+   "population": {
+    "count": 15111,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Swampscott is a community in Essex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land and 3.7 square miles of water, and 15,111 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2569170",
+   "name": "Taunton",
+   "kind": "25",
+   "counties": [
+    "Bristol County"
+   ],
+   "lat": 41.90332,
+   "lon": -71.09499,
+   "land_sqmi": 46.712,
+   "water_sqmi": 1.702,
+   "population": {
+    "count": 62522,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southeastern",
+   "description": "Taunton is a city in Bristol County in southeastern Massachusetts. It covers about 47 square miles of land and 1.7 square miles of water, and about 62,522 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2569205",
+   "name": "Teaticket",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.56258,
+   "lon": -70.58735,
+   "land_sqmi": 1.055,
+   "water_sqmi": 0.294,
+   "population": {
+    "count": 1663,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Teaticket is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land and 0.3 square miles of water, and 1,663 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2569585",
+   "name": "The Pinehills",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 41.89579,
+   "lon": -70.59485,
+   "land_sqmi": 4.079,
+   "water_sqmi": 0.038,
+   "population": {
+    "count": 4515,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "The Pinehills is a community in Plymouth County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.1 square miles of land, and 4,515 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2570115",
+   "name": "Topsfield",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 42.6394,
+   "lon": -70.95528,
+   "land_sqmi": 2.707,
+   "water_sqmi": 0.038,
+   "population": {
+    "count": 2864,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Topsfield is a community in Essex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.7 square miles of land, and 2,864 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2570325",
+   "name": "Townsend",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.67667,
+   "lon": -71.70977,
+   "land_sqmi": 1.694,
+   "water_sqmi": 0.031,
+   "population": {
+    "count": 1213,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Townsend is a community in Middlesex County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land, and 1,213 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2570815",
+   "name": "Turners Falls",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 42.59668,
+   "lon": -72.5565,
+   "land_sqmi": 1.901,
+   "water_sqmi": 0.4,
+   "population": {
+    "count": 4512,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Turners Falls is a community in Franklin County in northwestern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land and 0.4 square miles of water, and 4,512 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2571445",
+   "name": "Upton",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.18215,
+   "lon": -71.61085,
+   "land_sqmi": 2.469,
+   "water_sqmi": 0.08,
+   "population": {
+    "count": 3090,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Upton is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.5 square miles of land and 0.1 square miles of water, and 3,090 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2571970",
+   "name": "Vineyard Haven",
+   "kind": "57",
+   "counties": [
+    "Dukes County"
+   ],
+   "lat": 41.45718,
+   "lon": -70.60746,
+   "land_sqmi": 1.304,
+   "water_sqmi": 0.009,
+   "population": {
+    "count": 2747,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Vineyard Haven is a community in Dukes County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 2,747 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2572250",
+   "name": "Wakefield",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.50436,
+   "lon": -71.06406,
+   "land_sqmi": 7.394,
+   "water_sqmi": 0.603,
+   "population": {
+    "count": 27090,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Wakefield is a community in Middlesex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.4 square miles of land and 0.6 square miles of water, and 27,090 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2572460",
+   "name": "Walpole",
+   "kind": "57",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.13386,
+   "lon": -71.2403,
+   "land_sqmi": 2.81,
+   "water_sqmi": 0.112,
+   "population": {
+    "count": 6119,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Walpole is a community in Norfolk County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.8 square miles of land and 0.1 square miles of water, and 6,119 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2572600",
+   "name": "Waltham",
+   "kind": "25",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.38892,
+   "lon": -71.24227,
+   "land_sqmi": 12.745,
+   "water_sqmi": 1.017,
+   "population": {
+    "count": 65037,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "central",
+   "description": "Waltham is a city in Middlesex County in central Massachusetts. It covers about 13 square miles of land and 1 square mile of water, and about 65,037 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2572845",
+   "name": "Ware",
+   "kind": "57",
+   "counties": [
+    "Hampshire County"
+   ],
+   "lat": 42.25006,
+   "lon": -72.24765,
+   "land_sqmi": 6.22,
+   "water_sqmi": 0.136,
+   "population": {
+    "count": 6266,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Ware is a community in Hampshire County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.2 square miles of land and 0.1 square miles of water, and 6,266 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2573020",
+   "name": "Wareham Center",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 41.7475,
+   "lon": -70.72012,
+   "land_sqmi": 1.615,
+   "water_sqmi": 0.532,
+   "population": {
+    "count": 2972,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Wareham Center is a community in Plymouth County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land and 0.5 square miles of water, and 2,972 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2573055",
+   "name": "Warren",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.21829,
+   "lon": -72.1856,
+   "land_sqmi": 1.284,
+   "water_sqmi": 0.015,
+   "population": {
+    "count": 1333,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Warren is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 1,333 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2573405",
+   "name": "Watertown",
+   "kind": "25",
+   "counties": [],
+   "lat": 42.36945,
+   "lon": -71.17792,
+   "land_sqmi": 3.996,
+   "water_sqmi": 0.128,
+   "population": {
+    "count": 35710,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Watertown is a city in eastern Massachusetts. It covers about 4 square miles of land and 0.1 square miles of water, and about 35,710 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2573930",
+   "name": "Webster",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.04631,
+   "lon": -71.87452,
+   "land_sqmi": 2.971,
+   "water_sqmi": 0.056,
+   "population": {
+    "count": 12194,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Webster is a community in Worcester County in southern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land and 0.1 square miles of water, and 12,194 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2574210",
+   "name": "Wellesley",
+   "kind": "57",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.30593,
+   "lon": -71.28292,
+   "land_sqmi": 10.021,
+   "water_sqmi": 0.509,
+   "population": {
+    "count": 29550,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Wellesley is a community in Norfolk County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 10 square miles of land and 0.5 square miles of water, and 29,550 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2575050",
+   "name": "Westborough",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.26744,
+   "lon": -71.61749,
+   "land_sqmi": 1.888,
+   "water_sqmi": 0.017,
+   "population": {
+    "count": 4255,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Westborough is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land, and 4,255 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2575365",
+   "name": "West Brookfield",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.24188,
+   "lon": -72.14686,
+   "land_sqmi": 1.263,
+   "water_sqmi": 0.507,
+   "population": {
+    "count": 1375,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "West Brookfield is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land and 0.5 square miles of water, and 1,375 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2575505",
+   "name": "West Chatham",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.68098,
+   "lon": -69.99257,
+   "land_sqmi": 2.924,
+   "water_sqmi": 0.396,
+   "population": {
+    "count": 1619,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "West Chatham is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.9 square miles of land and 0.4 square miles of water, and 1,619 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2575680",
+   "name": "West Concord",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.45186,
+   "lon": -71.40318,
+   "land_sqmi": 3.376,
+   "water_sqmi": 0.204,
+   "population": {
+    "count": 6320,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "West Concord is a community in Middlesex County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.4 square miles of land and 0.2 square miles of water, and 6,320 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2575820",
+   "name": "West Dennis",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.66672,
+   "lon": -70.16585,
+   "land_sqmi": 3.261,
+   "water_sqmi": 0.948,
+   "population": {
+    "count": 2304,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "West Dennis is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.3 square miles of land and 0.9 square miles of water, and 2,304 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2575960",
+   "name": "West Falmouth",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.6015,
+   "lon": -70.63932,
+   "land_sqmi": 3.081,
+   "water_sqmi": 1.276,
+   "population": {
+    "count": 1812,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "West Falmouth is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.1 square miles of land and 1.3 square miles of water, and 1,812 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2576030",
+   "name": "Westfield",
+   "kind": "25",
+   "counties": [
+    "Hampden County"
+   ],
+   "lat": 42.13884,
+   "lon": -72.75591,
+   "land_sqmi": 46.262,
+   "water_sqmi": 1.053,
+   "population": {
+    "count": 40546,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Westfield is a city in Hampden County in western Massachusetts. It covers about 46 square miles of land and 1.1 square miles of water, and about 40,546 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2577890",
+   "name": "West Springfield Town",
+   "kind": "25",
+   "counties": [
+    "Hampden County"
+   ],
+   "lat": 42.12545,
+   "lon": -72.64973,
+   "land_sqmi": 16.73,
+   "water_sqmi": 0.807,
+   "population": {
+    "count": 28829,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "West Springfield Town is a city in Hampden County in western Massachusetts. It covers about 17 square miles of land and 0.8 square miles of water, and about 28,829 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2578410",
+   "name": "West Wareham",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 41.79174,
+   "lon": -70.75787,
+   "land_sqmi": 3.731,
+   "water_sqmi": 0.065,
+   "population": {
+    "count": 2224,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "West Wareham is a community in Plymouth County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.7 square miles of land and 0.1 square miles of water, and 2,224 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2578445",
+   "name": "West Warren",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.21931,
+   "lon": -72.23123,
+   "land_sqmi": 1.267,
+   "water_sqmi": 0.006,
+   "population": {
+    "count": 721,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "West Warren is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 721 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2578795",
+   "name": "West Yarmouth",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.64723,
+   "lon": -70.24998,
+   "land_sqmi": 6.689,
+   "water_sqmi": 2.404,
+   "population": {
+    "count": 6278,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "West Yarmouth is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.7 square miles of land and 2.4 square miles of water, and 6,278 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2578850",
+   "name": "Weweantic",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 41.7476,
+   "lon": -70.74002,
+   "land_sqmi": 1.269,
+   "water_sqmi": 0.415,
+   "population": {
+    "count": 2109,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Weweantic is a community in Plymouth County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land and 0.4 square miles of water, and 2,109 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2578972",
+   "name": "Weymouth Town",
+   "kind": "25",
+   "counties": [
+    "Norfolk County"
+   ],
+   "lat": 42.2073,
+   "lon": -70.94369,
+   "land_sqmi": 16.765,
+   "water_sqmi": 4.809,
+   "population": {
+    "count": 59759,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Weymouth Town is a city in Norfolk County in eastern Massachusetts. It covers about 17 square miles of land and 4.8 square miles of water, and about 59,759 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2579390",
+   "name": "White Island Shores",
+   "kind": "57",
+   "counties": [
+    "Plymouth County"
+   ],
+   "lat": 41.79782,
+   "lon": -70.63717,
+   "land_sqmi": 1.158,
+   "water_sqmi": 0.143,
+   "population": {
+    "count": 2180,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "White Island Shores is a community in Plymouth County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land and 0.1 square miles of water, and 2,180 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2579495",
+   "name": "Whitinsville",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.1188,
+   "lon": -71.6725,
+   "land_sqmi": 3.642,
+   "water_sqmi": 0.386,
+   "population": {
+    "count": 6750,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Whitinsville is a community in Worcester County in central Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.6 square miles of land and 0.4 square miles of water, and 6,750 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2579705",
+   "name": "Wilbraham",
+   "kind": "57",
+   "counties": [
+    "Hampden County"
+   ],
+   "lat": 42.13211,
+   "lon": -72.43815,
+   "land_sqmi": 5.592,
+   "water_sqmi": 0.063,
+   "population": {
+    "count": 4003,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Wilbraham is a community in Hampden County in western Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.6 square miles of land and 0.1 square miles of water, and 4,003 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2579950",
+   "name": "Williamstown",
+   "kind": "57",
+   "counties": [
+    "Berkshire County"
+   ],
+   "lat": 42.70891,
+   "lon": -73.20136,
+   "land_sqmi": 3.398,
+   "water_sqmi": 0.032,
+   "population": {
+    "count": 4308,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Williamstown is a community in Berkshire County in northwestern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.4 square miles of land, and 4,308 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2580195",
+   "name": "Wilmington",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.56465,
+   "lon": -71.16452,
+   "land_sqmi": 16.973,
+   "water_sqmi": 0.17,
+   "population": {
+    "count": 23349,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Wilmington is a community in Middlesex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 17 square miles of land and 0.2 square miles of water, and 23,349 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2580370",
+   "name": "Winchendon",
+   "kind": "57",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.68042,
+   "lon": -72.04204,
+   "land_sqmi": 2.265,
+   "water_sqmi": 0.173,
+   "population": {
+    "count": 4160,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Winchendon is a community in Worcester County in northern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.3 square miles of land and 0.2 square miles of water, and 4,160 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2580545",
+   "name": "Winchester",
+   "kind": "57",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.45275,
+   "lon": -71.14432,
+   "land_sqmi": 6.032,
+   "water_sqmi": 0.316,
+   "population": {
+    "count": 22970,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Winchester is a community in Middlesex County in northeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6 square miles of land and 0.3 square miles of water, and 22,970 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2581005",
+   "name": "Winthrop Town",
+   "kind": "25",
+   "counties": [
+    "Suffolk County"
+   ],
+   "lat": 42.37554,
+   "lon": -70.97065,
+   "land_sqmi": 1.994,
+   "water_sqmi": 6.326,
+   "population": {
+    "count": 18647,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Winthrop Town is a city in Suffolk County in eastern Massachusetts. It covers about 2 square miles of land and 6.3 square miles of water, and about 18,647 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2581035",
+   "name": "Woburn",
+   "kind": "25",
+   "counties": [
+    "Middlesex County"
+   ],
+   "lat": 42.4887,
+   "lon": -71.15438,
+   "land_sqmi": 12.651,
+   "water_sqmi": 0.292,
+   "population": {
+    "count": 43962,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Woburn is a city in Middlesex County in northeastern Massachusetts. It covers about 13 square miles of land and 0.3 square miles of water, and about 43,962 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2581245",
+   "name": "Woods Hole",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.52869,
+   "lon": -70.66648,
+   "land_sqmi": 2.135,
+   "water_sqmi": 1.799,
+   "population": {
+    "count": 834,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Woods Hole is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land and 1.8 square miles of water, and 834 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2582000",
+   "name": "Worcester",
+   "kind": "25",
+   "counties": [
+    "Worcester County"
+   ],
+   "lat": 42.26948,
+   "lon": -71.80778,
+   "land_sqmi": 37.36,
+   "water_sqmi": 1.084,
+   "population": {
+    "count": 213862,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "central",
+   "description": "Worcester is a city in Worcester County in central Massachusetts. It covers about 37 square miles of land and 1.1 square miles of water, and about 213,862 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2582595",
+   "name": "Yarmouth Port",
+   "kind": "57",
+   "counties": [
+    "Barnstable County"
+   ],
+   "lat": 41.70715,
+   "lon": -70.22093,
+   "land_sqmi": 6.019,
+   "water_sqmi": 0.461,
+   "population": {
+    "count": 5403,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Yarmouth Port is a community in Barnstable County in southeastern Massachusetts that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6 square miles of land and 0.5 square miles of water, and 5,403 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  }
+ ]
+}

@@ -1,0 +1,5873 @@
+{
+ "bundle": "cities-places",
+ "schema_version": 1,
+ "state": "PR",
+ "sources": [
+  {
+   "name": "U.S. Census Bureau, 2025 Gazetteer Files (places and counties)",
+   "url": "https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html"
+  },
+  {
+   "name": "U.S. Census Bureau, Vintage 2025 population estimates for cities and towns (July 1, 2025)",
+   "url": "https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 Census counts (TIGERweb, Census 2020 places)",
+   "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_Census2020/MapServer"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 place-to-county list",
+   "url": "https://www.census.gov/library/reference/code-lists/ansi.html"
+  }
+ ],
+ "places": [
+  {
+   "geoid": "7200186",
+   "name": "Aceitunas",
+   "kind": "55",
+   "counties": [
+    "Moca Municipio"
+   ],
+   "lat": 18.44553,
+   "lon": -67.06691,
+   "land_sqmi": 0.251,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1188,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Aceitunas is a community in Moca Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 1,188 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7200358",
+   "name": "Adjuntas",
+   "kind": "62",
+   "counties": [
+    "Adjuntas Municipio"
+   ],
+   "lat": 18.16378,
+   "lon": -66.72354,
+   "land_sqmi": 0.749,
+   "water_sqmi": 0,
+   "population": {
+    "count": 4169,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Adjuntas is an urban area in Adjuntas Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 4,169 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7200616",
+   "name": "Aguada",
+   "kind": "62",
+   "counties": [
+    "Aguada Municipio"
+   ],
+   "lat": 18.38034,
+   "lon": -67.18839,
+   "land_sqmi": 0.369,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2839,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Aguada is an urban area in Aguada Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 2,839 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7200745",
+   "name": "Aguadilla",
+   "kind": "62",
+   "counties": [
+    "Aguadilla Municipio"
+   ],
+   "lat": 18.4384,
+   "lon": -67.1548,
+   "land_sqmi": 2.509,
+   "water_sqmi": 0.586,
+   "population": {
+    "count": 10919,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Aguadilla is an urban area in Aguadilla Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.5 square miles of land and 0.6 square miles of water, and 10,919 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7200874",
+   "name": "Aguas Buenas",
+   "kind": "62",
+   "counties": [
+    "Aguas Buenas Municipio"
+   ],
+   "lat": 18.25818,
+   "lon": -66.10643,
+   "land_sqmi": 0.981,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 3083,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Aguas Buenas is an urban area in Aguas Buenas Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 3,083 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7201003",
+   "name": "Aguas Claras",
+   "kind": "55",
+   "counties": [
+    "Ceiba Municipio"
+   ],
+   "lat": 18.24467,
+   "lon": -65.6662,
+   "land_sqmi": 2.738,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2239,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Aguas Claras is a community in Ceiba Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.7 square miles of land, and 2,239 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7201089",
+   "name": "Aguilita",
+   "kind": "55",
+   "counties": [
+    "Juana Díaz Municipio"
+   ],
+   "lat": 18.02854,
+   "lon": -66.53406,
+   "land_sqmi": 0.898,
+   "water_sqmi": 0.008,
+   "population": {
+    "count": 3936,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Aguilita is a community in Juana Díaz Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 3,936 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7201218",
+   "name": "Aibonito",
+   "kind": "62",
+   "counties": [
+    "Aibonito Municipio"
+   ],
+   "lat": 18.14005,
+   "lon": -66.26635,
+   "land_sqmi": 1.49,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 7696,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Aibonito is an urban area in Aibonito Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 7,696 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7201863",
+   "name": "Alianza",
+   "kind": "55",
+   "counties": [
+    "Camuy Municipio"
+   ],
+   "lat": 18.45345,
+   "lon": -66.8556,
+   "land_sqmi": 0.997,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2283,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Alianza is a community in Camuy Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 2,283 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7202680",
+   "name": "Añasco",
+   "kind": "62",
+   "counties": [
+    "Añasco Municipio"
+   ],
+   "lat": 18.28553,
+   "lon": -67.14012,
+   "land_sqmi": 0.813,
+   "water_sqmi": 0,
+   "population": {
+    "count": 4157,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Añasco is an urban area in Añasco Municipio in western Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 4,157 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7203024",
+   "name": "Animas",
+   "kind": "55",
+   "counties": [
+    "Arecibo Municipio"
+   ],
+   "lat": 18.44574,
+   "lon": -66.63644,
+   "land_sqmi": 0.23,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1261,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Animas is a community in Arecibo Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 1,261 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7203174",
+   "name": "Anon Raices",
+   "kind": "55",
+   "counties": [
+    "Ponce Municipio"
+   ],
+   "lat": 18.13906,
+   "lon": -66.58577,
+   "land_sqmi": 0.085,
+   "water_sqmi": 0,
+   "population": {
+    "count": 190,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Anon Raices is a community in Ponce Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 190 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7203196",
+   "name": "Antón Ruíz",
+   "kind": "55",
+   "counties": [
+    "Humacao Municipio"
+   ],
+   "lat": 18.18827,
+   "lon": -65.80788,
+   "land_sqmi": 0.444,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1362,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Antón Ruíz is a community in Humacao Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 1,362 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7203368",
+   "name": "Arecibo",
+   "kind": "62",
+   "counties": [
+    "Arecibo Municipio"
+   ],
+   "lat": 18.45486,
+   "lon": -66.73544,
+   "land_sqmi": 15.518,
+   "water_sqmi": 2.412,
+   "population": {
+    "count": 39634,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Arecibo is an urban area in Arecibo Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 16 square miles of land and 2.4 square miles of water, and 39,634 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7203927",
+   "name": "Arroyo",
+   "kind": "62",
+   "counties": [
+    "Arroyo Municipio"
+   ],
+   "lat": 17.96962,
+   "lon": -66.0599,
+   "land_sqmi": 1.392,
+   "water_sqmi": 0.221,
+   "population": {
+    "count": 6441,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Arroyo is an urban area in Arroyo Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.4 square miles of land and 0.2 square miles of water, and 6,441 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7204620",
+   "name": "Bairoa La Veinticinco",
+   "kind": "55",
+   "counties": [
+    "Caguas Municipio"
+   ],
+   "lat": 18.26357,
+   "lon": -66.0215,
+   "land_sqmi": 0.086,
+   "water_sqmi": 0,
+   "population": {
+    "count": 392,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Bairoa La Veinticinco is a community in Caguas Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 392 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7204658",
+   "name": "Bajadero",
+   "kind": "55",
+   "counties": [
+    "Arecibo Municipio"
+   ],
+   "lat": 18.42041,
+   "lon": -66.67199,
+   "land_sqmi": 2.033,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3522,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Bajadero is a community in Arecibo Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land, and 3,522 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7204701",
+   "name": "Bajandas",
+   "kind": "55",
+   "counties": [
+    "Humacao Municipio"
+   ],
+   "lat": 18.16014,
+   "lon": -65.7831,
+   "land_sqmi": 0.647,
+   "water_sqmi": 0,
+   "population": {
+    "count": 966,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Bajandas is a community in Humacao Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 966 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7205217",
+   "name": "Barahona",
+   "kind": "55",
+   "counties": [
+    "Morovis Municipio"
+   ],
+   "lat": 18.3522,
+   "lon": -66.44428,
+   "land_sqmi": 0.537,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2147,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Barahona is a community in Morovis Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 2,147 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7205346",
+   "name": "Barceloneta",
+   "kind": "62",
+   "counties": [
+    "Barceloneta Municipio"
+   ],
+   "lat": 18.45298,
+   "lon": -66.53809,
+   "land_sqmi": 0.97,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3697,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Barceloneta is an urban area in Barceloneta Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 3,697 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7205690",
+   "name": "Barranquitas",
+   "kind": "62",
+   "counties": [
+    "Barranquitas Municipio"
+   ],
+   "lat": 18.18476,
+   "lon": -66.31017,
+   "land_sqmi": 0.766,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2038,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Barranquitas is an urban area in Barranquitas Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 2,038 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7206421",
+   "name": "Bartolo",
+   "kind": "55",
+   "counties": [
+    "Río Grande Municipio"
+   ],
+   "lat": 18.362,
+   "lon": -65.84137,
+   "land_sqmi": 0.185,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1170,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Bartolo is a community in Río Grande Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 1,170 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7206593",
+   "name": "Bayamón",
+   "kind": "62",
+   "counties": [
+    "Bayamón Municipio"
+   ],
+   "lat": 18.38005,
+   "lon": -66.16325,
+   "land_sqmi": 27.086,
+   "water_sqmi": 0.063,
+   "population": {
+    "count": 165368,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Bayamón is an urban area in Bayamón Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 27 square miles of land and 0.1 square miles of water, and 165,368 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7206679",
+   "name": "Bayamón",
+   "kind": "55",
+   "counties": [
+    "Cidra Municipio"
+   ],
+   "lat": 18.17814,
+   "lon": -66.10973,
+   "land_sqmi": 0.577,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1923,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Bayamón is a community in Cidra Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 1,923 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7207496",
+   "name": "Benítez",
+   "kind": "55",
+   "counties": [
+    "Canóvanas Municipio"
+   ],
+   "lat": 18.27253,
+   "lon": -65.87883,
+   "land_sqmi": 0.363,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1089,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Benítez is a community in Canóvanas Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 1,089 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7207668",
+   "name": "Betances",
+   "kind": "55",
+   "counties": [
+    "Cabo Rojo Municipio"
+   ],
+   "lat": 18.02957,
+   "lon": -67.13355,
+   "land_sqmi": 0.127,
+   "water_sqmi": 0,
+   "population": {
+    "count": 764,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Betances is a community in Cabo Rojo Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 764 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7207969",
+   "name": "Boquerón",
+   "kind": "55",
+   "counties": [
+    "Cabo Rojo Municipio"
+   ],
+   "lat": 18.03408,
+   "lon": -67.17144,
+   "land_sqmi": 1.032,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1964,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Boquerón is a community in Cabo Rojo Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 1,964 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7208099",
+   "name": "Boquerón",
+   "kind": "55",
+   "counties": [
+    "Las Piedras Municipio"
+   ],
+   "lat": 18.20015,
+   "lon": -65.84388,
+   "land_sqmi": 1.375,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 1432,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Boquerón is a community in Las Piedras Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.4 square miles of land, and 1,432 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7208700",
+   "name": "Breñas",
+   "kind": "55",
+   "counties": [
+    "Vega Alta Municipio"
+   ],
+   "lat": 18.4733,
+   "lon": -66.33461,
+   "land_sqmi": 0.986,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3860,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Breñas is a community in Vega Alta Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 3,860 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7208722",
+   "name": "Brisas del Campanero",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.4316,
+   "lon": -66.22607,
+   "land_sqmi": 0.194,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2301,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Brisas del Campanero is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 2,301 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7209087",
+   "name": "Buena Vista",
+   "kind": "55",
+   "counties": [
+    "Arroyo Municipio"
+   ],
+   "lat": 17.99647,
+   "lon": -66.05155,
+   "land_sqmi": 0.285,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1253,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Buena Vista is a community in Arroyo Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 1,253 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7209250",
+   "name": "Buena Vista",
+   "kind": "55",
+   "counties": [
+    "Humacao Municipio"
+   ],
+   "lat": 18.11532,
+   "lon": -65.79905,
+   "land_sqmi": 0.24,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1067,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Buena Vista is a community in Humacao Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 1,067 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7209603",
+   "name": "Búfalo",
+   "kind": "55",
+   "counties": [
+    "Barceloneta Municipio"
+   ],
+   "lat": 18.41653,
+   "lon": -66.57501,
+   "land_sqmi": 0.239,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1060,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Búfalo is a community in Barceloneta Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 1,060 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7209689",
+   "name": "Cabán",
+   "kind": "55",
+   "counties": [
+    "Aguadilla Municipio"
+   ],
+   "lat": 18.44501,
+   "lon": -67.13627,
+   "land_sqmi": 0.453,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2729,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Cabán is a community in Aguadilla Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 2,729 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7209861",
+   "name": "Cabo Rojo",
+   "kind": "62",
+   "counties": [
+    "Cabo Rojo Municipio"
+   ],
+   "lat": 18.08672,
+   "lon": -67.14827,
+   "land_sqmi": 2.356,
+   "water_sqmi": 0,
+   "population": {
+    "count": 8231,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Cabo Rojo is an urban area in Cabo Rojo Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land, and 8,231 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7210048",
+   "name": "Cacao",
+   "kind": "55",
+   "counties": [
+    "Quebradillas Municipio"
+   ],
+   "lat": 18.45203,
+   "lon": -66.95631,
+   "land_sqmi": 0.845,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 1043,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Cacao is a community in Quebradillas Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 1,043 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7210334",
+   "name": "Caguas",
+   "kind": "62",
+   "counties": [
+    "Caguas Municipio"
+   ],
+   "lat": 18.23215,
+   "lon": -66.03903,
+   "land_sqmi": 10.898,
+   "water_sqmi": 0.092,
+   "population": {
+    "count": 70318,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Caguas is an urban area in Caguas Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 11 square miles of land and 0.1 square miles of water, and 70,318 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7211151",
+   "name": "Calzada",
+   "kind": "55",
+   "counties": [
+    "Ponce Municipio"
+   ],
+   "lat": 18.00547,
+   "lon": -66.56425,
+   "land_sqmi": 0.274,
+   "water_sqmi": 0,
+   "population": {
+    "count": 89,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Calzada is a community in Ponce Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 89 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7211345",
+   "name": "Cambalache",
+   "kind": "55",
+   "counties": [
+    "Canóvanas Municipio"
+   ],
+   "lat": 18.35827,
+   "lon": -65.88669,
+   "land_sqmi": 1.469,
+   "water_sqmi": 0,
+   "population": {
+    "count": 904,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Cambalache is a community in Canóvanas Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 904 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7211581",
+   "name": "Campanilla",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.42244,
+   "lon": -66.23917,
+   "land_sqmi": 0.522,
+   "water_sqmi": 0,
+   "population": {
+    "count": 4243,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Campanilla is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 4,243 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7211597",
+   "name": "Campanillas",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.43862,
+   "lon": -66.21596,
+   "land_sqmi": 0.036,
+   "water_sqmi": 0,
+   "population": {
+    "count": 543,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Campanillas is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers less than 0.1 square miles of land, and 543 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7211710",
+   "name": "Campo Rico",
+   "kind": "55",
+   "counties": [
+    "Canóvanas Municipio"
+   ],
+   "lat": 18.33902,
+   "lon": -65.89434,
+   "land_sqmi": 0.418,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2321,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Campo Rico is a community in Canóvanas Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 2,321 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7211925",
+   "name": "Camuy",
+   "kind": "62",
+   "counties": [
+    "Camuy Municipio"
+   ],
+   "lat": 18.48253,
+   "lon": -66.84743,
+   "land_sqmi": 0.999,
+   "water_sqmi": 0.18,
+   "population": {
+    "count": 3179,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Camuy is an urban area in Camuy Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land and 0.2 square miles of water, and 3,179 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7212441",
+   "name": "Candelaria",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.40641,
+   "lon": -66.21802,
+   "land_sqmi": 3.003,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 14662,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Candelaria is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land, and 14,662 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7212560",
+   "name": "Candelaria Arenas",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.41725,
+   "lon": -66.22053,
+   "land_sqmi": 0.998,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 3934,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Candelaria Arenas is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 3,934 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7212568",
+   "name": "Candelero Abajo",
+   "kind": "55",
+   "counties": [
+    "Humacao Municipio"
+   ],
+   "lat": 18.09417,
+   "lon": -65.81646,
+   "land_sqmi": 0.061,
+   "water_sqmi": 0,
+   "population": {
+    "count": 466,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Candelero Abajo is a community in Humacao Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 466 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7212613",
+   "name": "Candelero Arriba",
+   "kind": "55",
+   "counties": [
+    "Humacao Municipio"
+   ],
+   "lat": 18.10167,
+   "lon": -65.83424,
+   "land_sqmi": 0.384,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1040,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Candelero Arriba is a community in Humacao Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 1,040 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7212806",
+   "name": "Caño Martin Peña",
+   "kind": "55",
+   "counties": [
+    "San Juan Municipio"
+   ],
+   "lat": 18.43039,
+   "lon": -66.05012,
+   "land_sqmi": 0.685,
+   "water_sqmi": 0.035,
+   "population": {
+    "count": 10997,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Caño Martin Peña is a community in San Juan Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 10,997 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7212828",
+   "name": "Canóvanas",
+   "kind": "62",
+   "counties": [
+    "Canóvanas Municipio"
+   ],
+   "lat": 18.36921,
+   "lon": -65.90089,
+   "land_sqmi": 2.819,
+   "water_sqmi": 0.017,
+   "population": {
+    "count": 11976,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Canóvanas is an urban area in Canóvanas Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.8 square miles of land, and 11,976 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7213065",
+   "name": "Canovanillas",
+   "kind": "55",
+   "counties": [
+    "Canóvanas Municipio"
+   ],
+   "lat": 18.33453,
+   "lon": -65.90396,
+   "land_sqmi": 0.678,
+   "water_sqmi": 0,
+   "population": {
+    "count": 306,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Canovanillas is a community in Canóvanas Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 306 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7213925",
+   "name": "Capitanejo",
+   "kind": "55",
+   "counties": [
+    "Juana Díaz Municipio",
+    "Ponce Municipio"
+   ],
+   "lat": 18.01312,
+   "lon": -66.53564,
+   "land_sqmi": 0.947,
+   "water_sqmi": 0.004,
+   "population": {
+    "count": 3175,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Capitanejo is a community in Juana Díaz and Ponce municipios in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 3,175 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7214290",
+   "name": "Carolina",
+   "kind": "62",
+   "counties": [
+    "Carolina Municipio"
+   ],
+   "lat": 18.41208,
+   "lon": -65.97981,
+   "land_sqmi": 20.712,
+   "water_sqmi": 3.392,
+   "population": {
+    "count": 138304,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Carolina is an urban area in Carolina Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 21 square miles of land and 3.4 square miles of water, and 138,304 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7214634",
+   "name": "Carrizales",
+   "kind": "55",
+   "counties": [
+    "Hatillo Municipio"
+   ],
+   "lat": 18.48109,
+   "lon": -66.78791,
+   "land_sqmi": 0.565,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2417,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Carrizales is a community in Hatillo Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 2,417 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7215193",
+   "name": "Cataño",
+   "kind": "62",
+   "counties": [
+    "Cataño Municipio"
+   ],
+   "lat": 18.43807,
+   "lon": -66.13883,
+   "land_sqmi": 4.832,
+   "water_sqmi": 2.168,
+   "population": {
+    "count": 23155,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Cataño is an urban area in Cataño Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.8 square miles of land and 2.2 square miles of water, and 23,155 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7215494",
+   "name": "Cayey",
+   "kind": "62",
+   "counties": [
+    "Cayey Municipio"
+   ],
+   "lat": 18.1153,
+   "lon": -66.16288,
+   "land_sqmi": 2.539,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 13999,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Cayey is an urban area in Cayey Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.5 square miles of land, and 13,999 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7215623",
+   "name": "Cayuco",
+   "kind": "55",
+   "counties": [
+    "Utuado Municipio"
+   ],
+   "lat": 18.29229,
+   "lon": -66.73485,
+   "land_sqmi": 0.3,
+   "water_sqmi": 0,
+   "population": {
+    "count": 909,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Cayuco is a community in Utuado Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 909 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7215924",
+   "name": "Ceiba",
+   "kind": "62",
+   "counties": [
+    "Ceiba Municipio"
+   ],
+   "lat": 18.26497,
+   "lon": -65.64882,
+   "land_sqmi": 1.1,
+   "water_sqmi": 0,
+   "population": {
+    "count": 4697,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Ceiba is an urban area in Ceiba Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 4,697 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7216139",
+   "name": "Ceiba",
+   "kind": "55",
+   "counties": [
+    "Vega Alta Municipio",
+    "Vega Baja Municipio"
+   ],
+   "lat": 18.44138,
+   "lon": -66.34427,
+   "land_sqmi": 1.001,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2867,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Ceiba is a community in Vega Alta and Vega Baja municipios in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 2,867 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7216440",
+   "name": "Celada",
+   "kind": "55",
+   "counties": [
+    "Gurabo Municipio"
+   ],
+   "lat": 18.26669,
+   "lon": -65.96254,
+   "land_sqmi": 0.669,
+   "water_sqmi": 0.004,
+   "population": {
+    "count": 3650,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Celada is a community in Gurabo Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 3,650 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7216526",
+   "name": "Central Aguirre",
+   "kind": "55",
+   "counties": [
+    "Salinas Municipio"
+   ],
+   "lat": 17.9567,
+   "lon": -66.22832,
+   "land_sqmi": 0.518,
+   "water_sqmi": 0.116,
+   "population": {
+    "count": 1155,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Central Aguirre is a community in Salinas Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land and 0.1 square miles of water, and 1,155 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7217050",
+   "name": "Cerrillos Hoyos",
+   "kind": "55",
+   "counties": [
+    "Ponce Municipio"
+   ],
+   "lat": 18.06548,
+   "lon": -66.56889,
+   "land_sqmi": 0.276,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 590,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Cerrillos Hoyos is a community in Ponce Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 590 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7217773",
+   "name": "Ciales",
+   "kind": "62",
+   "counties": [
+    "Ciales Municipio"
+   ],
+   "lat": 18.33405,
+   "lon": -66.4719,
+   "land_sqmi": 1.162,
+   "water_sqmi": 0.014,
+   "population": {
+    "count": 2828,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Ciales is an urban area in Ciales Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 2,828 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7218074",
+   "name": "Cidra",
+   "kind": "62",
+   "counties": [
+    "Cidra Municipio"
+   ],
+   "lat": 18.17751,
+   "lon": -66.15849,
+   "land_sqmi": 1.116,
+   "water_sqmi": 0.031,
+   "population": {
+    "count": 4518,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Cidra is an urban area in Cidra Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 4,518 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7218719",
+   "name": "Coamo",
+   "kind": "62",
+   "counties": [
+    "Coamo Municipio"
+   ],
+   "lat": 18.0783,
+   "lon": -66.36316,
+   "land_sqmi": 1.823,
+   "water_sqmi": 0,
+   "population": {
+    "count": 9309,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Coamo is an urban area in Coamo Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land, and 9,309 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7218891",
+   "name": "Coco",
+   "kind": "55",
+   "counties": [
+    "Salinas Municipio"
+   ],
+   "lat": 18.00128,
+   "lon": -66.2607,
+   "land_sqmi": 1.711,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 4667,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Coco is a community in Salinas Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land, and 4,667 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7219665",
+   "name": "Comerío",
+   "kind": "62",
+   "counties": [
+    "Comerío Municipio"
+   ],
+   "lat": 18.21949,
+   "lon": -66.22505,
+   "land_sqmi": 0.45,
+   "water_sqmi": 0.013,
+   "population": {
+    "count": 3054,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Comerío is an urban area in Comerío Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 3,054 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7219837",
+   "name": "Comunas",
+   "kind": "55",
+   "counties": [
+    "Yabucoa Municipio"
+   ],
+   "lat": 18.08457,
+   "lon": -65.84354,
+   "land_sqmi": 1.137,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3018,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Comunas is a community in Yabucoa Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 3,018 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7220310",
+   "name": "Coquí",
+   "kind": "55",
+   "counties": [
+    "Salinas Municipio"
+   ],
+   "lat": 17.97929,
+   "lon": -66.22555,
+   "land_sqmi": 0.931,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2336,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Coquí is a community in Salinas Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 2,336 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7220353",
+   "name": "Corazón",
+   "kind": "55",
+   "counties": [
+    "Guayama Municipio"
+   ],
+   "lat": 17.99401,
+   "lon": -66.08335,
+   "land_sqmi": 0.555,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1515,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Corazón is a community in Guayama Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 1,515 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7220482",
+   "name": "Corcovado",
+   "kind": "55",
+   "counties": [
+    "Hatillo Municipio"
+   ],
+   "lat": 18.46102,
+   "lon": -66.77776,
+   "land_sqmi": 0.518,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1245,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Corcovado is a community in Hatillo Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 1,245 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7220783",
+   "name": "Corozal",
+   "kind": "62",
+   "counties": [
+    "Corozal Municipio"
+   ],
+   "lat": 18.34099,
+   "lon": -66.31246,
+   "land_sqmi": 2.22,
+   "water_sqmi": 0,
+   "population": {
+    "count": 9159,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Corozal is an urban area in Corozal Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land, and 9,159 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7220998",
+   "name": "Corral Viejo",
+   "kind": "55",
+   "counties": [
+    "Ponce Municipio"
+   ],
+   "lat": 18.07546,
+   "lon": -66.65234,
+   "land_sqmi": 0.175,
+   "water_sqmi": 0,
+   "population": {
+    "count": 222,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Corral Viejo is a community in Ponce Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 222 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7221213",
+   "name": "Coto Laurel",
+   "kind": "55",
+   "counties": [
+    "Ponce Municipio"
+   ],
+   "lat": 18.04912,
+   "lon": -66.5517,
+   "land_sqmi": 0.376,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2472,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Coto Laurel is a community in Ponce Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 2,472 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7221385",
+   "name": "Coto Norte",
+   "kind": "55",
+   "counties": [
+    "Manatí Municipio",
+    "Vega Baja Municipio"
+   ],
+   "lat": 18.43283,
+   "lon": -66.44083,
+   "land_sqmi": 0.284,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1395,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Coto Norte is a community in Manatí and Vega Baja municipios in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 1,395 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7222589",
+   "name": "Culebra",
+   "kind": "62",
+   "counties": [
+    "Culebra Municipio"
+   ],
+   "lat": 18.31033,
+   "lon": -65.3027,
+   "land_sqmi": 0.816,
+   "water_sqmi": 0.225,
+   "population": {
+    "count": 1441,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Culebra is an urban area in Culebra Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land and 0.2 square miles of water, and 1,441 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7223062",
+   "name": "Daguao",
+   "kind": "55",
+   "counties": [
+    "Naguabo Municipio"
+   ],
+   "lat": 18.22165,
+   "lon": -65.67977,
+   "land_sqmi": 0.567,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1379,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Daguao is a community in Naguabo Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 1,379 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7223341",
+   "name": "Del Carmen",
+   "kind": "55",
+   "counties": [
+    "Camuy Municipio"
+   ],
+   "lat": 18.46779,
+   "lon": -66.84891,
+   "land_sqmi": 0.349,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1492,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Del Carmen is a community in Camuy Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 1,492 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7224008",
+   "name": "Dorado",
+   "kind": "62",
+   "counties": [
+    "Dorado Municipio"
+   ],
+   "lat": 18.46898,
+   "lon": -66.27111,
+   "land_sqmi": 3.161,
+   "water_sqmi": 0.56,
+   "population": {
+    "count": 12172,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Dorado is an urban area in Dorado Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.2 square miles of land and 0.6 square miles of water, and 12,172 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7224395",
+   "name": "Duque",
+   "kind": "55",
+   "counties": [
+    "Naguabo Municipio"
+   ],
+   "lat": 18.23741,
+   "lon": -65.74236,
+   "land_sqmi": 0.221,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1041,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Duque is a community in Naguabo Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 1,041 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7224954",
+   "name": "El Combate",
+   "kind": "55",
+   "counties": [
+    "Cabo Rojo Municipio"
+   ],
+   "lat": 17.9831,
+   "lon": -67.20893,
+   "land_sqmi": 0.574,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 357,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "El Combate is a community in Cabo Rojo Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 357 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7225556",
+   "name": "El Mangó",
+   "kind": "55",
+   "counties": [
+    "Juncos Municipio"
+   ],
+   "lat": 18.23446,
+   "lon": -65.87511,
+   "land_sqmi": 0.503,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1338,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "El Mangó is a community in Juncos Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 1,338 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7225685",
+   "name": "El Negro",
+   "kind": "55",
+   "counties": [
+    "Yabucoa Municipio"
+   ],
+   "lat": 18.03693,
+   "lon": -65.84945,
+   "land_sqmi": 0.318,
+   "water_sqmi": 0,
+   "population": {
+    "count": 791,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "El Negro is a community in Yabucoa Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 791 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7225771",
+   "name": "El Ojo",
+   "kind": "55",
+   "counties": [
+    "Santa Isabel Municipio"
+   ],
+   "lat": 18.00381,
+   "lon": -66.39184,
+   "land_sqmi": 0.16,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1118,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "El Ojo is a community in Santa Isabel Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 1,118 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7225835",
+   "name": "El Paraiso",
+   "kind": "55",
+   "counties": [
+    "Ponce Municipio"
+   ],
+   "lat": 18.06484,
+   "lon": -66.60209,
+   "land_sqmi": 0.32,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1383,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "El Paraiso is a community in Ponce Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 1,383 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7226287",
+   "name": "El Tumbao",
+   "kind": "55",
+   "counties": [
+    "Guánica Municipio"
+   ],
+   "lat": 18.00092,
+   "lon": -66.90215,
+   "land_sqmi": 1.07,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 1876,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "El Tumbao is a community in Guánica Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 1,876 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7226362",
+   "name": "El Veintiséis",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.43935,
+   "lon": -66.20344,
+   "land_sqmi": 0.065,
+   "water_sqmi": 0,
+   "population": {
+    "count": 295,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "El Veintiséis is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 295 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7226502",
+   "name": "Emajagua",
+   "kind": "55",
+   "counties": [
+    "Maunabo Municipio"
+   ],
+   "lat": 18.00152,
+   "lon": -65.88296,
+   "land_sqmi": 0.85,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2469,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Emajagua is a community in Maunabo Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 2,469 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7227190",
+   "name": "Esperanza",
+   "kind": "55",
+   "counties": [
+    "Vieques Municipio"
+   ],
+   "lat": 18.10232,
+   "lon": -65.47974,
+   "land_sqmi": 1.271,
+   "water_sqmi": 0,
+   "population": {
+    "count": 947,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Esperanza is a community in Vieques Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 947 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7227263",
+   "name": "Espino",
+   "kind": "55",
+   "counties": [
+    "Añasco Municipio"
+   ],
+   "lat": 18.27884,
+   "lon": -67.12072,
+   "land_sqmi": 0.693,
+   "water_sqmi": 0.011,
+   "population": {
+    "count": 1779,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Espino is a community in Añasco Municipio in western Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 1,779 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7227964",
+   "name": "Fajardo",
+   "kind": "62",
+   "counties": [
+    "Fajardo Municipio"
+   ],
+   "lat": 18.33334,
+   "lon": -65.65763,
+   "land_sqmi": 8.138,
+   "water_sqmi": 0.629,
+   "population": {
+    "count": 25133,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Fajardo is an urban area in Fajardo Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8.1 square miles of land and 0.6 square miles of water, and 25,133 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7228367",
+   "name": "Ferrer",
+   "kind": "55",
+   "counties": [
+    "Moca Municipio"
+   ],
+   "lat": 18.40538,
+   "lon": -67.06718,
+   "land_sqmi": 0.32,
+   "water_sqmi": 0,
+   "population": {
+    "count": 286,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Ferrer is a community in Moca Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 286 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7228824",
+   "name": "Florida",
+   "kind": "62",
+   "counties": [
+    "Florida Municipio"
+   ],
+   "lat": 18.36452,
+   "lon": -66.56127,
+   "land_sqmi": 1.509,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 4190,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Florida is an urban area in Florida Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 4,190 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7229555",
+   "name": "Fránquez",
+   "kind": "55",
+   "counties": [
+    "Morovis Municipio"
+   ],
+   "lat": 18.34007,
+   "lon": -66.42764,
+   "land_sqmi": 0.358,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1725,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Fránquez is a community in Morovis Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 1,725 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7229682",
+   "name": "Frontón",
+   "kind": "55",
+   "counties": [
+    "Ciales Municipio"
+   ],
+   "lat": 18.30965,
+   "lon": -66.56025,
+   "land_sqmi": 2.762,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1146,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Frontón is a community in Ciales Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.8 square miles of land, and 1,146 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7229727",
+   "name": "Fuig",
+   "kind": "55",
+   "counties": [
+    "Guánica Municipio"
+   ],
+   "lat": 17.98629,
+   "lon": -66.91711,
+   "land_sqmi": 0.303,
+   "water_sqmi": 0.008,
+   "population": {
+    "count": 712,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Fuig is a community in Guánica Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 712 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7229813",
+   "name": "Galateo",
+   "kind": "55",
+   "counties": [
+    "Toa Alta Municipio"
+   ],
+   "lat": 18.36405,
+   "lon": -66.26181,
+   "land_sqmi": 0.64,
+   "water_sqmi": 0.004,
+   "population": {
+    "count": 2224,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Galateo is a community in Toa Alta Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 2,224 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7230372",
+   "name": "Garrochales",
+   "kind": "55",
+   "counties": [
+    "Barceloneta Municipio"
+   ],
+   "lat": 18.4572,
+   "lon": -66.56755,
+   "land_sqmi": 0.659,
+   "water_sqmi": 0,
+   "population": {
+    "count": 919,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Garrochales is a community in Barceloneta Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 919 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7230544",
+   "name": "G. L. García",
+   "kind": "55",
+   "counties": [
+    "Cayey Municipio"
+   ],
+   "lat": 18.1259,
+   "lon": -66.10261,
+   "land_sqmi": 0.764,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1543,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "G. L. García is a community in Cayey Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 1,543 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7231189",
+   "name": "Guánica",
+   "kind": "62",
+   "counties": [
+    "Guánica Municipio"
+   ],
+   "lat": 17.96838,
+   "lon": -66.92919,
+   "land_sqmi": 2.559,
+   "water_sqmi": 0.01,
+   "population": {
+    "count": 4642,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Guánica is an urban area in Guánica Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land, and 4,642 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7231877",
+   "name": "Guayabal",
+   "kind": "55",
+   "counties": [
+    "Juana Díaz Municipio"
+   ],
+   "lat": 18.07605,
+   "lon": -66.50167,
+   "land_sqmi": 0.49,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1613,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Guayabal is a community in Juana Díaz Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 1,613 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7232221",
+   "name": "Guayama",
+   "kind": "62",
+   "counties": [
+    "Guayama Municipio"
+   ],
+   "lat": 17.97382,
+   "lon": -66.1115,
+   "land_sqmi": 3.655,
+   "water_sqmi": 0,
+   "population": {
+    "count": 18797,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Guayama is an urban area in Guayama Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.7 square miles of land, and 18,797 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7232307",
+   "name": "Guayanilla",
+   "kind": "62",
+   "counties": [
+    "Guayanilla Municipio"
+   ],
+   "lat": 18.02212,
+   "lon": -66.78977,
+   "land_sqmi": 0.711,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3178,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Guayanilla is an urban area in Guayanilla Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 3,178 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7232522",
+   "name": "Guaynabo",
+   "kind": "62",
+   "counties": [
+    "Guaynabo Municipio"
+   ],
+   "lat": 18.3843,
+   "lon": -66.115,
+   "land_sqmi": 12.046,
+   "water_sqmi": 0.164,
+   "population": {
+    "count": 68491,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Guaynabo is an urban area in Guaynabo Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 12 square miles of land and 0.2 square miles of water, and 68,491 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7232823",
+   "name": "Gurabo",
+   "kind": "62",
+   "counties": [
+    "Gurabo Municipio"
+   ],
+   "lat": 18.25261,
+   "lon": -65.97864,
+   "land_sqmi": 1.203,
+   "water_sqmi": 0.004,
+   "population": {
+    "count": 6457,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Gurabo is an urban area in Gurabo Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 6,457 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7233184",
+   "name": "Hacienda San José",
+   "kind": "55",
+   "counties": [
+    "Caguas Municipio"
+   ],
+   "lat": 18.23975,
+   "lon": -66.0737,
+   "land_sqmi": 0.561,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 4061,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Hacienda San José is a community in Caguas Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 4,061 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7233296",
+   "name": "Hatillo",
+   "kind": "62",
+   "counties": [
+    "Hatillo Municipio"
+   ],
+   "lat": 18.48382,
+   "lon": -66.82216,
+   "land_sqmi": 1.082,
+   "water_sqmi": 0.437,
+   "population": {
+    "count": 3785,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Hatillo is an urban area in Hatillo Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land and 0.4 square miles of water, and 3,785 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7233597",
+   "name": "Hato Arriba",
+   "kind": "55",
+   "counties": [
+    "San Sebastián Municipio"
+   ],
+   "lat": 18.35198,
+   "lon": -67.0336,
+   "land_sqmi": 0.794,
+   "water_sqmi": 0,
+   "population": {
+    "count": 764,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Hato Arriba is a community in San Sebastián Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 764 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7233683",
+   "name": "Hato Candal",
+   "kind": "55",
+   "counties": [
+    "Río Grande Municipio"
+   ],
+   "lat": 18.37318,
+   "lon": -65.7906,
+   "land_sqmi": 0.593,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1715,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Hato Candal is a community in Río Grande Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 1,715 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7234242",
+   "name": "Hato Viejo",
+   "kind": "55",
+   "counties": [
+    "Ciales Municipio"
+   ],
+   "lat": 18.35978,
+   "lon": -66.48114,
+   "land_sqmi": 1.928,
+   "water_sqmi": 0.028,
+   "population": {
+    "count": 1376,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Hato Viejo is a community in Ciales Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land, and 1,376 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7234914",
+   "name": "Honduras",
+   "kind": "55",
+   "counties": [
+    "Cidra Municipio"
+   ],
+   "lat": 18.14119,
+   "lon": -66.2005,
+   "land_sqmi": 0.308,
+   "water_sqmi": 0,
+   "population": {
+    "count": 578,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Honduras is a community in Cidra Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 578 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7235059",
+   "name": "Hormigueros",
+   "kind": "62",
+   "counties": [
+    "Hormigueros Municipio"
+   ],
+   "lat": 18.14356,
+   "lon": -67.12058,
+   "land_sqmi": 4.42,
+   "water_sqmi": 0,
+   "population": {
+    "count": 11072,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Hormigueros is an urban area in Hormigueros Municipio in western Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.4 square miles of land, and 11,072 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7235403",
+   "name": "H. Rivera Colón",
+   "kind": "55",
+   "counties": [
+    "Toa Alta Municipio"
+   ],
+   "lat": 18.34926,
+   "lon": -66.27633,
+   "land_sqmi": 0.663,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 1955,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "H. Rivera Colón is a community in Toa Alta Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 1,955 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7235532",
+   "name": "Humacao",
+   "kind": "62",
+   "counties": [
+    "Humacao Municipio"
+   ],
+   "lat": 18.15177,
+   "lon": -65.8206,
+   "land_sqmi": 4.928,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 14972,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Humacao is an urban area in Humacao Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.9 square miles of land, and 14,972 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7235962",
+   "name": "Imbéry",
+   "kind": "55",
+   "counties": [
+    "Barceloneta Municipio"
+   ],
+   "lat": 18.43711,
+   "lon": -66.5565,
+   "land_sqmi": 0.647,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3636,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Imbéry is a community in Barceloneta Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 3,636 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7236177",
+   "name": "Indios",
+   "kind": "55",
+   "counties": [
+    "Guayanilla Municipio"
+   ],
+   "lat": 17.99725,
+   "lon": -66.81937,
+   "land_sqmi": 1.014,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 1303,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Indios is a community in Guayanilla Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 1,303 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7236263",
+   "name": "Ingenio",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.44524,
+   "lon": -66.22389,
+   "land_sqmi": 0.543,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2720,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Ingenio is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 2,720 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7236478",
+   "name": "Isabela",
+   "kind": "62",
+   "counties": [
+    "Isabela Municipio"
+   ],
+   "lat": 18.50175,
+   "lon": -67.02372,
+   "land_sqmi": 2.617,
+   "water_sqmi": 0.518,
+   "population": {
+    "count": 9607,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Isabela is an urban area in Isabela Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land and 0.5 square miles of water, and 9,607 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7236779",
+   "name": "Isleta",
+   "kind": "55",
+   "counties": [
+    "Moca Municipio"
+   ],
+   "lat": 18.37582,
+   "lon": -67.11232,
+   "land_sqmi": 0.138,
+   "water_sqmi": 0,
+   "population": {
+    "count": 277,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Isleta is a community in Moca Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 277 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7237166",
+   "name": "Jagual",
+   "kind": "55",
+   "counties": [
+    "San Lorenzo Municipio"
+   ],
+   "lat": 18.16105,
+   "lon": -65.99912,
+   "land_sqmi": 0.216,
+   "water_sqmi": 0,
+   "population": {
+    "count": 864,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Jagual is a community in San Lorenzo Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 864 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7237336",
+   "name": "Jaguas",
+   "kind": "55",
+   "counties": [
+    "Ciales Municipio"
+   ],
+   "lat": 18.30737,
+   "lon": -66.4777,
+   "land_sqmi": 2.091,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1794,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Jaguas is a community in Ciales Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land, and 1,794 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7238241",
+   "name": "Jauca",
+   "kind": "55",
+   "counties": [
+    "Santa Isabel Municipio"
+   ],
+   "lat": 17.96257,
+   "lon": -66.36698,
+   "land_sqmi": 1.284,
+   "water_sqmi": 0.48,
+   "population": {
+    "count": 1688,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Jauca is a community in Santa Isabel Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land and 0.5 square miles of water, and 1,688 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7238370",
+   "name": "Jayuya",
+   "kind": "62",
+   "counties": [
+    "Jayuya Municipio"
+   ],
+   "lat": 18.2198,
+   "lon": -66.59831,
+   "land_sqmi": 0.484,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3064,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Jayuya is an urban area in Jayuya Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 3,064 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7238671",
+   "name": "Jobos",
+   "kind": "55",
+   "counties": [
+    "Guayama Municipio"
+   ],
+   "lat": 17.96072,
+   "lon": -66.16552,
+   "land_sqmi": 0.552,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1761,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Jobos is a community in Guayama Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 1,761 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7238972",
+   "name": "Juana Díaz",
+   "kind": "62",
+   "counties": [
+    "Juana Díaz Municipio"
+   ],
+   "lat": 18.05335,
+   "lon": -66.50473,
+   "land_sqmi": 1.528,
+   "water_sqmi": 0.017,
+   "population": {
+    "count": 7352,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Juana Díaz is an urban area in Juana Díaz Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 7,352 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7239470",
+   "name": "Juncal",
+   "kind": "55",
+   "counties": [
+    "San Sebastián Municipio"
+   ],
+   "lat": 18.31239,
+   "lon": -66.92183,
+   "land_sqmi": 0.177,
+   "water_sqmi": 0,
+   "population": {
+    "count": 994,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Juncal is a community in San Sebastián Municipio in western Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 994 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7239574",
+   "name": "Juncos",
+   "kind": "62",
+   "counties": [
+    "Juncos Municipio"
+   ],
+   "lat": 18.2258,
+   "lon": -65.91588,
+   "land_sqmi": 1.501,
+   "water_sqmi": 0.016,
+   "population": {
+    "count": 8204,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Juncos is an urban area in Juncos Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 8,204 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7239875",
+   "name": "La Alianza",
+   "kind": "55",
+   "counties": [
+    "Arecibo Municipio"
+   ],
+   "lat": 18.39507,
+   "lon": -66.59747,
+   "land_sqmi": 1.14,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2265,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "La Alianza is a community in Arecibo Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 2,265 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7240348",
+   "name": "La Dolores",
+   "kind": "55",
+   "counties": [
+    "Río Grande Municipio"
+   ],
+   "lat": 18.37261,
+   "lon": -65.85468,
+   "land_sqmi": 0.66,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2792,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "La Dolores is a community in Río Grande Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 2,792 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7240563",
+   "name": "La Fermina",
+   "kind": "55",
+   "counties": [
+    "Humacao Municipio",
+    "Las Piedras Municipio"
+   ],
+   "lat": 18.17337,
+   "lon": -65.85192,
+   "land_sqmi": 0.974,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2187,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "La Fermina is a community in Humacao and Las Piedras municipios in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 2,187 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7240950",
+   "name": "Lajas",
+   "kind": "62",
+   "counties": [
+    "Lajas Municipio"
+   ],
+   "lat": 18.04288,
+   "lon": -67.05713,
+   "land_sqmi": 1.494,
+   "water_sqmi": 0,
+   "population": {
+    "count": 4471,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Lajas is an urban area in Lajas Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 4,471 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7241274",
+   "name": "La Liga",
+   "kind": "55",
+   "counties": [
+    "Caguas Municipio"
+   ],
+   "lat": 18.28932,
+   "lon": -66.05076,
+   "land_sqmi": 0.146,
+   "water_sqmi": 0,
+   "population": {
+    "count": 496,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "La Liga is a community in Caguas Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 496 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7241294",
+   "name": "La Luisa",
+   "kind": "55",
+   "counties": [
+    "Manatí Municipio"
+   ],
+   "lat": 18.44883,
+   "lon": -66.50784,
+   "land_sqmi": 0.984,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2425,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "La Luisa is a community in Manatí Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 2,425 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7241466",
+   "name": "Lamboglia",
+   "kind": "55",
+   "counties": [
+    "Patillas Municipio"
+   ],
+   "lat": 17.98476,
+   "lon": -65.98583,
+   "land_sqmi": 0.495,
+   "water_sqmi": 0,
+   "population": {
+    "count": 688,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Lamboglia is a community in Patillas Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 688 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7241767",
+   "name": "La Parguera",
+   "kind": "55",
+   "counties": [
+    "Lajas Municipio"
+   ],
+   "lat": 17.97485,
+   "lon": -67.04592,
+   "land_sqmi": 0.285,
+   "water_sqmi": 0,
+   "population": {
+    "count": 973,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "La Parguera is a community in Lajas Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 973 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7241810",
+   "name": "La Pica",
+   "kind": "55",
+   "counties": [
+    "Camuy Municipio"
+   ],
+   "lat": 18.46522,
+   "lon": -66.86195,
+   "land_sqmi": 0.121,
+   "water_sqmi": 0,
+   "population": {
+    "count": 357,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "La Pica is a community in Camuy Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 357 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7242068",
+   "name": "La Playa",
+   "kind": "55",
+   "counties": [
+    "Añasco Municipio"
+   ],
+   "lat": 18.28558,
+   "lon": -67.18879,
+   "land_sqmi": 1.064,
+   "water_sqmi": 0.502,
+   "population": {
+    "count": 1359,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "La Playa is a community in Añasco Municipio in western Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land and 0.5 square miles of water, and 1,359 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7242197",
+   "name": "La Plena",
+   "kind": "55",
+   "counties": [
+    "Salinas Municipio"
+   ],
+   "lat": 18.04119,
+   "lon": -66.20631,
+   "land_sqmi": 0.382,
+   "water_sqmi": 0,
+   "population": {
+    "count": 583,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "La Plena is a community in Salinas Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 583 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7242498",
+   "name": "Lares",
+   "kind": "62",
+   "counties": [
+    "Lares Municipio"
+   ],
+   "lat": 18.29676,
+   "lon": -66.88339,
+   "land_sqmi": 2.025,
+   "water_sqmi": 0,
+   "population": {
+    "count": 5081,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Lares is an urban area in Lares Municipio in western Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land, and 5,081 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7242842",
+   "name": "Las Carolinas",
+   "kind": "55",
+   "counties": [
+    "Caguas Municipio"
+   ],
+   "lat": 18.25377,
+   "lon": -66.06432,
+   "land_sqmi": 0.35,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 2082,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Las Carolinas is a community in Caguas Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 2,082 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7243057",
+   "name": "Las Croabas",
+   "kind": "55",
+   "counties": [
+    "Fajardo Municipio"
+   ],
+   "lat": 18.36773,
+   "lon": -65.63059,
+   "land_sqmi": 0.811,
+   "water_sqmi": 0.429,
+   "population": {
+    "count": 950,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Las Croabas is a community in Fajardo Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land and 0.4 square miles of water, and 950 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7243294",
+   "name": "Las Gaviotas",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.4368,
+   "lon": -66.1907,
+   "land_sqmi": 0.037,
+   "water_sqmi": 0,
+   "population": {
+    "count": 488,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Las Gaviotas is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers less than 0.1 square miles of land, and 488 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7243702",
+   "name": "Las Marías",
+   "kind": "55",
+   "counties": [
+    "Añasco Municipio"
+   ],
+   "lat": 18.2927,
+   "lon": -67.14454,
+   "land_sqmi": 0.242,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1773,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Las Marías is a community in Añasco Municipio in western Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 1,773 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7243788",
+   "name": "Las Marías",
+   "kind": "62",
+   "counties": [
+    "Las Marías Municipio"
+   ],
+   "lat": 18.25459,
+   "lon": -66.98695,
+   "land_sqmi": 0.356,
+   "water_sqmi": 0,
+   "population": {
+    "count": 896,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Las Marías is an urban area in Las Marías Municipio in western Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 896 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7244003",
+   "name": "Las Ochenta",
+   "kind": "55",
+   "counties": [
+    "Salinas Municipio"
+   ],
+   "lat": 17.9839,
+   "lon": -66.31769,
+   "land_sqmi": 0.532,
+   "water_sqmi": 0,
+   "population": {
+    "count": 709,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Las Ochenta is a community in Salinas Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 709 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7244089",
+   "name": "Las Ollas",
+   "kind": "55",
+   "counties": [
+    "Santa Isabel Municipio"
+   ],
+   "lat": 18.01417,
+   "lon": -66.4206,
+   "land_sqmi": 0.266,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1202,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Las Ollas is a community in Santa Isabel Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 1,202 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7244390",
+   "name": "Las Piedras",
+   "kind": "62",
+   "counties": [
+    "Las Piedras Municipio"
+   ],
+   "lat": 18.17867,
+   "lon": -65.87108,
+   "land_sqmi": 1.323,
+   "water_sqmi": 0,
+   "population": {
+    "count": 5173,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Las Piedras is an urban area in Las Piedras Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 5,173 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7244507",
+   "name": "Lassalle",
+   "kind": "55",
+   "counties": [
+    "Moca Municipio"
+   ],
+   "lat": 18.3856,
+   "lon": -67.06139,
+   "land_sqmi": 0.154,
+   "water_sqmi": 0,
+   "population": {
+    "count": 480,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Lassalle is a community in Moca Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 480 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7245170",
+   "name": "La Yuca",
+   "kind": "55",
+   "counties": [
+    "Ponce Municipio"
+   ],
+   "lat": 18.07273,
+   "lon": -66.60773,
+   "land_sqmi": 0.094,
+   "water_sqmi": 0,
+   "population": {
+    "count": 455,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "La Yuca is a community in Ponce Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 455 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7245379",
+   "name": "Liborio Negrón Torres",
+   "kind": "55",
+   "counties": [
+    "Sabana Grande Municipio"
+   ],
+   "lat": 18.0431,
+   "lon": -66.9428,
+   "land_sqmi": 0.238,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1001,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Liborio Negrón Torres is a community in Sabana Grande Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 1,001 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7246282",
+   "name": "Lluveras",
+   "kind": "55",
+   "counties": [
+    "Sabana Grande Municipio"
+   ],
+   "lat": 18.03801,
+   "lon": -66.90376,
+   "land_sqmi": 0.728,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1486,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Lluveras is a community in Sabana Grande Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 1,486 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7246368",
+   "name": "Loíza",
+   "kind": "62",
+   "counties": [
+    "Loíza Municipio"
+   ],
+   "lat": 18.43306,
+   "lon": -65.87801,
+   "land_sqmi": 0.516,
+   "water_sqmi": 0.14,
+   "population": {
+    "count": 3127,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Loíza is an urban area in Loíza Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land and 0.1 square miles of water, and 3,127 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7246626",
+   "name": "Lomas",
+   "kind": "55",
+   "counties": [
+    "Canóvanas Municipio"
+   ],
+   "lat": 18.26876,
+   "lon": -65.90958,
+   "land_sqmi": 0.317,
+   "water_sqmi": 0,
+   "population": {
+    "count": 785,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Lomas is a community in Canóvanas Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 785 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7246800",
+   "name": "Lomas Verdes",
+   "kind": "55",
+   "counties": [
+    "Moca Municipio"
+   ],
+   "lat": 18.38226,
+   "lon": -67.12005,
+   "land_sqmi": 0.304,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1190,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Lomas Verdes is a community in Moca Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 1,190 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7246960",
+   "name": "Los Héroes",
+   "kind": "55",
+   "counties": [
+    "Moca Municipio"
+   ],
+   "lat": 18.39107,
+   "lon": -67.11873,
+   "land_sqmi": 0.095,
+   "water_sqmi": 0,
+   "population": {
+    "count": 626,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Los Héroes is a community in Moca Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 626 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7247013",
+   "name": "Los Llanos",
+   "kind": "55",
+   "counties": [
+    "Coamo Municipio"
+   ],
+   "lat": 18.05796,
+   "lon": -66.40914,
+   "land_sqmi": 0.788,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1814,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Los Llanos is a community in Coamo Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 1,814 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7247336",
+   "name": "Los Panes",
+   "kind": "55",
+   "counties": [
+    "Caguas Municipio"
+   ],
+   "lat": 18.18487,
+   "lon": -66.07613,
+   "land_sqmi": 0.229,
+   "water_sqmi": 0,
+   "population": {
+    "count": 289,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Los Panes is a community in Caguas Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 289 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7247422",
+   "name": "Los Prados",
+   "kind": "55",
+   "counties": [
+    "Caguas Municipio"
+   ],
+   "lat": 18.23301,
+   "lon": -66.06214,
+   "land_sqmi": 0.249,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2939,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Los Prados is a community in Caguas Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 2,939 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7247615",
+   "name": "Luis Lloréns Torres",
+   "kind": "55",
+   "counties": [
+    "Juana Díaz Municipio"
+   ],
+   "lat": 18.05654,
+   "lon": -66.52672,
+   "land_sqmi": 0.459,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2696,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Luis Lloréns Torres is a community in Juana Díaz Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 2,696 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7247701",
+   "name": "Luis M. Cintrón",
+   "kind": "55",
+   "counties": [
+    "Fajardo Municipio"
+   ],
+   "lat": 18.3014,
+   "lon": -65.63784,
+   "land_sqmi": 1.199,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1699,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Luis M. Cintrón is a community in Fajardo Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 1,699 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7247787",
+   "name": "Luquillo",
+   "kind": "62",
+   "counties": [
+    "Luquillo Municipio"
+   ],
+   "lat": 18.37567,
+   "lon": -65.72092,
+   "land_sqmi": 1.062,
+   "water_sqmi": 0.496,
+   "population": {
+    "count": 6438,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Luquillo is an urban area in Luquillo Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land and 0.5 square miles of water, and 6,438 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7247873",
+   "name": "Luyando",
+   "kind": "55",
+   "counties": [
+    "Aguada Municipio"
+   ],
+   "lat": 18.35747,
+   "lon": -67.15534,
+   "land_sqmi": 1.638,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2458,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Luyando is a community in Aguada Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land, and 2,458 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7248604",
+   "name": "Magas Arriba",
+   "kind": "55",
+   "counties": [
+    "Guayanilla Municipio"
+   ],
+   "lat": 18.02343,
+   "lon": -66.76644,
+   "land_sqmi": 0.734,
+   "water_sqmi": 0,
+   "population": {
+    "count": 948,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Magas Arriba is a community in Guayanilla Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 948 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7248862",
+   "name": "Maguayo",
+   "kind": "55",
+   "counties": [
+    "Lajas Municipio"
+   ],
+   "lat": 18.00999,
+   "lon": -67.08544,
+   "land_sqmi": 0.311,
+   "water_sqmi": 0,
+   "population": {
+    "count": 779,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Maguayo is a community in Lajas Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 779 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7250152",
+   "name": "Manatí",
+   "kind": "62",
+   "counties": [
+    "Manatí Municipio"
+   ],
+   "lat": 18.43129,
+   "lon": -66.47714,
+   "land_sqmi": 2.08,
+   "water_sqmi": 0,
+   "population": {
+    "count": 10974,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Manatí is an urban area in Manatí Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land, and 10,974 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7250260",
+   "name": "Mansión del Mar",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.44686,
+   "lon": -66.1786,
+   "land_sqmi": 2.717,
+   "water_sqmi": 0.159,
+   "population": {
+    "count": 25591,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Mansión del Mar is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.7 square miles of land and 0.2 square miles of water, and 25,591 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7250270",
+   "name": "Mansión del Sol",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.43702,
+   "lon": -66.1937,
+   "land_sqmi": 0.047,
+   "water_sqmi": 0,
+   "population": {
+    "count": 331,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Mansión del Sol is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers less than 0.1 square miles of land, and 331 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7250754",
+   "name": "María Antonia",
+   "kind": "55",
+   "counties": [
+    "Guánica Municipio"
+   ],
+   "lat": 17.97826,
+   "lon": -66.88985,
+   "land_sqmi": 0.35,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1599,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "María Antonia is a community in Guánica Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 1,599 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7251055",
+   "name": "Mariano Colón",
+   "kind": "55",
+   "counties": [
+    "Coamo Municipio",
+    "Santa Isabel Municipio"
+   ],
+   "lat": 18.02868,
+   "lon": -66.33563,
+   "land_sqmi": 1.487,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1749,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Mariano Colón is a community in Coamo and Santa Isabel municipios in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 1,749 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7251270",
+   "name": "Maricao",
+   "kind": "62",
+   "counties": [
+    "Maricao Municipio"
+   ],
+   "lat": 18.18184,
+   "lon": -66.9774,
+   "land_sqmi": 0.163,
+   "water_sqmi": 0,
+   "population": {
+    "count": 740,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Maricao is an urban area in Maricao Municipio in western Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 740 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7251657",
+   "name": "Martorell",
+   "kind": "55",
+   "counties": [
+    "Yabucoa Municipio"
+   ],
+   "lat": 18.07304,
+   "lon": -65.89767,
+   "land_sqmi": 0.916,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1868,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Martorell is a community in Yabucoa Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 1,868 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7251700",
+   "name": "Marueño",
+   "kind": "55",
+   "counties": [
+    "Ponce Municipio"
+   ],
+   "lat": 18.05842,
+   "lon": -66.65686,
+   "land_sqmi": 0.499,
+   "water_sqmi": 0,
+   "population": {
+    "count": 936,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Marueño is a community in Ponce Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 936 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7252345",
+   "name": "Maunabo",
+   "kind": "62",
+   "counties": [
+    "Maunabo Municipio"
+   ],
+   "lat": 18.00627,
+   "lon": -65.90122,
+   "land_sqmi": 0.586,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1555,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Maunabo is an urban area in Maunabo Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 1,555 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7252431",
+   "name": "Mayagüez",
+   "kind": "62",
+   "counties": [
+    "Mayagüez Municipio"
+   ],
+   "lat": 18.20122,
+   "lon": -67.14178,
+   "land_sqmi": 20.983,
+   "water_sqmi": 2.17,
+   "population": {
+    "count": 57566,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Mayagüez is an urban area in Mayagüez Municipio in western Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 21 square miles of land and 2.2 square miles of water, and 57,566 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7253678",
+   "name": "Miranda",
+   "kind": "55",
+   "counties": [
+    "Vega Baja Municipio"
+   ],
+   "lat": 18.38705,
+   "lon": -66.37263,
+   "land_sqmi": 1.849,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 1486,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Miranda is a community in Vega Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land, and 1,486 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7253807",
+   "name": "Moca",
+   "kind": "62",
+   "counties": [
+    "Moca Municipio"
+   ],
+   "lat": 18.39425,
+   "lon": -67.11382,
+   "land_sqmi": 0.134,
+   "water_sqmi": 0,
+   "population": {
+    "count": 743,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Moca is an urban area in Moca Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 743 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7253979",
+   "name": "Monserrate",
+   "kind": "55",
+   "counties": [
+    "Vega Alta Municipio",
+    "Vega Baja Municipio"
+   ],
+   "lat": 18.43711,
+   "lon": -66.35664,
+   "land_sqmi": 0.696,
+   "water_sqmi": 0.014,
+   "population": {
+    "count": 2331,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Monserrate is a community in Vega Alta and Vega Baja municipios in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 2,331 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7254366",
+   "name": "Monte Grande",
+   "kind": "55",
+   "counties": [
+    "Cabo Rojo Municipio"
+   ],
+   "lat": 18.0894,
+   "lon": -67.12004,
+   "land_sqmi": 1.429,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2775,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Monte Grande is a community in Cabo Rojo Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.4 square miles of land, and 2,775 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7254688",
+   "name": "Monte Verde",
+   "kind": "55",
+   "counties": [
+    "Ponce Municipio"
+   ],
+   "lat": 18.09824,
+   "lon": -66.61996,
+   "land_sqmi": 0.404,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 117,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Monte Verde is a community in Ponce Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 117 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7254882",
+   "name": "Mora",
+   "kind": "55",
+   "counties": [
+    "Isabela Municipio"
+   ],
+   "lat": 18.46271,
+   "lon": -67.0321,
+   "land_sqmi": 0.32,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1453,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Mora is a community in Isabela Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 1,453 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7255097",
+   "name": "Morovis",
+   "kind": "62",
+   "counties": [
+    "Morovis Municipio"
+   ],
+   "lat": 18.32686,
+   "lon": -66.40606,
+   "land_sqmi": 0.561,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1686,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Morovis is an urban area in Morovis Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 1,686 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7255355",
+   "name": "Mucarabones",
+   "kind": "55",
+   "counties": [
+    "Toa Alta Municipio"
+   ],
+   "lat": 18.39065,
+   "lon": -66.21773,
+   "land_sqmi": 0.325,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1246,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Mucarabones is a community in Toa Alta Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 1,246 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7255828",
+   "name": "Naguabo",
+   "kind": "62",
+   "counties": [
+    "Naguabo Municipio"
+   ],
+   "lat": 18.21167,
+   "lon": -65.73705,
+   "land_sqmi": 0.628,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3822,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Naguabo is an urban area in Naguabo Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 3,822 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7256129",
+   "name": "Naranjito",
+   "kind": "62",
+   "counties": [
+    "Naranjito Municipio"
+   ],
+   "lat": 18.30282,
+   "lon": -66.24964,
+   "land_sqmi": 0.663,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2589,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Naranjito is an urban area in Naranjito Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 2,589 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7257075",
+   "name": "Olimpo",
+   "kind": "55",
+   "counties": [
+    "Guayama Municipio"
+   ],
+   "lat": 18.00324,
+   "lon": -66.11006,
+   "land_sqmi": 0.308,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 1709,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Olimpo is a community in Guayama Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 1,709 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7257290",
+   "name": "Orocovis",
+   "kind": "62",
+   "counties": [
+    "Orocovis Municipio"
+   ],
+   "lat": 18.22586,
+   "lon": -66.39019,
+   "land_sqmi": 0.565,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1114,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Orocovis is an urban area in Orocovis Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 1,114 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7257612",
+   "name": "Pabellones",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.44121,
+   "lon": -66.21561,
+   "land_sqmi": 0.052,
+   "water_sqmi": 0,
+   "population": {
+    "count": 664,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Pabellones is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 664 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7257806",
+   "name": "Pájaros",
+   "kind": "55",
+   "counties": [
+    "Toa Alta Municipio"
+   ],
+   "lat": 18.36093,
+   "lon": -66.2184,
+   "land_sqmi": 1.533,
+   "water_sqmi": 0,
+   "population": {
+    "count": 8773,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Pájaros is a community in Toa Alta Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 8,773 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7257862",
+   "name": "Pajonal",
+   "kind": "55",
+   "counties": [
+    "Florida Municipio"
+   ],
+   "lat": 18.38466,
+   "lon": -66.55598,
+   "land_sqmi": 0.116,
+   "water_sqmi": 0,
+   "population": {
+    "count": 674,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Pajonal is a community in Florida Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 674 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7257978",
+   "name": "Palmarejo",
+   "kind": "55",
+   "counties": [
+    "Coamo Municipio"
+   ],
+   "lat": 18.0682,
+   "lon": -66.32663,
+   "land_sqmi": 0.59,
+   "water_sqmi": 0,
+   "population": {
+    "count": 816,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Palmarejo is a community in Coamo Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 816 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7258064",
+   "name": "Palmarejo",
+   "kind": "55",
+   "counties": [
+    "Corozal Municipio"
+   ],
+   "lat": 18.31481,
+   "lon": -66.29233,
+   "land_sqmi": 0.851,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1565,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Palmarejo is a community in Corozal Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 1,565 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7258150",
+   "name": "Palmarejo",
+   "kind": "55",
+   "counties": [
+    "Lajas Municipio"
+   ],
+   "lat": 18.04091,
+   "lon": -67.07649,
+   "land_sqmi": 0.337,
+   "water_sqmi": 0,
+   "population": {
+    "count": 970,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Palmarejo is a community in Lajas Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 970 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7258365",
+   "name": "Palmas",
+   "kind": "55",
+   "counties": [
+    "Arroyo Municipio",
+    "Patillas Municipio"
+   ],
+   "lat": 17.9884,
+   "lon": -66.02513,
+   "land_sqmi": 1.307,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 1568,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Palmas is a community in Arroyo and Patillas municipios in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 1,568 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7258602",
+   "name": "Palmas del Mar",
+   "kind": "55",
+   "counties": [
+    "Humacao Municipio"
+   ],
+   "lat": 18.09092,
+   "lon": -65.80164,
+   "land_sqmi": 3.005,
+   "water_sqmi": 0.107,
+   "population": {
+    "count": 3124,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Palmas del Mar is a community in Humacao Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land and 0.1 square miles of water, and 3,124 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7258613",
+   "name": "Palma Sola",
+   "kind": "55",
+   "counties": [
+    "Canóvanas Municipio"
+   ],
+   "lat": 18.32394,
+   "lon": -65.87151,
+   "land_sqmi": 1.121,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1200,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Palma Sola is a community in Canóvanas Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 1,200 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7258666",
+   "name": "Palmer",
+   "kind": "55",
+   "counties": [
+    "Río Grande Municipio"
+   ],
+   "lat": 18.37037,
+   "lon": -65.77339,
+   "land_sqmi": 0.204,
+   "water_sqmi": 0,
+   "population": {
+    "count": 987,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Palmer is a community in Río Grande Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 987 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7258967",
+   "name": "Palomas",
+   "kind": "55",
+   "counties": [
+    "Comerío Municipio"
+   ],
+   "lat": 18.23527,
+   "lon": -66.25344,
+   "land_sqmi": 0.866,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1865,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Palomas is a community in Comerío Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 1,865 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7259053",
+   "name": "Palomas",
+   "kind": "55",
+   "counties": [
+    "Yauco Municipio"
+   ],
+   "lat": 18.01338,
+   "lon": -66.86872,
+   "land_sqmi": 0.511,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1416,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Palomas is a community in Yauco Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 1,416 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7259139",
+   "name": "Palo Seco",
+   "kind": "55",
+   "counties": [
+    "Maunabo Municipio"
+   ],
+   "lat": 18.00929,
+   "lon": -65.93699,
+   "land_sqmi": 0.454,
+   "water_sqmi": 0,
+   "population": {
+    "count": 782,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Palo Seco is a community in Maunabo Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 782 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7259386",
+   "name": "Parcelas de Navarro",
+   "kind": "55",
+   "counties": [
+    "Gurabo Municipio"
+   ],
+   "lat": 18.23011,
+   "lon": -66.00416,
+   "land_sqmi": 0.135,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1293,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Parcelas de Navarro is a community in Gurabo Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 1,293 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7259420",
+   "name": "Parcelas La Milagrosa",
+   "kind": "55",
+   "counties": [
+    "Cidra Municipio"
+   ],
+   "lat": 18.17151,
+   "lon": -66.18685,
+   "land_sqmi": 0.257,
+   "water_sqmi": 0,
+   "population": {
+    "count": 948,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Parcelas La Milagrosa is a community in Cidra Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 948 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7259422",
+   "name": "Parcelas Mandry",
+   "kind": "55",
+   "counties": [
+    "Ponce Municipio"
+   ],
+   "lat": 18.08102,
+   "lon": -66.56271,
+   "land_sqmi": 0.094,
+   "water_sqmi": 0,
+   "population": {
+    "count": 473,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Parcelas Mandry is a community in Ponce Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 473 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7259425",
+   "name": "Parcelas Nuevas",
+   "kind": "55",
+   "counties": [
+    "Cidra Municipio"
+   ],
+   "lat": 18.13999,
+   "lon": -66.17024,
+   "land_sqmi": 0.643,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1351,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Parcelas Nuevas is a community in Cidra Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 1,351 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7259440",
+   "name": "Parcelas Peñuelas",
+   "kind": "55",
+   "counties": [
+    "Santa Isabel Municipio"
+   ],
+   "lat": 18.00853,
+   "lon": -66.35645,
+   "land_sqmi": 0.562,
+   "water_sqmi": 0,
+   "population": {
+    "count": 665,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Parcelas Peñuelas is a community in Santa Isabel Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 665 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7259450",
+   "name": "Parcelas Viejas Borinquen",
+   "kind": "55",
+   "counties": [
+    "Caguas Municipio"
+   ],
+   "lat": 18.17385,
+   "lon": -66.04062,
+   "land_sqmi": 0.048,
+   "water_sqmi": 0,
+   "population": {
+    "count": 542,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Parcelas Viejas Borinquen is a community in Caguas Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers less than 0.1 square miles of land, and 542 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7260257",
+   "name": "Pastos",
+   "kind": "55",
+   "counties": [
+    "Aibonito Municipio"
+   ],
+   "lat": 18.11929,
+   "lon": -66.26009,
+   "land_sqmi": 0.511,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1137,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Pastos is a community in Aibonito Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 1,137 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7260472",
+   "name": "Patillas",
+   "kind": "62",
+   "counties": [
+    "Patillas Municipio"
+   ],
+   "lat": 18.00691,
+   "lon": -66.01345,
+   "land_sqmi": 1.139,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 3647,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Patillas is an urban area in Patillas Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 3,647 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7260945",
+   "name": "Peña Pobre",
+   "kind": "55",
+   "counties": [
+    "Naguabo Municipio"
+   ],
+   "lat": 18.21744,
+   "lon": -65.8222,
+   "land_sqmi": 0.1,
+   "water_sqmi": 0,
+   "population": {
+    "count": 890,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Peña Pobre is a community in Naguabo Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 890 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7261074",
+   "name": "Peñuelas",
+   "kind": "62",
+   "counties": [
+    "Peñuelas Municipio"
+   ],
+   "lat": 18.05963,
+   "lon": -66.72114,
+   "land_sqmi": 0.964,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 4891,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Peñuelas is an urban area in Peñuelas Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 4,891 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7261545",
+   "name": "Piedra Aguza",
+   "kind": "55",
+   "counties": [
+    "Juana Díaz Municipio"
+   ],
+   "lat": 18.03507,
+   "lon": -66.49459,
+   "land_sqmi": 0.632,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 2524,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Piedra Aguza is a community in Juana Díaz Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 2,524 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7261590",
+   "name": "Piedra Gorda",
+   "kind": "55",
+   "counties": [
+    "Camuy Municipio"
+   ],
+   "lat": 18.43419,
+   "lon": -66.88608,
+   "land_sqmi": 0.682,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1758,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Piedra Gorda is a community in Camuy Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 1,758 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7261977",
+   "name": "Piñas",
+   "kind": "55",
+   "counties": [
+    "Comerío Municipio"
+   ],
+   "lat": 18.19015,
+   "lon": -66.23317,
+   "land_sqmi": 1.054,
+   "water_sqmi": 0,
+   "population": {
+    "count": 611,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Piñas is a community in Comerío Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 611 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7263310",
+   "name": "Playa Fortuna",
+   "kind": "55",
+   "counties": [
+    "Luquillo Municipio"
+   ],
+   "lat": 18.37822,
+   "lon": -65.74384,
+   "land_sqmi": 0.609,
+   "water_sqmi": 0.233,
+   "population": {
+    "count": 1396,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Playa Fortuna is a community in Luquillo Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land and 0.2 square miles of water, and 1,396 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7263503",
+   "name": "Playita",
+   "kind": "55",
+   "counties": [
+    "Salinas Municipio"
+   ],
+   "lat": 17.96109,
+   "lon": -66.28898,
+   "land_sqmi": 0.23,
+   "water_sqmi": 0,
+   "population": {
+    "count": 645,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Playita is a community in Salinas Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 645 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7263525",
+   "name": "Playita",
+   "kind": "55",
+   "counties": [
+    "Yabucoa Municipio"
+   ],
+   "lat": 18.04048,
+   "lon": -65.90711,
+   "land_sqmi": 0.693,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1302,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Playita is a community in Yabucoa Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 1,302 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7263568",
+   "name": "Playita Cortada",
+   "kind": "55",
+   "counties": [
+    "Santa Isabel Municipio"
+   ],
+   "lat": 17.97343,
+   "lon": -66.43899,
+   "land_sqmi": 0.895,
+   "water_sqmi": 1.054,
+   "population": {
+    "count": 1475,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Playita Cortada is a community in Santa Isabel Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land and 1.1 square miles of water, and 1,475 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7263697",
+   "name": "Pole Ojea",
+   "kind": "55",
+   "counties": [
+    "Cabo Rojo Municipio"
+   ],
+   "lat": 17.97238,
+   "lon": -67.18196,
+   "land_sqmi": 0.556,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 1399,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Pole Ojea is a community in Cabo Rojo Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 1,399 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7263820",
+   "name": "Ponce",
+   "kind": "62",
+   "counties": [
+    "Ponce Municipio"
+   ],
+   "lat": 17.99971,
+   "lon": -66.62368,
+   "land_sqmi": 28.352,
+   "water_sqmi": 9.214,
+   "population": {
+    "count": 107951,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Ponce is an urban area in Ponce Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 28 square miles of land and 9.2 square miles of water, and 107,951 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7264127",
+   "name": "Potala Pastillo",
+   "kind": "55",
+   "counties": [
+    "Juana Díaz Municipio"
+   ],
+   "lat": 17.99204,
+   "lon": -66.49672,
+   "land_sqmi": 0.509,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2455,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Potala Pastillo is a community in Juana Díaz Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 2,455 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7264400",
+   "name": "Pueblito del Carmen",
+   "kind": "55",
+   "counties": [
+    "Guayama Municipio"
+   ],
+   "lat": 18.03155,
+   "lon": -66.16558,
+   "land_sqmi": 0.911,
+   "water_sqmi": 0,
+   "population": {
+    "count": 424,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Pueblito del Carmen is a community in Guayama Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 424 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7264500",
+   "name": "Pueblito del Río",
+   "kind": "55",
+   "counties": [
+    "Las Piedras Municipio"
+   ],
+   "lat": 18.22798,
+   "lon": -65.86154,
+   "land_sqmi": 0.258,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1118,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Pueblito del Río is a community in Las Piedras Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 1,118 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7265589",
+   "name": "Puerto Real",
+   "kind": "55",
+   "counties": [
+    "Cabo Rojo Municipio"
+   ],
+   "lat": 18.07643,
+   "lon": -67.18733,
+   "land_sqmi": 1.195,
+   "water_sqmi": 0.643,
+   "population": {
+    "count": 5383,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Puerto Real is a community in Cabo Rojo Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land and 0.6 square miles of water, and 5,383 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7266492",
+   "name": "Punta Santiago",
+   "kind": "55",
+   "counties": [
+    "Humacao Municipio"
+   ],
+   "lat": 18.16093,
+   "lon": -65.7588,
+   "land_sqmi": 1.554,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 3524,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Punta Santiago is a community in Humacao Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land, and 3,524 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7266660",
+   "name": "Quebrada",
+   "kind": "55",
+   "counties": [
+    "Camuy Municipio"
+   ],
+   "lat": 18.3604,
+   "lon": -66.83545,
+   "land_sqmi": 0.165,
+   "water_sqmi": 0,
+   "population": {
+    "count": 730,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Quebrada is a community in Camuy Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 730 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7267200",
+   "name": "Quebrada del Agua",
+   "kind": "55",
+   "counties": [
+    "Ponce Municipio"
+   ],
+   "lat": 18.03775,
+   "lon": -66.68464,
+   "land_sqmi": 0.576,
+   "water_sqmi": 0,
+   "population": {
+    "count": 987,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Quebrada del Agua is a community in Ponce Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 987 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7267675",
+   "name": "Quebrada Prieta",
+   "kind": "55",
+   "counties": [
+    "Canóvanas Municipio"
+   ],
+   "lat": 18.29427,
+   "lon": -65.90376,
+   "land_sqmi": 1.892,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1060,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Quebrada Prieta is a community in Canóvanas Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land, and 1,060 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7268040",
+   "name": "Quebradillas",
+   "kind": "62",
+   "counties": [
+    "Quebradillas Municipio"
+   ],
+   "lat": 18.47134,
+   "lon": -66.9349,
+   "land_sqmi": 1.905,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 5658,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Quebradillas is an urban area in Quebradillas Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land, and 5,658 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7268513",
+   "name": "Rafael Capó",
+   "kind": "55",
+   "counties": [
+    "Hatillo Municipio"
+   ],
+   "lat": 18.39896,
+   "lon": -66.79201,
+   "land_sqmi": 1.558,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 1639,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Rafael Capó is a community in Hatillo Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land, and 1,639 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7268556",
+   "name": "Rafael González",
+   "kind": "55",
+   "counties": [
+    "Hatillo Municipio"
+   ],
+   "lat": 18.42538,
+   "lon": -66.78436,
+   "land_sqmi": 0.417,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1983,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Rafael González is a community in Hatillo Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 1,983 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7268599",
+   "name": "Rafael Hernández",
+   "kind": "55",
+   "counties": [
+    "Aguadilla Municipio"
+   ],
+   "lat": 18.47186,
+   "lon": -67.07858,
+   "land_sqmi": 0.283,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1152,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Rafael Hernández is a community in Aguadilla Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 1,152 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7268771",
+   "name": "Ramos",
+   "kind": "55",
+   "counties": [
+    "Luquillo Municipio"
+   ],
+   "lat": 18.33891,
+   "lon": -65.7111,
+   "land_sqmi": 1.096,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1497,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Ramos is a community in Luquillo Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 1,497 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7269488",
+   "name": "Rincón",
+   "kind": "55",
+   "counties": [
+    "Cidra Municipio"
+   ],
+   "lat": 18.14991,
+   "lon": -66.1569,
+   "land_sqmi": 0.567,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1134,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Rincón is a community in Cidra Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 1,134 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7269588",
+   "name": "Rincón",
+   "kind": "62",
+   "counties": [
+    "Rincón Municipio"
+   ],
+   "lat": 18.33881,
+   "lon": -67.25163,
+   "land_sqmi": 0.423,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1482,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Rincón is an urban area in Rincón Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 1,482 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7270448",
+   "name": "Río Blanco",
+   "kind": "55",
+   "counties": [
+    "Naguabo Municipio"
+   ],
+   "lat": 18.21232,
+   "lon": -65.79299,
+   "land_sqmi": 0.768,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1505,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Río Blanco is a community in Naguabo Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 1,505 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7270706",
+   "name": "Río Cañas Abajo",
+   "kind": "55",
+   "counties": [
+    "Juana Díaz Municipio"
+   ],
+   "lat": 18.03983,
+   "lon": -66.46816,
+   "land_sqmi": 0.314,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1364,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Río Cañas Abajo is a community in Juana Díaz Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 1,364 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7271136",
+   "name": "Río Grande",
+   "kind": "62",
+   "counties": [
+    "Río Grande Municipio"
+   ],
+   "lat": 18.3789,
+   "lon": -65.83889,
+   "land_sqmi": 1.383,
+   "water_sqmi": 0,
+   "population": {
+    "count": 10466,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Río Grande is an urban area in Río Grande Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.4 square miles of land, and 10,466 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7271437",
+   "name": "Río Lajas",
+   "kind": "55",
+   "counties": [
+    "Dorado Municipio"
+   ],
+   "lat": 18.39645,
+   "lon": -66.26346,
+   "land_sqmi": 1.509,
+   "water_sqmi": 0.007,
+   "population": {
+    "count": 1778,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Río Lajas is a community in Dorado Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 1,778 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7271996",
+   "name": "Rodríguez Hevia",
+   "kind": "55",
+   "counties": [
+    "Cidra Municipio"
+   ],
+   "lat": 18.20203,
+   "lon": -66.18222,
+   "land_sqmi": 0.385,
+   "water_sqmi": 0,
+   "population": {
+    "count": 255,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Rodríguez Hevia is a community in Cidra Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 255 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7272555",
+   "name": "Rosa Sánchez",
+   "kind": "55",
+   "counties": [
+    "Yabucoa Municipio"
+   ],
+   "lat": 18.06179,
+   "lon": -65.91363,
+   "land_sqmi": 0.581,
+   "water_sqmi": 0,
+   "population": {
+    "count": 963,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Rosa Sánchez is a community in Yabucoa Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 963 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7273200",
+   "name": "Sabana",
+   "kind": "55",
+   "counties": [
+    "Vega Alta Municipio",
+    "Vega Baja Municipio"
+   ],
+   "lat": 18.46431,
+   "lon": -66.35167,
+   "land_sqmi": 0.36,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1542,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Sabana is a community in Vega Alta and Vega Baja municipios in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 1,542 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7273372",
+   "name": "Sabana Eneas",
+   "kind": "55",
+   "counties": [
+    "San Germán Municipio"
+   ],
+   "lat": 18.08097,
+   "lon": -67.0852,
+   "land_sqmi": 0.38,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1283,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Sabana Eneas is a community in San Germán Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 1,283 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7273544",
+   "name": "Sabana Grande",
+   "kind": "62",
+   "counties": [
+    "Sabana Grande Municipio"
+   ],
+   "lat": 18.08265,
+   "lon": -66.96403,
+   "land_sqmi": 2.149,
+   "water_sqmi": 0,
+   "population": {
+    "count": 8536,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Sabana Grande is an urban area in Sabana Grande Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land, and 8,536 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7273716",
+   "name": "Sabana Hoyos",
+   "kind": "55",
+   "counties": [
+    "Arecibo Municipio"
+   ],
+   "lat": 18.42131,
+   "lon": -66.60838,
+   "land_sqmi": 2.602,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3239,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Sabana Hoyos is a community in Arecibo Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land, and 3,239 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7274189",
+   "name": "Sabana Seca",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.42729,
+   "lon": -66.18089,
+   "land_sqmi": 1.105,
+   "water_sqmi": 0,
+   "population": {
+    "count": 8252,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Sabana Seca is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 8,252 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7274877",
+   "name": "Salinas",
+   "kind": "62",
+   "counties": [
+    "Salinas Municipio"
+   ],
+   "lat": 17.97786,
+   "lon": -66.29619,
+   "land_sqmi": 0.782,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3991,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Salinas is an urban area in Salinas Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 3,991 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7275608",
+   "name": "San Antonio",
+   "kind": "55",
+   "counties": [
+    "Aguadilla Municipio"
+   ],
+   "lat": 18.49269,
+   "lon": -67.10085,
+   "land_sqmi": 0.483,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1695,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "San Antonio is a community in Aguadilla Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 1,695 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7275694",
+   "name": "San Antonio",
+   "kind": "55",
+   "counties": [
+    "Dorado Municipio"
+   ],
+   "lat": 18.44708,
+   "lon": -66.2994,
+   "land_sqmi": 1.882,
+   "water_sqmi": 0,
+   "population": {
+    "count": 7350,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "San Antonio is a community in Dorado Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land, and 7,350 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7275780",
+   "name": "San Antonio",
+   "kind": "55",
+   "counties": [
+    "Quebradillas Municipio"
+   ],
+   "lat": 18.43704,
+   "lon": -66.93472,
+   "land_sqmi": 1.356,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2232,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "San Antonio is a community in Quebradillas Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.4 square miles of land, and 2,232 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7276167",
+   "name": "San Germán",
+   "kind": "62",
+   "counties": [
+    "San Germán Municipio"
+   ],
+   "lat": 18.08296,
+   "lon": -67.046,
+   "land_sqmi": 2.864,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 9183,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "San Germán is an urban area in San Germán Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.9 square miles of land, and 9,183 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7276339",
+   "name": "San Isidro",
+   "kind": "55",
+   "counties": [
+    "Canóvanas Municipio"
+   ],
+   "lat": 18.39214,
+   "lon": -65.88433,
+   "land_sqmi": 0.75,
+   "water_sqmi": 0,
+   "population": {
+    "count": 6976,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "San Isidro is a community in Canóvanas Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 6,976 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7276683",
+   "name": "San José",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.40392,
+   "lon": -66.24904,
+   "land_sqmi": 1.144,
+   "water_sqmi": 0.013,
+   "population": {
+    "count": 2241,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "San José is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 2,241 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7276770",
+   "name": "San Juan",
+   "kind": "62",
+   "counties": [
+    "San Juan Municipio"
+   ],
+   "lat": 18.40456,
+   "lon": -66.06375,
+   "land_sqmi": 39.815,
+   "water_sqmi": 6.837,
+   "population": {
+    "count": 322854,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "San Juan is an urban area in San Juan Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 40 square miles of land and 6.8 square miles of water, and 322,854 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7277027",
+   "name": "San Lorenzo",
+   "kind": "62",
+   "counties": [
+    "San Lorenzo Municipio"
+   ],
+   "lat": 18.18706,
+   "lon": -65.96735,
+   "land_sqmi": 1.853,
+   "water_sqmi": 0.022,
+   "population": {
+    "count": 8664,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "San Lorenzo is an urban area in San Lorenzo Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land, and 8,664 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7277500",
+   "name": "San Sebastián",
+   "kind": "62",
+   "counties": [
+    "San Sebastián Municipio"
+   ],
+   "lat": 18.3355,
+   "lon": -66.99476,
+   "land_sqmi": 2.046,
+   "water_sqmi": 0,
+   "population": {
+    "count": 8470,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "San Sebastián is an urban area in San Sebastián Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land, and 8,470 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7277672",
+   "name": "Santa Bárbara",
+   "kind": "55",
+   "counties": [
+    "Canóvanas Municipio"
+   ],
+   "lat": 18.39549,
+   "lon": -65.91758,
+   "land_sqmi": 0.662,
+   "water_sqmi": 0.01,
+   "population": {
+    "count": 3358,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Santa Bárbara is a community in Canóvanas Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 3,358 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7277826",
+   "name": "Santa Clara",
+   "kind": "55",
+   "counties": [
+    "Aguas Buenas Municipio"
+   ],
+   "lat": 18.20934,
+   "lon": -66.13343,
+   "land_sqmi": 0.31,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 884,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Santa Clara is a community in Aguas Buenas Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 884 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7278145",
+   "name": "Santa Isabel",
+   "kind": "62",
+   "counties": [
+    "Santa Isabel Municipio"
+   ],
+   "lat": 17.96915,
+   "lon": -66.40505,
+   "land_sqmi": 1.023,
+   "water_sqmi": 0,
+   "population": {
+    "count": 5436,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Santa Isabel is an urban area in Santa Isabel Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 5,436 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7278317",
+   "name": "Santa María",
+   "kind": "55",
+   "counties": [
+    "Ceiba Municipio"
+   ],
+   "lat": 18.2709,
+   "lon": -65.66168,
+   "land_sqmi": 0.366,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 936,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Santa María is a community in Ceiba Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 936 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7279564",
+   "name": "Santo Domingo",
+   "kind": "55",
+   "counties": [
+    "Peñuelas Municipio"
+   ],
+   "lat": 18.07416,
+   "lon": -66.7449,
+   "land_sqmi": 2.199,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 2957,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Santo Domingo is a community in Peñuelas Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land, and 2,957 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7280596",
+   "name": "Stella",
+   "kind": "55",
+   "counties": [
+    "Rincón Municipio"
+   ],
+   "lat": 18.32363,
+   "lon": -67.24645,
+   "land_sqmi": 0.346,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1047,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Stella is a community in Rincón Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 1,047 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7280639",
+   "name": "Suárez",
+   "kind": "55",
+   "counties": [
+    "Loíza Municipio"
+   ],
+   "lat": 18.43175,
+   "lon": -65.85235,
+   "land_sqmi": 0.168,
+   "water_sqmi": 0.052,
+   "population": {
+    "count": 1535,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Suárez is a community in Loíza Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land and 0.1 square miles of water, and 1,535 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7281413",
+   "name": "Tallaboa",
+   "kind": "55",
+   "counties": [
+    "Peñuelas Municipio"
+   ],
+   "lat": 17.99351,
+   "lon": -66.70673,
+   "land_sqmi": 1.119,
+   "water_sqmi": 0,
+   "population": {
+    "count": 950,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Tallaboa is a community in Peñuelas Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 950 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7281456",
+   "name": "Tallaboa Alta",
+   "kind": "55",
+   "counties": [
+    "Peñuelas Municipio"
+   ],
+   "lat": 18.05011,
+   "lon": -66.7024,
+   "land_sqmi": 0.382,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1622,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Tallaboa Alta is a community in Peñuelas Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 1,622 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7282055",
+   "name": "Tibes",
+   "kind": "55",
+   "counties": [
+    "Ponce Municipio"
+   ],
+   "lat": 18.08865,
+   "lon": -66.63327,
+   "land_sqmi": 0.973,
+   "water_sqmi": 0,
+   "population": {
+    "count": 337,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Tibes is a community in Ponce Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 337 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7282125",
+   "name": "Tiburones",
+   "kind": "55",
+   "counties": [
+    "Barceloneta Municipio"
+   ],
+   "lat": 18.43805,
+   "lon": -66.58073,
+   "land_sqmi": 0.166,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1349,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Tiburones is a community in Barceloneta Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 1,349 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7282187",
+   "name": "Tierras Nuevas Poniente",
+   "kind": "55",
+   "counties": [
+    "Manatí Municipio"
+   ],
+   "lat": 18.46363,
+   "lon": -66.48849,
+   "land_sqmi": 0.916,
+   "water_sqmi": 0.087,
+   "population": {
+    "count": 3653,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Tierras Nuevas Poniente is a community in Manatí Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land and 0.1 square miles of water, and 3,653 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7282488",
+   "name": "Toa Alta",
+   "kind": "62",
+   "counties": [
+    "Toa Alta Municipio"
+   ],
+   "lat": 18.38812,
+   "lon": -66.25125,
+   "land_sqmi": 0.702,
+   "water_sqmi": 0.017,
+   "population": {
+    "count": 3769,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Toa Alta is an urban area in Toa Alta Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 3,769 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7282617",
+   "name": "Toa Baja",
+   "kind": "62",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.44393,
+   "lon": -66.25485,
+   "land_sqmi": 0.587,
+   "water_sqmi": 0.019,
+   "population": {
+    "count": 1202,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Toa Baja is an urban area in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 1,202 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7282692",
+   "name": "Toaville",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.44373,
+   "lon": -66.24308,
+   "land_sqmi": 0.061,
+   "water_sqmi": 0,
+   "population": {
+    "count": 404,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Toaville is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 404 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7282875",
+   "name": "Tomás de Castro",
+   "kind": "55",
+   "counties": [
+    "Caguas Municipio"
+   ],
+   "lat": 18.18407,
+   "lon": -66.01858,
+   "land_sqmi": 0.314,
+   "water_sqmi": 0,
+   "population": {
+    "count": 721,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Tomás de Castro is a community in Caguas Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 721 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7283606",
+   "name": "Trujillo Alto",
+   "kind": "62",
+   "counties": [
+    "Trujillo Alto Municipio"
+   ],
+   "lat": 18.35961,
+   "lon": -66.01266,
+   "land_sqmi": 7.399,
+   "water_sqmi": 0.128,
+   "population": {
+    "count": 43712,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Trujillo Alto is an urban area in Trujillo Alto Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.4 square miles of land and 0.1 square miles of water, and 43,712 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7284509",
+   "name": "Utuado",
+   "kind": "62",
+   "counties": [
+    "Utuado Municipio"
+   ],
+   "lat": 18.26913,
+   "lon": -66.70632,
+   "land_sqmi": 1.818,
+   "water_sqmi": 0.039,
+   "population": {
+    "count": 7207,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Utuado is an urban area in Utuado Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land, and 7,207 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7284917",
+   "name": "Valle Hill",
+   "kind": "55",
+   "counties": [
+    "Canóvanas Municipio"
+   ],
+   "lat": 18.39526,
+   "lon": -65.894,
+   "land_sqmi": 0.076,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1086,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Valle Hill is a community in Canóvanas Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 1,086 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7285025",
+   "name": "Vayas",
+   "kind": "55",
+   "counties": [
+    "Ponce Municipio"
+   ],
+   "lat": 18.05401,
+   "lon": -66.58574,
+   "land_sqmi": 0.107,
+   "water_sqmi": 0,
+   "population": {
+    "count": 388,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Vayas is a community in Ponce Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 388 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7285111",
+   "name": "Vázquez",
+   "kind": "55",
+   "counties": [
+    "Salinas Municipio"
+   ],
+   "lat": 18.06836,
+   "lon": -66.23316,
+   "land_sqmi": 1.477,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1710,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Vázquez is a community in Salinas Municipio in southern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 1,710 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7285197",
+   "name": "Vega Alta",
+   "kind": "62",
+   "counties": [
+    "Vega Alta Municipio"
+   ],
+   "lat": 18.41518,
+   "lon": -66.32116,
+   "land_sqmi": 1.892,
+   "water_sqmi": 0,
+   "population": {
+    "count": 8811,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Vega Alta is an urban area in Vega Alta Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land, and 8,811 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7285326",
+   "name": "Vega Baja",
+   "kind": "62",
+   "counties": [
+    "Vega Baja Municipio"
+   ],
+   "lat": 18.44105,
+   "lon": -66.39902,
+   "land_sqmi": 6.095,
+   "water_sqmi": 0.029,
+   "population": {
+    "count": 23415,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Vega Baja is an urban area in Vega Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.1 square miles of land, and 23,415 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7285971",
+   "name": "Vieques",
+   "kind": "55",
+   "counties": [
+    "Loíza Municipio"
+   ],
+   "lat": 18.42615,
+   "lon": -65.83229,
+   "land_sqmi": 0.318,
+   "water_sqmi": 0.339,
+   "population": {
+    "count": 2433,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Vieques is a community in Loíza Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land and 0.3 square miles of water, and 2,433 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7286014",
+   "name": "Vieques",
+   "kind": "62",
+   "counties": [
+    "Vieques Municipio"
+   ],
+   "lat": 18.14849,
+   "lon": -65.44395,
+   "land_sqmi": 0.58,
+   "water_sqmi": 0.299,
+   "population": {
+    "count": 1668,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Vieques is an urban area in Vieques Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land and 0.3 square miles of water, and 1,668 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7286250",
+   "name": "Villa Calma",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.44278,
+   "lon": -66.2322,
+   "land_sqmi": 0.083,
+   "water_sqmi": 0,
+   "population": {
+    "count": 987,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Villa Calma is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 987 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7286509",
+   "name": "Villa de Sabana",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.43456,
+   "lon": -66.19007,
+   "land_sqmi": 0.01,
+   "water_sqmi": 0,
+   "population": {
+    "count": 346,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Villa de Sabana is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers less than 0.1 square miles of land, and 346 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7286584",
+   "name": "Villa Esperanza",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.42615,
+   "lon": -66.23115,
+   "land_sqmi": 0.051,
+   "water_sqmi": 0,
+   "population": {
+    "count": 486,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Villa Esperanza is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 486 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7286788",
+   "name": "Villa Hugo I",
+   "kind": "55",
+   "counties": [
+    "Canóvanas Municipio"
+   ],
+   "lat": 18.39757,
+   "lon": -65.89084,
+   "land_sqmi": 0.04,
+   "water_sqmi": 0,
+   "population": {
+    "count": 413,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Villa Hugo I is a community in Canóvanas Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers less than 0.1 square miles of land, and 413 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7286796",
+   "name": "Villa Hugo II",
+   "kind": "55",
+   "counties": [
+    "Canóvanas Municipio"
+   ],
+   "lat": 18.39986,
+   "lon": -65.89316,
+   "land_sqmi": 0.15,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1355,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Villa Hugo II is a community in Canóvanas Municipio in northeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 1,355 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7286831",
+   "name": "Villalba",
+   "kind": "62",
+   "counties": [
+    "Villalba Municipio"
+   ],
+   "lat": 18.12781,
+   "lon": -66.4819,
+   "land_sqmi": 1.297,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3215,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Villalba is an urban area in Villalba Municipio in central Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 3,215 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7287240",
+   "name": "Villa Quintero",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.42544,
+   "lon": -66.23501,
+   "land_sqmi": 0.025,
+   "water_sqmi": 0,
+   "population": {
+    "count": 342,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Villa Quintero is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers less than 0.1 square miles of land, and 342 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7287272",
+   "name": "Villas del Sol",
+   "kind": "55",
+   "counties": [
+    "Toa Baja Municipio"
+   ],
+   "lat": 18.44885,
+   "lon": -66.22988,
+   "land_sqmi": 0.075,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 145,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Villas del Sol is a community in Toa Baja Municipio in northern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 145 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7287282",
+   "name": "Villa Sin Miedo",
+   "kind": "55",
+   "counties": [
+    "Canóvanas Municipio"
+   ],
+   "lat": 18.2565,
+   "lon": -65.87286,
+   "land_sqmi": 0.325,
+   "water_sqmi": 0,
+   "population": {
+    "count": 117,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Villa Sin Miedo is a community in Canóvanas Municipio in eastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 117 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7287638",
+   "name": "Voladoras",
+   "kind": "55",
+   "counties": [
+    "Moca Municipio"
+   ],
+   "lat": 18.37863,
+   "lon": -67.08607,
+   "land_sqmi": 0.152,
+   "water_sqmi": 0,
+   "population": {
+    "count": 670,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Voladoras is a community in Moca Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 670 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7287863",
+   "name": "Yabucoa",
+   "kind": "62",
+   "counties": [
+    "Yabucoa Municipio"
+   ],
+   "lat": 18.04632,
+   "lon": -65.88298,
+   "land_sqmi": 1.299,
+   "water_sqmi": 0,
+   "population": {
+    "count": 5196,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Yabucoa is an urban area in Yabucoa Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 5,196 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7288035",
+   "name": "Yauco",
+   "kind": "62",
+   "counties": [
+    "Yauco Municipio"
+   ],
+   "lat": 18.03479,
+   "lon": -66.86213,
+   "land_sqmi": 2.895,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 13569,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Yauco is an urban area in Yauco Municipio in southwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.9 square miles of land, and 13,569 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7288121",
+   "name": "Yaurel",
+   "kind": "55",
+   "counties": [
+    "Arroyo Municipio"
+   ],
+   "lat": 18.03007,
+   "lon": -66.05603,
+   "land_sqmi": 1.188,
+   "water_sqmi": 0,
+   "population": {
+    "count": 769,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Yaurel is a community in Arroyo Municipio in southeastern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 769 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "7288293",
+   "name": "Yeguada",
+   "kind": "55",
+   "counties": [
+    "Camuy Municipio"
+   ],
+   "lat": 18.48389,
+   "lon": -66.88024,
+   "land_sqmi": 0.516,
+   "water_sqmi": 0.291,
+   "population": {
+    "count": 1418,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Yeguada is a community in Camuy Municipio in northwestern Puerto Rico that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land and 0.3 square miles of water, and 1,418 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  }
+ ]
+}

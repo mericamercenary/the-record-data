@@ -1,0 +1,3285 @@
+{
+ "bundle": "cities-places",
+ "schema_version": 1,
+ "state": "HI",
+ "sources": [
+  {
+   "name": "U.S. Census Bureau, 2025 Gazetteer Files (places and counties)",
+   "url": "https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html"
+  },
+  {
+   "name": "U.S. Census Bureau, Vintage 2025 population estimates for cities and towns (July 1, 2025)",
+   "url": "https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 Census counts (TIGERweb, Census 2020 places)",
+   "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_Census2020/MapServer"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 place-to-county list",
+   "url": "https://www.census.gov/library/reference/code-lists/ansi.html"
+  }
+ ],
+ "places": [
+  {
+   "geoid": "1500400",
+   "name": "Ahuimanu",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.43789,
+   "lon": -157.84033,
+   "land_sqmi": 2.694,
+   "water_sqmi": 0,
+   "population": {
+    "count": 8969,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Ahuimanu is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.7 square miles of land, and 8,969 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1500550",
+   "name": "Aiea",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.38526,
+   "lon": -157.92475,
+   "land_sqmi": 1.661,
+   "water_sqmi": 0.107,
+   "population": {
+    "count": 10408,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Aiea is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land and 0.1 square miles of water, and 10,408 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1501085",
+   "name": "Ainaloa",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.52148,
+   "lon": -154.99438,
+   "land_sqmi": 1.98,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3609,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Ainaloa is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land, and 3,609 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1502200",
+   "name": "Anahola",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 22.1464,
+   "lon": -159.31459,
+   "land_sqmi": 3.685,
+   "water_sqmi": 0.387,
+   "population": {
+    "count": 2243,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Anahola is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.7 square miles of land and 0.4 square miles of water, and 2,243 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1502832",
+   "name": "Black Sands",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.41356,
+   "lon": -154.9588,
+   "land_sqmi": 0.54,
+   "water_sqmi": 0,
+   "population": {
+    "count": 416,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Black Sands is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 416 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1503850",
+   "name": "Captain Cook",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.49955,
+   "lon": -155.89368,
+   "land_sqmi": 12.856,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3253,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Captain Cook is a community in Hawaii County in southern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 13 square miles of land, and 3,253 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1505900",
+   "name": "Discovery Harbour",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.0415,
+   "lon": -155.62541,
+   "land_sqmi": 3.559,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1171,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Discovery Harbour is a community in Hawaii County in southern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.6 square miles of land, and 1,171 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1506290",
+   "name": "East Honolulu",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.28845,
+   "lon": -157.7179,
+   "land_sqmi": 23.006,
+   "water_sqmi": 11.448,
+   "population": {
+    "count": 50922,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "East Honolulu is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 23 square miles of land and 11 square miles of water, and 50,922 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1506300",
+   "name": "East Kapolei",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.36328,
+   "lon": -158.04095,
+   "land_sqmi": 3.647,
+   "water_sqmi": 0,
+   "population": {
+    "count": 5299,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "East Kapolei is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.6 square miles of land, and 5,299 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1506325",
+   "name": "Eden Roc",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.49175,
+   "lon": -155.09578,
+   "land_sqmi": 6.396,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1386,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Eden Roc is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.4 square miles of land, and 1,386 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1507000",
+   "name": "Eleele",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 21.90604,
+   "lon": -159.58277,
+   "land_sqmi": 0.769,
+   "water_sqmi": 0.316,
+   "population": {
+    "count": 2515,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Eleele is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land and 0.3 square miles of water, and 2,515 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1507450",
+   "name": "Ewa Beach",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.31274,
+   "lon": -158.00611,
+   "land_sqmi": 1.191,
+   "water_sqmi": 0.442,
+   "population": {
+    "count": 16415,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Ewa Beach is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land and 0.4 square miles of water, and 16,415 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1507470",
+   "name": "Ewa Gentry",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.33442,
+   "lon": -158.02621,
+   "land_sqmi": 2.129,
+   "water_sqmi": 0,
+   "population": {
+    "count": 25707,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Ewa Gentry is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land, and 25,707 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1507485",
+   "name": "Ewa Villages",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.34173,
+   "lon": -158.03893,
+   "land_sqmi": 1.128,
+   "water_sqmi": 0,
+   "population": {
+    "count": 7825,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Ewa Villages is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 7,825 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1507542",
+   "name": "Fern Acres",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.50822,
+   "lon": -155.07854,
+   "land_sqmi": 6.808,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1965,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Fern Acres is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.8 square miles of land, and 1,965 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1507675",
+   "name": "Fern Forest",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.46472,
+   "lon": -155.13238,
+   "land_sqmi": 12.473,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1150,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Fern Forest is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 12 square miles of land, and 1,150 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1508950",
+   "name": "Haena",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 22.2185,
+   "lon": -159.56109,
+   "land_sqmi": 1.453,
+   "water_sqmi": 0,
+   "population": {
+    "count": 550,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Haena is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 550 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1509260",
+   "name": "Haiku-Pauwela",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.92087,
+   "lon": -156.30187,
+   "land_sqmi": 15.78,
+   "water_sqmi": 3.388,
+   "population": {
+    "count": 8595,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Haiku-Pauwela is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 16 square miles of land and 3.4 square miles of water, and 8,595 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1509700",
+   "name": "Halaula",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 20.21709,
+   "lon": -155.77654,
+   "land_sqmi": 4.374,
+   "water_sqmi": 0.322,
+   "population": {
+    "count": 773,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Halaula is a community in Hawaii County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.4 square miles of land and 0.3 square miles of water, and 773 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1510000",
+   "name": "Halawa",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.37532,
+   "lon": -157.91849,
+   "land_sqmi": 2.389,
+   "water_sqmi": 0,
+   "population": {
+    "count": 15016,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Halawa is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land, and 15,016 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1510750",
+   "name": "Haleiwa",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.60238,
+   "lon": -158.09564,
+   "land_sqmi": 3.078,
+   "water_sqmi": 2.099,
+   "population": {
+    "count": 4941,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Haleiwa is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.1 square miles of land and 2.1 square miles of water, and 4,941 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1510900",
+   "name": "Haliimaile",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.86291,
+   "lon": -156.32854,
+   "land_sqmi": 3.449,
+   "water_sqmi": 0.026,
+   "population": {
+    "count": 1074,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Haliimaile is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.4 square miles of land, and 1,074 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1511350",
+   "name": "Hana",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.77398,
+   "lon": -156.01426,
+   "land_sqmi": 10.558,
+   "water_sqmi": 1.143,
+   "population": {
+    "count": 1526,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Hana is a community in Maui County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 11 square miles of land and 1.1 square miles of water, and 1,526 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1511500",
+   "name": "Hanalei",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 22.20385,
+   "lon": -159.49774,
+   "land_sqmi": 0.677,
+   "water_sqmi": 0.039,
+   "population": {
+    "count": 444,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Hanalei is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 444 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1511650",
+   "name": "Hanamaulu",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 21.99693,
+   "lon": -159.34711,
+   "land_sqmi": 1.272,
+   "water_sqmi": 0.177,
+   "population": {
+    "count": 4994,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Hanamaulu is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land and 0.2 square miles of water, and 4,994 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1511800",
+   "name": "Hanapepe",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 21.91331,
+   "lon": -159.58816,
+   "land_sqmi": 0.934,
+   "water_sqmi": 0.096,
+   "population": {
+    "count": 2678,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Hanapepe is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land and 0.1 square miles of water, and 2,678 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1512400",
+   "name": "Hauula",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.61205,
+   "lon": -157.91089,
+   "land_sqmi": 1.158,
+   "water_sqmi": 0.771,
+   "population": {
+    "count": 4018,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Hauula is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land and 0.8 square miles of water, and 4,018 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1512450",
+   "name": "Hawaiian Acres",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.53246,
+   "lon": -155.04971,
+   "land_sqmi": 19.431,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3426,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Hawaiian Acres is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 19 square miles of land, and 3,426 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1512500",
+   "name": "Hawaiian Beaches",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.54465,
+   "lon": -154.92893,
+   "land_sqmi": 15.221,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3976,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Hawaiian Beaches is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 15 square miles of land, and 3,976 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1512530",
+   "name": "Hawaiian Ocean View",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.09591,
+   "lon": -155.77496,
+   "land_sqmi": 36.301,
+   "water_sqmi": 0,
+   "population": {
+    "count": 4864,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Hawaiian Ocean View is a community in Hawaii County in southern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 36 square miles of land, and 4,864 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1512600",
+   "name": "Hawaiian Paradise Park",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.58728,
+   "lon": -154.97307,
+   "land_sqmi": 15.301,
+   "water_sqmi": 0.372,
+   "population": {
+    "count": 14957,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Hawaiian Paradise Park is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 15 square miles of land and 0.4 square miles of water, and 14,957 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1513600",
+   "name": "Hawi",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 20.22741,
+   "lon": -155.8396,
+   "land_sqmi": 8.101,
+   "water_sqmi": 0.008,
+   "population": {
+    "count": 2268,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Hawi is a community in Hawaii County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8.1 square miles of land, and 2,268 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1513900",
+   "name": "Heeia",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.42022,
+   "lon": -157.81888,
+   "land_sqmi": 3.201,
+   "water_sqmi": 0.252,
+   "population": {
+    "count": 5001,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Heeia is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.2 square miles of land and 0.3 square miles of water, and 5,001 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1513970",
+   "name": "Helemano",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.53611,
+   "lon": -158.01948,
+   "land_sqmi": 0.465,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2549,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Helemano is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 2,549 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1514200",
+   "name": "Hickam Housing",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.33096,
+   "lon": -157.95436,
+   "land_sqmi": 4.609,
+   "water_sqmi": 0.297,
+   "population": {
+    "count": 7581,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Hickam Housing is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.6 square miles of land and 0.3 square miles of water, and 7,581 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1514650",
+   "name": "Hilo",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.68875,
+   "lon": -155.08289,
+   "land_sqmi": 53.606,
+   "water_sqmi": 6.015,
+   "population": {
+    "count": 44186,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Hilo is a community in Hawaii County in eastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 54 square miles of land and 6 square miles of water, and 44,186 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1515700",
+   "name": "Holualoa",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.66857,
+   "lon": -155.91872,
+   "land_sqmi": 35.103,
+   "water_sqmi": 0.007,
+   "population": {
+    "count": 2994,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Holualoa is a community in Hawaii County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 35 square miles of land, and 2,994 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1516000",
+   "name": "Honalo",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.58102,
+   "lon": -155.89844,
+   "land_sqmi": 27.173,
+   "water_sqmi": 0,
+   "population": {
+    "count": 996,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Honalo is a community in Hawaii County in southern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 27 square miles of land, and 996 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1516160",
+   "name": "Honaunau-Napoopoo",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.47251,
+   "lon": -155.84149,
+   "land_sqmi": 38.005,
+   "water_sqmi": 3.883,
+   "population": {
+    "count": 2416,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Honaunau-Napoopoo is a community in Hawaii County in southern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 38 square miles of land and 3.9 square miles of water, and 2,416 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1516450",
+   "name": "Honokaa",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 20.07758,
+   "lon": -155.46439,
+   "land_sqmi": 2.106,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2699,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Honokaa is a community in Hawaii County in eastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land, and 2,699 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1517450",
+   "name": "Honomu",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.8701,
+   "lon": -155.10993,
+   "land_sqmi": 0.457,
+   "water_sqmi": 0.029,
+   "population": {
+    "count": 452,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Honomu is a community in Hawaii County in eastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 452 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1519100",
+   "name": "Iroquois Point",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.32068,
+   "lon": -157.97743,
+   "land_sqmi": 0.813,
+   "water_sqmi": 0.332,
+   "population": {
+    "count": 4549,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Iroquois Point is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land and 0.3 square miles of water, and 4,549 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1519550",
+   "name": "Kaaawa",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.54315,
+   "lon": -157.85048,
+   "land_sqmi": 0.797,
+   "water_sqmi": 0.525,
+   "population": {
+    "count": 1421,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Kaaawa is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land and 0.5 square miles of water, and 1,421 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1520000",
+   "name": "Kaanapali",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.93047,
+   "lon": -156.68645,
+   "land_sqmi": 5.003,
+   "water_sqmi": 1.332,
+   "population": {
+    "count": 1161,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Kaanapali is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5 square miles of land and 1.3 square miles of water, and 1,161 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1521200",
+   "name": "Kahaluu",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.45636,
+   "lon": -157.84214,
+   "land_sqmi": 3.481,
+   "water_sqmi": 1.044,
+   "population": {
+    "count": 5241,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Kahaluu is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.5 square miles of land and 1 square mile of water, and 5,241 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1521230",
+   "name": "Kahaluu-Keauhou",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.57308,
+   "lon": -155.95728,
+   "land_sqmi": 8.006,
+   "water_sqmi": 2.275,
+   "population": {
+    "count": 4778,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Kahaluu-Keauhou is a community in Hawaii County in southern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8 square miles of land and 2.3 square miles of water, and 4,778 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1522250",
+   "name": "Kahuku",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.67894,
+   "lon": -157.94316,
+   "land_sqmi": 0.963,
+   "water_sqmi": 1.343,
+   "population": {
+    "count": 2852,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Kahuku is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land and 1.3 square miles of water, and 2,852 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1522700",
+   "name": "Kahului",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.86847,
+   "lon": -156.46562,
+   "land_sqmi": 14.386,
+   "water_sqmi": 1.645,
+   "population": {
+    "count": 28219,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Kahului is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 14 square miles of land and 1.6 square miles of water, and 28,219 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1523000",
+   "name": "Kailua",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.64558,
+   "lon": -155.99775,
+   "land_sqmi": 13.797,
+   "water_sqmi": 5.396,
+   "population": {
+    "count": 19713,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Kailua is a community in Hawaii County in southern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 14 square miles of land and 5.4 square miles of water, and 19,713 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1523150",
+   "name": "Kailua",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.39678,
+   "lon": -157.7358,
+   "land_sqmi": 7.773,
+   "water_sqmi": 2.821,
+   "population": {
+    "count": 40514,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Kailua is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.8 square miles of land and 2.8 square miles of water, and 40,514 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1523675",
+   "name": "Kaiminani",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.7567,
+   "lon": -156.00109,
+   "land_sqmi": 37.208,
+   "water_sqmi": 3.743,
+   "population": {
+    "count": 12590,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Kaiminani is a community in Hawaii County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 37 square miles of land and 3.7 square miles of water, and 12,590 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1524850",
+   "name": "Kalaeloa",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.31351,
+   "lon": -158.06503,
+   "land_sqmi": 6.097,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2364,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Kalaeloa is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.1 square miles of land, and 2,364 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1524950",
+   "name": "Kalaheo",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 21.91856,
+   "lon": -159.51873,
+   "land_sqmi": 3.499,
+   "water_sqmi": 0.044,
+   "population": {
+    "count": 4996,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Kalaheo is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.5 square miles of land, and 4,996 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1525700",
+   "name": "Kalapana",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.35656,
+   "lon": -154.97519,
+   "land_sqmi": 1.518,
+   "water_sqmi": 0,
+   "population": {
+    "count": 167,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Kalapana is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 167 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1526750",
+   "name": "Kalihiwai",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 22.21761,
+   "lon": -159.44917,
+   "land_sqmi": 2.642,
+   "water_sqmi": 0.124,
+   "population": {
+    "count": 361,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Kalihiwai is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land and 0.1 square miles of water, and 361 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1526867",
+   "name": "Kaloko",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.72839,
+   "lon": -155.95374,
+   "land_sqmi": 13.508,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 1314,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Kaloko is a community in Hawaii County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 14 square miles of land, and 1,314 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1527350",
+   "name": "Kamaili",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.43911,
+   "lon": -154.91885,
+   "land_sqmi": 7.08,
+   "water_sqmi": 0,
+   "population": {
+    "count": 157,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Kamaili is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.1 square miles of land, and 157 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1528250",
+   "name": "Kaneohe",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.40933,
+   "lon": -157.78965,
+   "land_sqmi": 6.543,
+   "water_sqmi": 1.918,
+   "population": {
+    "count": 37430,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Kaneohe is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.5 square miles of land and 1.9 square miles of water, and 37,430 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1528287",
+   "name": "Kaneohe Base",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.44545,
+   "lon": -157.75144,
+   "land_sqmi": 4.404,
+   "water_sqmi": 1.418,
+   "population": {
+    "count": 9483,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Kaneohe Base is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.4 square miles of land and 1.4 square miles of water, and 9,483 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1528850",
+   "name": "Kapaa",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 22.08822,
+   "lon": -159.35194,
+   "land_sqmi": 10.032,
+   "water_sqmi": 0.333,
+   "population": {
+    "count": 11652,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Kapaa is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 10 square miles of land and 0.3 square miles of water, and 11,652 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1529000",
+   "name": "Kapaau",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 20.2346,
+   "lon": -155.80165,
+   "land_sqmi": 6.177,
+   "water_sqmi": 0.01,
+   "population": {
+    "count": 2008,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Kapaau is a community in Hawaii County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.2 square miles of land, and 2,008 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1529725",
+   "name": "Kapalua",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.99406,
+   "lon": -156.64307,
+   "land_sqmi": 4.845,
+   "water_sqmi": 1.013,
+   "population": {
+    "count": 495,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Kapalua is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.8 square miles of land and 1 square mile of water, and 495 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1530300",
+   "name": "Kapolei",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.33993,
+   "lon": -158.06783,
+   "land_sqmi": 4.369,
+   "water_sqmi": 0,
+   "population": {
+    "count": 21411,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Kapolei is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.4 square miles of land, and 21,411 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1530650",
+   "name": "Kaumakani",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 21.91777,
+   "lon": -159.62727,
+   "land_sqmi": 0.949,
+   "water_sqmi": 0.111,
+   "population": {
+    "count": 672,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Kaumakani is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land and 0.1 square miles of water, and 672 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1531100",
+   "name": "Kaunakakai",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 21.09415,
+   "lon": -157.00095,
+   "land_sqmi": 12.843,
+   "water_sqmi": 3.603,
+   "population": {
+    "count": 3419,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Kaunakakai is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 13 square miles of land and 3.6 square miles of water, and 3,419 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1532700",
+   "name": "Kawela Bay",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.69898,
+   "lon": -157.9989,
+   "land_sqmi": 0.581,
+   "water_sqmi": 1.4,
+   "population": {
+    "count": 325,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Kawela Bay is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land and 1.4 square miles of water, and 325 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1532900",
+   "name": "Keaau",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.62348,
+   "lon": -155.04816,
+   "land_sqmi": 6.332,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1195,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Keaau is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.3 square miles of land, and 1,195 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1533950",
+   "name": "Kealakekua",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.52867,
+   "lon": -155.91111,
+   "land_sqmi": 9.998,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2307,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Kealakekua is a community in Hawaii County in southern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 10 square miles of land, and 2,307 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1535600",
+   "name": "Kekaha",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 21.96754,
+   "lon": -159.71447,
+   "land_sqmi": 0.959,
+   "water_sqmi": 0.332,
+   "population": {
+    "count": 3715,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Kekaha is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land and 0.3 square miles of water, and 3,715 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1536050",
+   "name": "Keokea",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.72103,
+   "lon": -156.36244,
+   "land_sqmi": 18.347,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2199,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Keokea is a community in Maui County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 18 square miles of land, and 2,199 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1536500",
+   "name": "Kihei",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.76609,
+   "lon": -156.43521,
+   "land_sqmi": 9.364,
+   "water_sqmi": 2.383,
+   "population": {
+    "count": 21423,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Kihei is a community in Maui County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 9.4 square miles of land and 2.4 square miles of water, and 21,423 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1536650",
+   "name": "Kilauea",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 22.21203,
+   "lon": -159.39866,
+   "land_sqmi": 4.97,
+   "water_sqmi": 0.3,
+   "population": {
+    "count": 3014,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Kilauea is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5 square miles of land and 0.3 square miles of water, and 3,014 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1539200",
+   "name": "Koloa",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 21.90297,
+   "lon": -159.46107,
+   "land_sqmi": 1.25,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2231,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Koloa is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 2,231 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1539400",
+   "name": "Ko Olina",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.33777,
+   "lon": -158.11862,
+   "land_sqmi": 1.079,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1999,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Ko Olina is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 1,999 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1539500",
+   "name": "Kualapuu",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 21.15504,
+   "lon": -157.06424,
+   "land_sqmi": 29.298,
+   "water_sqmi": 0.136,
+   "population": {
+    "count": 2110,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Kualapuu is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 29 square miles of land and 0.1 square miles of water, and 2,110 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1541000",
+   "name": "Kukuihaele",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 20.12133,
+   "lon": -155.56252,
+   "land_sqmi": 1.713,
+   "water_sqmi": 0.58,
+   "population": {
+    "count": 281,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Kukuihaele is a community in Hawaii County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land and 0.6 square miles of water, and 281 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1541600",
+   "name": "Kula",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.76806,
+   "lon": -156.33454,
+   "land_sqmi": 34.54,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 6942,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Kula is a community in Maui County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 35 square miles of land, and 6,942 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1542800",
+   "name": "Kurtistown",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.58601,
+   "lon": -155.07128,
+   "land_sqmi": 7.153,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2515,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Kurtistown is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.2 square miles of land, and 2,515 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1542950",
+   "name": "Lahaina",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.88605,
+   "lon": -156.66619,
+   "land_sqmi": 7.776,
+   "water_sqmi": 1.518,
+   "population": {
+    "count": 12702,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Lahaina is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.8 square miles of land and 1.5 square miles of water, and 12,702 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1543250",
+   "name": "Laie",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.64555,
+   "lon": -157.92285,
+   "land_sqmi": 1.339,
+   "water_sqmi": 0.833,
+   "population": {
+    "count": 5963,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Laie is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land and 0.8 square miles of water, and 5,963 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1543700",
+   "name": "Lanai City",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.82793,
+   "lon": -156.9147,
+   "land_sqmi": 6.767,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3332,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Lanai City is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.8 square miles of land, and 3,332 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1544075",
+   "name": "Launiupoko",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.85435,
+   "lon": -156.64249,
+   "land_sqmi": 5.329,
+   "water_sqmi": 0.006,
+   "population": {
+    "count": 688,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Launiupoko is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.3 square miles of land, and 688 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1544150",
+   "name": "Laupahoehoe",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.96994,
+   "lon": -155.23614,
+   "land_sqmi": 3.241,
+   "water_sqmi": 0.253,
+   "population": {
+    "count": 1147,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Laupahoehoe is a community in Hawaii County in eastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.2 square miles of land and 0.3 square miles of water, and 1,147 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1544450",
+   "name": "Lawai",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 21.92012,
+   "lon": -159.50096,
+   "land_sqmi": 4.058,
+   "water_sqmi": 0.097,
+   "population": {
+    "count": 2578,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Lawai is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.1 square miles of land and 0.1 square miles of water, and 2,578 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1544562",
+   "name": "Leilani Estates",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.46585,
+   "lon": -154.91574,
+   "land_sqmi": 4.035,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1139,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Leilani Estates is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4 square miles of land, and 1,139 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1545200",
+   "name": "Lihue",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 21.97258,
+   "lon": -159.35581,
+   "land_sqmi": 7.457,
+   "water_sqmi": 0.779,
+   "population": {
+    "count": 8004,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Lihue is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.5 square miles of land and 0.8 square miles of water, and 8,004 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1546400",
+   "name": "Maalaea",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.80224,
+   "lon": -156.48866,
+   "land_sqmi": 5.155,
+   "water_sqmi": 2.33,
+   "population": {
+    "count": 310,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Maalaea is a community in Maui County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.2 square miles of land and 2.3 square miles of water, and 310 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1547050",
+   "name": "Mahinahina",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.95463,
+   "lon": -156.65727,
+   "land_sqmi": 6.653,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 910,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Mahinahina is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.7 square miles of land, and 910 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1547300",
+   "name": "Maili",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.41439,
+   "lon": -158.17483,
+   "land_sqmi": 1.709,
+   "water_sqmi": 1.094,
+   "population": {
+    "count": 11535,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Maili is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land and 1.1 square miles of water, and 11,535 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1547450",
+   "name": "Makaha",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.46768,
+   "lon": -158.21639,
+   "land_sqmi": 2.69,
+   "water_sqmi": 2.865,
+   "population": {
+    "count": 9916,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Makaha is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.7 square miles of land and 2.9 square miles of water, and 9,916 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1547560",
+   "name": "Makaha Valley",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.48437,
+   "lon": -158.18428,
+   "land_sqmi": 3.739,
+   "water_sqmi": 0,
+   "population": {
+    "count": 198,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Makaha Valley is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.7 square miles of land, and 198 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1547600",
+   "name": "Makakilo",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.35902,
+   "lon": -158.08121,
+   "land_sqmi": 3.821,
+   "water_sqmi": 0,
+   "population": {
+    "count": 19877,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Makakilo is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.8 square miles of land, and 19,877 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1548050",
+   "name": "Makawao",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.84805,
+   "lon": -156.31903,
+   "land_sqmi": 3.546,
+   "water_sqmi": 0,
+   "population": {
+    "count": 7297,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Makawao is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.5 square miles of land, and 7,297 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1548350",
+   "name": "Makena",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.62404,
+   "lon": -156.42862,
+   "land_sqmi": 9.47,
+   "water_sqmi": 2.069,
+   "population": {
+    "count": 196,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Makena is a community in Maui County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 9.5 square miles of land and 2.1 square miles of water, and 196 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1549425",
+   "name": "Manele",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.74198,
+   "lon": -156.90117,
+   "land_sqmi": 1.226,
+   "water_sqmi": 0,
+   "population": {
+    "count": 7,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Manele is a community in Maui County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 7 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1550150",
+   "name": "Maunaloa",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 21.13338,
+   "lon": -157.21222,
+   "land_sqmi": 0.736,
+   "water_sqmi": 0,
+   "population": {
+    "count": 435,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Maunaloa is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 435 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1550375",
+   "name": "Mauna Loa Estates",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.42743,
+   "lon": -155.22132,
+   "land_sqmi": 1.837,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1057,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Mauna Loa Estates is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land, and 1,057 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1550750",
+   "name": "Maunawili",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.36674,
+   "lon": -157.77131,
+   "land_sqmi": 1.828,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2026,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Maunawili is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land, and 2,026 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1551000",
+   "name": "Mililani Mauka",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.47563,
+   "lon": -157.99483,
+   "land_sqmi": 3.994,
+   "water_sqmi": 0,
+   "population": {
+    "count": 21075,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Mililani Mauka is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4 square miles of land, and 21,075 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1551050",
+   "name": "Mililani Town",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.44651,
+   "lon": -158.01464,
+   "land_sqmi": 4.009,
+   "water_sqmi": 0,
+   "population": {
+    "count": 28121,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Mililani Town is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4 square miles of land, and 28,121 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1552550",
+   "name": "Mokuleia",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.57944,
+   "lon": -158.17176,
+   "land_sqmi": 2.707,
+   "water_sqmi": 1.235,
+   "population": {
+    "count": 1816,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Mokuleia is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.7 square miles of land and 1.2 square miles of water, and 1,816 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1553300",
+   "name": "Mountain View",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.53451,
+   "lon": -155.18443,
+   "land_sqmi": 54.946,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 4215,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Mountain View is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 55 square miles of land, and 4,215 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1553600",
+   "name": "Naalehu",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.06982,
+   "lon": -155.57513,
+   "land_sqmi": 2.168,
+   "water_sqmi": 0,
+   "population": {
+    "count": 811,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Naalehu is a community in Hawaii County in southern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land, and 811 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1553900",
+   "name": "Nanakuli",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.38985,
+   "lon": -158.15497,
+   "land_sqmi": 2.989,
+   "water_sqmi": 3.577,
+   "population": {
+    "count": 12195,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Nanakuli is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land and 3.6 square miles of water, and 12,195 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1553975",
+   "name": "Nanawale Estates",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.50356,
+   "lon": -154.9104,
+   "land_sqmi": 2.534,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1652,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Nanawale Estates is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.5 square miles of land, and 1,652 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1554100",
+   "name": "Napili-Honokowai",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.97329,
+   "lon": -156.66505,
+   "land_sqmi": 2.597,
+   "water_sqmi": 1.641,
+   "population": {
+    "count": 7042,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Napili-Honokowai is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land and 1.6 square miles of water, and 7,042 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1556685",
+   "name": "Ocean Pointe",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.31352,
+   "lon": -158.02715,
+   "land_sqmi": 2.024,
+   "water_sqmi": 0.113,
+   "population": {
+    "count": 14965,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Ocean Pointe is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land and 0.1 square miles of water, and 14,965 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1557350",
+   "name": "Olinda",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.82782,
+   "lon": -156.29164,
+   "land_sqmi": 7.495,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 1188,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Olinda is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.5 square miles of land, and 1,188 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1557650",
+   "name": "Olowalu",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.82769,
+   "lon": -156.61945,
+   "land_sqmi": 2.944,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 100,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Olowalu is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.9 square miles of land, and 100 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1557800",
+   "name": "Omao",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 21.93658,
+   "lon": -159.48573,
+   "land_sqmi": 1.268,
+   "water_sqmi": 0.016,
+   "population": {
+    "count": 1346,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Omao is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 1,346 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1558775",
+   "name": "Orchidlands Estates",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.557,
+   "lon": -155.01424,
+   "land_sqmi": 9.707,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3165,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Orchidlands Estates is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 9.7 square miles of land, and 3,165 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1559300",
+   "name": "Paauilo",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 20.03486,
+   "lon": -155.37359,
+   "land_sqmi": 1.2,
+   "water_sqmi": 0.045,
+   "population": {
+    "count": 618,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Paauilo is a community in Hawaii County in eastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 618 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1559750",
+   "name": "Pahala",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.19919,
+   "lon": -155.47728,
+   "land_sqmi": 0.642,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1403,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Pahala is a community in Hawaii County in southern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 1,403 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1559900",
+   "name": "Pahoa",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.49597,
+   "lon": -154.94535,
+   "land_sqmi": 2.178,
+   "water_sqmi": 0,
+   "population": {
+    "count": 924,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Pahoa is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land, and 924 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1560200",
+   "name": "Paia",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.90935,
+   "lon": -156.36929,
+   "land_sqmi": 6.131,
+   "water_sqmi": 1.331,
+   "population": {
+    "count": 2470,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Paia is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.1 square miles of land and 1.3 square miles of water, and 2,470 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1560350",
+   "name": "Pakala Village",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 21.95099,
+   "lon": -159.63914,
+   "land_sqmi": 2.396,
+   "water_sqmi": 0.342,
+   "population": {
+    "count": 286,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Pakala Village is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land and 0.3 square miles of water, and 286 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1561550",
+   "name": "Papaikou",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.79234,
+   "lon": -155.09224,
+   "land_sqmi": 1.454,
+   "water_sqmi": 0.715,
+   "population": {
+    "count": 1166,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Papaikou is a community in Hawaii County in eastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land and 0.7 square miles of water, and 1,166 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1561700",
+   "name": "Paukaa",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.7644,
+   "lon": -155.09191,
+   "land_sqmi": 0.329,
+   "water_sqmi": 0.1,
+   "population": {
+    "count": 434,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Paukaa is a community in Hawaii County in eastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land and 0.1 square miles of water, and 434 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1562600",
+   "name": "Pearl City",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.40261,
+   "lon": -157.95691,
+   "land_sqmi": 9.12,
+   "water_sqmi": 0.936,
+   "population": {
+    "count": 45295,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Pearl City is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 9.1 square miles of land and 0.9 square miles of water, and 45,295 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1563650",
+   "name": "Pepeekeo",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.83251,
+   "lon": -155.10563,
+   "land_sqmi": 1.099,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1826,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Pepeekeo is a community in Hawaii County in eastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 1,826 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1564550",
+   "name": "Poipu",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 21.88605,
+   "lon": -159.45717,
+   "land_sqmi": 2.591,
+   "water_sqmi": 0.32,
+   "population": {
+    "count": 1299,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Poipu is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land and 0.3 square miles of water, and 1,299 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1565075",
+   "name": "Princeville",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 22.21968,
+   "lon": -159.48144,
+   "land_sqmi": 2.601,
+   "water_sqmi": 0.045,
+   "population": {
+    "count": 2157,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Princeville is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land, and 2,157 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1565150",
+   "name": "Puako",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.95913,
+   "lon": -155.84911,
+   "land_sqmi": 3.207,
+   "water_sqmi": 2.232,
+   "population": {
+    "count": 267,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Puako is a community in Hawaii County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.2 square miles of land and 2.2 square miles of water, and 267 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1565750",
+   "name": "Puhi",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 21.96158,
+   "lon": -159.39172,
+   "land_sqmi": 0.889,
+   "water_sqmi": 0.004,
+   "population": {
+    "count": 3380,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Puhi is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 3,380 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1565900",
+   "name": "Pukalani",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.83291,
+   "lon": -156.34151,
+   "land_sqmi": 3.773,
+   "water_sqmi": 0,
+   "population": {
+    "count": 8299,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Pukalani is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.8 square miles of land, and 8,299 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1566500",
+   "name": "Punaluu",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.58189,
+   "lon": -157.88957,
+   "land_sqmi": 1.601,
+   "water_sqmi": 0.465,
+   "population": {
+    "count": 1374,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Punaluu is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land and 0.5 square miles of water, and 1,374 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1566800",
+   "name": "Pupukea",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.65219,
+   "lon": -158.05788,
+   "land_sqmi": 3.437,
+   "water_sqmi": 2.645,
+   "population": {
+    "count": 5130,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Pupukea is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.4 square miles of land and 2.6 square miles of water, and 5,130 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1568807",
+   "name": "Royal Hawaiian Estates",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.44122,
+   "lon": -155.18403,
+   "land_sqmi": 2.922,
+   "water_sqmi": 0,
+   "population": {
+    "count": 790,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Royal Hawaiian Estates is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.9 square miles of land, and 790 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1568815",
+   "name": "Royal Kunia",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.40528,
+   "lon": -158.03181,
+   "land_sqmi": 3.011,
+   "water_sqmi": 0,
+   "population": {
+    "count": 14896,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Royal Kunia is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land, and 14,896 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1569050",
+   "name": "Schofield Barracks",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.49278,
+   "lon": -158.06221,
+   "land_sqmi": 2.771,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 14904,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Schofield Barracks is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.8 square miles of land, and 14,904 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1569238",
+   "name": "Seaview",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.40672,
+   "lon": -154.92145,
+   "land_sqmi": 0.658,
+   "water_sqmi": 0,
+   "population": {
+    "count": 512,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Seaview is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 512 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1570280",
+   "name": "Tiki Gardens",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.5287,
+   "lon": -155.00309,
+   "land_sqmi": 1.719,
+   "water_sqmi": 0,
+   "population": {
+    "count": 555,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Tiki Gardens is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land, and 555 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1570700",
+   "name": "Ualapue",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 21.07188,
+   "lon": -156.83499,
+   "land_sqmi": 3.165,
+   "water_sqmi": 0.472,
+   "population": {
+    "count": 393,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Ualapue is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.2 square miles of land and 0.5 square miles of water, and 393 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1571550",
+   "name": "Urban Honolulu",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.32435,
+   "lon": -157.84764,
+   "land_sqmi": 60.622,
+   "water_sqmi": 7.832,
+   "population": {
+    "count": 350964,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Urban Honolulu is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 61 square miles of land and 7.8 square miles of water, and 350,964 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1572350",
+   "name": "Volcano",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.48641,
+   "lon": -155.27741,
+   "land_sqmi": 26.694,
+   "water_sqmi": 0,
+   "population": {
+    "count": 736,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Volcano is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 27 square miles of land, and 736 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1572468",
+   "name": "Volcano Golf Course",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.44237,
+   "lon": -155.27883,
+   "land_sqmi": 0.928,
+   "water_sqmi": 0,
+   "population": {
+    "count": 363,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Volcano Golf Course is a community in Hawaii County in southeastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 363 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1572650",
+   "name": "Wahiawa",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.50067,
+   "lon": -158.01796,
+   "land_sqmi": 2.289,
+   "water_sqmi": 0.252,
+   "population": {
+    "count": 18658,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Wahiawa is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.3 square miles of land and 0.3 square miles of water, and 18,658 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1572957",
+   "name": "Waiahole-Waikane",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.48978,
+   "lon": -157.86596,
+   "land_sqmi": 6.812,
+   "water_sqmi": 0.374,
+   "population": {
+    "count": 728,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Waiahole-Waikane is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.8 square miles of land and 0.4 square miles of water, and 728 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1574000",
+   "name": "Waialua",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.56745,
+   "lon": -158.12052,
+   "land_sqmi": 2.191,
+   "water_sqmi": 0.198,
+   "population": {
+    "count": 4062,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Waialua is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land and 0.2 square miles of water, and 4,062 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1574450",
+   "name": "Waianae",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.45182,
+   "lon": -158.18204,
+   "land_sqmi": 5.394,
+   "water_sqmi": 1.688,
+   "population": {
+    "count": 13614,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Waianae is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.4 square miles of land and 1.7 square miles of water, and 13,614 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1575510",
+   "name": "Waihee-Waiehu",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.92393,
+   "lon": -156.50756,
+   "land_sqmi": 4.264,
+   "water_sqmi": 0.859,
+   "population": {
+    "count": 9234,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Waihee-Waiehu is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.3 square miles of land and 0.9 square miles of water, and 9,234 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1575950",
+   "name": "Waikapu",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.83665,
+   "lon": -156.5306,
+   "land_sqmi": 11.019,
+   "water_sqmi": 0.02,
+   "population": {
+    "count": 3437,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Waikapu is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 11 square miles of land, and 3,437 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1576250",
+   "name": "Waikele",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.40255,
+   "lon": -158.00583,
+   "land_sqmi": 1.1,
+   "water_sqmi": 0,
+   "population": {
+    "count": 7509,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Waikele is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 7,509 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1576584",
+   "name": "Waikoloa Beach Resort",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.93056,
+   "lon": -155.87791,
+   "land_sqmi": 7.09,
+   "water_sqmi": 5.099,
+   "population": {
+    "count": 757,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Waikoloa Beach Resort is a community in Hawaii County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.1 square miles of land and 5.1 square miles of water, and 757 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1576600",
+   "name": "Waikoloa Village",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.94425,
+   "lon": -155.80527,
+   "land_sqmi": 15.762,
+   "water_sqmi": 0,
+   "population": {
+    "count": 7104,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Waikoloa Village is a community in Hawaii County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 16 square miles of land, and 7,104 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1576925",
+   "name": "Wailea",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.68235,
+   "lon": -156.43532,
+   "land_sqmi": 7.444,
+   "water_sqmi": 3.298,
+   "population": {
+    "count": 6027,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Wailea is a community in Maui County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.4 square miles of land and 3.3 square miles of water, and 6,027 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1577000",
+   "name": "Wailua",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 22.05448,
+   "lon": -159.33721,
+   "land_sqmi": 1.536,
+   "water_sqmi": 0.307,
+   "population": {
+    "count": 2359,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Wailua is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land and 0.3 square miles of water, and 2,359 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1577225",
+   "name": "Wailua Homesteads",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 22.06917,
+   "lon": -159.3814,
+   "land_sqmi": 7.306,
+   "water_sqmi": 0.102,
+   "population": {
+    "count": 5863,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Wailua Homesteads is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.3 square miles of land and 0.1 square miles of water, and 5,863 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1577450",
+   "name": "Wailuku",
+   "kind": "57",
+   "counties": [
+    "Maui County"
+   ],
+   "lat": 20.88547,
+   "lon": -156.50363,
+   "land_sqmi": 5.265,
+   "water_sqmi": 0.408,
+   "population": {
+    "count": 17697,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Wailuku is a community in Maui County in northern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.3 square miles of land and 0.4 square miles of water, and 17,697 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1577750",
+   "name": "Waimalu",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.39122,
+   "lon": -157.9334,
+   "land_sqmi": 1.831,
+   "water_sqmi": 0.089,
+   "population": {
+    "count": 13817,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Waimalu is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land and 0.1 square miles of water, and 13,817 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1578050",
+   "name": "Waimanalo",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.34207,
+   "lon": -157.73024,
+   "land_sqmi": 4.358,
+   "water_sqmi": 0,
+   "population": {
+    "count": 6057,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Waimanalo is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.4 square miles of land, and 6,057 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1578200",
+   "name": "Waimanalo Beach",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.32993,
+   "lon": -157.69397,
+   "land_sqmi": 1.975,
+   "water_sqmi": 0.989,
+   "population": {
+    "count": 4823,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Waimanalo Beach is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land and 1 square mile of water, and 4,823 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1578500",
+   "name": "Waimea",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 20.01033,
+   "lon": -155.62549,
+   "land_sqmi": 39.385,
+   "water_sqmi": 0.039,
+   "population": {
+    "count": 9904,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "central",
+   "description": "Waimea is a community in Hawaii County in central Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 39 square miles of land, and 9,904 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1578800",
+   "name": "Waimea",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 21.9665,
+   "lon": -159.66939,
+   "land_sqmi": 1.854,
+   "water_sqmi": 0.328,
+   "population": {
+    "count": 2057,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Waimea is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land and 0.3 square miles of water, and 2,057 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1578950",
+   "name": "Wainaku",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.7438,
+   "lon": -155.09981,
+   "land_sqmi": 1.321,
+   "water_sqmi": 0.147,
+   "population": {
+    "count": 1147,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Wainaku is a community in Hawaii County in eastern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land and 0.1 square miles of water, and 1,147 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1579250",
+   "name": "Wainiha",
+   "kind": "57",
+   "counties": [
+    "Kauai County"
+   ],
+   "lat": 22.19214,
+   "lon": -159.54675,
+   "land_sqmi": 2.465,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 419,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Wainiha is a community in Kauai County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.5 square miles of land, and 419 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1579550",
+   "name": "Waiohinu",
+   "kind": "57",
+   "counties": [
+    "Hawaii County"
+   ],
+   "lat": 19.07136,
+   "lon": -155.61444,
+   "land_sqmi": 1.336,
+   "water_sqmi": 0,
+   "population": {
+    "count": 198,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Waiohinu is a community in Hawaii County in southern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 198 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1579700",
+   "name": "Waipahu",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.38494,
+   "lon": -158.01099,
+   "land_sqmi": 2.678,
+   "water_sqmi": 0.121,
+   "population": {
+    "count": 43485,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Waipahu is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.7 square miles of land and 0.1 square miles of water, and 43,485 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1579860",
+   "name": "Waipio",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.41439,
+   "lon": -157.99658,
+   "land_sqmi": 1.247,
+   "water_sqmi": 0,
+   "population": {
+    "count": 12082,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Waipio is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 12,082 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1580000",
+   "name": "Waipio Acres",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.46877,
+   "lon": -158.01728,
+   "land_sqmi": 0.98,
+   "water_sqmi": 0,
+   "population": {
+    "count": 5531,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Waipio Acres is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 5,531 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1580470",
+   "name": "West Loch Estate",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.36126,
+   "lon": -158.02453,
+   "land_sqmi": 0.659,
+   "water_sqmi": 0.004,
+   "population": {
+    "count": 5523,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "West Loch Estate is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 5,523 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1580600",
+   "name": "Wheeler AFB",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.47555,
+   "lon": -158.03517,
+   "land_sqmi": 2.32,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2412,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Wheeler AFB is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.3 square miles of land, and 2,412 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "1580900",
+   "name": "Whitmore Village",
+   "kind": "57",
+   "counties": [
+    "Honolulu County"
+   ],
+   "lat": 21.51257,
+   "lon": -158.02913,
+   "land_sqmi": 0.91,
+   "water_sqmi": 0.006,
+   "population": {
+    "count": 4887,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Whitmore Village is a community in Honolulu County in northwestern Hawaii that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 4,887 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  }
+ ]
+}

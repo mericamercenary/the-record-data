@@ -1,0 +1,745 @@
+{
+ "bundle": "cities-places",
+ "schema_version": 1,
+ "state": "RI",
+ "sources": [
+  {
+   "name": "U.S. Census Bureau, 2025 Gazetteer Files (places and counties)",
+   "url": "https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html"
+  },
+  {
+   "name": "U.S. Census Bureau, Vintage 2025 population estimates for cities and towns (July 1, 2025)",
+   "url": "https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 Census counts (TIGERweb, Census 2020 places)",
+   "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_Census2020/MapServer"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 place-to-county list",
+   "url": "https://www.census.gov/library/reference/code-lists/ansi.html"
+  }
+ ],
+ "places": [
+  {
+   "geoid": "4403520",
+   "name": "Ashaway",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 41.42802,
+   "lon": -71.78621,
+   "land_sqmi": 2.374,
+   "water_sqmi": 0.042,
+   "population": {
+    "count": 1501,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Ashaway is a community in Washington County in southwestern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land, and 1,501 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4408020",
+   "name": "Bradford",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 41.389,
+   "lon": -71.76442,
+   "land_sqmi": 1.817,
+   "water_sqmi": 0.015,
+   "population": {
+    "count": 1457,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Bradford is a community in Washington County in southwestern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land, and 1,457 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4412340",
+   "name": "Carolina",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 41.45942,
+   "lon": -71.65422,
+   "land_sqmi": 2.461,
+   "water_sqmi": 0.021,
+   "population": {
+    "count": 924,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Carolina is a community in Washington County in southwestern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.5 square miles of land, and 924 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4414140",
+   "name": "Central Falls",
+   "kind": "25",
+   "counties": [
+    "Providence County"
+   ],
+   "lat": 41.89006,
+   "lon": -71.39348,
+   "land_sqmi": 1.194,
+   "water_sqmi": 0.08,
+   "population": {
+    "count": 23124,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Central Falls is a city in Providence County in northeastern Rhode Island. It covers about 1.2 square miles of land and 0.1 square miles of water, and about 23,124 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4414320",
+   "name": "Charlestown",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 41.37807,
+   "lon": -71.62656,
+   "land_sqmi": 2.263,
+   "water_sqmi": 0.575,
+   "population": {
+    "count": 1714,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Charlestown is a community in Washington County in southwestern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.3 square miles of land and 0.6 square miles of water, and 1,714 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4414860",
+   "name": "Chepachet",
+   "kind": "57",
+   "counties": [
+    "Providence County"
+   ],
+   "lat": 41.91085,
+   "lon": -71.66209,
+   "land_sqmi": 5.508,
+   "water_sqmi": 0.118,
+   "population": {
+    "count": 1704,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Chepachet is a community in Providence County in northwestern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.5 square miles of land and 0.1 square miles of water, and 1,704 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4415940",
+   "name": "Clayville",
+   "kind": "57",
+   "counties": [
+    "Providence County"
+   ],
+   "lat": 41.76917,
+   "lon": -71.69211,
+   "land_sqmi": 1.724,
+   "water_sqmi": 0.019,
+   "population": {
+    "count": 312,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Clayville is a community in Providence County in western Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land, and 312 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4419180",
+   "name": "Cranston",
+   "kind": "25",
+   "counties": [
+    "Providence County"
+   ],
+   "lat": 41.76973,
+   "lon": -71.48505,
+   "land_sqmi": 28.345,
+   "water_sqmi": 1.672,
+   "population": {
+    "count": 84647,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Cranston is a city in Providence County in eastern Rhode Island. It covers about 28 square miles of land and 1.7 square miles of water, and about 84,647 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4420260",
+   "name": "Cumberland Hill",
+   "kind": "57",
+   "counties": [
+    "Providence County"
+   ],
+   "lat": 41.97496,
+   "lon": -71.46003,
+   "land_sqmi": 3.181,
+   "water_sqmi": 0.199,
+   "population": {
+    "count": 8140,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Cumberland Hill is a community in Providence County in northeastern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.2 square miles of land and 0.2 square miles of water, and 8,140 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4422960",
+   "name": "East Providence",
+   "kind": "25",
+   "counties": [
+    "Providence County"
+   ],
+   "lat": 41.80043,
+   "lon": -71.35926,
+   "land_sqmi": 13.284,
+   "water_sqmi": 3.322,
+   "population": {
+    "count": 48249,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "East Providence is a city in Providence County in northeastern Rhode Island. It covers about 13 square miles of land and 3.3 square miles of water, and about 48,249 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4427640",
+   "name": "Foster Center",
+   "kind": "57",
+   "counties": [
+    "Providence County"
+   ],
+   "lat": 41.78996,
+   "lon": -71.73159,
+   "land_sqmi": 2.168,
+   "water_sqmi": 0.014,
+   "population": {
+    "count": 333,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Foster Center is a community in Providence County in northwestern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land, and 333 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4431240",
+   "name": "Greene",
+   "kind": "57",
+   "counties": [
+    "Kent County"
+   ],
+   "lat": 41.70473,
+   "lon": -71.72807,
+   "land_sqmi": 6.074,
+   "water_sqmi": 0.017,
+   "population": {
+    "count": 914,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Greene is a community in Kent County in western Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.1 square miles of land, and 914 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4431600",
+   "name": "Greenville",
+   "kind": "57",
+   "counties": [
+    "Providence County"
+   ],
+   "lat": 41.87993,
+   "lon": -71.55241,
+   "land_sqmi": 5.558,
+   "water_sqmi": 0.573,
+   "population": {
+    "count": 9061,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Greenville is a community in Providence County in northern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.6 square miles of land and 0.6 square miles of water, and 9,061 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4433040",
+   "name": "Harmony",
+   "kind": "57",
+   "counties": [
+    "Providence County"
+   ],
+   "lat": 41.89937,
+   "lon": -71.60913,
+   "land_sqmi": 2.943,
+   "water_sqmi": 0.023,
+   "population": {
+    "count": 1036,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Harmony is a community in Providence County in northern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.9 square miles of land, and 1,036 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4433400",
+   "name": "Harrisville",
+   "kind": "57",
+   "counties": [
+    "Providence County"
+   ],
+   "lat": 41.9675,
+   "lon": -71.67712,
+   "land_sqmi": 0.812,
+   "water_sqmi": 0.043,
+   "population": {
+    "count": 1745,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Harrisville is a community in Providence County in northwestern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 1,745 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4434660",
+   "name": "Hope Valley",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 41.51406,
+   "lon": -71.72056,
+   "land_sqmi": 3.322,
+   "water_sqmi": 0.204,
+   "population": {
+    "count": 1870,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Hope Valley is a community in Washington County in western Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.3 square miles of land and 0.2 square miles of water, and 1,870 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4435200",
+   "name": "Hopkinton",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 41.46695,
+   "lon": -71.78109,
+   "land_sqmi": 3.302,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 475,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Hopkinton is a community in Washington County in southwestern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.3 square miles of land, and 475 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4438980",
+   "name": "Kingston",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 41.47318,
+   "lon": -71.52412,
+   "land_sqmi": 1.557,
+   "water_sqmi": 0.007,
+   "population": {
+    "count": 7825,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Kingston is a community in Washington County in southern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land, and 7,825 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4445010",
+   "name": "Melville",
+   "kind": "57",
+   "counties": [
+    "Newport County"
+   ],
+   "lat": 41.55955,
+   "lon": -71.30193,
+   "land_sqmi": 2.098,
+   "water_sqmi": 3.032,
+   "population": {
+    "count": 1609,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Melville is a community in Newport County in eastern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land and 3 square miles of water, and 1,609 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4446000",
+   "name": "Misquamicut",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 41.32009,
+   "lon": -71.82707,
+   "land_sqmi": 1.173,
+   "water_sqmi": 0.075,
+   "population": {
+    "count": 434,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Misquamicut is a community in Washington County in southwestern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land and 0.1 square miles of water, and 434 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4448700",
+   "name": "Narragansett Pier",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 41.42699,
+   "lon": -71.46652,
+   "land_sqmi": 3.567,
+   "water_sqmi": 0.522,
+   "population": {
+    "count": 3308,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Narragansett Pier is a community in Washington County in southeastern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.6 square miles of land and 0.5 square miles of water, and 3,308 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4449960",
+   "name": "Newport",
+   "kind": "25",
+   "counties": [
+    "Newport County"
+   ],
+   "lat": 41.47668,
+   "lon": -71.31963,
+   "land_sqmi": 7.656,
+   "water_sqmi": 3.718,
+   "population": {
+    "count": 24251,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southeastern",
+   "description": "Newport is a city in Newport County in southeastern Rhode Island. It covers about 7.7 square miles of land and 3.7 square miles of water, and about 24,251 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4450140",
+   "name": "Newport East",
+   "kind": "57",
+   "counties": [
+    "Newport County"
+   ],
+   "lat": 41.51589,
+   "lon": -71.28655,
+   "land_sqmi": 5.753,
+   "water_sqmi": 0.203,
+   "population": {
+    "count": 12337,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Newport East is a community in Newport County in eastern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.8 square miles of land and 0.2 square miles of water, and 12,337 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4454460",
+   "name": "Pascoag",
+   "kind": "57",
+   "counties": [
+    "Providence County"
+   ],
+   "lat": 41.95375,
+   "lon": -71.70438,
+   "land_sqmi": 5.071,
+   "water_sqmi": 0.49,
+   "population": {
+    "count": 4641,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Pascoag is a community in Providence County in northwestern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.1 square miles of land and 0.5 square miles of water, and 4,641 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4454640",
+   "name": "Pawtucket",
+   "kind": "25",
+   "counties": [
+    "Providence County"
+   ],
+   "lat": 41.87482,
+   "lon": -71.37332,
+   "land_sqmi": 8.667,
+   "water_sqmi": 0.297,
+   "population": {
+    "count": 77065,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Pawtucket is a city in Providence County in northeastern Rhode Island. It covers about 8.7 square miles of land and 0.3 square miles of water, and about 77,065 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4459000",
+   "name": "Providence",
+   "kind": "25",
+   "counties": [
+    "Providence County"
+   ],
+   "lat": 41.82306,
+   "lon": -71.41878,
+   "land_sqmi": 18.406,
+   "water_sqmi": 2.179,
+   "population": {
+    "count": 195310,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Providence is a city in Providence County in northeastern Rhode Island. It covers about 18 square miles of land and 2.2 square miles of water, and about 195,310 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4460260",
+   "name": "Quonochontaug",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 41.34508,
+   "lon": -71.70466,
+   "land_sqmi": 1.344,
+   "water_sqmi": 0.201,
+   "population": {
+    "count": 422,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Quonochontaug is a community in Washington County in southwestern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land and 0.2 square miles of water, and 422 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4470700",
+   "name": "Tiverton",
+   "kind": "57",
+   "counties": [
+    "Newport County"
+   ],
+   "lat": 41.65402,
+   "lon": -71.20039,
+   "land_sqmi": 4.18,
+   "water_sqmi": 2.443,
+   "population": {
+    "count": 7809,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Tiverton is a community in Newport County in eastern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.2 square miles of land and 2.4 square miles of water, and 7,809 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4472500",
+   "name": "Valley Falls",
+   "kind": "57",
+   "counties": [
+    "Providence County"
+   ],
+   "lat": 41.9235,
+   "lon": -71.3905,
+   "land_sqmi": 3.548,
+   "water_sqmi": 0.125,
+   "population": {
+    "count": 12094,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Valley Falls is a community in Providence County in northeastern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.5 square miles of land and 0.1 square miles of water, and 12,094 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4473132",
+   "name": "Wakefield-Peace Dale",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 41.4461,
+   "lon": -71.50032,
+   "land_sqmi": 4.93,
+   "water_sqmi": 0.266,
+   "population": {
+    "count": 8925,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Wakefield-Peace Dale is a community in Washington County in southern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.9 square miles of land and 0.3 square miles of water, and 8,925 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4474300",
+   "name": "Warwick",
+   "kind": "25",
+   "counties": [
+    "Kent County"
+   ],
+   "lat": 41.70309,
+   "lon": -71.42031,
+   "land_sqmi": 35.001,
+   "water_sqmi": 14.75,
+   "population": {
+    "count": 84187,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Warwick is a city in Kent County in eastern Rhode Island. It covers about 35 square miles of land and 15 square miles of water, and about 84,187 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4475200",
+   "name": "Watch Hill",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 41.31538,
+   "lon": -71.84681,
+   "land_sqmi": 0.802,
+   "water_sqmi": 0.014,
+   "population": {
+    "count": 212,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Watch Hill is a community in Washington County in southwestern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 212 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4475920",
+   "name": "Weekapaug",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 41.33742,
+   "lon": -71.76192,
+   "land_sqmi": 1.163,
+   "water_sqmi": 0.036,
+   "population": {
+    "count": 467,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Weekapaug is a community in Washington County in southwestern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 467 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4476820",
+   "name": "Westerly",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 41.3733,
+   "lon": -71.80678,
+   "land_sqmi": 15.834,
+   "water_sqmi": 0.687,
+   "population": {
+    "count": 18423,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Westerly is a community in Washington County in southwestern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 16 square miles of land and 0.7 square miles of water, and 18,423 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4480780",
+   "name": "Woonsocket",
+   "kind": "25",
+   "counties": [
+    "Providence County"
+   ],
+   "lat": 42.00171,
+   "lon": -71.49995,
+   "land_sqmi": 7.746,
+   "water_sqmi": 0.187,
+   "population": {
+    "count": 44580,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "Woonsocket is a city in Providence County in northern Rhode Island. It covers about 7.7 square miles of land and 0.2 square miles of water, and about 44,580 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "4480960",
+   "name": "Wyoming",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 41.51347,
+   "lon": -71.68909,
+   "land_sqmi": 0.862,
+   "water_sqmi": 0.045,
+   "population": {
+    "count": 415,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Wyoming is a community in Washington County in southwestern Rhode Island that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 415 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  }
+ ]
+}
