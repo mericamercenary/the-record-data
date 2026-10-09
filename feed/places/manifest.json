@@ -1,0 +1,16 @@
+{
+  "feed": "the-record-places",
+  "schema_version": 1,
+  "generated_at": "2026-10-08T22:47:04-04:00",
+  "representatives": {
+    "version": "2026-10-08",
+    "path": "representatives-2026-10-08.json",
+    "sha256": "ff7d3b009d859f870feb4d65ddbdeaeebabb270233e778a1e34634de2af55da8",
+    "congress": 119,
+    "house_seats": 441,
+    "house_vacancies": 2,
+    "senators": 100,
+    "senate_vacancies": 0,
+    "validation_report": "INTEGRITY_REPORT-places-2026-10-08.md"
+  }
+}
