@@ -1,0 +1,3126 @@
+{
+ "bundle": "cities-places",
+ "schema_version": 1,
+ "state": "ME",
+ "sources": [
+  {
+   "name": "U.S. Census Bureau, 2025 Gazetteer Files (places and counties)",
+   "url": "https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html"
+  },
+  {
+   "name": "U.S. Census Bureau, Vintage 2025 population estimates for cities and towns (July 1, 2025)",
+   "url": "https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 Census counts (TIGERweb, Census 2020 places)",
+   "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_Census2020/MapServer"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 place-to-county list",
+   "url": "https://www.census.gov/library/reference/code-lists/ansi.html"
+  }
+ ],
+ "places": [
+  {
+   "geoid": "2300695",
+   "name": "Alfred",
+   "kind": "57",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.47857,
+   "lon": -70.72709,
+   "land_sqmi": 3.933,
+   "water_sqmi": 0.026,
+   "population": {
+    "count": 874,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Alfred is a community in York County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.9 square miles of land, and 874 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2301360",
+   "name": "Anson",
+   "kind": "57",
+   "counties": [
+    "Somerset County"
+   ],
+   "lat": 44.79673,
+   "lon": -69.90024,
+   "land_sqmi": 1.296,
+   "water_sqmi": 0.063,
+   "population": {
+    "count": 680,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Anson is a community in Somerset County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land and 0.1 square miles of water, and 680 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2301675",
+   "name": "Ashland",
+   "kind": "57",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 46.61687,
+   "lon": -68.39283,
+   "land_sqmi": 4.459,
+   "water_sqmi": 0.023,
+   "population": {
+    "count": 639,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Ashland is a community in Aroostook County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.5 square miles of land, and 639 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2302060",
+   "name": "Auburn",
+   "kind": "25",
+   "counties": [
+    "Androscoggin County"
+   ],
+   "lat": 44.08454,
+   "lon": -70.24965,
+   "land_sqmi": 59.342,
+   "water_sqmi": 6.398,
+   "population": {
+    "count": 25441,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Auburn is a city in Androscoggin County in Maine. It covers about 59 square miles of land and 6.4 square miles of water, and about 25,441 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2302100",
+   "name": "Augusta",
+   "kind": "25",
+   "counties": [
+    "Kennebec County"
+   ],
+   "lat": 44.3349,
+   "lon": -69.7342,
+   "land_sqmi": 55.143,
+   "water_sqmi": 2.893,
+   "population": {
+    "count": 19155,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Augusta is a city in Kennebec County in southern Maine. It covers about 55 square miles of land and 2.9 square miles of water, and about 19,155 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2302795",
+   "name": "Bangor",
+   "kind": "25",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 44.82963,
+   "lon": -68.78877,
+   "land_sqmi": 34.259,
+   "water_sqmi": 0.335,
+   "population": {
+    "count": 32518,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Bangor is a city in Penobscot County in Maine. It covers about 34 square miles of land and 0.3 square miles of water, and about 32,518 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2302830",
+   "name": "Bar Harbor",
+   "kind": "57",
+   "counties": [
+    "Hancock County"
+   ],
+   "lat": 44.38131,
+   "lon": -68.21113,
+   "land_sqmi": 3.175,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2260,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Bar Harbor is a community in Hancock County in southeastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.2 square miles of land, and 2,260 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2303355",
+   "name": "Bath",
+   "kind": "25",
+   "counties": [
+    "Sagadahoc County"
+   ],
+   "lat": 43.93253,
+   "lon": -69.84719,
+   "land_sqmi": 9.12,
+   "water_sqmi": 4.097,
+   "population": {
+    "count": 8835,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Bath is a city in Sagadahoc County in southern Maine. It covers about 9.1 square miles of land and 4.1 square miles of water, and about 8,835 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2303950",
+   "name": "Belfast",
+   "kind": "25",
+   "counties": [
+    "Waldo County"
+   ],
+   "lat": 44.42587,
+   "lon": -69.02642,
+   "land_sqmi": 34.051,
+   "water_sqmi": 4.316,
+   "population": {
+    "count": 6988,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Belfast is a city in Waldo County in southern Maine. It covers about 34 square miles of land and 4.3 square miles of water, and about 6,988 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2304685",
+   "name": "Berwick",
+   "kind": "57",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.26996,
+   "lon": -70.86243,
+   "land_sqmi": 1.573,
+   "water_sqmi": 0.029,
+   "population": {
+    "count": 2277,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Berwick is a community in York County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land, and 2,277 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2304790",
+   "name": "Bethel",
+   "kind": "57",
+   "counties": [
+    "Oxford County"
+   ],
+   "lat": 44.4038,
+   "lon": -70.78635,
+   "land_sqmi": 1.628,
+   "water_sqmi": 0,
+   "population": {
+    "count": 658,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Bethel is a community in Oxford County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land, and 658 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2304860",
+   "name": "Biddeford",
+   "kind": "25",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.43873,
+   "lon": -70.39294,
+   "land_sqmi": 30.073,
+   "water_sqmi": 29.008,
+   "population": {
+    "count": 22399,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southwestern",
+   "description": "Biddeford is a city in York County in southwestern Maine. It covers about 30 square miles of land and 29 square miles of water, and about 22,399 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2304965",
+   "name": "Bingham",
+   "kind": "57",
+   "counties": [
+    "Somerset County"
+   ],
+   "lat": 45.05808,
+   "lon": -69.87305,
+   "land_sqmi": 2.26,
+   "water_sqmi": 0,
+   "population": {
+    "count": 716,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Bingham is a community in Somerset County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.3 square miles of land, and 716 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2305350",
+   "name": "Blaine",
+   "kind": "57",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 46.499,
+   "lon": -67.86877,
+   "land_sqmi": 2.73,
+   "water_sqmi": 0,
+   "population": {
+    "count": 250,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Blaine is a community in Aroostook County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.7 square miles of land, and 250 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2305665",
+   "name": "Blue Hill",
+   "kind": "57",
+   "counties": [
+    "Hancock County"
+   ],
+   "lat": 44.39865,
+   "lon": -68.58103,
+   "land_sqmi": 4.707,
+   "water_sqmi": 0.009,
+   "population": {
+    "count": 963,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Blue Hill is a community in Hancock County in southeastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.7 square miles of land, and 963 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2306085",
+   "name": "Boothbay Harbor",
+   "kind": "57",
+   "counties": [
+    "Lincoln County"
+   ],
+   "lat": 43.85562,
+   "lon": -69.62334,
+   "land_sqmi": 0.848,
+   "water_sqmi": 0,
+   "population": {
+    "count": 872,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Boothbay Harbor is a community in Lincoln County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 872 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2306330",
+   "name": "Bowdoinham",
+   "kind": "57",
+   "counties": [
+    "Sagadahoc County"
+   ],
+   "lat": 44.02121,
+   "lon": -69.90126,
+   "land_sqmi": 3.556,
+   "water_sqmi": 0,
+   "population": {
+    "count": 734,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Bowdoinham is a community in Sagadahoc County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.6 square miles of land, and 734 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2306645",
+   "name": "Bradley",
+   "kind": "57",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 44.91183,
+   "lon": -68.62153,
+   "land_sqmi": 2.034,
+   "water_sqmi": 0.078,
+   "population": {
+    "count": 765,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Bradley is a community in Penobscot County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land and 0.1 square miles of water, and 765 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2306925",
+   "name": "Brewer",
+   "kind": "25",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 44.78446,
+   "lon": -68.73456,
+   "land_sqmi": 15.238,
+   "water_sqmi": 0.447,
+   "population": {
+    "count": 9636,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Brewer is a city in Penobscot County in Maine. It covers about 15 square miles of land and 0.4 square miles of water, and about 9,636 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2307135",
+   "name": "Bridgton",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 44.07646,
+   "lon": -70.71547,
+   "land_sqmi": 7.393,
+   "water_sqmi": 2.114,
+   "population": {
+    "count": 2118,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Bridgton is a community in Cumberland County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.4 square miles of land and 2.1 square miles of water, and 2,118 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2308360",
+   "name": "Brownville Junction",
+   "kind": "57",
+   "counties": [
+    "Piscataquis County"
+   ],
+   "lat": 45.34865,
+   "lon": -69.05609,
+   "land_sqmi": 0.642,
+   "water_sqmi": 0,
+   "population": {
+    "count": 506,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Brownville Junction is a community in Piscataquis County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 506 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2308395",
+   "name": "Brunswick",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.88745,
+   "lon": -69.94262,
+   "land_sqmi": 19.437,
+   "water_sqmi": 1.577,
+   "population": {
+    "count": 17033,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Brunswick is a community in Cumberland County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 19 square miles of land and 1.6 square miles of water, and 17,033 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2308780",
+   "name": "Bucksport",
+   "kind": "57",
+   "counties": [
+    "Hancock County"
+   ],
+   "lat": 44.58843,
+   "lon": -68.79863,
+   "land_sqmi": 11.412,
+   "water_sqmi": 3.132,
+   "population": {
+    "count": 2832,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Bucksport is a community in Hancock County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 11 square miles of land and 3.1 square miles of water, and 2,832 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2309585",
+   "name": "Calais",
+   "kind": "25",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 45.14295,
+   "lon": -67.21753,
+   "land_sqmi": 34.323,
+   "water_sqmi": 5.765,
+   "population": {
+    "count": 3083,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Calais is a city in Washington County in eastern Maine. It covers about 34 square miles of land and 5.8 square miles of water, and about 3,083 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2309690",
+   "name": "Camden",
+   "kind": "57",
+   "counties": [
+    "Knox County"
+   ],
+   "lat": 44.21377,
+   "lon": -69.06846,
+   "land_sqmi": 3.765,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 3850,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Camden is a community in Knox County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.8 square miles of land, and 3,850 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2310320",
+   "name": "Cape Neddick",
+   "kind": "57",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.17199,
+   "lon": -70.62374,
+   "land_sqmi": 3.731,
+   "water_sqmi": 0.234,
+   "population": {
+    "count": 3037,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Cape Neddick is a community in York County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.7 square miles of land and 0.2 square miles of water, and 3,037 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2310565",
+   "name": "Caribou",
+   "kind": "25",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 46.83655,
+   "lon": -67.93606,
+   "land_sqmi": 79.29,
+   "water_sqmi": 0.804,
+   "population": {
+    "count": 7321,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northeastern",
+   "description": "Caribou is a city in Aroostook County in northeastern Maine. It covers about 79 square miles of land and 0.8 square miles of water, and about 7,321 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2311090",
+   "name": "Casco",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 44.00169,
+   "lon": -70.53276,
+   "land_sqmi": 3.283,
+   "water_sqmi": 0.258,
+   "population": {
+    "count": 582,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Casco is a community in Cumberland County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.3 square miles of land and 0.3 square miles of water, and 582 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2311230",
+   "name": "Castine",
+   "kind": "57",
+   "counties": [
+    "Hancock County"
+   ],
+   "lat": 44.39398,
+   "lon": -68.80602,
+   "land_sqmi": 1.542,
+   "water_sqmi": 0.006,
+   "population": {
+    "count": 1014,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Castine is a community in Hancock County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 1,014 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2312770",
+   "name": "Chisholm",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 44.49289,
+   "lon": -70.1926,
+   "land_sqmi": 2.186,
+   "water_sqmi": 0.079,
+   "population": {
+    "count": 1343,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Chisholm is a community in Franklin County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land and 0.1 square miles of water, and 1,343 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2313435",
+   "name": "Clinton",
+   "kind": "57",
+   "counties": [
+    "Kennebec County"
+   ],
+   "lat": 44.64463,
+   "lon": -69.48866,
+   "land_sqmi": 8.857,
+   "water_sqmi": 0.31,
+   "population": {
+    "count": 1386,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Clinton is a community in Kennebec County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8.9 square miles of land and 0.3 square miles of water, and 1,386 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2314275",
+   "name": "Corinna",
+   "kind": "57",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 44.92274,
+   "lon": -69.26585,
+   "land_sqmi": 2.129,
+   "water_sqmi": 0,
+   "population": {
+    "count": 729,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Corinna is a community in Penobscot County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land, and 729 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2314450",
+   "name": "Cornish",
+   "kind": "57",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.80012,
+   "lon": -70.79514,
+   "land_sqmi": 3.037,
+   "water_sqmi": 0.069,
+   "population": {
+    "count": 764,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Cornish is a community in York County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land and 0.1 square miles of water, and 764 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2314800",
+   "name": "Cousins Island",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.7668,
+   "lon": -70.14302,
+   "land_sqmi": 1.061,
+   "water_sqmi": 0.922,
+   "population": {
+    "count": 528,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Cousins Island is a community in Cumberland County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land and 0.9 square miles of water, and 528 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2315500",
+   "name": "Cumberland Center",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.79474,
+   "lon": -70.24406,
+   "land_sqmi": 4.231,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 2739,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Cumberland Center is a community in Cumberland County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.2 square miles of land, and 2,739 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2316200",
+   "name": "Damariscotta",
+   "kind": "57",
+   "counties": [
+    "Lincoln County"
+   ],
+   "lat": 44.01717,
+   "lon": -69.52023,
+   "land_sqmi": 3.456,
+   "water_sqmi": 0.676,
+   "population": {
+    "count": 1193,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Damariscotta is a community in Lincoln County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.5 square miles of land and 0.7 square miles of water, and 1,193 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2316375",
+   "name": "Danforth",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 45.65961,
+   "lon": -67.86827,
+   "land_sqmi": 2.476,
+   "water_sqmi": 0.047,
+   "population": {
+    "count": 331,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Danforth is a community in Washington County in eastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.5 square miles of land, and 331 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2317495",
+   "name": "Dexter",
+   "kind": "57",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 45.01621,
+   "lon": -69.29466,
+   "land_sqmi": 4.722,
+   "water_sqmi": 0.586,
+   "population": {
+    "count": 2093,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Dexter is a community in Penobscot County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.7 square miles of land and 0.6 square miles of water, and 2,093 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2317705",
+   "name": "Dixfield",
+   "kind": "57",
+   "counties": [
+    "Oxford County"
+   ],
+   "lat": 44.53795,
+   "lon": -70.44603,
+   "land_sqmi": 1.791,
+   "water_sqmi": 0.104,
+   "population": {
+    "count": 1323,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Dixfield is a community in Oxford County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land and 0.1 square miles of water, and 1,323 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2318230",
+   "name": "Dover-Foxcroft",
+   "kind": "57",
+   "counties": [
+    "Piscataquis County"
+   ],
+   "lat": 45.20507,
+   "lon": -69.22321,
+   "land_sqmi": 8.381,
+   "water_sqmi": 0.229,
+   "population": {
+    "count": 2776,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Dover-Foxcroft is a community in Piscataquis County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8.4 square miles of land and 0.2 square miles of water, and 2,776 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2318965",
+   "name": "Dunstan",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.56912,
+   "lon": -70.3862,
+   "land_sqmi": 3.162,
+   "water_sqmi": 0.028,
+   "population": {
+    "count": 2083,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Dunstan is a community in Cumberland County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.2 square miles of land, and 2,083 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2319385",
+   "name": "Eagle Lake",
+   "kind": "57",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 47.03444,
+   "lon": -68.58895,
+   "land_sqmi": 3.955,
+   "water_sqmi": 0.307,
+   "population": {
+    "count": 553,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Eagle Lake is a community in Aroostook County in northeastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4 square miles of land and 0.3 square miles of water, and 553 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2321065",
+   "name": "East Millinocket",
+   "kind": "57",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 45.6271,
+   "lon": -68.57377,
+   "land_sqmi": 1.127,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1560,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "East Millinocket is a community in Penobscot County in eastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 1,560 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2321730",
+   "name": "Eastport",
+   "kind": "25",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.91094,
+   "lon": -67.00916,
+   "land_sqmi": 3.635,
+   "water_sqmi": 8.716,
+   "population": {
+    "count": 1285,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Eastport is a city in Washington County in eastern Maine. It covers about 3.6 square miles of land and 8.7 square miles of water, and about 1,285 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2323200",
+   "name": "Ellsworth",
+   "kind": "25",
+   "counties": [
+    "Hancock County"
+   ],
+   "lat": 44.58293,
+   "lon": -68.48009,
+   "land_sqmi": 79.32,
+   "water_sqmi": 14.6,
+   "population": {
+    "count": 8862,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Ellsworth is a city in Hancock County in eastern Maine. It covers about 79 square miles of land and 15 square miles of water, and about 8,862 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2324285",
+   "name": "Fairfield",
+   "kind": "57",
+   "counties": [
+    "Somerset County"
+   ],
+   "lat": 44.59034,
+   "lon": -69.60521,
+   "land_sqmi": 1.837,
+   "water_sqmi": 0.193,
+   "population": {
+    "count": 2616,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Fairfield is a community in Somerset County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land and 0.2 square miles of water, and 2,616 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2324480",
+   "name": "Falmouth",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.71601,
+   "lon": -70.23106,
+   "land_sqmi": 2.403,
+   "water_sqmi": 0.747,
+   "population": {
+    "count": 1988,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Falmouth is a community in Cumberland County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land and 0.7 square miles of water, and 1,988 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2324530",
+   "name": "Falmouth Foreside",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.73235,
+   "lon": -70.21802,
+   "land_sqmi": 1.522,
+   "water_sqmi": 0.142,
+   "population": {
+    "count": 1554,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Falmouth Foreside is a community in Cumberland County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land and 0.1 square miles of water, and 1,554 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2324635",
+   "name": "Farmingdale",
+   "kind": "57",
+   "counties": [
+    "Kennebec County"
+   ],
+   "lat": 44.25096,
+   "lon": -69.78353,
+   "land_sqmi": 2.377,
+   "water_sqmi": 0.205,
+   "population": {
+    "count": 2000,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Farmingdale is a community in Kennebec County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land and 0.2 square miles of water, and 2,000 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2324740",
+   "name": "Farmington",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 44.66837,
+   "lon": -70.14404,
+   "land_sqmi": 4.035,
+   "water_sqmi": 0.01,
+   "population": {
+    "count": 4168,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Farmington is a community in Franklin County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4 square miles of land, and 4,168 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2325580",
+   "name": "Fort Fairfield",
+   "kind": "57",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 46.76707,
+   "lon": -67.83194,
+   "land_sqmi": 2.928,
+   "water_sqmi": 0.116,
+   "population": {
+    "count": 1666,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Fort Fairfield is a community in Aroostook County in northeastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.9 square miles of land and 0.1 square miles of water, and 1,666 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2325720",
+   "name": "Fort Kent",
+   "kind": "57",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 47.25174,
+   "lon": -68.58722,
+   "land_sqmi": 5.355,
+   "water_sqmi": 0.261,
+   "population": {
+    "count": 2413,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Fort Kent is a community in Aroostook County in northeastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.4 square miles of land and 0.3 square miles of water, and 2,413 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2326490",
+   "name": "Freeport",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.85705,
+   "lon": -70.10259,
+   "land_sqmi": 1.716,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1700,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Freeport is a community in Cumberland County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land, and 1,700 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2326875",
+   "name": "Fryeburg",
+   "kind": "57",
+   "counties": [
+    "Oxford County"
+   ],
+   "lat": 44.02011,
+   "lon": -70.972,
+   "land_sqmi": 2.991,
+   "water_sqmi": 0.012,
+   "population": {
+    "count": 1444,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Fryeburg is a community in Oxford County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land, and 1,444 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2327085",
+   "name": "Gardiner",
+   "kind": "25",
+   "counties": [
+    "Kennebec County"
+   ],
+   "lat": 44.19509,
+   "lon": -69.79377,
+   "land_sqmi": 15.681,
+   "water_sqmi": 0.888,
+   "population": {
+    "count": 6206,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Gardiner is a city in Kennebec County in southern Maine. It covers about 16 square miles of land and 0.9 square miles of water, and about 6,206 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2328205",
+   "name": "Gorham",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.69324,
+   "lon": -70.43496,
+   "land_sqmi": 7.657,
+   "water_sqmi": 0.02,
+   "population": {
+    "count": 7469,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Gorham is a community in Cumberland County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.7 square miles of land, and 7,469 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2328555",
+   "name": "Grand Isle",
+   "kind": "57",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 47.30736,
+   "lon": -68.1587,
+   "land_sqmi": 0.619,
+   "water_sqmi": 0.079,
+   "population": {
+    "count": 184,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Grand Isle is a community in Aroostook County in northeastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land and 0.1 square miles of water, and 184 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2328835",
+   "name": "Gray",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.88639,
+   "lon": -70.32409,
+   "land_sqmi": 2.935,
+   "water_sqmi": 0,
+   "population": {
+    "count": 887,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Gray is a community in Cumberland County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.9 square miles of land, and 887 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2329220",
+   "name": "Greene",
+   "kind": "57",
+   "counties": [
+    "Androscoggin County"
+   ],
+   "lat": 44.18975,
+   "lon": -70.14509,
+   "land_sqmi": 2.592,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 750,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Greene is a community in Androscoggin County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land, and 750 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2329500",
+   "name": "Greenville",
+   "kind": "57",
+   "counties": [
+    "Piscataquis County"
+   ],
+   "lat": 45.46611,
+   "lon": -69.57786,
+   "land_sqmi": 4.114,
+   "water_sqmi": 0.668,
+   "population": {
+    "count": 1010,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Greenville is a community in Piscataquis County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.1 square miles of land and 0.7 square miles of water, and 1,010 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2330060",
+   "name": "Guilford",
+   "kind": "57",
+   "counties": [
+    "Piscataquis County"
+   ],
+   "lat": 45.17862,
+   "lon": -69.39504,
+   "land_sqmi": 1.918,
+   "water_sqmi": 0.053,
+   "population": {
+    "count": 740,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Guilford is a community in Piscataquis County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land and 0.1 square miles of water, and 740 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2330550",
+   "name": "Hallowell",
+   "kind": "25",
+   "counties": [
+    "Kennebec County"
+   ],
+   "lat": 44.28724,
+   "lon": -69.81804,
+   "land_sqmi": 5.864,
+   "water_sqmi": 0.22,
+   "population": {
+    "count": 2624,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Hallowell is a city in Kennebec County in southern Maine. It covers about 5.9 square miles of land and 0.2 square miles of water, and about 2,624 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2330760",
+   "name": "Hampden",
+   "kind": "57",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 44.7476,
+   "lon": -68.83988,
+   "land_sqmi": 10.962,
+   "water_sqmi": 0.669,
+   "population": {
+    "count": 4516,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Hampden is a community in Penobscot County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 11 square miles of land and 0.7 square miles of water, and 4,516 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2331705",
+   "name": "Hartland",
+   "kind": "57",
+   "counties": [
+    "Somerset County"
+   ],
+   "lat": 44.88556,
+   "lon": -69.46917,
+   "land_sqmi": 2.224,
+   "water_sqmi": 0.049,
+   "population": {
+    "count": 756,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Hartland is a community in Somerset County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land, and 756 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2333945",
+   "name": "Houlton",
+   "kind": "57",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 46.12145,
+   "lon": -67.83221,
+   "land_sqmi": 5.256,
+   "water_sqmi": 0,
+   "population": {
+    "count": 4743,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Houlton is a community in Aroostook County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.3 square miles of land, and 4,743 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2334225",
+   "name": "Howland",
+   "kind": "57",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 45.2696,
+   "lon": -68.6581,
+   "land_sqmi": 7.456,
+   "water_sqmi": 0.264,
+   "population": {
+    "count": 947,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Howland is a community in Penobscot County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.5 square miles of land and 0.3 square miles of water, and 947 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2335030",
+   "name": "Island Falls",
+   "kind": "57",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 46.00871,
+   "lon": -68.26394,
+   "land_sqmi": 1.262,
+   "water_sqmi": 0.052,
+   "population": {
+    "count": 309,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Island Falls is a community in Aroostook County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land and 0.1 square miles of water, and 309 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2335975",
+   "name": "Jonesport",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.53537,
+   "lon": -67.60759,
+   "land_sqmi": 1.594,
+   "water_sqmi": 0.631,
+   "population": {
+    "count": 608,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Jonesport is a community in Washington County in eastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land and 0.6 square miles of water, and 608 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2336500",
+   "name": "Kennebunk",
+   "kind": "57",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.38411,
+   "lon": -70.54417,
+   "land_sqmi": 6.748,
+   "water_sqmi": 0,
+   "population": {
+    "count": 5776,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Kennebunk is a community in York County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.7 square miles of land, and 5,776 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2336710",
+   "name": "Kennebunkport",
+   "kind": "57",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.36324,
+   "lon": -70.46028,
+   "land_sqmi": 2.977,
+   "water_sqmi": 0.121,
+   "population": {
+    "count": 1264,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Kennebunkport is a community in York County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land and 0.1 square miles of water, and 1,264 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2336885",
+   "name": "Kezar Falls",
+   "kind": "57",
+   "counties": [
+    "Oxford County",
+    "York County"
+   ],
+   "lat": 43.80712,
+   "lon": -70.8753,
+   "land_sqmi": 0.768,
+   "water_sqmi": 0.012,
+   "population": {
+    "count": 736,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Kezar Falls is a community in Oxford and York counties in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 736 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2336990",
+   "name": "Kingfield",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 44.9545,
+   "lon": -70.16452,
+   "land_sqmi": 3.638,
+   "water_sqmi": 0.007,
+   "population": {
+    "count": 640,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Kingfield is a community in Franklin County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.6 square miles of land, and 640 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2337235",
+   "name": "Kittery",
+   "kind": "57",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.08999,
+   "lon": -70.73832,
+   "land_sqmi": 2.802,
+   "water_sqmi": 0.731,
+   "population": {
+    "count": 4973,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Kittery is a community in York County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.8 square miles of land and 0.7 square miles of water, and 4,973 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2337375",
+   "name": "Kittery Point",
+   "kind": "57",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.09381,
+   "lon": -70.69096,
+   "land_sqmi": 1.914,
+   "water_sqmi": 0.657,
+   "population": {
+    "count": 1009,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Kittery Point is a community in York County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land and 0.7 square miles of water, and 1,009 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2337795",
+   "name": "Lake Arrowhead",
+   "kind": "57",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.66168,
+   "lon": -70.742,
+   "land_sqmi": 5.214,
+   "water_sqmi": 1.169,
+   "population": {
+    "count": 3192,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Lake Arrowhead is a community in York County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.2 square miles of land and 1.2 square miles of water, and 3,192 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2338740",
+   "name": "Lewiston",
+   "kind": "25",
+   "counties": [
+    "Androscoggin County"
+   ],
+   "lat": 44.08951,
+   "lon": -70.17209,
+   "land_sqmi": 34.146,
+   "water_sqmi": 1.389,
+   "population": {
+    "count": 38866,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Lewiston is a city in Androscoggin County in Maine. It covers about 34 square miles of land and 1.4 square miles of water, and about 38,866 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2339265",
+   "name": "Limestone",
+   "kind": "57",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 46.91121,
+   "lon": -67.83083,
+   "land_sqmi": 2.649,
+   "water_sqmi": 0,
+   "population": {
+    "count": 874,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Limestone is a community in Aroostook County in northeastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land, and 874 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2339440",
+   "name": "Lincoln",
+   "kind": "57",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 45.36268,
+   "lon": -68.50173,
+   "land_sqmi": 7.426,
+   "water_sqmi": 0.775,
+   "population": {
+    "count": 2667,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Lincoln is a community in Penobscot County in eastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.4 square miles of land and 0.8 square miles of water, and 2,667 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2340000",
+   "name": "Lisbon",
+   "kind": "57",
+   "counties": [
+    "Androscoggin County"
+   ],
+   "lat": 44.02971,
+   "lon": -70.10752,
+   "land_sqmi": 3.452,
+   "water_sqmi": 0.083,
+   "population": {
+    "count": 3217,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Lisbon is a community in Androscoggin County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.5 square miles of land and 0.1 square miles of water, and 3,217 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2340105",
+   "name": "Lisbon Falls",
+   "kind": "57",
+   "counties": [
+    "Androscoggin County"
+   ],
+   "lat": 44.00861,
+   "lon": -70.05764,
+   "land_sqmi": 3.679,
+   "water_sqmi": 0.188,
+   "population": {
+    "count": 4182,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Lisbon Falls is a community in Androscoggin County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.7 square miles of land and 0.2 square miles of water, and 4,182 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2340350",
+   "name": "Little Falls",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.73543,
+   "lon": -70.43538,
+   "land_sqmi": 1.15,
+   "water_sqmi": 0.098,
+   "population": {
+    "count": 863,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Little Falls is a community in Cumberland County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land and 0.1 square miles of water, and 863 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2340470",
+   "name": "Littlejohn Island",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.76066,
+   "lon": -70.12656,
+   "land_sqmi": 0.342,
+   "water_sqmi": 0.389,
+   "population": {
+    "count": 116,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Littlejohn Island is a community in Cumberland County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land and 0.4 square miles of water, and 116 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2340735",
+   "name": "Livermore Falls",
+   "kind": "57",
+   "counties": [
+    "Androscoggin County"
+   ],
+   "lat": 44.47257,
+   "lon": -70.1808,
+   "land_sqmi": 1.203,
+   "water_sqmi": 0.108,
+   "population": {
+    "count": 1540,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Livermore Falls is a community in Androscoggin County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land and 0.1 square miles of water, and 1,540 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2341575",
+   "name": "Lubec",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.85507,
+   "lon": -66.98986,
+   "land_sqmi": 0.52,
+   "water_sqmi": 0,
+   "population": {
+    "count": 334,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Lubec is a community in Washington County in eastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 334 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2341925",
+   "name": "Machias",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.70064,
+   "lon": -67.47861,
+   "land_sqmi": 2.7,
+   "water_sqmi": 0.148,
+   "population": {
+    "count": 1457,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Machias is a community in Washington County in eastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.7 square miles of land and 0.1 square miles of water, and 1,457 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2342485",
+   "name": "Madawaska",
+   "kind": "57",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 47.34245,
+   "lon": -68.33344,
+   "land_sqmi": 5.291,
+   "water_sqmi": 0.122,
+   "population": {
+    "count": 2797,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Madawaska is a community in Aroostook County in northeastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.3 square miles of land and 0.1 square miles of water, and 2,797 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2342625",
+   "name": "Madison",
+   "kind": "57",
+   "counties": [
+    "Somerset County"
+   ],
+   "lat": 44.80779,
+   "lon": -69.85037,
+   "land_sqmi": 6.427,
+   "water_sqmi": 0.284,
+   "population": {
+    "count": 2533,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Madison is a community in Somerset County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.4 square miles of land and 0.3 square miles of water, and 2,533 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2343220",
+   "name": "Mapleton",
+   "kind": "57",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 46.68076,
+   "lon": -68.15119,
+   "land_sqmi": 3.003,
+   "water_sqmi": 0,
+   "population": {
+    "count": 623,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Mapleton is a community in Aroostook County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land, and 623 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2343675",
+   "name": "Mars Hill",
+   "kind": "57",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 46.51919,
+   "lon": -67.86971,
+   "land_sqmi": 2.129,
+   "water_sqmi": 0.032,
+   "population": {
+    "count": 818,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Mars Hill is a community in Aroostook County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land, and 818 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2344235",
+   "name": "Mattawamkeag",
+   "kind": "57",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 45.51772,
+   "lon": -68.35166,
+   "land_sqmi": 2.838,
+   "water_sqmi": 0.069,
+   "population": {
+    "count": 422,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Mattawamkeag is a community in Penobscot County in eastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.8 square miles of land and 0.1 square miles of water, and 422 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2344620",
+   "name": "Mechanic Falls",
+   "kind": "57",
+   "counties": [
+    "Androscoggin County"
+   ],
+   "lat": 44.11167,
+   "lon": -70.39405,
+   "land_sqmi": 5.343,
+   "water_sqmi": 0.13,
+   "population": {
+    "count": 2257,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Mechanic Falls is a community in Androscoggin County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.3 square miles of land and 0.1 square miles of water, and 2,257 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2345250",
+   "name": "Mexico",
+   "kind": "57",
+   "counties": [
+    "Oxford County"
+   ],
+   "lat": 44.55695,
+   "lon": -70.53374,
+   "land_sqmi": 1.769,
+   "water_sqmi": 0.059,
+   "population": {
+    "count": 2234,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Mexico is a community in Oxford County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land and 0.1 square miles of water, and 2,234 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2345565",
+   "name": "Milbridge",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.52918,
+   "lon": -67.8949,
+   "land_sqmi": 1.831,
+   "water_sqmi": 0.259,
+   "population": {
+    "count": 435,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Milbridge is a community in Washington County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land and 0.3 square miles of water, and 435 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2345635",
+   "name": "Milford",
+   "kind": "57",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 44.95743,
+   "lon": -68.63094,
+   "land_sqmi": 3.343,
+   "water_sqmi": 0.041,
+   "population": {
+    "count": 2211,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Milford is a community in Penobscot County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.3 square miles of land, and 2,211 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2345845",
+   "name": "Millinocket",
+   "kind": "57",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 45.65922,
+   "lon": -68.69815,
+   "land_sqmi": 5.674,
+   "water_sqmi": 0.157,
+   "population": {
+    "count": 4104,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Millinocket is a community in Penobscot County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.7 square miles of land and 0.2 square miles of water, and 4,104 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2345985",
+   "name": "Milo",
+   "kind": "57",
+   "counties": [
+    "Piscataquis County"
+   ],
+   "lat": 45.24832,
+   "lon": -68.95055,
+   "land_sqmi": 7.769,
+   "water_sqmi": 0.308,
+   "population": {
+    "count": 1751,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Milo is a community in Piscataquis County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.8 square miles of land and 0.3 square miles of water, and 1,751 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2348050",
+   "name": "Naples",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.96058,
+   "lon": -70.60228,
+   "land_sqmi": 2.591,
+   "water_sqmi": 0.756,
+   "population": {
+    "count": 415,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Naples is a community in Cumberland County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land and 0.8 square miles of water, and 415 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2348610",
+   "name": "Newcastle",
+   "kind": "57",
+   "counties": [
+    "Lincoln County"
+   ],
+   "lat": 44.0486,
+   "lon": -69.53326,
+   "land_sqmi": 2.167,
+   "water_sqmi": 0.626,
+   "population": {
+    "count": 660,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Newcastle is a community in Lincoln County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land and 0.6 square miles of water, and 660 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2349100",
+   "name": "Newport",
+   "kind": "57",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 44.83643,
+   "lon": -69.25485,
+   "land_sqmi": 3.516,
+   "water_sqmi": 1.352,
+   "population": {
+    "count": 1690,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Newport is a community in Penobscot County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.5 square miles of land and 1.4 square miles of water, and 1,690 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2349800",
+   "name": "Norridgewock",
+   "kind": "57",
+   "counties": [
+    "Somerset County"
+   ],
+   "lat": 44.72282,
+   "lon": -69.76307,
+   "land_sqmi": 11.072,
+   "water_sqmi": 0.46,
+   "population": {
+    "count": 1351,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Norridgewock is a community in Somerset County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 11 square miles of land and 0.5 square miles of water, and 1,351 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2349975",
+   "name": "North Anson",
+   "kind": "57",
+   "counties": [
+    "Somerset County"
+   ],
+   "lat": 44.86387,
+   "lon": -69.89898,
+   "land_sqmi": 2.111,
+   "water_sqmi": 0.061,
+   "population": {
+    "count": 459,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "North Anson is a community in Somerset County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land and 0.1 square miles of water, and 459 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2350290",
+   "name": "North Berwick",
+   "kind": "57",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.29622,
+   "lon": -70.73095,
+   "land_sqmi": 3.372,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 1721,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "North Berwick is a community in York County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.4 square miles of land, and 1,721 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2351095",
+   "name": "Northeast Harbor",
+   "kind": "57",
+   "counties": [
+    "Hancock County"
+   ],
+   "lat": 44.29016,
+   "lon": -68.29085,
+   "land_sqmi": 0.723,
+   "water_sqmi": 0.864,
+   "population": {
+    "count": 370,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Northeast Harbor is a community in Hancock County in southeastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land and 0.9 square miles of water, and 370 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2353685",
+   "name": "North Windham",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.82634,
+   "lon": -70.43125,
+   "land_sqmi": 6.729,
+   "water_sqmi": 0.215,
+   "population": {
+    "count": 5274,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "North Windham is a community in Cumberland County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.7 square miles of land and 0.2 square miles of water, and 5,274 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2353965",
+   "name": "Norway",
+   "kind": "57",
+   "counties": [
+    "Oxford County"
+   ],
+   "lat": 44.23076,
+   "lon": -70.56344,
+   "land_sqmi": 5.046,
+   "water_sqmi": 0.183,
+   "population": {
+    "count": 2696,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Norway is a community in Oxford County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5 square miles of land and 0.2 square miles of water, and 2,696 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2354350",
+   "name": "Oakfield",
+   "kind": "57",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 46.10198,
+   "lon": -68.15165,
+   "land_sqmi": 3.384,
+   "water_sqmi": 0,
+   "population": {
+    "count": 378,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Oakfield is a community in Aroostook County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.4 square miles of land, and 378 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2354490",
+   "name": "Oak Hill",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.59636,
+   "lon": -70.34085,
+   "land_sqmi": 5.609,
+   "water_sqmi": 0.013,
+   "population": {
+    "count": 5846,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Oak Hill is a community in Cumberland County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.6 square miles of land, and 5,846 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2354525",
+   "name": "Oakland",
+   "kind": "57",
+   "counties": [
+    "Kennebec County"
+   ],
+   "lat": 44.55247,
+   "lon": -69.70614,
+   "land_sqmi": 5.406,
+   "water_sqmi": 0.3,
+   "population": {
+    "count": 2536,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Oakland is a community in Kennebec County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.4 square miles of land and 0.3 square miles of water, and 2,536 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2355120",
+   "name": "Old Orchard Beach",
+   "kind": "57",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.53377,
+   "lon": -70.35685,
+   "land_sqmi": 7.434,
+   "water_sqmi": 15.032,
+   "population": {
+    "count": 8960,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Old Orchard Beach is a community in York County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.4 square miles of land and 15 square miles of water, and 8,960 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2355225",
+   "name": "Old Town",
+   "kind": "25",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 44.95417,
+   "lon": -68.73969,
+   "land_sqmi": 38.81,
+   "water_sqmi": 4.427,
+   "population": {
+    "count": 7589,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Old Town is a city in Penobscot County in Maine. It covers about 39 square miles of land and 4.4 square miles of water, and about 7,589 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2355575",
+   "name": "Orono",
+   "kind": "57",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 44.87826,
+   "lon": -68.68814,
+   "land_sqmi": 7.053,
+   "water_sqmi": 0.66,
+   "population": {
+    "count": 10185,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Orono is a community in Penobscot County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.1 square miles of land and 0.7 square miles of water, and 10,185 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2356240",
+   "name": "Oxford",
+   "kind": "57",
+   "counties": [
+    "Oxford County"
+   ],
+   "lat": 44.14487,
+   "lon": -70.52387,
+   "land_sqmi": 8.288,
+   "water_sqmi": 0.657,
+   "population": {
+    "count": 1294,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Oxford is a community in Oxford County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8.3 square miles of land and 0.7 square miles of water, and 1,294 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2357115",
+   "name": "Patten",
+   "kind": "57",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 46.00434,
+   "lon": -68.44276,
+   "land_sqmi": 1.989,
+   "water_sqmi": 0,
+   "population": {
+    "count": 539,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Patten is a community in Penobscot County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land, and 539 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2358970",
+   "name": "Pittsfield",
+   "kind": "57",
+   "counties": [
+    "Somerset County"
+   ],
+   "lat": 44.76327,
+   "lon": -69.37273,
+   "land_sqmi": 9.398,
+   "water_sqmi": 0.207,
+   "population": {
+    "count": 2822,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Pittsfield is a community in Somerset County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 9.4 square miles of land and 0.2 square miles of water, and 2,822 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2360545",
+   "name": "Portland",
+   "kind": "25",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.63316,
+   "lon": -70.1853,
+   "land_sqmi": 21.54,
+   "water_sqmi": 47.901,
+   "population": {
+    "count": 69911,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Portland is a city in Cumberland County in southern Maine. It covers about 22 square miles of land and 48 square miles of water, and about 69,911 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2360825",
+   "name": "Presque Isle",
+   "kind": "25",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 46.68838,
+   "lon": -67.99333,
+   "land_sqmi": 75.788,
+   "water_sqmi": 1.814,
+   "population": {
+    "count": 8694,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Presque Isle is a city in Aroostook County in Maine. It covers about 76 square miles of land and 1.8 square miles of water, and about 8,694 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2361735",
+   "name": "Randolph",
+   "kind": "57",
+   "counties": [
+    "Kennebec County"
+   ],
+   "lat": 44.23729,
+   "lon": -69.75125,
+   "land_sqmi": 2.135,
+   "water_sqmi": 0.096,
+   "population": {
+    "count": 1743,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Randolph is a community in Kennebec County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land and 0.1 square miles of water, and 1,743 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2361805",
+   "name": "Rangeley",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 44.9659,
+   "lon": -70.65215,
+   "land_sqmi": 2.598,
+   "water_sqmi": 0.535,
+   "population": {
+    "count": 590,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Rangeley is a community in Franklin County in western Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land and 0.5 square miles of water, and 590 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2362610",
+   "name": "Richmond",
+   "kind": "57",
+   "counties": [
+    "Sagadahoc County"
+   ],
+   "lat": 44.09904,
+   "lon": -69.80957,
+   "land_sqmi": 7.128,
+   "water_sqmi": 0.09,
+   "population": {
+    "count": 1810,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Richmond is a community in Sagadahoc County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.1 square miles of land and 0.1 square miles of water, and 1,810 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2363590",
+   "name": "Rockland",
+   "kind": "25",
+   "counties": [
+    "Knox County"
+   ],
+   "lat": 44.12388,
+   "lon": -69.13045,
+   "land_sqmi": 12.849,
+   "water_sqmi": 2.229,
+   "population": {
+    "count": 7142,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Rockland is a city in Knox County in southern Maine. It covers about 13 square miles of land and 2.2 square miles of water, and about 7,142 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2364255",
+   "name": "Rumford",
+   "kind": "57",
+   "counties": [
+    "Oxford County"
+   ],
+   "lat": 44.54484,
+   "lon": -70.56019,
+   "land_sqmi": 7.869,
+   "water_sqmi": 0.114,
+   "population": {
+    "count": 4298,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Rumford is a community in Oxford County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.9 square miles of land and 0.1 square miles of water, and 4,298 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2364535",
+   "name": "Sabattus",
+   "kind": "57",
+   "counties": [
+    "Androscoggin County"
+   ],
+   "lat": 44.12012,
+   "lon": -70.10378,
+   "land_sqmi": 0.703,
+   "water_sqmi": 0.42,
+   "population": {
+    "count": 787,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Sabattus is a community in Androscoggin County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land and 0.4 square miles of water, and 787 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2364675",
+   "name": "Saco",
+   "kind": "25",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.52796,
+   "lon": -70.41957,
+   "land_sqmi": 38.585,
+   "water_sqmi": 14.244,
+   "population": {
+    "count": 21159,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southwestern",
+   "description": "Saco is a city in York County in southwestern Maine. It covers about 39 square miles of land and 14 square miles of water, and about 21,159 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2365725",
+   "name": "Sanford",
+   "kind": "25",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.42414,
+   "lon": -70.75786,
+   "land_sqmi": 47.79,
+   "water_sqmi": 0.964,
+   "population": {
+    "count": 22663,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southwestern",
+   "description": "Sanford is a city in York County in southwestern Maine. It covers about 48 square miles of land and 1 square mile of water, and about 22,663 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2366600",
+   "name": "Searsport",
+   "kind": "57",
+   "counties": [
+    "Waldo County"
+   ],
+   "lat": 44.47495,
+   "lon": -68.9156,
+   "land_sqmi": 4.351,
+   "water_sqmi": 0.989,
+   "population": {
+    "count": 999,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Searsport is a community in Waldo County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.4 square miles of land and 1 square mile of water, and 999 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2368875",
+   "name": "Skowhegan",
+   "kind": "57",
+   "counties": [
+    "Somerset County"
+   ],
+   "lat": 44.77815,
+   "lon": -69.7122,
+   "land_sqmi": 13.365,
+   "water_sqmi": 0.723,
+   "population": {
+    "count": 6404,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Skowhegan is a community in Somerset County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 13 square miles of land and 0.7 square miles of water, and 6,404 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2369995",
+   "name": "South Berwick",
+   "kind": "57",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.23005,
+   "lon": -70.79814,
+   "land_sqmi": 2.744,
+   "water_sqmi": 0.073,
+   "population": {
+    "count": 3825,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "South Berwick is a community in York County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.7 square miles of land and 0.1 square miles of water, and 3,825 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2370660",
+   "name": "South Eliot",
+   "kind": "57",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.13508,
+   "lon": -70.79316,
+   "land_sqmi": 7.192,
+   "water_sqmi": 0.416,
+   "population": {
+    "count": 3719,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "South Eliot is a community in York County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.2 square miles of land and 0.4 square miles of water, and 3,719 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2371780",
+   "name": "South Paris",
+   "kind": "57",
+   "counties": [
+    "Oxford County"
+   ],
+   "lat": 44.21782,
+   "lon": -70.51302,
+   "land_sqmi": 3.876,
+   "water_sqmi": 0.075,
+   "population": {
+    "count": 2183,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "South Paris is a community in Oxford County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.9 square miles of land and 0.1 square miles of water, and 2,183 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2371990",
+   "name": "South Portland",
+   "kind": "25",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.6314,
+   "lon": -70.28599,
+   "land_sqmi": 12.046,
+   "water_sqmi": 1.967,
+   "population": {
+    "count": 27007,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "South Portland is a city in Cumberland County in Maine. It covers about 12 square miles of land and 2 square miles of water, and about 27,007 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2372830",
+   "name": "Southwest Harbor",
+   "kind": "57",
+   "counties": [
+    "Hancock County"
+   ],
+   "lat": 44.27839,
+   "lon": -68.32858,
+   "land_sqmi": 1.347,
+   "water_sqmi": 0,
+   "population": {
+    "count": 740,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Southwest Harbor is a community in Hancock County in southeastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 740 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2372900",
+   "name": "South Windham",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.73879,
+   "lon": -70.4219,
+   "land_sqmi": 1.194,
+   "water_sqmi": 0.067,
+   "population": {
+    "count": 1215,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "South Windham is a community in Cumberland County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land and 0.1 square miles of water, and 1,215 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2373635",
+   "name": "Standish",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.73534,
+   "lon": -70.5525,
+   "land_sqmi": 2.678,
+   "water_sqmi": 0,
+   "population": {
+    "count": 480,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Standish is a community in Cumberland County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.7 square miles of land, and 480 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2373985",
+   "name": "Steep Falls",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.79122,
+   "lon": -70.61386,
+   "land_sqmi": 10.034,
+   "water_sqmi": 0.162,
+   "population": {
+    "count": 1223,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "Steep Falls is a community in Cumberland County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 10 square miles of land and 0.2 square miles of water, and 1,223 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2376330",
+   "name": "Thomaston",
+   "kind": "57",
+   "counties": [
+    "Knox County"
+   ],
+   "lat": 44.08187,
+   "lon": -69.17945,
+   "land_sqmi": 2.116,
+   "water_sqmi": 0.044,
+   "population": {
+    "count": 1836,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Thomaston is a community in Knox County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land, and 1,836 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2376925",
+   "name": "Topsham",
+   "kind": "57",
+   "counties": [
+    "Sagadahoc County"
+   ],
+   "lat": 43.94739,
+   "lon": -69.93165,
+   "land_sqmi": 11.025,
+   "water_sqmi": 0.347,
+   "population": {
+    "count": 6623,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Topsham is a community in Sagadahoc County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 11 square miles of land and 0.3 square miles of water, and 6,623 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2377765",
+   "name": "Turner",
+   "kind": "57",
+   "counties": [
+    "Androscoggin County"
+   ],
+   "lat": 44.25781,
+   "lon": -70.25786,
+   "land_sqmi": 1.456,
+   "water_sqmi": 0.059,
+   "population": {
+    "count": 544,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Turner is a community in Androscoggin County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land and 0.1 square miles of water, and 544 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2378220",
+   "name": "Unity",
+   "kind": "57",
+   "counties": [
+    "Waldo County"
+   ],
+   "lat": 44.61868,
+   "lon": -69.34458,
+   "land_sqmi": 1.833,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 448,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Unity is a community in Waldo County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land, and 448 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2378535",
+   "name": "Van Buren",
+   "kind": "57",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 47.16705,
+   "lon": -67.94888,
+   "land_sqmi": 4.323,
+   "water_sqmi": 0.325,
+   "population": {
+    "count": 1809,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Van Buren is a community in Aroostook County in northeastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.3 square miles of land and 0.3 square miles of water, and 1,809 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2378640",
+   "name": "Vanceboro",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 45.56724,
+   "lon": -67.42922,
+   "land_sqmi": 0.718,
+   "water_sqmi": 0.114,
+   "population": {
+    "count": 94,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Vanceboro is a community in Washington County in eastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land and 0.1 square miles of water, and 94 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2378815",
+   "name": "Veazie",
+   "kind": "57",
+   "counties": [
+    "Penobscot County"
+   ],
+   "lat": 44.84744,
+   "lon": -68.71419,
+   "land_sqmi": 3.025,
+   "water_sqmi": 0.191,
+   "population": {
+    "count": 1814,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Veazie is a community in Penobscot County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land and 0.2 square miles of water, and 1,814 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2379515",
+   "name": "Waldoboro",
+   "kind": "57",
+   "counties": [
+    "Lincoln County"
+   ],
+   "lat": 44.09332,
+   "lon": -69.37843,
+   "land_sqmi": 5.396,
+   "water_sqmi": 0.4,
+   "population": {
+    "count": 1300,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Waldoboro is a community in Lincoln County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.4 square miles of land and 0.4 square miles of water, and 1,300 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2380250",
+   "name": "Washburn",
+   "kind": "57",
+   "counties": [
+    "Aroostook County"
+   ],
+   "lat": 46.7884,
+   "lon": -68.1396,
+   "land_sqmi": 4.468,
+   "water_sqmi": 0.06,
+   "population": {
+    "count": 937,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Washburn is a community in Aroostook County in northeastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.5 square miles of land and 0.1 square miles of water, and 937 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2380740",
+   "name": "Waterville",
+   "kind": "25",
+   "counties": [
+    "Kennebec County"
+   ],
+   "lat": 44.54529,
+   "lon": -69.6614,
+   "land_sqmi": 13.532,
+   "water_sqmi": 0.474,
+   "population": {
+    "count": 17579,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Waterville is a city in Kennebec County in Maine. It covers about 14 square miles of land and 0.5 square miles of water, and about 17,579 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2382105",
+   "name": "Westbrook",
+   "kind": "25",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.70792,
+   "lon": -70.3526,
+   "land_sqmi": 17.189,
+   "water_sqmi": 0.171,
+   "population": {
+    "count": 21565,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southwestern",
+   "description": "Westbrook is a city in Cumberland County in southwestern Maine. It covers about 17 square miles of land and 0.2 square miles of water, and about 21,565 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2383330",
+   "name": "West Kennebunk",
+   "kind": "57",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.41419,
+   "lon": -70.58099,
+   "land_sqmi": 3.479,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1191,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "West Kennebunk is a community in York County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.5 square miles of land, and 1,191 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2385815",
+   "name": "Wilton",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 44.59435,
+   "lon": -70.23752,
+   "land_sqmi": 4.092,
+   "water_sqmi": 0.897,
+   "population": {
+    "count": 2071,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Wilton is a community in Franklin County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.1 square miles of land and 0.9 square miles of water, and 2,071 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2386480",
+   "name": "Winslow",
+   "kind": "57",
+   "counties": [
+    "Kennebec County"
+   ],
+   "lat": 44.55343,
+   "lon": -69.60845,
+   "land_sqmi": 5.994,
+   "water_sqmi": 0.612,
+   "population": {
+    "count": 5318,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Winslow is a community in Kennebec County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6 square miles of land and 0.6 square miles of water, and 5,318 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2386620",
+   "name": "Winter Harbor",
+   "kind": "57",
+   "counties": [
+    "Hancock County"
+   ],
+   "lat": 44.3928,
+   "lon": -68.09166,
+   "land_sqmi": 2.169,
+   "water_sqmi": 0,
+   "population": {
+    "count": 385,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Winter Harbor is a community in Hancock County in southeastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land, and 385 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2386725",
+   "name": "Winterport",
+   "kind": "57",
+   "counties": [
+    "Waldo County"
+   ],
+   "lat": 44.64813,
+   "lon": -68.86125,
+   "land_sqmi": 5.796,
+   "water_sqmi": 0.754,
+   "population": {
+    "count": 1355,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Winterport is a community in Waldo County in Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.8 square miles of land and 0.8 square miles of water, and 1,355 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2386935",
+   "name": "Winthrop",
+   "kind": "57",
+   "counties": [
+    "Kennebec County"
+   ],
+   "lat": 44.32338,
+   "lon": -69.9508,
+   "land_sqmi": 5.529,
+   "water_sqmi": 1.666,
+   "population": {
+    "count": 2666,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Winthrop is a community in Kennebec County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.5 square miles of land and 1.7 square miles of water, and 2,666 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2387040",
+   "name": "Wiscasset",
+   "kind": "57",
+   "counties": [
+    "Lincoln County"
+   ],
+   "lat": 44.01075,
+   "lon": -69.67803,
+   "land_sqmi": 3.899,
+   "water_sqmi": 0.035,
+   "population": {
+    "count": 1232,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Wiscasset is a community in Lincoln County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.9 square miles of land, and 1,232 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2387250",
+   "name": "Woodland",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 45.15821,
+   "lon": -67.40974,
+   "land_sqmi": 1.166,
+   "water_sqmi": 0.092,
+   "population": {
+    "count": 853,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Woodland is a community in Washington County in eastern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land and 0.1 square miles of water, and 853 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2387810",
+   "name": "Yarmouth",
+   "kind": "57",
+   "counties": [
+    "Cumberland County"
+   ],
+   "lat": 43.80381,
+   "lon": -70.18858,
+   "land_sqmi": 5.242,
+   "water_sqmi": 0.105,
+   "population": {
+    "count": 6125,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Yarmouth is a community in Cumberland County in southern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.2 square miles of land and 0.1 square miles of water, and 6,125 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "2388160",
+   "name": "York Harbor",
+   "kind": "57",
+   "counties": [
+    "York County"
+   ],
+   "lat": 43.14302,
+   "lon": -70.64749,
+   "land_sqmi": 3.206,
+   "water_sqmi": 0.288,
+   "population": {
+    "count": 3132,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southwestern",
+   "description": "York Harbor is a community in York County in southwestern Maine that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.2 square miles of land and 0.3 square miles of water, and 3,132 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  }
+ ]
+}

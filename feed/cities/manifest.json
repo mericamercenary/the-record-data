@@ -1,59 +1,59 @@
 {
   "feed": "the-record-cities",
   "schema_version": 1,
-  "generated_at": "2026-10-08T23:53:53-04:00",
-  "version": "2026-10-08",
+  "generated_at": "2026-10-09T09:00:19-04:00",
+  "version": "2026-10-09",
   "index": {
     "path": "index-294d919328fa.json",
     "sha256": "294d919328faa4c16778ab0a032cc5a658210d409be24fb334f6b69adad81dcc",
     "count": 32350
   },
   "full": {
-    "path": "full-2026-10-08.json",
-    "sha256": "d8fc5b9e1b7efcbf46ea75e223ec88658e9e3037917d2b20001c27b835a7baff",
+    "path": "full-2026-10-09.json",
+    "sha256": "40e7e451795124620b65744e7f838745de8dc47df408291f6d2ef340361c749f",
     "count": 12
   },
   "shards": [
     {
       "state": "AK",
-      "path": "places-AK-5c2c39497ceb.json",
-      "sha256": "5c2c39497cebe0dd2a3893c67cfd23c8bfcb468fc0083bc9e83af92054a95f5a",
+      "path": "places-AK-6c795160bb86.json",
+      "sha256": "6c795160bb8617b3bfd2c93335f03d6925bf451fd84f30b5db27802b8e27cce8",
       "count": 355
     },
     {
       "state": "AL",
-      "path": "places-AL-ca446d385396.json",
-      "sha256": "ca446d385396a6ce03240f3ed35821ca7fac75d94cb569bf821eb9f47cd1ab6d",
+      "path": "places-AL-de919ab253a4.json",
+      "sha256": "de919ab253a4e3340631d1e86d9bbc3dfcd61783e50d1c9f6a963ec31867bc33",
       "count": 594
     },
     {
       "state": "AR",
-      "path": "places-AR-de557d3ff135.json",
-      "sha256": "de557d3ff135b06fa903292c5889ef233dd2ec9e243bff2e33969d93cc952da6",
+      "path": "places-AR-44ae7cf6e5d3.json",
+      "sha256": "44ae7cf6e5d379bcc4d163b2ee8b9a5e30d1a9507087e1d06b0cccb35598ea13",
       "count": 626
     },
     {
       "state": "AZ",
-      "path": "places-AZ-a23e0173e137.json",
-      "sha256": "a23e0173e13731b3beb161b1af9cd3936c80f7d74acff5b8f38149377f978c60",
+      "path": "places-AZ-82f8a3bb143c.json",
+      "sha256": "82f8a3bb143cc7c5e5f9ecb3da985caef216694b63d387fa7c6bb98676251f71",
       "count": 467
     },
     {
       "state": "CA",
-      "path": "places-CA-fa5a6fead809.json",
-      "sha256": "fa5a6fead80927499d86dac6756e6b136516138df9372adcf0b8227a7a18fb06",
+      "path": "places-CA-4be1cda2d496.json",
+      "sha256": "4be1cda2d496258a1525604ea6fdb5e5f9cb1f9cd3ff8fcbb6a7f4e2c0ba47ac",
       "count": 1619
     },
     {
       "state": "CO",
-      "path": "places-CO-a8eee661e1bf.json",
-      "sha256": "a8eee661e1bfa0ad78f8886cd9ed94629951916abc8b835917d2633c5aea7dbb",
+      "path": "places-CO-956995d52d94.json",
+      "sha256": "956995d52d94f82d5d71a7854969c81ba0f57d2a0bf5efafdf5a13be2c183665",
       "count": 482
     },
     {
       "state": "CT",
-      "path": "places-CT-0a347117d4da.json",
-      "sha256": "0a347117d4da03718ff9c6f858090c7795dc87fdb7216f2b8208ac3e7d4831c1",
+      "path": "places-CT-18efce22a7d3.json",
+      "sha256": "18efce22a7d3c2c4d6df4f5b19cd81f9fa235dface4bd1dadcdfe54d8e80a17e",
       "count": 215
     },
     {
@@ -64,268 +64,268 @@
     },
     {
       "state": "DE",
-      "path": "places-DE-5e92175f9327.json",
-      "sha256": "5e92175f9327c67ecb42c501c1c765cf0d92df498637530214d2b512578b6f00",
+      "path": "places-DE-4151eb39f882.json",
+      "sha256": "4151eb39f882d6e904a13df696af350cda3709c57c210a23300f4f22436348e2",
       "count": 79
     },
     {
       "state": "FL",
-      "path": "places-FL-d70061b854dd.json",
-      "sha256": "d70061b854dd4efe786941a65c608ea4ff5b9d141b0d8c141536dac1983768be",
+      "path": "places-FL-dcc4dbbb6575.json",
+      "sha256": "dcc4dbbb6575ae0d31b3a6d04ca10930df765e5f00808e670e9ff30b01fcf8f3",
       "count": 958
     },
     {
       "state": "GA",
-      "path": "places-GA-e59902c18e2b.json",
-      "sha256": "e59902c18e2ba71a231ec84b14453c2c378e186f5cef5fb99fb2f9c7ed01e98e",
+      "path": "places-GA-0e952cc7ccab.json",
+      "sha256": "0e952cc7ccab92958db4fb6052e0895513b788614195e41d1ef2f436c5356935",
       "count": 676
     },
     {
       "state": "HI",
-      "path": "places-HI-0b4c47373a6f.json",
-      "sha256": "0b4c47373a6f448be9f110b45b4497535c3f5844eca1eddab357d56a2bcaa720",
+      "path": "places-HI-dd36af6ad431.json",
+      "sha256": "dd36af6ad43189c1112177d3e128ea26d155b51c989d3a5dae3adc30373d726e",
       "count": 163
     },
     {
       "state": "IA",
-      "path": "places-IA-5dc3b122d435.json",
-      "sha256": "5dc3b122d4353bdb01f3a13631a716a8a577c435fd8ced4329e6235525ee0996",
+      "path": "places-IA-29832b40b6dc.json",
+      "sha256": "29832b40b6dcd4420955d4d56247bac26c386ebf588e104d23644831c922dcf2",
       "count": 1026
     },
     {
       "state": "ID",
-      "path": "places-ID-fa6c061d0280.json",
-      "sha256": "fa6c061d0280d9fce25b457132b9f3a6859813266fb1f651c8c2a60cd7bc4c7f",
+      "path": "places-ID-1f480e0507a5.json",
+      "sha256": "1f480e0507a51c6c44d9eb70b1666ff1af752ce91c1943927866442afd7a49a8",
       "count": 236
     },
     {
       "state": "IL",
-      "path": "places-IL-1783a4d1ddf5.json",
-      "sha256": "1783a4d1ddf542d9f1db1b252bd24908d33c1341255b81e0772c3afd6c8f7e17",
+      "path": "places-IL-d1611614ff88.json",
+      "sha256": "d1611614ff88561a56b4eafaf15a38d8ed88ecc1302a0aca58b1180d9f083aee",
       "count": 1461
     },
     {
       "state": "IN",
-      "path": "places-IN-d88aec4ec11d.json",
-      "sha256": "d88aec4ec11d617910d1c2f71a9f728461583fbe93ec1f5192dc7f022279b2d4",
+      "path": "places-IN-cdfcddd2c180.json",
+      "sha256": "cdfcddd2c18039d674cf57c9fc1f07582ede15b35fd9f5c7041a45490b3835db",
       "count": 974
     },
     {
       "state": "KS",
-      "path": "places-KS-ab8f9b61bc4e.json",
-      "sha256": "ab8f9b61bc4edf39c5306b0630acf5cd55b857485a1e19c4f0fbbc3c7b91743c",
+      "path": "places-KS-40f3e3b33639.json",
+      "sha256": "40f3e3b3363949aea9e2607f0f31fafef8917f69cfc0aa9fd0709ab4fca20e29",
       "count": 740
     },
     {
       "state": "KY",
-      "path": "places-KY-db955ddc64e5.json",
-      "sha256": "db955ddc64e5ec7b3d0ef7ffe9faf73698223fbaaf7e6751fdd470d3cc48f156",
+      "path": "places-KY-1bdf397d40a9.json",
+      "sha256": "1bdf397d40a9c4011e5ba497a66b3ef293cb153ad8a36338d3dcc674207b7acb",
       "count": 555
     },
     {
       "state": "LA",
-      "path": "places-LA-79dd6672d6a9.json",
-      "sha256": "79dd6672d6a9ad55ca7dfc73206365d8fdaee80862db8ac7445a2fe11c0b861e",
+      "path": "places-LA-f0c51295196a.json",
+      "sha256": "f0c51295196a3ed5bc5a6d15bb3cd3df219009cbe781f4d9790f1ba837917cbc",
       "count": 484
     },
     {
       "state": "MA",
-      "path": "places-MA-dc1df66b79c3.json",
-      "sha256": "dc1df66b79c3de279b76b0c0d639c51c5544a57d75d85e1c83d88968e97e86ac",
+      "path": "places-MA-f56868c34acb.json",
+      "sha256": "f56868c34acbc0dae159b00a270a640098e496fd957a11d49b75677f824bb6bb",
       "count": 248
     },
     {
       "state": "MD",
-      "path": "places-MD-9f9570de79b5.json",
-      "sha256": "9f9570de79b5930e19a11700c887a2472bb391c27fe52c42d69681c96551f66b",
+      "path": "places-MD-0c27c7d7f6bf.json",
+      "sha256": "0c27c7d7f6bf8a8f114ac1fbc1d35ee81bdacf1ad16d917ce7fc8008506d0bf3",
       "count": 536
     },
     {
       "state": "ME",
-      "path": "places-ME-bef0e1e88145.json",
-      "sha256": "bef0e1e881453a92836a768f2f321547997f043b06fc1e3f11d78651bb61df73",
+      "path": "places-ME-e454bca771f4.json",
+      "sha256": "e454bca771f455b3a8aff879baea9294d99c642b48c62d3024d1d8093724589a",
       "count": 155
     },
     {
       "state": "MI",
-      "path": "places-MI-bb889a0ccc87.json",
-      "sha256": "bb889a0ccc8798b0271d7c58992724da2c5b1457c47f8954ba40259bb3d8017e",
+      "path": "places-MI-eed679d9e0c2.json",
+      "sha256": "eed679d9e0c21da83bbcac413139fdcb023c4444c0f1b281d161ffa3cf34a20a",
       "count": 745
     },
     {
       "state": "MN",
-      "path": "places-MN-068f1f4812c7.json",
-      "sha256": "068f1f4812c7d05032dbf3e47142666b99d9064c2cef8d1f2d0a6011baa071d9",
+      "path": "places-MN-ea7b78590b0f.json",
+      "sha256": "ea7b78590b0f56a1d8404ab420ad86324f877c4b67c04dd3fba6fba8c3fcd1cd",
       "count": 916
     },
     {
       "state": "MO",
-      "path": "places-MO-3c05a2cfa20f.json",
-      "sha256": "3c05a2cfa20f7a35560457e623ddfed6e45564a0666b9252c21e631ef4fef1e3",
+      "path": "places-MO-831b2e858e34.json",
+      "sha256": "831b2e858e34593d0bbe153b06b0cb59938c10fb1f777791762ad91502a50179",
       "count": 1081
     },
     {
       "state": "MS",
-      "path": "places-MS-dbf08a2a1daa.json",
-      "sha256": "dbf08a2a1daa2f34ccde47d4c5a61e1aa9506dfba469f5bffab5da33fb0ef9d7",
+      "path": "places-MS-ee3a4d0c0e8a.json",
+      "sha256": "ee3a4d0c0e8ad3bade22bb8a88f9e87c43f175a4352fc73db9bedef0aa435177",
       "count": 427
     },
     {
       "state": "MT",
-      "path": "places-MT-1f3e0c1c4afa.json",
-      "sha256": "1f3e0c1c4afaa3d76a648f59e940563dbb51dc00c673f2a6b8153647739d7227",
+      "path": "places-MT-768a75a55254.json",
+      "sha256": "768a75a55254c953ff293bb1f0575cd7e638c078150215e79e04a0a64acdb7d1",
       "count": 497
     },
     {
       "state": "NC",
-      "path": "places-NC-23758e3c7700.json",
-      "sha256": "23758e3c77007d2f69a45d1a3ab579e0054438420b9a4eaf3c3deffbb3f648fd",
+      "path": "places-NC-d5e9e2b5c291.json",
+      "sha256": "d5e9e2b5c29152a9f3f24e44ed656382bfd89af5f7abe4c59a88199d92910b8c",
       "count": 776
     },
     {
       "state": "ND",
-      "path": "places-ND-5258d43b9eea.json",
-      "sha256": "5258d43b9eea0d63433ecbb72c9c130b8ae3a79f0f7d2e536bcb3e86d9776bd5",
+      "path": "places-ND-6ba0902657a2.json",
+      "sha256": "6ba0902657a21004c9e7f74030708641d5f72e7fa962ba2276c623df4152f22f",
       "count": 406
     },
     {
       "state": "NE",
-      "path": "places-NE-afb821a6bcfe.json",
-      "sha256": "afb821a6bcfe3cb09e074c0d93706cf0bb60a90b1b353051c36e9d8e8b8d1ee7",
+      "path": "places-NE-cc0c14af0a7b.json",
+      "sha256": "cc0c14af0a7bcd0c9ca151ac62fa99282612f9db0004456e055871d5b1383140",
       "count": 593
     },
     {
       "state": "NH",
-      "path": "places-NH-cddf333176e5.json",
-      "sha256": "cddf333176e5ea93f79b3fe2d7a27807880c2370e2a919428dd848a880f9a805",
+      "path": "places-NH-a2b06cb50bd7.json",
+      "sha256": "a2b06cb50bd7f951f7a2dab6d5a534d5bb00a632bbd6c22e1fb7ccbee4b51a70",
       "count": 100
     },
     {
       "state": "NJ",
-      "path": "places-NJ-e27c43a5e99c.json",
-      "sha256": "e27c43a5e99cccfc7c910a1d2b68b28374bb31b70c232d6c8d423fd965d6be4e",
+      "path": "places-NJ-ed1b6bc19884.json",
+      "sha256": "ed1b6bc19884126480fe1af8f87eee0fe24528b9275295f57b23bff101945349",
       "count": 700
     },
     {
       "state": "NM",
-      "path": "places-NM-8e88205263f1.json",
-      "sha256": "8e88205263f177a13b21b6f5bfc79044bd760c0876afbbe8e593cd9af576832b",
+      "path": "places-NM-252e18f57a76.json",
+      "sha256": "252e18f57a76333f14e527324086b14ec983d6d3f63439fe4b84918b4817e651",
       "count": 528
     },
     {
       "state": "NV",
-      "path": "places-NV-22108ec4e296.json",
-      "sha256": "22108ec4e2962507f2ed152866f9f9f8964a25c9565a400650678d32b994e538",
+      "path": "places-NV-fb17820fb9a3.json",
+      "sha256": "fb17820fb9a39eae5c7d1292fd26781e91238794ce4d077cfb72fd45528ab8f1",
       "count": 138
     },
     {
       "state": "NY",
-      "path": "places-NY-bda367b9f7a5.json",
-      "sha256": "bda367b9f7a5b74e25b2a533030c236365a2a912407a33f69b8c058d6064b9a3",
+      "path": "places-NY-2f039dfa976c.json",
+      "sha256": "2f039dfa976c11b7afb6cfeae7479166301d914d3ec9cd7dc9a7f9d1887def8f",
       "count": 1293
     },
     {
       "state": "OH",
-      "path": "places-OH-04558f4ce6ee.json",
-      "sha256": "04558f4ce6ee14f41ea4be80b2b7f3cc62616b06590d3cfb58d8d90e9ebcddea",
+      "path": "places-OH-a94d9492a3a6.json",
+      "sha256": "a94d9492a3a6d07622a1e08f9b2eaf4e1f2aff7b500cf1de0aacc7785c9de08b",
       "count": 1265
     },
     {
       "state": "OK",
-      "path": "places-OK-903c3fb86677.json",
-      "sha256": "903c3fb86677b4e488683e7865945376474fa042b034fd7fd78b334f17b44690",
+      "path": "places-OK-544153838f81.json",
+      "sha256": "544153838f81eb700f09d0ef8eae39204d3cbf63e5f19d4e7e47d15ed8750285",
       "count": 846
     },
     {
       "state": "OR",
-      "path": "places-OR-1e489a0d2b17.json",
-      "sha256": "1e489a0d2b176faab55fb843c1dc8257e3fd32c06efa7bb7f046f3bdb0505e44",
+      "path": "places-OR-6cd8efcf2dde.json",
+      "sha256": "6cd8efcf2dde349474752f55430e5c1e6dbb2ee66783930cd6228775d9ab59da",
       "count": 426
     },
     {
       "state": "PA",
-      "path": "places-PA-ec3c82c26406.json",
-      "sha256": "ec3c82c26406d8fb30c643fec4634596dd385b9857292374827d5beeca02276c",
+      "path": "places-PA-d2abaf581236.json",
+      "sha256": "d2abaf5812367d304294e680a72ac3b91d14e88351d6b8900c8f2871a5fb4298",
       "count": 2003
     },
     {
       "state": "PR",
-      "path": "places-PR-c265f491b7e2.json",
-      "sha256": "c265f491b7e228cbfc478a894ad3a37bfa48233ee44127a96fc8a1c5e55223b1",
+      "path": "places-PR-3e15bc6026a6.json",
+      "sha256": "3e15bc6026a6286b34d8906d0ae8b1515c8ad7ffb5be09480e6d331afe94b332",
       "count": 292
     },
     {
       "state": "RI",
-      "path": "places-RI-514d766130b6.json",
-      "sha256": "514d766130b6ef822e681afffa7957ee4efe7b98460b364f5218a6801baaa82a",
+      "path": "places-RI-475d1e28e198.json",
+      "sha256": "475d1e28e198c65674049b6fe2c901808cfea4c08b8ef2601d47fc327f02a1fb",
       "count": 36
     },
     {
       "state": "SC",
-      "path": "places-SC-5ff68908199c.json",
-      "sha256": "5ff68908199c65ca12994ff1d72e82f27524d23a399de5476eeb233adca9a517",
+      "path": "places-SC-ba9208eff800.json",
+      "sha256": "ba9208eff8001e2ac9f87ad032b7cd30fdde559b085527b114d2db67cff1cc9b",
       "count": 475
     },
     {
       "state": "SD",
-      "path": "places-SD-7fb3732573c0.json",
-      "sha256": "7fb3732573c0d28e0d8304c984637c879cad6a748e132bf4a5e1008eeff79db7",
+      "path": "places-SD-d8e25d17141e.json",
+      "sha256": "d8e25d17141e9237d32e00568a77724a0873a828d231c064ac0baf9a8ea11264",
       "count": 485
     },
     {
       "state": "TN",
-      "path": "places-TN-537d05ba8e1c.json",
-      "sha256": "537d05ba8e1c10b5bec48f3f4a253b1d7e447265e1a967d9d7e1a3c4efa11f06",
+      "path": "places-TN-a421b0befcbe.json",
+      "sha256": "a421b0befcbee71ac65a18e8fb95ca1955c957ca2a6124bb50080b767818d03a",
       "count": 504
     },
     {
       "state": "TX",
-      "path": "places-TX-d79693f3678a.json",
-      "sha256": "d79693f3678a5f2098b196b8740500b5c93fd2c1e0b35dd1143a46eb455c4e6a",
+      "path": "places-TX-82bf0a24a990.json",
+      "sha256": "82bf0a24a990e292b2e15033407b0b95fc72062d2406a25ae73fbbeeeb146c86",
       "count": 1863
     },
     {
       "state": "UT",
-      "path": "places-UT-b0827c6c18d4.json",
-      "sha256": "b0827c6c18d4f760e785d0eb64c7951869f570a258eb35e0fc1d2b325a992bd2",
+      "path": "places-UT-3edec7782b68.json",
+      "sha256": "3edec7782b68e419f965c2f5aa6366e4659a4ac30661f5d792b0ad96f0592a70",
       "count": 334
     },
     {
       "state": "VA",
-      "path": "places-VA-09ffae2c2dfc.json",
-      "sha256": "09ffae2c2dfcb56408da34633dce8730288fa92505e012369a55637dbda80412",
+      "path": "places-VA-44772f118b19.json",
+      "sha256": "44772f118b193029c64e383e3ee5ff564f5f36d4b4eb369438d768722f26f4c5",
       "count": 700
     },
     {
       "state": "VT",
-      "path": "places-VT-dc20dcea02d1.json",
-      "sha256": "dc20dcea02d143444bed0bbba9436c0d1e594ace62be5de558a3a041743ebb71",
+      "path": "places-VT-9a5e08ca2493.json",
+      "sha256": "9a5e08ca2493a79f4890d8a8b22e19dc93ad45a49e86da1d4f678f1000800b92",
       "count": 180
     },
     {
       "state": "WA",
-      "path": "places-WA-0787fd23bbc0.json",
-      "sha256": "0787fd23bbc016dd2f1963941fa63442e56711285f9de2c449883c5930321823",
+      "path": "places-WA-819473ca0ab5.json",
+      "sha256": "819473ca0ab5a5b5c3fcb035bec01a6fc8394536be0052f1dbf8eb1972d169d8",
       "count": 639
     },
     {
       "state": "WI",
-      "path": "places-WI-f12d19e3433d.json",
-      "sha256": "f12d19e3433d7525aa3951ad9833be39287d2a4e2dc077ed8b4ae44e25ea5848",
+      "path": "places-WI-733aa9dafc0e.json",
+      "sha256": "733aa9dafc0eb548ada3f55addf26afd4f3f26e2ca269b1ddb0ff4c44daebe26",
       "count": 808
     },
     {
       "state": "WV",
-      "path": "places-WV-1dcb835a7bd4.json",
-      "sha256": "1dcb835a7bd4fb117784b0231497428a3c77e5daf6ea8795b60b3c67425b72ec",
+      "path": "places-WV-29f7165b5f1c.json",
+      "sha256": "29f7165b5f1c75d3c2fc0e9c9b039c01bdf789a70997411bd025f451dc2cc7bb",
       "count": 439
     },
     {
       "state": "WY",
-      "path": "places-WY-84757f448bd6.json",
-      "sha256": "84757f448bd6dd4365a9eef7041ef6c77f71684c4fb3aaf7e99f6aa90df9b514",
+      "path": "places-WY-ef7ce35d7a7a.json",
+      "sha256": "ef7ce35d7a7a27e0a8f91339e503bd6c5efa8a3467dbf1213983370482bb6c79",
       "count": 205
     }
   ],
-  "validation_report": "INTEGRITY_REPORT-cities-2026-10-08.md"
+  "validation_report": "INTEGRITY_REPORT-cities-2026-10-09.md"
 }

@@ -1,0 +1,2747 @@
+{
+ "bundle": "cities-places",
+ "schema_version": 1,
+ "state": "NV",
+ "sources": [
+  {
+   "name": "U.S. Census Bureau, 2025 Gazetteer Files (places and counties)",
+   "url": "https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html"
+  },
+  {
+   "name": "U.S. Census Bureau, Vintage 2025 population estimates for cities and towns (July 1, 2025)",
+   "url": "https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 Census counts (TIGERweb, Census 2020 places)",
+   "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_Census2020/MapServer"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 place-to-county list",
+   "url": "https://www.census.gov/library/reference/code-lists/ansi.html"
+  }
+ ],
+ "places": [
+  {
+   "geoid": "3200500",
+   "name": "Alamo",
+   "kind": "57",
+   "counties": [
+    "Lincoln County"
+   ],
+   "lat": 37.37702,
+   "lon": -115.16782,
+   "land_sqmi": 6.35,
+   "water_sqmi": 0,
+   "population": {
+    "count": 785,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Alamo is a community in Lincoln County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.4 square miles of land, and 785 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3201000",
+   "name": "Amargosa Valley",
+   "kind": "57",
+   "counties": [
+    "Nye County"
+   ],
+   "lat": 36.54336,
+   "lon": -116.4839,
+   "land_sqmi": 98.66,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 1064,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Amargosa Valley is a community in Nye County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 99 square miles of land, and 1,064 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3203700",
+   "name": "Austin",
+   "kind": "57",
+   "counties": [
+    "Lander County"
+   ],
+   "lat": 39.49754,
+   "lon": -117.07401,
+   "land_sqmi": 1.15,
+   "water_sqmi": 0,
+   "population": {
+    "count": 167,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Austin is a community in Lander County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 167 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3204100",
+   "name": "Baker",
+   "kind": "57",
+   "counties": [
+    "White Pine County"
+   ],
+   "lat": 39.01867,
+   "lon": -114.121,
+   "land_sqmi": 0.904,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 41,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Baker is a community in White Pine County in eastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 41 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3204900",
+   "name": "Battle Mountain",
+   "kind": "57",
+   "counties": [
+    "Lander County"
+   ],
+   "lat": 40.62837,
+   "lon": -116.94855,
+   "land_sqmi": 6.113,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 3705,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Battle Mountain is a community in Lander County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.1 square miles of land, and 3,705 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3205100",
+   "name": "Beatty",
+   "kind": "57",
+   "counties": [
+    "Nye County"
+   ],
+   "lat": 36.99616,
+   "lon": -116.72347,
+   "land_sqmi": 17.682,
+   "water_sqmi": 0.022,
+   "population": {
+    "count": 880,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Beatty is a community in Nye County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 18 square miles of land, and 880 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3205125",
+   "name": "Beaverdam",
+   "kind": "57",
+   "counties": [
+    "Lincoln County"
+   ],
+   "lat": 37.6898,
+   "lon": -114.44904,
+   "land_sqmi": 0.687,
+   "water_sqmi": 0,
+   "population": {
+    "count": 40,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Beaverdam is a community in Lincoln County in eastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 40 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3205275",
+   "name": "Bennett Springs",
+   "kind": "57",
+   "counties": [
+    "Lincoln County"
+   ],
+   "lat": 37.71412,
+   "lon": -114.46671,
+   "land_sqmi": 3.386,
+   "water_sqmi": 0,
+   "population": {
+    "count": 158,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Bennett Springs is a community in Lincoln County in eastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.4 square miles of land, and 158 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3205700",
+   "name": "Blue Diamond",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.03995,
+   "lon": -115.4128,
+   "land_sqmi": 7.216,
+   "water_sqmi": 0,
+   "population": {
+    "count": 268,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Blue Diamond is a community in Clark County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.2 square miles of land, and 268 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3206500",
+   "name": "Boulder City",
+   "kind": "25",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 35.84376,
+   "lon": -114.91155,
+   "land_sqmi": 212.279,
+   "water_sqmi": 0.032,
+   "population": {
+    "count": 14884,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Boulder City is a city in Clark County in southern Nevada. It covers about 212 square miles of land, and about 14,884 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3208100",
+   "name": "Bunkerville",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.75679,
+   "lon": -114.13198,
+   "land_sqmi": 10.328,
+   "water_sqmi": 0.58,
+   "population": {
+    "count": 1069,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Bunkerville is a community in Clark County in southeastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 10 square miles of land and 0.6 square miles of water, and 1,069 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3208500",
+   "name": "Caliente",
+   "kind": "25",
+   "counties": [
+    "Lincoln County"
+   ],
+   "lat": 37.64576,
+   "lon": -114.49293,
+   "land_sqmi": 53.024,
+   "water_sqmi": 0,
+   "population": {
+    "count": 943,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Caliente is a city in Lincoln County in eastern Nevada. It covers about 53 square miles of land, and about 943 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3208600",
+   "name": "Cal-Nev-Ari",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 35.29958,
+   "lon": -114.87773,
+   "land_sqmi": 2.279,
+   "water_sqmi": 0,
+   "population": {
+    "count": 144,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Cal-Nev-Ari is a community in Clark County in southeastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.3 square miles of land, and 144 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3208900",
+   "name": "Carlin",
+   "kind": "25",
+   "counties": [
+    "Elko County"
+   ],
+   "lat": 40.71901,
+   "lon": -116.10804,
+   "land_sqmi": 10.442,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2011,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Carlin is a city in Elko County in Nevada. It covers about 10 square miles of land, and about 2,011 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3209700",
+   "name": "Carson City",
+   "kind": "00",
+   "counties": [],
+   "lat": 39.15306,
+   "lon": -119.74737,
+   "land_sqmi": 144.534,
+   "water_sqmi": 12.585,
+   "population": {
+    "count": 58571,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Carson City is a city in western Nevada. It covers about 145 square miles of land and 13 square miles of water, and about 58,571 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3210200",
+   "name": "Carter Springs",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 38.86194,
+   "lon": -119.64112,
+   "land_sqmi": 2.8,
+   "water_sqmi": 0,
+   "population": {
+    "count": 585,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Carter Springs is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.8 square miles of land, and 585 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3214090",
+   "name": "Cold Springs",
+   "kind": "57",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 39.69264,
+   "lon": -119.97729,
+   "land_sqmi": 8.759,
+   "water_sqmi": 0,
+   "population": {
+    "count": 10153,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Cold Springs is a community in Washoe County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8.8 square miles of land, and 10,153 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3216300",
+   "name": "Crescent Valley",
+   "kind": "57",
+   "counties": [
+    "Eureka County"
+   ],
+   "lat": 40.41978,
+   "lon": -116.57531,
+   "land_sqmi": 2.23,
+   "water_sqmi": 0,
+   "population": {
+    "count": 512,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Crescent Valley is a community in Eureka County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land, and 512 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3216700",
+   "name": "Crystal Bay",
+   "kind": "57",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 39.23042,
+   "lon": -120.00218,
+   "land_sqmi": 0.451,
+   "water_sqmi": 0.328,
+   "population": {
+    "count": 337,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Crystal Bay is a community in Washoe County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land and 0.3 square miles of water, and 337 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3217500",
+   "name": "Dayton",
+   "kind": "57",
+   "counties": [
+    "Lyon County"
+   ],
+   "lat": 39.27163,
+   "lon": -119.54495,
+   "land_sqmi": 34.9,
+   "water_sqmi": 0.012,
+   "population": {
+    "count": 15153,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Dayton is a community in Lyon County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 35 square miles of land, and 15,153 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3218500",
+   "name": "Denio",
+   "kind": "57",
+   "counties": [
+    "Humboldt County"
+   ],
+   "lat": 41.98886,
+   "lon": -118.63748,
+   "land_sqmi": 0.458,
+   "water_sqmi": 0,
+   "population": {
+    "count": 34,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northwestern",
+   "description": "Denio is a community in Humboldt County in northwestern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 34 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3219150",
+   "name": "Double Spring",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 38.77877,
+   "lon": -119.6154,
+   "land_sqmi": 8.766,
+   "water_sqmi": 0,
+   "population": {
+    "count": 180,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Double Spring is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8.8 square miles of land, and 180 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3219800",
+   "name": "Dry Valley",
+   "kind": "57",
+   "counties": [
+    "Lincoln County"
+   ],
+   "lat": 37.88435,
+   "lon": -114.30505,
+   "land_sqmi": 3.785,
+   "water_sqmi": 0,
+   "population": {
+    "count": 49,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Dry Valley is a community in Lincoln County in eastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.8 square miles of land, and 49 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3220700",
+   "name": "Dyer",
+   "kind": "57",
+   "counties": [
+    "Esmeralda County"
+   ],
+   "lat": 37.65613,
+   "lon": -118.02799,
+   "land_sqmi": 35.14,
+   "water_sqmi": 0.09,
+   "population": {
+    "count": 232,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Dyer is a community in Esmeralda County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 35 square miles of land and 0.1 square miles of water, and 232 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3221520",
+   "name": "East Valley",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 38.94205,
+   "lon": -119.69323,
+   "land_sqmi": 9.836,
+   "water_sqmi": 0.123,
+   "population": {
+    "count": 1558,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "East Valley is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 9.8 square miles of land and 0.1 square miles of water, and 1,558 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3222500",
+   "name": "Elko",
+   "kind": "25",
+   "counties": [
+    "Elko County"
+   ],
+   "lat": 40.83811,
+   "lon": -115.76781,
+   "land_sqmi": 17.846,
+   "water_sqmi": 0,
+   "population": {
+    "count": 21019,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Elko is a city in Elko County in Nevada. It covers about 18 square miles of land, and about 21,019 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3223500",
+   "name": "Ely",
+   "kind": "25",
+   "counties": [
+    "White Pine County"
+   ],
+   "lat": 39.26493,
+   "lon": -114.87087,
+   "land_sqmi": 7.626,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3946,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "Ely is a city in White Pine County in eastern Nevada. It covers about 7.6 square miles of land, and about 3,946 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3223700",
+   "name": "Empire",
+   "kind": "57",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 40.57592,
+   "lon": -119.34307,
+   "land_sqmi": 5.133,
+   "water_sqmi": 0,
+   "population": {
+    "count": 47,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Empire is a community in Washoe County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.1 square miles of land, and 47 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3223770",
+   "name": "Enterprise",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.00914,
+   "lon": -115.22782,
+   "land_sqmi": 65.999,
+   "water_sqmi": 0,
+   "population": {
+    "count": 221831,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Enterprise is a community in Clark County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 66 square miles of land, and 221,831 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3223900",
+   "name": "Eureka",
+   "kind": "57",
+   "counties": [
+    "Eureka County"
+   ],
+   "lat": 39.5112,
+   "lon": -115.96582,
+   "land_sqmi": 1.292,
+   "water_sqmi": 0,
+   "population": {
+    "count": 414,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Eureka is a community in Eureka County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 414 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3224100",
+   "name": "Fallon",
+   "kind": "25",
+   "counties": [
+    "Churchill County"
+   ],
+   "lat": 39.4737,
+   "lon": -118.7779,
+   "land_sqmi": 3.716,
+   "water_sqmi": 0,
+   "population": {
+    "count": 9570,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Fallon is a city in Churchill County in western Nevada. It covers about 3.7 square miles of land, and about 9,570 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3224500",
+   "name": "Fallon Station",
+   "kind": "57",
+   "counties": [
+    "Churchill County"
+   ],
+   "lat": 39.41496,
+   "lon": -118.71651,
+   "land_sqmi": 2.843,
+   "water_sqmi": 0,
+   "population": {
+    "count": 281,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Fallon Station is a community in Churchill County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.8 square miles of land, and 281 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3224900",
+   "name": "Fernley",
+   "kind": "25",
+   "counties": [
+    "Lyon County"
+   ],
+   "lat": 39.56477,
+   "lon": -119.18943,
+   "land_sqmi": 122.723,
+   "water_sqmi": 6.735,
+   "population": {
+    "count": 26214,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Fernley is a city in Lyon County in western Nevada. It covers about 123 square miles of land and 6.7 square miles of water, and about 26,214 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3225000",
+   "name": "Fish Springs",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 38.95358,
+   "lon": -119.65109,
+   "land_sqmi": 9.192,
+   "water_sqmi": 0,
+   "population": {
+    "count": 684,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Fish Springs is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 9.2 square miles of land, and 684 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3225490",
+   "name": "Fort McDermitt",
+   "kind": "57",
+   "counties": [
+    "Humboldt County"
+   ],
+   "lat": 41.96551,
+   "lon": -117.63945,
+   "land_sqmi": 17.97,
+   "water_sqmi": 0,
+   "population": {
+    "count": 267,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Fort McDermitt is a community in Humboldt County in northern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 18 square miles of land, and 267 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3225900",
+   "name": "Gabbs",
+   "kind": "57",
+   "counties": [
+    "Nye County"
+   ],
+   "lat": 38.86278,
+   "lon": -117.93214,
+   "land_sqmi": 1.498,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 186,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Gabbs is a community in Nye County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 186 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3226300",
+   "name": "Gardnerville",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 38.939,
+   "lon": -119.73688,
+   "land_sqmi": 4.8,
+   "water_sqmi": 0,
+   "population": {
+    "count": 6211,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Gardnerville is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.8 square miles of land, and 6,211 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3226500",
+   "name": "Gardnerville Ranchos",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 38.89572,
+   "lon": -119.74915,
+   "land_sqmi": 10.325,
+   "water_sqmi": 0,
+   "population": {
+    "count": 11318,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Gardnerville Ranchos is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 10 square miles of land, and 11,318 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3227100",
+   "name": "Genoa",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 39.02562,
+   "lon": -119.83093,
+   "land_sqmi": 9.187,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1343,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Genoa is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 9.2 square miles of land, and 1,343 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3227300",
+   "name": "Gerlach",
+   "kind": "57",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 40.64517,
+   "lon": -119.36134,
+   "land_sqmi": 3.126,
+   "water_sqmi": 0,
+   "population": {
+    "count": 130,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Gerlach is a community in Washoe County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.1 square miles of land, and 130 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3227900",
+   "name": "Glenbrook",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 39.10012,
+   "lon": -119.92729,
+   "land_sqmi": 3.791,
+   "water_sqmi": 0.218,
+   "population": {
+    "count": 315,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Glenbrook is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.8 square miles of land and 0.2 square miles of water, and 315 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3228500",
+   "name": "Golconda",
+   "kind": "57",
+   "counties": [
+    "Humboldt County"
+   ],
+   "lat": 40.95213,
+   "lon": -117.49967,
+   "land_sqmi": 1.694,
+   "water_sqmi": 0,
+   "population": {
+    "count": 182,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Golconda is a community in Humboldt County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land, and 182 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3228860",
+   "name": "Golden Valley",
+   "kind": "57",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 39.61775,
+   "lon": -119.82312,
+   "land_sqmi": 3.614,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1580,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Golden Valley is a community in Washoe County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.6 square miles of land, and 1,580 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3228900",
+   "name": "Goldfield",
+   "kind": "57",
+   "counties": [
+    "Esmeralda County"
+   ],
+   "lat": 37.71217,
+   "lon": -117.23785,
+   "land_sqmi": 1.481,
+   "water_sqmi": 0,
+   "population": {
+    "count": 225,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Goldfield is a community in Esmeralda County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 225 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3229500",
+   "name": "Goodsprings",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 35.83188,
+   "lon": -115.43534,
+   "land_sqmi": 0.977,
+   "water_sqmi": 0,
+   "population": {
+    "count": 162,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Goodsprings is a community in Clark County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 162 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3230220",
+   "name": "Grass Valley",
+   "kind": "57",
+   "counties": [
+    "Pershing County"
+   ],
+   "lat": 40.79708,
+   "lon": -117.76026,
+   "land_sqmi": 34.511,
+   "water_sqmi": 0,
+   "population": {
+    "count": 991,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Grass Valley is a community in Pershing County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 35 square miles of land, and 991 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3231300",
+   "name": "Hawthorne",
+   "kind": "57",
+   "counties": [
+    "Mineral County"
+   ],
+   "lat": 38.52527,
+   "lon": -118.62603,
+   "land_sqmi": 1.759,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3118,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Hawthorne is a community in Mineral County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land, and 3,118 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3231900",
+   "name": "Henderson",
+   "kind": "25",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.00896,
+   "lon": -115.0268,
+   "land_sqmi": 120.993,
+   "water_sqmi": 0.491,
+   "population": {
+    "count": 353289,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Henderson is a city in Clark County in southern Nevada. It covers about 121 square miles of land and 0.5 square miles of water, and about 353,289 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3232900",
+   "name": "Hiko",
+   "kind": "57",
+   "counties": [
+    "Lincoln County"
+   ],
+   "lat": 37.64524,
+   "lon": -115.18905,
+   "land_sqmi": 23.413,
+   "water_sqmi": 0.33,
+   "population": {
+    "count": 124,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Hiko is a community in Lincoln County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 23 square miles of land and 0.3 square miles of water, and 124 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3234100",
+   "name": "Humboldt River Ranch",
+   "kind": "57",
+   "counties": [
+    "Pershing County"
+   ],
+   "lat": 40.4318,
+   "lon": -118.27187,
+   "land_sqmi": 20.183,
+   "water_sqmi": 0,
+   "population": {
+    "count": 249,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Humboldt River Ranch is a community in Pershing County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 20 square miles of land, and 249 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3234700",
+   "name": "Imlay",
+   "kind": "57",
+   "counties": [
+    "Pershing County"
+   ],
+   "lat": 40.65811,
+   "lon": -118.1441,
+   "land_sqmi": 1.201,
+   "water_sqmi": 0,
+   "population": {
+    "count": 210,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Imlay is a community in Pershing County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 210 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3235100",
+   "name": "Incline Village",
+   "kind": "57",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 39.26575,
+   "lon": -119.94625,
+   "land_sqmi": 21.511,
+   "water_sqmi": 0.152,
+   "population": {
+    "count": 9462,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Incline Village is a community in Washoe County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 22 square miles of land and 0.2 square miles of water, and 9,462 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3235275",
+   "name": "Indian Hills",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 39.09156,
+   "lon": -119.79751,
+   "land_sqmi": 14.605,
+   "water_sqmi": 0,
+   "population": {
+    "count": 5962,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Indian Hills is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 15 square miles of land, and 5,962 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3235300",
+   "name": "Indian Springs",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.57184,
+   "lon": -115.72031,
+   "land_sqmi": 18.04,
+   "water_sqmi": 0,
+   "population": {
+    "count": 912,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Indian Springs is a community in Clark County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 18 square miles of land, and 912 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3236500",
+   "name": "Jackpot",
+   "kind": "57",
+   "counties": [
+    "Elko County"
+   ],
+   "lat": 41.97946,
+   "lon": -114.6646,
+   "land_sqmi": 3.895,
+   "water_sqmi": 0.044,
+   "population": {
+    "count": 855,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Jackpot is a community in Elko County in northeastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.9 square miles of land, and 855 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3236700",
+   "name": "Jarbidge",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.87632,
+   "lon": -115.43104,
+   "land_sqmi": 0.129,
+   "water_sqmi": 0,
+   "population": null,
+   "position": "northern",
+   "description": "Jarbidge is a community in northern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3237190",
+   "name": "Johnson Lane",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 39.06424,
+   "lon": -119.72024,
+   "land_sqmi": 21.872,
+   "water_sqmi": 0.007,
+   "population": {
+    "count": 6409,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Johnson Lane is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 22 square miles of land, and 6,409 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3238000",
+   "name": "Kingsbury",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 38.99093,
+   "lon": -119.88367,
+   "land_sqmi": 21.81,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2313,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Kingsbury is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 22 square miles of land, and 2,313 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3238100",
+   "name": "Kingston",
+   "kind": "57",
+   "counties": [
+    "Lander County"
+   ],
+   "lat": 39.21013,
+   "lon": -117.06794,
+   "land_sqmi": 4.068,
+   "water_sqmi": 0,
+   "population": {
+    "count": 194,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Kingston is a community in Lander County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.1 square miles of land, and 194 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3239100",
+   "name": "Lakeridge",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 39.03818,
+   "lon": -119.94279,
+   "land_sqmi": 1.455,
+   "water_sqmi": 0.077,
+   "population": {
+    "count": 409,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Lakeridge is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land and 0.1 square miles of water, and 409 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3239300",
+   "name": "Lamoille",
+   "kind": "57",
+   "counties": [
+    "Elko County"
+   ],
+   "lat": 40.72385,
+   "lon": -115.47895,
+   "land_sqmi": 1.844,
+   "water_sqmi": 0,
+   "population": {
+    "count": 130,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Lamoille is a community in Elko County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land, and 130 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3240000",
+   "name": "Las Vegas",
+   "kind": "25",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.2335,
+   "lon": -115.26404,
+   "land_sqmi": 141.865,
+   "water_sqmi": 0.053,
+   "population": {
+    "count": 679817,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Las Vegas is a city in Clark County in southern Nevada. It covers about 142 square miles of land and 0.1 square miles of water, and about 679,817 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3241000",
+   "name": "Laughlin",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 35.14039,
+   "lon": -114.61656,
+   "land_sqmi": 16.345,
+   "water_sqmi": 0.989,
+   "population": {
+    "count": 8658,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Laughlin is a community in Clark County in southeastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 16 square miles of land and 1 square mile of water, and 8,658 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3241800",
+   "name": "Lemmon Valley",
+   "kind": "57",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 39.68744,
+   "lon": -119.83319,
+   "land_sqmi": 15.943,
+   "water_sqmi": 1.196,
+   "population": {
+    "count": 4987,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Lemmon Valley is a community in Washoe County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 16 square miles of land and 1.2 square miles of water, and 4,987 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3242350",
+   "name": "Logan Creek",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 39.06507,
+   "lon": -119.92449,
+   "land_sqmi": 1.752,
+   "water_sqmi": 0.055,
+   "population": {
+    "count": 40,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Logan Creek is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land and 0.1 square miles of water, and 40 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3243000",
+   "name": "Lovelock",
+   "kind": "25",
+   "counties": [
+    "Pershing County"
+   ],
+   "lat": 40.17874,
+   "lon": -118.47744,
+   "land_sqmi": 0.861,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1771,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Lovelock is a city in Pershing County in western Nevada. It covers about 0.9 square miles of land, and about 1,771 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3243400",
+   "name": "Lund",
+   "kind": "57",
+   "counties": [
+    "White Pine County"
+   ],
+   "lat": 38.86418,
+   "lon": -115.00993,
+   "land_sqmi": 1.968,
+   "water_sqmi": 0,
+   "population": {
+    "count": 211,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Lund is a community in White Pine County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land, and 211 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3244000",
+   "name": "McDermitt",
+   "kind": "57",
+   "counties": [
+    "Humboldt County"
+   ],
+   "lat": 41.99033,
+   "lon": -117.7208,
+   "land_sqmi": 1.567,
+   "water_sqmi": 0,
+   "population": {
+    "count": 124,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "McDermitt is a community in Humboldt County in northern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land, and 124 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3244200",
+   "name": "McGill",
+   "kind": "57",
+   "counties": [
+    "White Pine County"
+   ],
+   "lat": 39.40198,
+   "lon": -114.77751,
+   "land_sqmi": 1.21,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1010,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "McGill is a community in White Pine County in eastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 1,010 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3246000",
+   "name": "Mesquite",
+   "kind": "25",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.81112,
+   "lon": -114.12565,
+   "land_sqmi": 31.764,
+   "water_sqmi": 0.465,
+   "population": {
+    "count": 24001,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southeastern",
+   "description": "Mesquite is a city in Clark County in southeastern Nevada. It covers about 32 square miles of land and 0.5 square miles of water, and about 24,001 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3246400",
+   "name": "Midas",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.2432,
+   "lon": -116.79797,
+   "land_sqmi": 0.137,
+   "water_sqmi": 0,
+   "population": null,
+   "position": "northern",
+   "description": "Midas is a community in northern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3246800",
+   "name": "Mina",
+   "kind": "57",
+   "counties": [
+    "Mineral County"
+   ],
+   "lat": 38.39018,
+   "lon": -118.11125,
+   "land_sqmi": 2.407,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 127,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Mina is a community in Mineral County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land, and 127 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3247000",
+   "name": "Minden",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 38.96458,
+   "lon": -119.76662,
+   "land_sqmi": 3.701,
+   "water_sqmi": 0.019,
+   "population": {
+    "count": 3442,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Minden is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.7 square miles of land, and 3,442 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3247840",
+   "name": "Moapa Town",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.69254,
+   "lon": -114.63565,
+   "land_sqmi": 17.853,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1006,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Moapa Town is a community in Clark County in southeastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 18 square miles of land, and 1,006 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3247880",
+   "name": "Moapa Valley",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.604,
+   "lon": -114.44929,
+   "land_sqmi": 43.656,
+   "water_sqmi": 0.024,
+   "population": {
+    "count": 6289,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Moapa Valley is a community in Clark County in southeastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 44 square miles of land, and 6,289 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3248000",
+   "name": "Mogul",
+   "kind": "57",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 39.51617,
+   "lon": -119.92304,
+   "land_sqmi": 1.454,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 1258,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Mogul is a community in Washoe County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 1,258 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3248400",
+   "name": "Montello",
+   "kind": "57",
+   "counties": [
+    "Elko County"
+   ],
+   "lat": 41.26701,
+   "lon": -114.19706,
+   "land_sqmi": 0.411,
+   "water_sqmi": 0,
+   "population": {
+    "count": 66,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northeastern",
+   "description": "Montello is a community in Elko County in northeastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 66 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3249200",
+   "name": "Mountain City",
+   "kind": "57",
+   "counties": [
+    "Elko County"
+   ],
+   "lat": 41.83725,
+   "lon": -115.96325,
+   "land_sqmi": 0.176,
+   "water_sqmi": 0,
+   "population": {
+    "count": 14,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Mountain City is a community in Elko County in northern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 14 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3249310",
+   "name": "Mount Charleston",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.26252,
+   "lon": -115.61386,
+   "land_sqmi": 29.317,
+   "water_sqmi": 0,
+   "population": {
+    "count": 314,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Mount Charleston is a community in Clark County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 29 square miles of land, and 314 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3249425",
+   "name": "Mount Wilson",
+   "kind": "57",
+   "counties": [
+    "Lincoln County"
+   ],
+   "lat": 38.23499,
+   "lon": -114.45033,
+   "land_sqmi": 4.608,
+   "water_sqmi": 0,
+   "population": {
+    "count": 26,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Mount Wilson is a community in Lincoln County in eastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.6 square miles of land, and 26 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3250400",
+   "name": "Nellis AFB",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.24659,
+   "lon": -115.0571,
+   "land_sqmi": 2.74,
+   "water_sqmi": 0,
+   "population": {
+    "count": 4379,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Nellis AFB is a community in Clark County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.7 square miles of land, and 4,379 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3250600",
+   "name": "Nelson",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 35.71793,
+   "lon": -114.83135,
+   "land_sqmi": 4.799,
+   "water_sqmi": 0,
+   "population": {
+    "count": 22,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southeastern",
+   "description": "Nelson is a community in Clark County in southeastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.8 square miles of land, and 22 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3251200",
+   "name": "Nixon",
+   "kind": "57",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 39.82802,
+   "lon": -119.35895,
+   "land_sqmi": 6.327,
+   "water_sqmi": 0,
+   "population": {
+    "count": 464,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Nixon is a community in Washoe County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.3 square miles of land, and 464 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3251800",
+   "name": "North Las Vegas",
+   "kind": "25",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.28987,
+   "lon": -115.08918,
+   "land_sqmi": 105.351,
+   "water_sqmi": 0.043,
+   "population": {
+    "count": 296653,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "North Las Vegas is a city in Clark County in southern Nevada. It covers about 105 square miles of land, and about 296,653 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3253000",
+   "name": "Orovada",
+   "kind": "57",
+   "counties": [
+    "Humboldt County"
+   ],
+   "lat": 41.54922,
+   "lon": -117.8236,
+   "land_sqmi": 22.178,
+   "water_sqmi": 0,
+   "population": {
+    "count": 117,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Orovada is a community in Humboldt County in northern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 22 square miles of land, and 117 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3253200",
+   "name": "Osino",
+   "kind": "57",
+   "counties": [
+    "Elko County"
+   ],
+   "lat": 40.94091,
+   "lon": -115.66078,
+   "land_sqmi": 2.568,
+   "water_sqmi": 0,
+   "population": {
+    "count": 668,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Osino is a community in Elko County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land, and 668 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3253600",
+   "name": "Owyhee",
+   "kind": "57",
+   "counties": [
+    "Elko County"
+   ],
+   "lat": 41.92796,
+   "lon": -116.21217,
+   "land_sqmi": 224.386,
+   "water_sqmi": 0.603,
+   "population": {
+    "count": 1027,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Owyhee is a community in Elko County in northern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 224 square miles of land and 0.6 square miles of water, and 1,027 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3253800",
+   "name": "Pahrump",
+   "kind": "57",
+   "counties": [
+    "Nye County"
+   ],
+   "lat": 36.22404,
+   "lon": -115.99674,
+   "land_sqmi": 328.801,
+   "water_sqmi": 0.143,
+   "population": {
+    "count": 44738,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Pahrump is a community in Nye County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 329 square miles of land and 0.1 square miles of water, and 44,738 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3254200",
+   "name": "Panaca",
+   "kind": "57",
+   "counties": [
+    "Lincoln County"
+   ],
+   "lat": 37.78812,
+   "lon": -114.40054,
+   "land_sqmi": 3.08,
+   "water_sqmi": 0,
+   "population": {
+    "count": 870,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Panaca is a community in Lincoln County in eastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.1 square miles of land, and 870 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3254600",
+   "name": "Paradise",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.08715,
+   "lon": -115.13552,
+   "land_sqmi": 42.404,
+   "water_sqmi": 0,
+   "population": {
+    "count": 191238,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Paradise is a community in Clark County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 42 square miles of land, and 191,238 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3255400",
+   "name": "Paradise Valley",
+   "kind": "57",
+   "counties": [
+    "Humboldt County"
+   ],
+   "lat": 41.48438,
+   "lon": -117.54698,
+   "land_sqmi": 3.425,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 71,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Paradise Valley is a community in Humboldt County in northern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.4 square miles of land, and 71 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3257400",
+   "name": "Pioche",
+   "kind": "57",
+   "counties": [
+    "Lincoln County"
+   ],
+   "lat": 37.95197,
+   "lon": -114.44345,
+   "land_sqmi": 6.154,
+   "water_sqmi": 0,
+   "population": {
+    "count": 933,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Pioche is a community in Lincoln County in eastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.2 square miles of land, and 933 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3258000",
+   "name": "Preston",
+   "kind": "57",
+   "counties": [
+    "White Pine County"
+   ],
+   "lat": 38.91495,
+   "lon": -115.06367,
+   "land_sqmi": 1.292,
+   "water_sqmi": 0,
+   "population": {
+    "count": 76,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Preston is a community in White Pine County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 76 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3258820",
+   "name": "Rachel",
+   "kind": "57",
+   "counties": [
+    "Lincoln County"
+   ],
+   "lat": 37.64144,
+   "lon": -115.76813,
+   "land_sqmi": 4.338,
+   "water_sqmi": 0,
+   "population": {
+    "count": 48,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Rachel is a community in Lincoln County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.3 square miles of land, and 48 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3260600",
+   "name": "Reno",
+   "kind": "25",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 39.5491,
+   "lon": -119.84991,
+   "land_sqmi": 109.298,
+   "water_sqmi": 2.831,
+   "population": {
+    "count": 283621,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Reno is a city in Washoe County in western Nevada. It covers about 109 square miles of land and 2.8 square miles of water, and about 283,621 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3262170",
+   "name": "Round Hill Village",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 38.99646,
+   "lon": -119.91749,
+   "land_sqmi": 5.794,
+   "water_sqmi": 0.129,
+   "population": {
+    "count": 898,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Round Hill Village is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.8 square miles of land and 0.1 square miles of water, and 898 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3263450",
+   "name": "Ruhenstroth",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 38.8913,
+   "lon": -119.68329,
+   "land_sqmi": 2.833,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1239,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Ruhenstroth is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.8 square miles of land, and 1,239 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3263800",
+   "name": "Ruth",
+   "kind": "57",
+   "counties": [
+    "White Pine County"
+   ],
+   "lat": 39.27929,
+   "lon": -114.99004,
+   "land_sqmi": 0.346,
+   "water_sqmi": 0,
+   "population": {
+    "count": 371,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Ruth is a community in White Pine County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 371 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3264000",
+   "name": "Ryndon",
+   "kind": "57",
+   "counties": [],
+   "lat": 40.96146,
+   "lon": -115.60406,
+   "land_sqmi": 6.009,
+   "water_sqmi": 0,
+   "population": null,
+   "position": null,
+   "description": "Ryndon is a community in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6 square miles of land.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3264600",
+   "name": "Sandy Valley",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 35.84213,
+   "lon": -115.63054,
+   "land_sqmi": 55.997,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1663,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Sandy Valley is a community in Clark County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 56 square miles of land, and 1,663 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3265400",
+   "name": "Schurz",
+   "kind": "57",
+   "counties": [
+    "Mineral County"
+   ],
+   "lat": 38.97941,
+   "lon": -118.83341,
+   "land_sqmi": 11.216,
+   "water_sqmi": 0.222,
+   "population": {
+    "count": 656,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Schurz is a community in Mineral County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 11 square miles of land and 0.2 square miles of water, and 656 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3265600",
+   "name": "Searchlight",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 35.45543,
+   "lon": -114.92043,
+   "land_sqmi": 3.874,
+   "water_sqmi": 0,
+   "population": {
+    "count": 445,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Searchlight is a community in Clark County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.9 square miles of land, and 445 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3266800",
+   "name": "Silver City",
+   "kind": "57",
+   "counties": [
+    "Lyon County"
+   ],
+   "lat": 39.26389,
+   "lon": -119.6357,
+   "land_sqmi": 0.967,
+   "water_sqmi": 0,
+   "population": {
+    "count": 155,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Silver City is a community in Lyon County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 155 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3267000",
+   "name": "Silver Peak",
+   "kind": "57",
+   "counties": [
+    "Esmeralda County"
+   ],
+   "lat": 37.75773,
+   "lon": -117.63865,
+   "land_sqmi": 0.99,
+   "water_sqmi": 0,
+   "population": {
+    "count": 121,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Silver Peak is a community in Esmeralda County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 121 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3267200",
+   "name": "Silver Springs",
+   "kind": "57",
+   "counties": [
+    "Lyon County"
+   ],
+   "lat": 39.38345,
+   "lon": -119.21464,
+   "land_sqmi": 71.625,
+   "water_sqmi": 5.511,
+   "population": {
+    "count": 5629,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Silver Springs is a community in Lyon County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 72 square miles of land and 5.5 square miles of water, and 5,629 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3267600",
+   "name": "Skyland",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 39.02725,
+   "lon": -119.9192,
+   "land_sqmi": 4.356,
+   "water_sqmi": 0.101,
+   "population": {
+    "count": 328,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Skyland is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.4 square miles of land and 0.1 square miles of water, and 328 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3268050",
+   "name": "Smith Valley",
+   "kind": "57",
+   "counties": [
+    "Lyon County"
+   ],
+   "lat": 38.7869,
+   "lon": -119.36866,
+   "land_sqmi": 101.96,
+   "water_sqmi": 1.924,
+   "population": {
+    "count": 1710,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Smith Valley is a community in Lyon County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 102 square miles of land and 1.9 square miles of water, and 1,710 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3268289",
+   "name": "South Fork",
+   "kind": "57",
+   "counties": [],
+   "lat": 40.65343,
+   "lon": -115.78153,
+   "land_sqmi": 7.651,
+   "water_sqmi": 0,
+   "population": null,
+   "position": null,
+   "description": "South Fork is a community in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.7 square miles of land.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3268350",
+   "name": "Spanish Springs",
+   "kind": "57",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 39.65501,
+   "lon": -119.66882,
+   "land_sqmi": 55.563,
+   "water_sqmi": 0.33,
+   "population": {
+    "count": 17314,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Spanish Springs is a community in Washoe County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 56 square miles of land and 0.3 square miles of water, and 17,314 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3268400",
+   "name": "Sparks",
+   "kind": "25",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 39.57434,
+   "lon": -119.71515,
+   "land_sqmi": 36.504,
+   "water_sqmi": 0.104,
+   "population": {
+    "count": 111902,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Sparks is a city in Washoe County in western Nevada. It covers about 37 square miles of land and 0.1 square miles of water, and about 111,902 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3268550",
+   "name": "Spring Creek",
+   "kind": "57",
+   "counties": [
+    "Elko County"
+   ],
+   "lat": 40.74406,
+   "lon": -115.59803,
+   "land_sqmi": 53.666,
+   "water_sqmi": 0.066,
+   "population": {
+    "count": 14967,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Spring Creek is a community in Elko County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 54 square miles of land and 0.1 square miles of water, and 14,967 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3268585",
+   "name": "Spring Valley",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.09518,
+   "lon": -115.26361,
+   "land_sqmi": 35.505,
+   "water_sqmi": 0,
+   "population": {
+    "count": 215597,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Spring Valley is a community in Clark County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 36 square miles of land, and 215,597 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3268800",
+   "name": "Stagecoach",
+   "kind": "57",
+   "counties": [
+    "Lyon County"
+   ],
+   "lat": 39.36559,
+   "lon": -119.38318,
+   "land_sqmi": 8.345,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2022,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Stagecoach is a community in Lyon County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 8.3 square miles of land, and 2,022 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3269200",
+   "name": "Stateline",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 38.96873,
+   "lon": -119.94451,
+   "land_sqmi": 0.719,
+   "water_sqmi": 0.105,
+   "population": {
+    "count": 595,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Stateline is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land and 0.1 square miles of water, and 595 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3270900",
+   "name": "Summerlin South",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.12424,
+   "lon": -115.33246,
+   "land_sqmi": 9.691,
+   "water_sqmi": 0,
+   "population": {
+    "count": 30744,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Summerlin South is a community in Clark County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 9.7 square miles of land, and 30,744 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3271400",
+   "name": "Sunrise Manor",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.17834,
+   "lon": -115.04872,
+   "land_sqmi": 33.713,
+   "water_sqmi": 0,
+   "population": {
+    "count": 205618,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Sunrise Manor is a community in Clark County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 34 square miles of land, and 205,618 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3271600",
+   "name": "Sun Valley",
+   "kind": "57",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 39.61032,
+   "lon": -119.77712,
+   "land_sqmi": 14.574,
+   "water_sqmi": 0,
+   "population": {
+    "count": 21178,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Sun Valley is a community in Washoe County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 15 square miles of land, and 21,178 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3271800",
+   "name": "Sutcliffe",
+   "kind": "57",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 39.94606,
+   "lon": -119.63051,
+   "land_sqmi": 9.995,
+   "water_sqmi": 0,
+   "population": {
+    "count": 282,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Sutcliffe is a community in Washoe County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 10 square miles of land, and 282 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3273600",
+   "name": "Tonopah",
+   "kind": "57",
+   "counties": [
+    "Nye County"
+   ],
+   "lat": 38.08216,
+   "lon": -117.22459,
+   "land_sqmi": 9.259,
+   "water_sqmi": 0,
+   "population": {
+    "count": 2179,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Tonopah is a community in Nye County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 9.3 square miles of land, and 2,179 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3274200",
+   "name": "Topaz Lake",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 38.69869,
+   "lon": -119.5416,
+   "land_sqmi": 1.241,
+   "water_sqmi": 0.454,
+   "population": {
+    "count": 202,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Topaz Lake is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land and 0.5 square miles of water, and 202 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3274400",
+   "name": "Topaz Ranch Estates",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 38.73565,
+   "lon": -119.50079,
+   "land_sqmi": 14.39,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1630,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Topaz Ranch Estates is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 14 square miles of land, and 1,630 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3276200",
+   "name": "Tuscarora",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.3142,
+   "lon": -116.22341,
+   "land_sqmi": 0.061,
+   "water_sqmi": 0,
+   "population": null,
+   "position": "northern",
+   "description": "Tuscarora is a community in northern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3276400",
+   "name": "Unionville",
+   "kind": "57",
+   "counties": [
+    "Pershing County"
+   ],
+   "lat": 40.44675,
+   "lon": -118.12309,
+   "land_sqmi": 0.774,
+   "water_sqmi": 0,
+   "population": {
+    "count": 27,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Unionville is a community in Pershing County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 27 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3277200",
+   "name": "Ursine",
+   "kind": "57",
+   "counties": [
+    "Lincoln County"
+   ],
+   "lat": 37.97729,
+   "lon": -114.22887,
+   "land_sqmi": 4.341,
+   "water_sqmi": 0,
+   "population": {
+    "count": 62,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "eastern",
+   "description": "Ursine is a community in Lincoln County in eastern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.3 square miles of land, and 62 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3278200",
+   "name": "Valmy",
+   "kind": "57",
+   "counties": [
+    "Humboldt County"
+   ],
+   "lat": 40.7908,
+   "lon": -117.12688,
+   "land_sqmi": 0.206,
+   "water_sqmi": 0,
+   "population": {
+    "count": 26,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Valmy is a community in Humboldt County in Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 26 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3279400",
+   "name": "Verdi",
+   "kind": "57",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 39.52144,
+   "lon": -119.98389,
+   "land_sqmi": 3.314,
+   "water_sqmi": 0.117,
+   "population": {
+    "count": 1396,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Verdi is a community in Washoe County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.3 square miles of land and 0.1 square miles of water, and 1,396 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3280000",
+   "name": "Virginia City",
+   "kind": "57",
+   "counties": [
+    "Storey County"
+   ],
+   "lat": 39.30747,
+   "lon": -119.64827,
+   "land_sqmi": 0.867,
+   "water_sqmi": 0,
+   "population": {
+    "count": 787,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Virginia City is a community in Storey County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 787 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3281000",
+   "name": "Wadsworth",
+   "kind": "57",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 39.63217,
+   "lon": -119.28903,
+   "land_sqmi": 3.711,
+   "water_sqmi": 0,
+   "population": {
+    "count": 991,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Wadsworth is a community in Washoe County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.7 square miles of land, and 991 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3281100",
+   "name": "Walker Lake",
+   "kind": "57",
+   "counties": [
+    "Mineral County"
+   ],
+   "lat": 38.64576,
+   "lon": -118.75629,
+   "land_sqmi": 1.264,
+   "water_sqmi": 0,
+   "population": {
+    "count": 247,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Walker Lake is a community in Mineral County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 247 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3282250",
+   "name": "Washoe Valley",
+   "kind": "57",
+   "counties": [
+    "Washoe County"
+   ],
+   "lat": 39.29227,
+   "lon": -119.77675,
+   "land_sqmi": 5.04,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3074,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Washoe Valley is a community in Washoe County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5 square miles of land, and 3,074 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3283000",
+   "name": "Wells",
+   "kind": "25",
+   "counties": [
+    "Elko County"
+   ],
+   "lat": 41.11316,
+   "lon": -114.95354,
+   "land_sqmi": 6.904,
+   "water_sqmi": 0,
+   "population": {
+    "count": 1245,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Wells is a city in Elko County in Nevada. It covers about 6.9 square miles of land, and about 1,245 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3283730",
+   "name": "West Wendover",
+   "kind": "25",
+   "counties": [
+    "Elko County"
+   ],
+   "lat": 40.74025,
+   "lon": -114.07863,
+   "land_sqmi": 7.478,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 4576,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "eastern",
+   "description": "West Wendover is a city in Elko County in eastern Nevada. It covers about 7.5 square miles of land, and about 4,576 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3283800",
+   "name": "Whitney",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.10082,
+   "lon": -115.0379,
+   "land_sqmi": 6.81,
+   "water_sqmi": 0,
+   "population": {
+    "count": 49061,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Whitney is a community in Clark County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 6.8 square miles of land, and 49,061 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3283900",
+   "name": "Wildhorse",
+   "kind": "57",
+   "counties": [],
+   "lat": 41.62948,
+   "lon": -115.81893,
+   "land_sqmi": 3.03,
+   "water_sqmi": 0.036,
+   "population": null,
+   "position": "northern",
+   "description": "Wildhorse is a community in northern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3 square miles of land.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3284600",
+   "name": "Winchester",
+   "kind": "57",
+   "counties": [
+    "Clark County"
+   ],
+   "lat": 36.13648,
+   "lon": -115.13709,
+   "land_sqmi": 4.958,
+   "water_sqmi": 0,
+   "population": {
+    "count": 36403,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Winchester is a community in Clark County in southern Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5 square miles of land, and 36,403 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3284800",
+   "name": "Winnemucca",
+   "kind": "25",
+   "counties": [
+    "Humboldt County"
+   ],
+   "lat": 40.9644,
+   "lon": -117.72464,
+   "land_sqmi": 9.799,
+   "water_sqmi": 0,
+   "population": {
+    "count": 8307,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Winnemucca is a city in Humboldt County in Nevada. It covers about 9.8 square miles of land, and about 8,307 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3285400",
+   "name": "Yerington",
+   "kind": "25",
+   "counties": [
+    "Lyon County"
+   ],
+   "lat": 38.95548,
+   "lon": -119.11012,
+   "land_sqmi": 29.498,
+   "water_sqmi": 0,
+   "population": {
+    "count": 3227,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "western",
+   "description": "Yerington is a city in Lyon County in western Nevada. It covers about 29 square miles of land, and about 3,227 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "3286200",
+   "name": "Zephyr Cove",
+   "kind": "57",
+   "counties": [
+    "Douglas County"
+   ],
+   "lat": 39.01333,
+   "lon": -119.9236,
+   "land_sqmi": 2.122,
+   "water_sqmi": 0.123,
+   "population": {
+    "count": 679,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "western",
+   "description": "Zephyr Cove is a community in Douglas County in western Nevada that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land and 0.1 square miles of water, and 679 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  }
+ ]
+}

@@ -1,0 +1,3595 @@
+{
+  "bundle": "cities-full",
+  "schema_version": 1,
+  "version": "2026-10-09",
+  "generated_at": "2026-10-09T09:00:19-04:00",
+  "window": {
+    "from": "2026-10-09",
+    "to": "2026-12-08"
+  },
+  "cities": [
+    {
+      "geoid": "0455000",
+      "name": "Phoenix",
+      "state": "AZ",
+      "kind": "25",
+      "description": "Phoenix is a city in Maricopa County in Arizona. It covers about 518 square miles of land and 1 square mile of water, and about 1,665,481 people live there (Census Bureau estimate for July 1, 2025).",
+      "government": {
+        "summary": "The Phoenix City Council is a mayor and eight councilmembers, one for each district, elected on a non-partisan ballot for four-year terms.",
+        "source": {
+          "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
+          "retrieved": "2026-10-09"
+        }
+      },
+      "officials": [
+        {
+          "office": "Mayor",
+          "name": "Kate Gallego",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Ann O'Brien",
+          "seat": "District 1",
+          "role": null,
+          "source": {
+            "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Jim Waring",
+          "seat": "District 2",
+          "role": null,
+          "source": {
+            "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Debra Stark",
+          "seat": "District 3",
+          "role": null,
+          "source": {
+            "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Laura Pastor",
+          "seat": "District 4",
+          "role": null,
+          "source": {
+            "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Betty Guardado",
+          "seat": "District 5",
+          "role": null,
+          "source": {
+            "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Kevin Robinson",
+          "seat": "District 6",
+          "role": null,
+          "source": {
+            "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Anna Hernandez",
+          "seat": "District 7",
+          "role": null,
+          "source": {
+            "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Kesha Hodge Washington",
+          "seat": "District 8",
+          "role": "Vice Mayor",
+          "source": {
+            "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
+            "retrieved": "2026-10-09"
+          }
+        }
+      ],
+      "not_listed": [],
+      "city_hall": {
+        "name": "Phoenix City Hall",
+        "address": "200 W. Washington Street, Phoenix, AZ",
+        "hours": "Monday to Friday, 8 AM to 5 PM, except major holidays",
+        "phone": "602-262-3111",
+        "website": "https://www.phoenix.gov/",
+        "sources": [
+          {
+            "url": "https://www.phoenix.gov/contact-us.html",
+            "retrieved": "2026-10-09"
+          }
+        ]
+      },
+      "schedule": [],
+      "meetings": [
+        {
+          "body": "City Council Policy Session",
+          "date": "2026-10-13",
+          "time": "2:30 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://phoenix.legistar.com/MeetingDetail.aspx?LEGID=2615&GID=485&G=3F9B5896-D56F-4AD3-85AD-A8E5E58DD74C"
+        }
+      ],
+      "meetings_source": {
+        "name": "Phoenix City Council meetings (Legistar)",
+        "url": "https://phoenix.legistar.com/Calendar.aspx",
+        "method": "legistar-api",
+        "fetched_at": "2026-10-09T09:00:19-04:00"
+      },
+      "meetings_note": null,
+      "official_hosts": [
+        "phoenix.gov",
+        "phoenix.legistar.com",
+        "legistar.com",
+        "legistar1.com",
+        "legistar2.com",
+        "granicus.com"
+      ]
+    },
+    {
+      "geoid": "0644000",
+      "name": "Los Angeles",
+      "state": "CA",
+      "kind": "25",
+      "description": "Los Angeles is a city in Los Angeles County in southern California. It covers about 471 square miles of land and 31 square miles of water, and about 3,869,089 people live there (Census Bureau estimate for July 1, 2025).",
+      "government": {
+        "summary": "Los Angeles has a mayor and a 15-member City Council. Voters elect the mayor, the city attorney, and the controller citywide, and one councilmember in each of 15 districts.",
+        "source": {
+          "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+          "retrieved": "2026-10-09"
+        }
+      },
+      "officials": [
+        {
+          "office": "Mayor",
+          "name": "Karen Ruth Bass",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "City Attorney",
+          "name": "Hydee Feldstein Soto",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Controller",
+          "name": "Kenneth Mejia",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Eunisses Hernandez",
+          "seat": "District 1",
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Adrin Nazarian",
+          "seat": "District 2",
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Bob Blumenfield",
+          "seat": "District 3",
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Nithya Raman",
+          "seat": "District 4",
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Katy Young Yaroslavsky",
+          "seat": "District 5",
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Imelda Padilla",
+          "seat": "District 6",
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Monica Rodriguez",
+          "seat": "District 7",
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Marqueece Harris-Dawson",
+          "seat": "District 8",
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Curren D. Price Jr.",
+          "seat": "District 9",
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Heather Hutt",
+          "seat": "District 10",
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Traci Park",
+          "seat": "District 11",
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "John Lee",
+          "seat": "District 12",
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Hugo Soto-Martinez",
+          "seat": "District 13",
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Ysabel J. Jurado",
+          "seat": "District 14",
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Tim McOsker",
+          "seat": "District 15",
+          "role": null,
+          "source": {
+            "url": "https://clerk.lacity.gov/articles/current-elected-officials",
+            "retrieved": "2026-10-09"
+          }
+        }
+      ],
+      "not_listed": [],
+      "city_hall": {
+        "name": "Los Angeles City Hall",
+        "address": "200 North Spring St., Los Angeles, CA 90012",
+        "hours": null,
+        "phone": "(213) 485-2121",
+        "website": "https://lacity.gov/",
+        "sources": [
+          {
+            "url": "https://lacity.gov/government/city-hall-locations",
+            "retrieved": "2026-10-09"
+          }
+        ]
+      },
+      "schedule": [
+        {
+          "body": "City Council",
+          "pattern": "Tuesdays, Wednesdays, and Fridays at 10:00 AM",
+          "location": "John Ferraro Council Chambers (Room 340), Los Angeles City Hall",
+          "source": {
+            "url": "https://clerk.lacity.gov/calendar",
+            "retrieved": "2026-10-09"
+          }
+        }
+      ],
+      "meetings": [],
+      "meetings_source": null,
+      "meetings_note": "Upcoming meeting dates are not listed yet. The city's agenda system asks scripts not to read it, so check the City Clerk's calendar.",
+      "official_hosts": [
+        "lacity.gov",
+        "lacity.org",
+        "clerk.lacity.gov"
+      ]
+    },
+    {
+      "geoid": "0666000",
+      "name": "San Diego",
+      "state": "CA",
+      "kind": "25",
+      "description": "San Diego is a city in San Diego County in southern California. It covers about 326 square miles of land and 16 square miles of water, and about 1,406,106 people live there (Census Bureau estimate for July 1, 2025).",
+      "government": {
+        "summary": "San Diego has a mayor and a nine-member City Council, one councilmember for each district. The city's page also lists its City Attorney.",
+        "source": {
+          "url": "https://www.sandiego.gov/citycouncil",
+          "retrieved": "2026-10-09"
+        }
+      },
+      "officials": [
+        {
+          "office": "Mayor",
+          "name": "Todd Gloria",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://www.sandiego.gov/citycouncil",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "City Attorney",
+          "name": "Heather Ferbert",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://www.sandiego.gov/citycouncil",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Joe LaCava",
+          "seat": "District 1",
+          "role": "Council President",
+          "source": {
+            "url": "https://www.sandiego.gov/citycouncil",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Jennifer Campbell",
+          "seat": "District 2",
+          "role": null,
+          "source": {
+            "url": "https://www.sandiego.gov/citycouncil",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Stephen Whitburn",
+          "seat": "District 3",
+          "role": null,
+          "source": {
+            "url": "https://www.sandiego.gov/citycouncil",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Henry L. Foster III",
+          "seat": "District 4",
+          "role": null,
+          "source": {
+            "url": "https://www.sandiego.gov/citycouncil",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Marni von Wilpert",
+          "seat": "District 5",
+          "role": null,
+          "source": {
+            "url": "https://www.sandiego.gov/citycouncil",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Kent Lee",
+          "seat": "District 6",
+          "role": "Council President Pro Tem",
+          "source": {
+            "url": "https://www.sandiego.gov/citycouncil",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Raul Campillo",
+          "seat": "District 7",
+          "role": null,
+          "source": {
+            "url": "https://www.sandiego.gov/citycouncil",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Vivian Moreno",
+          "seat": "District 8",
+          "role": null,
+          "source": {
+            "url": "https://www.sandiego.gov/citycouncil",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Sean Elo-Rivera",
+          "seat": "District 9",
+          "role": null,
+          "source": {
+            "url": "https://www.sandiego.gov/citycouncil",
+            "retrieved": "2026-10-09"
+          }
+        }
+      ],
+      "not_listed": [],
+      "city_hall": {
+        "name": "City Administration Building",
+        "address": "202 C St., San Diego, CA 92101",
+        "hours": null,
+        "phone": "City Information Center: 619-236-5555",
+        "website": "https://www.sandiego.gov/",
+        "sources": [
+          {
+            "url": "https://www.sandiego.gov/contact",
+            "retrieved": "2026-10-09"
+          }
+        ]
+      },
+      "schedule": [],
+      "meetings": [
+        {
+          "body": "City Council: Monday Agenda",
+          "date": "2026-10-12",
+          "time": "10:00 AM",
+          "location": null,
+          "agenda_url": "https://www.sandiego.gov/211agendaonlinecouncil/Meetings/ViewMeeting?id=7184&doctype=1&site=council",
+          "details_url": null
+        },
+        {
+          "body": "City Council: Tuesday Agenda Revised Added S500-S504",
+          "date": "2026-10-13",
+          "time": "10:00 AM",
+          "location": null,
+          "agenda_url": "https://www.sandiego.gov/211agendaonlinecouncil/Meetings/ViewMeeting?id=7194&doctype=1&site=council",
+          "details_url": null
+        }
+      ],
+      "meetings_source": {
+        "name": "San Diego City Council agendas (City Clerk)",
+        "url": "https://www.sandiego.gov/city-clerk/officialdocs/council-agendas-minutes-results",
+        "method": "onbase-agenda",
+        "fetched_at": "2026-10-09T09:00:19-04:00"
+      },
+      "meetings_note": null,
+      "official_hosts": [
+        "sandiego.gov",
+        "www.sandiego.gov"
+      ]
+    },
+    {
+      "geoid": "1238625",
+      "name": "Lake Placid",
+      "state": "FL",
+      "kind": "43",
+      "description": "Lake Placid is a town in Highlands County in Florida. It covers about 4.7 square miles of land and 0.1 square miles of water, and about 2,599 people live there (Census Bureau estimate for July 1, 2025).",
+      "government": {
+        "summary": "Lake Placid has a mayor/council form of government: voters elect a mayor and four Town Council members to four-year terms, and the council picks one member as vice mayor each year.",
+        "source": {
+          "url": "https://www.lakeplacidfl.net/201/Elected-Officials",
+          "retrieved": "2026-10-09"
+        }
+      },
+      "officials": [
+        {
+          "office": "Mayor",
+          "name": "Colleen Charles",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://www.lakeplacidfl.net/directory.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Ray Royce",
+          "seat": null,
+          "role": "Vice Mayor",
+          "source": {
+            "url": "https://www.lakeplacidfl.net/AgendaCenter/ViewFile/Agenda/_09212026-72",
+            "retrieved": "2026-10-08"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Nell Frewin-Hays",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://www.lakeplacidfl.net/directory.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Greg Sapp",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://www.lakeplacidfl.net/directory.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Joy Eberhardt",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://www.lakeplacidfl.net/directory.aspx",
+            "retrieved": "2026-10-09"
+          }
+        }
+      ],
+      "not_listed": [],
+      "city_hall": {
+        "name": "Lake Placid Government Center",
+        "address": "1069 US Highway 27 N, Lake Placid, FL 33852",
+        "hours": "Monday to Friday, 8 AM to 5 PM, except holidays",
+        "phone": "863-699-3747",
+        "website": "https://www.lakeplacidfl.net/",
+        "sources": [
+          {
+            "url": "https://www.lakeplacidfl.net/201/Elected-Officials",
+            "retrieved": "2026-10-09"
+          }
+        ]
+      },
+      "schedule": [
+        {
+          "body": "Town Council",
+          "pattern": "2nd and 3rd Mondays of each month at 5:30 PM. Special meetings and workshops may be added.",
+          "location": "Council Chambers, Lake Placid Government Center, 1069 U.S. Highway 27 N",
+          "source": {
+            "url": "https://www.lakeplacidfl.net/201/Elected-Officials",
+            "retrieved": "2026-10-09"
+          }
+        }
+      ],
+      "meetings": [
+        {
+          "body": "Town Council Regular Meeting",
+          "date": "2026-10-12",
+          "time": "5:30 PM",
+          "location": "Town of Lake Placid Government Center, Council Chambers, 1069 US Highway 27, N",
+          "agenda_url": null,
+          "details_url": "https://www.lakeplacidfl.net/Calendar.aspx?EID=283"
+        },
+        {
+          "body": "Town Council Regular Meeting",
+          "date": "2026-10-19",
+          "time": "5:30 PM",
+          "location": "Town of Lake Placid Government Center Council Chanbers, 1069 US Highway 27, N",
+          "agenda_url": null,
+          "details_url": "https://www.lakeplacidfl.net/Calendar.aspx?EID=382"
+        },
+        {
+          "body": "Town of Lake Placid Local Planning Agency/Board of Adjustments",
+          "date": "2026-11-02",
+          "time": "5:30 PM",
+          "location": "Town of Lake Placid Government Center, Council Chambers, 1069 US Highway 27, N",
+          "agenda_url": null,
+          "details_url": "https://www.lakeplacidfl.net/Calendar.aspx?EID=580"
+        },
+        {
+          "body": "Town of Lake Placid Regional Utility Advisory Commission",
+          "date": "2026-11-03",
+          "time": "1:30 PM",
+          "location": "Town of Lake Placid Government Center, Council Chambers, 1069 US Highway 27, N",
+          "agenda_url": null,
+          "details_url": "https://www.lakeplacidfl.net/Calendar.aspx?EID=481"
+        },
+        {
+          "body": "Town Council Regular Meeting",
+          "date": "2026-11-09",
+          "time": "5:30 PM",
+          "location": "Town of Lake Placid Government Center, Council Chambers, 1069 US Highway 27, N",
+          "agenda_url": null,
+          "details_url": "https://www.lakeplacidfl.net/Calendar.aspx?EID=284"
+        },
+        {
+          "body": "Town Council Regular Meeting",
+          "date": "2026-11-16",
+          "time": "5:30 PM",
+          "location": "Town of Lake Placid Government Center Council Chanbers, 1069 US Highway 27, N",
+          "agenda_url": null,
+          "details_url": "https://www.lakeplacidfl.net/Calendar.aspx?EID=383"
+        },
+        {
+          "body": "Town of Lake Placid Regional Utility Advisory Commission",
+          "date": "2026-12-01",
+          "time": "1:30 PM",
+          "location": "Town of Lake Placid Government Center, Council Chambers, 1069 US Highway 27, N",
+          "agenda_url": null,
+          "details_url": "https://www.lakeplacidfl.net/Calendar.aspx?EID=482"
+        },
+        {
+          "body": "Town of Lake Placid Local Planning Agency/Board of Adjustments",
+          "date": "2026-12-07",
+          "time": "5:30 PM",
+          "location": "Town of Lake Placid Government Center, Council Chambers, 1069 US Highway 27, N",
+          "agenda_url": null,
+          "details_url": "https://www.lakeplacidfl.net/Calendar.aspx?EID=581"
+        }
+      ],
+      "meetings_source": {
+        "name": "Town of Lake Placid calendar",
+        "url": "https://www.lakeplacidfl.net/calendar.aspx",
+        "method": "civicplus-calendar",
+        "fetched_at": "2026-10-09T09:00:19-04:00"
+      },
+      "meetings_note": null,
+      "official_hosts": [
+        "lakeplacidfl.net",
+        "www.lakeplacidfl.net"
+      ]
+    },
+    {
+      "geoid": "1714000",
+      "name": "Chicago",
+      "state": "IL",
+      "kind": "25",
+      "description": "Chicago is a city in Cook and DuPage counties in northeastern Illinois. It covers about 228 square miles of land and 6.8 square miles of water, and about 2,731,585 people live there (Census Bureau estimate for July 1, 2025).",
+      "government": {
+        "summary": "Chicago has a mayor and a 50-member City Council. Voters elect the mayor citywide and one alderperson in each of 50 wards.",
+        "source": {
+          "url": "https://www.chicago.gov/city/en/about/wards.html",
+          "retrieved": "2026-10-09"
+        }
+      },
+      "officials": [
+        {
+          "office": "Mayor",
+          "name": "Brandon Johnson",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/depts/mayor.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Daniel La Spata",
+          "seat": "Ward 1",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Brian Hopkins",
+          "seat": "Ward 2",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Pat Dowell",
+          "seat": "Ward 3",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Lamont J. Robinson",
+          "seat": "Ward 4",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Desmon C. Yancy",
+          "seat": "Ward 5",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "William E. Hall",
+          "seat": "Ward 6",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Gregory Mitchell",
+          "seat": "Ward 7",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Michelle Harris",
+          "seat": "Ward 8",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Anthony Beale",
+          "seat": "Ward 9",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Peter Chico",
+          "seat": "Ward 10",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Nicole T. Lee",
+          "seat": "Ward 11",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Julia M. Ramirez",
+          "seat": "Ward 12",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Marty Quinn",
+          "seat": "Ward 13",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Jeylu B. Gutierrez",
+          "seat": "Ward 14",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Raymond Lopez",
+          "seat": "Ward 15",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Stephanie D. Coleman",
+          "seat": "Ward 16",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "David Moore",
+          "seat": "Ward 17",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Derrick G. Curtis",
+          "seat": "Ward 18",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Matthew J. O’Shea",
+          "seat": "Ward 19",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Jeanette B. Taylor",
+          "seat": "Ward 20",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Ronnie L. Mosley",
+          "seat": "Ward 21",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Michael D. Rodriguez",
+          "seat": "Ward 22",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Silvana Tabares",
+          "seat": "Ward 23",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Monique L. Scott",
+          "seat": "Ward 24",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Byron Sigcho Lopez",
+          "seat": "Ward 25",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Jessica Fuentes",
+          "seat": "Ward 26",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Walter Redmond Burnett",
+          "seat": "Ward 27",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Jason C. Ervin",
+          "seat": "Ward 28",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Chris Taliaferro",
+          "seat": "Ward 29",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Ruth Cruz",
+          "seat": "Ward 30",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Felix Cardona, Jr.",
+          "seat": "Ward 31",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Scott Waguespack",
+          "seat": "Ward 32",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Rossana Rodriguez Sanchez",
+          "seat": "Ward 33",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "William Conway",
+          "seat": "Ward 34",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Anthony Quezada",
+          "seat": "Ward 35",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Gilbert Villegas",
+          "seat": "Ward 36",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Emma Mitts",
+          "seat": "Ward 37",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Nicholas Sposato",
+          "seat": "Ward 38",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Samantha Nugent",
+          "seat": "Ward 39",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Andre Vasquez, Jr.",
+          "seat": "Ward 40",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Anthony Napolitano",
+          "seat": "Ward 41",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Brendan Reilly",
+          "seat": "Ward 42",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Timmy Knudsen",
+          "seat": "Ward 43",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Bennett R. Lawson",
+          "seat": "Ward 44",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "James M. Gardiner",
+          "seat": "Ward 45",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Angela Clay",
+          "seat": "Ward 46",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Matthew J. Martin",
+          "seat": "Ward 47",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Leni Manaa-Hoppenworth",
+          "seat": "Ward 48",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Maria E. Hadden",
+          "seat": "Ward 49",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Alderperson",
+          "name": "Debra Silverstein",
+          "seat": "Ward 50",
+          "role": null,
+          "source": {
+            "url": "https://www.chicago.gov/city/en/about/wards.html",
+            "retrieved": "2026-10-09"
+          }
+        }
+      ],
+      "not_listed": [
+        "The city clerk and city treasurer are not listed yet."
+      ],
+      "city_hall": {
+        "name": "Chicago City Hall",
+        "address": "121 N. LaSalle St., Chicago, IL 60602",
+        "hours": "City Clerk's office: Monday to Friday, 9 AM to 5 PM",
+        "phone": "311 (outside Chicago: 312-744-5000)",
+        "website": "https://www.chicago.gov/",
+        "sources": [
+          {
+            "url": "https://www.chicityclerk.com/",
+            "retrieved": "2026-10-09"
+          },
+          {
+            "url": "https://www.chicago.gov/city/en/depts/311.html",
+            "retrieved": "2026-10-09"
+          }
+        ]
+      },
+      "schedule": [],
+      "meetings": [
+        {
+          "body": "Committee on Pedestrian and Traffic Safety",
+          "date": "2026-10-09",
+          "time": "10:30 AM",
+          "location": "201A, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
+          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/57db25a7-6e4d-40ac-9843-e8ad10c8a4bb.pdf",
+          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=C0886D80-0AB9-F111-AAAC-001DD80FDA55"
+        },
+        {
+          "body": "Committee on Zoning, Landmarks and Building Standards",
+          "date": "2026-10-13",
+          "time": "10:00 AM",
+          "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
+          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/51f5fc2e-298d-4f91-9c63-09ec8101632d.pdf",
+          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=3FC06450-8AB7-F111-AAAC-001DD80AA3CC"
+        },
+        {
+          "body": "Committee on Ethics and Government Oversight",
+          "date": "2026-10-13",
+          "time": "10:30 AM",
+          "location": "201A, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
+          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/b262da39-9077-4397-9022-d01700e6b641.pdf",
+          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=0B2A9146-77BE-F111-AAAE-001DD80EFCF5"
+        },
+        {
+          "body": "Committee on Aviation",
+          "date": "2026-10-13",
+          "time": "12:00 PM",
+          "location": "201A, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
+          "agenda_url": null,
+          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=7C3DF870-75BE-F111-AAAE-001DD80AA3CC"
+        },
+        {
+          "body": "Committee on Finance",
+          "date": "2026-10-13",
+          "time": "1:00 PM",
+          "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
+          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/d047b6dd-fc15-4b12-8eaf-ef72c790b29a.pdf",
+          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=63DD2BFA-6DBE-F111-AAAE-001DD80B58E5"
+        },
+        {
+          "body": "Committee on Budget and Government Operations",
+          "date": "2026-10-13",
+          "time": "1:30 PM",
+          "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
+          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/bedfbfd9-5800-4b5a-9cf2-c2f35db74249.pdf",
+          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=62158D66-D2C0-F111-AAAE-001DD80AA3CC"
+        },
+        {
+          "body": "City Council",
+          "date": "2026-10-14",
+          "time": "10:00 AM",
+          "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
+          "agenda_url": null,
+          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=39FE6EE4-2FBC-F111-AAAE-001DD80B58E5"
+        },
+        {
+          "body": "Committee on Immigrant and Refugee Rights",
+          "date": "2026-10-15",
+          "time": "10:30 AM",
+          "location": "Room 201A, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
+          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c283ae24-bfc1-f111-aaae-001dd80efcf5.pdf",
+          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=F97D1D10-EABC-F111-AAAE-001DD80B58E5"
+        }
+      ],
+      "meetings_source": {
+        "name": "Chicago City Clerk eLMS meeting list",
+        "url": "https://chicityclerkelms.chicago.gov/",
+        "method": "chicago-elms",
+        "fetched_at": "2026-10-09T09:00:19-04:00"
+      },
+      "meetings_note": null,
+      "official_hosts": [
+        "chicago.gov",
+        "chicityclerk.com",
+        "chicityclerkelms.chicago.gov",
+        "occprodstoragev1.blob.core.usgovcloudapi.net"
+      ]
+    },
+    {
+      "geoid": "2705068",
+      "name": "Bemidji",
+      "state": "MN",
+      "kind": "25",
+      "description": "Bemidji is a city in Beltrami County in Minnesota. It covers about 17 square miles of land and 4.9 square miles of water, and about 15,770 people live there (Census Bureau estimate for July 1, 2025).",
+      "government": {
+        "summary": "Bemidji has a mayor and a City Council with one member from each of five wards and one member elected citywide (at-large).",
+        "source": {
+          "url": "https://www.ci.bemidji.mn.us/?SEC=B525106C-5232-4C51-8E91-69A46D10A18C",
+          "retrieved": "2026-10-08"
+        }
+      },
+      "officials": [
+        {
+          "office": "Mayor",
+          "name": "Jorge Prince",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://www.ci.bemidji.mn.us/?SEC=B525106C-5232-4C51-8E91-69A46D10A18C",
+            "retrieved": "2026-10-08"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Gwenia Fiskevold Gould",
+          "seat": "Ward 1",
+          "role": null,
+          "source": {
+            "url": "https://www.ci.bemidji.mn.us/?SEC=B525106C-5232-4C51-8E91-69A46D10A18C",
+            "retrieved": "2026-10-08"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Josh Peterson",
+          "seat": "Ward 2",
+          "role": null,
+          "source": {
+            "url": "https://www.ci.bemidji.mn.us/?SEC=B525106C-5232-4C51-8E91-69A46D10A18C",
+            "retrieved": "2026-10-08"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Mark Dickinson",
+          "seat": "Ward 3",
+          "role": null,
+          "source": {
+            "url": "https://www.ci.bemidji.mn.us/?SEC=B525106C-5232-4C51-8E91-69A46D10A18C",
+            "retrieved": "2026-10-08"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Emelie Rivera",
+          "seat": "Ward 4",
+          "role": null,
+          "source": {
+            "url": "https://www.ci.bemidji.mn.us/?SEC=B525106C-5232-4C51-8E91-69A46D10A18C",
+            "retrieved": "2026-10-08"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Lynn Eaton",
+          "seat": "Ward 5",
+          "role": null,
+          "source": {
+            "url": "https://www.ci.bemidji.mn.us/?SEC=B525106C-5232-4C51-8E91-69A46D10A18C",
+            "retrieved": "2026-10-08"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Audrey M. Thayer",
+          "seat": "At-large",
+          "role": null,
+          "source": {
+            "url": "https://www.ci.bemidji.mn.us/?SEC=B525106C-5232-4C51-8E91-69A46D10A18C",
+            "retrieved": "2026-10-08"
+          }
+        }
+      ],
+      "not_listed": [],
+      "city_hall": {
+        "name": "Bemidji City Hall",
+        "address": "317 4th Street NW, Bemidji, MN 56601",
+        "hours": "Weekdays, 8:00 AM to 4:30 PM",
+        "phone": "218-759-3560",
+        "website": "https://www.ci.bemidji.mn.us/",
+        "sources": [
+          {
+            "url": "https://www.ci.bemidji.mn.us/?SEC=B525106C-5232-4C51-8E91-69A46D10A18C",
+            "retrieved": "2026-10-08"
+          }
+        ]
+      },
+      "schedule": [
+        {
+          "body": "City Council",
+          "pattern": "1st and 3rd Mondays of the month at 6:00 PM. When that Monday is a holiday, the meeting moves to Tuesday.",
+          "location": "Council Chambers, City Hall, 317 4th Street NW",
+          "source": {
+            "url": "https://www.ci.bemidji.mn.us/?SEC=B525106C-5232-4C51-8E91-69A46D10A18C",
+            "retrieved": "2026-10-08"
+          }
+        },
+        {
+          "body": "City Council work sessions",
+          "pattern": "4th Monday of the month (and sometimes the 5th)",
+          "location": "City Hall",
+          "source": {
+            "url": "https://www.ci.bemidji.mn.us/?SEC=B525106C-5232-4C51-8E91-69A46D10A18C",
+            "retrieved": "2026-10-08"
+          }
+        },
+        {
+          "body": "Planning Board",
+          "pattern": "2nd Monday of the month at 5:30 PM",
+          "location": "City Hall",
+          "source": {
+            "url": "https://www.ci.bemidji.mn.us/?SEC=B525106C-5232-4C51-8E91-69A46D10A18C",
+            "retrieved": "2026-10-08"
+          }
+        }
+      ],
+      "meetings": [
+        {
+          "body": "Planning Board",
+          "date": "2026-10-13",
+          "time": "5:30 PM",
+          "location": null,
+          "agenda_url": "https://bemidjimn.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=910,plainText=false)",
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1468/files"
+        },
+        {
+          "body": "Public Works Committee",
+          "date": "2026-10-19",
+          "time": "4:30 PM",
+          "location": "317 4th Street NW, Bemidji",
+          "agenda_url": null,
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1428/files"
+        },
+        {
+          "body": "City Council Meeting",
+          "date": "2026-10-19",
+          "time": "6:00 PM",
+          "location": "City Hall, 317 4th Street NW, Bemidji",
+          "agenda_url": null,
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1329/files"
+        },
+        {
+          "body": "Heritage Preservation Commission",
+          "date": "2026-10-20",
+          "time": "4:30 PM",
+          "location": "City Hall, 317 4th Street NW, Bemidji",
+          "agenda_url": null,
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/273/files"
+        },
+        {
+          "body": "Planning Commission",
+          "date": "2026-10-22",
+          "time": "5:30 PM",
+          "location": "City Hall, 317 4th Street NW, Bemidji",
+          "agenda_url": null,
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1345/files"
+        },
+        {
+          "body": "Work Session",
+          "date": "2026-10-26",
+          "time": "5:30 PM",
+          "location": "317 4th Street NW, Bemidji",
+          "agenda_url": null,
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1305/files"
+        },
+        {
+          "body": "Community and Police Advisory Board",
+          "date": "2026-10-27",
+          "time": "4:00 PM",
+          "location": "City Hall, 317 4th Street NW, Bemidji",
+          "agenda_url": null,
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1387/files"
+        },
+        {
+          "body": "Sanford Center Advisory Board",
+          "date": "2026-10-28",
+          "time": "7:00 AM",
+          "location": "City Hall, 317 4th Street NW, Bemidji",
+          "agenda_url": null,
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1375/files"
+        },
+        {
+          "body": "City Council Meeting",
+          "date": "2026-11-02",
+          "time": "6:00 PM",
+          "location": "City Hall, 317 4th Street NW, Bemidji",
+          "agenda_url": null,
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1316/files"
+        },
+        {
+          "body": "Planning Board",
+          "date": "2026-11-09",
+          "time": "5:30 PM",
+          "location": "City Hall, 317 4th Street NW, Bemidji",
+          "agenda_url": null,
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1358/files"
+        },
+        {
+          "body": "Public Arts Commission",
+          "date": "2026-11-10",
+          "time": "1:00 PM",
+          "location": "City Hall, 317 4th Street NW, Bemidji",
+          "agenda_url": null,
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1401/files"
+        },
+        {
+          "body": "Parks and Trails Commission",
+          "date": "2026-11-10",
+          "time": "5:00 PM",
+          "location": "317 4th Street NW, Bemidji",
+          "agenda_url": null,
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1448/files"
+        },
+        {
+          "body": "Sustainability Commission",
+          "date": "2026-11-12",
+          "time": "3:30 PM",
+          "location": "City Hall, 317 4th Street NW, Bemidji",
+          "agenda_url": null,
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1413/files"
+        },
+        {
+          "body": "Public Affairs Committee",
+          "date": "2026-11-16",
+          "time": "4:30 PM",
+          "location": "317 4th Street NW, Bemidji",
+          "agenda_url": null,
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1426/files"
+        },
+        {
+          "body": "City Council Meeting",
+          "date": "2026-11-16",
+          "time": "6:00 PM",
+          "location": "City Hall, 317 4th Street NW, Bemidji",
+          "agenda_url": null,
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1330/files"
+        }
+      ],
+      "meetings_source": {
+        "name": "Bemidji meeting portal (CivicClerk)",
+        "url": "https://bemidjimn.portal.civicclerk.com/",
+        "method": "civicclerk",
+        "fetched_at": "2026-10-09T09:00:19-04:00"
+      },
+      "meetings_note": null,
+      "official_hosts": [
+        "ci.bemidji.mn.us",
+        "bemidjimn.api.civicclerk.com",
+        "bemidjimn.portal.civicclerk.com"
+      ]
+    },
+    {
+      "geoid": "3651000",
+      "name": "New York",
+      "state": "NY",
+      "kind": "25",
+      "description": "New York is a city in Bronx, Kings, New York, Queens, and Richmond counties in southern New York. It covers about 300 square miles of land and 172 square miles of water, and about 8,584,629 people live there (Census Bureau estimate for July 1, 2025).",
+      "government": {
+        "summary": "New York City has a mayor and a 51-member City Council. Voters elect the mayor, the public advocate, and the comptroller citywide, and one Council Member in each of 51 districts.",
+        "source": {
+          "url": "https://council.nyc.gov/districts/",
+          "retrieved": "2026-10-09"
+        }
+      },
+      "officials": [
+        {
+          "office": "Mayor",
+          "name": "Zohran Mamdani",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://www.nyc.gov/office-of-the-mayor/index.page",
+            "retrieved": "2026-10-08"
+          }
+        },
+        {
+          "office": "Public Advocate",
+          "name": "Jumaane D. Williams",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://advocate.nyc.gov/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Comptroller",
+          "name": "Mark Levine",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://comptroller.nyc.gov/about/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Christopher Marte",
+          "seat": "District 1",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Harvey Epstein",
+          "seat": "District 2",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Carl Wilson",
+          "seat": "District 3",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Virginia Maloney",
+          "seat": "District 4",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Julie Menin",
+          "seat": "District 5",
+          "role": "Council Speaker",
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Gale A. Brewer",
+          "seat": "District 6",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Shaun Abreu",
+          "seat": "District 7",
+          "role": "Majority Leader",
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Elsie Encarnacion",
+          "seat": "District 8",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Yusef Salaam",
+          "seat": "District 9",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Carmen De La Rosa",
+          "seat": "District 10",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Eric Dinowitz",
+          "seat": "District 11",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Kevin C. Riley",
+          "seat": "District 12",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Shirley Aldebol",
+          "seat": "District 13",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Pierina Ana Sanchez",
+          "seat": "District 14",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Oswald Feliz",
+          "seat": "District 15",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Althea Stevens",
+          "seat": "District 16",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Justin Sanchez",
+          "seat": "District 17",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Amanda Farías",
+          "seat": "District 18",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Vickie Paladino",
+          "seat": "District 19",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Sandra Ung",
+          "seat": "District 20",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Shanel Thomas-Henry",
+          "seat": "District 21",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Tiffany Cabán",
+          "seat": "District 22",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Linda Lee",
+          "seat": "District 23",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "James F. Gennaro",
+          "seat": "District 24",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Shekar Krishnan",
+          "seat": "District 25",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Julie Won",
+          "seat": "District 26",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Nantasha Williams",
+          "seat": "District 27",
+          "role": "Deputy Speaker",
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Ty Hankerson",
+          "seat": "District 28",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Lynn Schulman",
+          "seat": "District 29",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Phil Wong",
+          "seat": "District 30",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Selvena N. Brooks-Powers",
+          "seat": "District 31",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Joann Ariola",
+          "seat": "District 32",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Lincoln Restler",
+          "seat": "District 33",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Jennifer Gutiérrez",
+          "seat": "District 34",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Crystal Hudson",
+          "seat": "District 35",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Chi Ossé",
+          "seat": "District 36",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Sandy Nurse",
+          "seat": "District 37",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Alexa Avilés",
+          "seat": "District 38",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Shahana Hanif",
+          "seat": "District 39",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Rita C. Joseph",
+          "seat": "District 40",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Darlene Mealy",
+          "seat": "District 41",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Chris Banks",
+          "seat": "District 42",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Susan Zhuang",
+          "seat": "District 43",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Simcha Felder",
+          "seat": "District 44",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Farah N. Louis",
+          "seat": "District 45",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Mercedes Narcisse",
+          "seat": "District 46",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Kayla Santosuosso",
+          "seat": "District 47",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Inna Vernikov",
+          "seat": "District 48",
+          "role": "Minority Whip",
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Kamillah M. Hanks",
+          "seat": "District 49",
+          "role": "Majority Whip",
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "David Carr",
+          "seat": "District 50",
+          "role": "Minority Leader",
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Frank Morano",
+          "seat": "District 51",
+          "role": null,
+          "source": {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        }
+      ],
+      "not_listed": [
+        "Borough presidents are not listed yet."
+      ],
+      "city_hall": {
+        "name": "New York City Council",
+        "address": null,
+        "hours": null,
+        "phone": null,
+        "website": "https://council.nyc.gov/",
+        "sources": [
+          {
+            "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-09"
+          }
+        ]
+      },
+      "schedule": [],
+      "meetings": [
+        {
+          "body": "Committee on Civil and Human Rights",
+          "date": "2026-10-14",
+          "time": null,
+          "location": "250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Committee on Disabilities",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1443166&GUID=9F2ADD53-6CDB-4AFF-A6E6-D1FF2E8A5566",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1443166&GUID=9F2ADD53-6CDB-4AFF-A6E6-D1FF2E8A5566&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Disabilities",
+          "date": "2026-10-14",
+          "time": null,
+          "location": "250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Committee on Civil and Human Rights.",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1443167&GUID=E24C946F-277C-4C91-8577-14F27D871179",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1443167&GUID=E24C946F-277C-4C91-8577-14F27D871179&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Health",
+          "date": "2026-10-14",
+          "time": null,
+          "location": "250 Broadway - 8th Floor - Hearing Room 1",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1443046&GUID=4E06229E-E21C-4AE2-AEA8-97D9106CAC4E",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1443046&GUID=4E06229E-E21C-4AE2-AEA8-97D9106CAC4E&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Sanitation and Solid Waste Management",
+          "date": "2026-10-15",
+          "time": "1:00 PM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 1",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1446431&GUID=BE6E209C-4E02-45CE-8332-3D5AD03468FA",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1446431&GUID=BE6E209C-4E02-45CE-8332-3D5AD03468FA&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Education",
+          "date": "2026-10-15",
+          "time": null,
+          "location": "250 Broadway - 8th Floor - Hearing Room 3 Jointly with the Committee on Higher Education",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1442591&GUID=41D2EEBA-A2F0-4DC2-876B-0326B360E943",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1442591&GUID=41D2EEBA-A2F0-4DC2-876B-0326B360E943&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Higher Education",
+          "date": "2026-10-15",
+          "time": null,
+          "location": "250 Broadway - 8th Floor - Hearing Room 3 Jointly with the Committee on Education.",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1442592&GUID=1217E238-F3DE-49C6-8BBE-8C48EE861993",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1442592&GUID=1217E238-F3DE-49C6-8BBE-8C48EE861993&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Workforce Development",
+          "date": "2026-10-15",
+          "time": null,
+          "location": "250 Broadway - 8th Floor - Hearing Room 2",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1441379&GUID=DFB2672B-75E5-49CD-88DF-3767D8221623",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1441379&GUID=DFB2672B-75E5-49CD-88DF-3767D8221623&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Civil and Human Rights",
+          "date": "2026-10-16",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Committee on Disabilities",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1453100&GUID=AC7B8CBB-3FC2-4976-8E8D-1218A5781229",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1453100&GUID=AC7B8CBB-3FC2-4976-8E8D-1218A5781229&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Civil Service and Labor",
+          "date": "2026-10-16",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 1",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1452371&GUID=631198C3-620B-4C7B-8C2B-9B712A7CBB56",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1452371&GUID=631198C3-620B-4C7B-8C2B-9B712A7CBB56&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Disabilities",
+          "date": "2026-10-16",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Committee on Civil and Human Rights.",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1453101&GUID=3F35B7D7-C322-4D8A-836C-EDA2E033F070",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1453101&GUID=3F35B7D7-C322-4D8A-836C-EDA2E033F070&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Criminal Justice",
+          "date": "2026-10-19",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 3",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1441259&GUID=2A68F183-E7CE-43C4-961E-D25BD9B53B19",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1441259&GUID=2A68F183-E7CE-43C4-961E-D25BD9B53B19&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Health",
+          "date": "2026-10-19",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 2",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1452152&GUID=88AFDE9D-F71C-4163-AD6A-7F25AAA30F37",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1452152&GUID=88AFDE9D-F71C-4163-AD6A-7F25AAA30F37&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Cultural Affairs, Libraries and International Relations",
+          "date": "2026-10-19",
+          "time": "1:00 PM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 1",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1442652&GUID=E940DC9C-946E-40F7-B923-AA3E498FD815",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1442652&GUID=E940DC9C-946E-40F7-B923-AA3E498FD815&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Economic Development",
+          "date": "2026-10-20",
+          "time": "10:00 AM",
+          "location": "Committee Room - City Hall Jointly with the Committee on Transportation and Infrastructure.",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1445958&GUID=0E2D5F66-FF29-4F98-A9CB-6F7CE37D616E",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1445958&GUID=0E2D5F66-FF29-4F98-A9CB-6F7CE37D616E&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Fire and Emergency Management",
+          "date": "2026-10-20",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Committee on Hospitals.",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1447133&GUID=2EFBB7E6-2A47-4A99-B8C9-2C22ADE60EA3",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1447133&GUID=2EFBB7E6-2A47-4A99-B8C9-2C22ADE60EA3&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Hospitals",
+          "date": "2026-10-20",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Committee on Fire and Emergency Management",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1447134&GUID=46663D1F-E384-4629-94B2-A287EB9A06C3",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1447134&GUID=46663D1F-E384-4629-94B2-A287EB9A06C3&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Transportation and Infrastructure",
+          "date": "2026-10-20",
+          "time": "10:00 AM",
+          "location": "Committee Room - City Hall Jointly with the Committee on Economic Development",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1445962&GUID=8FF7375F-E5B0-4629-9A06-35CA5D9F9366",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1445962&GUID=8FF7375F-E5B0-4629-9A06-35CA5D9F9366&Options=info|&Search="
+        },
+        {
+          "body": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
+          "date": "2026-10-20",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 3",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1440276&GUID=C3E05FB0-5151-45EC-B473-0607F18B01A4",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1440276&GUID=C3E05FB0-5151-45EC-B473-0607F18B01A4&Options=info|&Search="
+        },
+        {
+          "body": "Subcommittee on Zoning and Franchises",
+          "date": "2026-10-20",
+          "time": "11:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 3",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1440284&GUID=D5E8AC5A-F231-4A06-B357-446B82A0F916",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1440284&GUID=D5E8AC5A-F231-4A06-B357-446B82A0F916&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Environmental Protection and Waterfronts",
+          "date": "2026-10-20",
+          "time": "12:00 PM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 1",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1423568&GUID=A8C45A94-BB6A-40B6-A5F7-3C9F5E09999B",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1423568&GUID=A8C45A94-BB6A-40B6-A5F7-3C9F5E09999B&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Education",
+          "date": "2026-10-20",
+          "time": "1:00 PM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Committee on Higher Education",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1445988&GUID=831F5DAB-D903-4CF2-BC64-9D8E64E4F316",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1445988&GUID=831F5DAB-D903-4CF2-BC64-9D8E64E4F316&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Higher Education",
+          "date": "2026-10-20",
+          "time": "1:00 PM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Committee on Education.",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1445989&GUID=A82C2E2A-C24D-43C3-8F99-ED3A553CCA5C",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1445989&GUID=A82C2E2A-C24D-43C3-8F99-ED3A553CCA5C&Options=info|&Search="
+        },
+        {
+          "body": "Committee on General Welfare",
+          "date": "2026-10-21",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 3 Jointly with the Committee on Veterans",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1444701&GUID=EB0AA2E4-3CBF-4E44-A5C7-E9353E1E7611",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1444701&GUID=EB0AA2E4-3CBF-4E44-A5C7-E9353E1E7611&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Housing and Buildings",
+          "date": "2026-10-21",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 1",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1441262&GUID=BD7CF3B0-8691-4C86-90BE-9BBF6FA256CC",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1441262&GUID=BD7CF3B0-8691-4C86-90BE-9BBF6FA256CC&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Public Safety",
+          "date": "2026-10-21",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 2",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1443396&GUID=354F0DEB-7C56-45BB-8574-5F90477EC354",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1443396&GUID=354F0DEB-7C56-45BB-8574-5F90477EC354&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Veterans",
+          "date": "2026-10-21",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 3 Jointly with the Committee on General Welfare.",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1444702&GUID=609E6242-DEB4-499D-981C-893B52C7B3E4",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1444702&GUID=609E6242-DEB4-499D-981C-893B52C7B3E4&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Land Use",
+          "date": "2026-10-21",
+          "time": "1:00 PM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 3",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1440250&GUID=9943A2A2-23E5-4C9C-BA3A-54CA76E64574",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1440250&GUID=9943A2A2-23E5-4C9C-BA3A-54CA76E64574&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Mental Health and Substance Use",
+          "date": "2026-10-21",
+          "time": "1:00 PM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 2",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1454036&GUID=BB567A5E-3335-4074-A76C-26D13A39264B",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1454036&GUID=BB567A5E-3335-4074-A76C-26D13A39264B&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Finance",
+          "date": "2026-10-22",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 1",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1452857&GUID=85140EB0-5D91-4451-8FC2-54E85C0A7D78",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1452857&GUID=85140EB0-5D91-4451-8FC2-54E85C0A7D78&Options=info|&Search="
+        },
+        {
+          "body": "City Council Stated Meeting",
+          "date": "2026-10-22",
+          "time": "1:30 PM",
+          "location": "Council Chambers - City Hall",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1418195&GUID=8CB6DCD2-1ADB-4E9F-87A8-0C355575B9C2",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1418195&GUID=8CB6DCD2-1ADB-4E9F-87A8-0C355575B9C2&Options=info|&Search="
+        },
+        {
+          "body": "Committee on General Welfare",
+          "date": "2026-10-26",
+          "time": "1:00 PM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 1",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1452572&GUID=96E1E342-FCED-415E-A82E-894C726F7521",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1452572&GUID=96E1E342-FCED-415E-A82E-894C726F7521&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Transportation and Infrastructure",
+          "date": "2026-10-27",
+          "time": "9:30 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 3",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1452222&GUID=24711CD3-938D-4A6B-9A21-57AA35B952E7",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1452222&GUID=24711CD3-938D-4A6B-9A21-57AA35B952E7&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Aging",
+          "date": "2026-10-27",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 1 Jointly with the Committee on Public Housing.",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1439672&GUID=758F657F-BA8B-41D5-8760-E59E19A55CB4",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1439672&GUID=758F657F-BA8B-41D5-8760-E59E19A55CB4&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Criminal Justice",
+          "date": "2026-10-27",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Committee on Women and Gender Equity",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1452325&GUID=4B3B9424-03CA-4D88-8CB0-5D591B8F424B",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1452325&GUID=4B3B9424-03CA-4D88-8CB0-5D591B8F424B&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Public Housing",
+          "date": "2026-10-27",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 1 Jointly with the Committee on Aging",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1439674&GUID=9C0CC9C7-1662-490A-911B-2E02AF9A2F5D",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1439674&GUID=9C0CC9C7-1662-490A-911B-2E02AF9A2F5D&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Women and Gender Equity",
+          "date": "2026-10-27",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Committee on Criminal Justice.",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1452326&GUID=E7CBFA83-D27B-48B3-AB99-513B519AC42C",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1452326&GUID=E7CBFA83-D27B-48B3-AB99-513B519AC42C&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Children and Youth",
+          "date": "2026-10-27",
+          "time": "1:00 PM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 1",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1448726&GUID=101E3C81-0A0C-4586-BA6A-E37FF45D1D7A",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1448726&GUID=101E3C81-0A0C-4586-BA6A-E37FF45D1D7A&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Workforce Development",
+          "date": "2026-10-27",
+          "time": "1:00 PM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 2",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1454027&GUID=0CED47DD-3EBC-467A-9B81-FD51AF4A41D8",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1454027&GUID=0CED47DD-3EBC-467A-9B81-FD51AF4A41D8&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Governmental Operations, State & Federal Legislation",
+          "date": "2026-10-28",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 1",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1449191&GUID=C4F2D1CF-6921-4B7E-A772-E9551E8ACFB6",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1449191&GUID=C4F2D1CF-6921-4B7E-A772-E9551E8ACFB6&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Hospitals",
+          "date": "2026-10-28",
+          "time": "1:00 PM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 1",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1454254&GUID=6ACB30A4-13FA-48C9-B69B-5EE293B4687F",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1454254&GUID=6ACB30A4-13FA-48C9-B69B-5EE293B4687F&Options=info|&Search="
+        }
+      ],
+      "meetings_source": {
+        "name": "New York City Council meeting calendar (Legistar)",
+        "url": "https://legistar.council.nyc.gov/Calendar.aspx",
+        "method": "legistar-web",
+        "fetched_at": "2026-10-09T09:00:19-04:00"
+      },
+      "meetings_note": null,
+      "official_hosts": [
+        "nyc.gov",
+        "council.nyc.gov",
+        "advocate.nyc.gov",
+        "comptroller.nyc.gov",
+        "legistar.council.nyc.gov"
+      ]
+    },
+    {
+      "geoid": "4260000",
+      "name": "Philadelphia",
+      "state": "PA",
+      "kind": "25",
+      "description": "Philadelphia is a city in Philadelphia County in southeastern Pennsylvania. It covers about 134 square miles of land and 8.1 square miles of water, and about 1,574,281 people live there (Census Bureau estimate for July 1, 2025).",
+      "government": {
+        "summary": "Philadelphia has a mayor and a 17-member City Council: 10 members represent districts and 7 are elected citywide (at-large). Voters also elect a city controller.",
+        "source": {
+          "url": "https://phlcouncil.com/council-members/",
+          "retrieved": "2026-10-09"
+        }
+      },
+      "officials": [
+        {
+          "office": "Mayor",
+          "name": "Cherelle L. Parker",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://www.phila.gov/departments/mayor/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "City Controller",
+          "name": "Christy Brady",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://controller.phila.gov/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Mark Squilla",
+          "seat": "District 1",
+          "role": null,
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Kenyatta Johnson",
+          "seat": "District 2",
+          "role": "Council President",
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Jamie Gauthier",
+          "seat": "District 3",
+          "role": null,
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Curtis Jones, Jr.",
+          "seat": "District 4",
+          "role": null,
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Jeffery Young, Jr.",
+          "seat": "District 5",
+          "role": null,
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Michael Driscoll",
+          "seat": "District 6",
+          "role": null,
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Quetcy Lozada",
+          "seat": "District 7",
+          "role": null,
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Cindy Bass",
+          "seat": "District 8",
+          "role": null,
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Anthony Phillips",
+          "seat": "District 9",
+          "role": null,
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Brian J. O’Neill",
+          "seat": "District 10",
+          "role": null,
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Katherine Gilmore Richardson",
+          "seat": "At-large",
+          "role": null,
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Isaiah Thomas",
+          "seat": "At-large",
+          "role": null,
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Jim Harrity",
+          "seat": "At-large",
+          "role": null,
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Nina Ahmad",
+          "seat": "At-large",
+          "role": null,
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Rue Landau",
+          "seat": "At-large",
+          "role": null,
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Kendra Brooks",
+          "seat": "At-large",
+          "role": null,
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Nicolas O’Rourke",
+          "seat": "At-large",
+          "role": null,
+          "source": {
+            "url": "https://phlcouncil.com/council-members/",
+            "retrieved": "2026-10-09"
+          }
+        }
+      ],
+      "not_listed": [],
+      "city_hall": {
+        "name": "Philadelphia City Hall",
+        "address": null,
+        "hours": null,
+        "phone": null,
+        "website": "https://www.phila.gov/",
+        "sources": [
+          {
+            "url": "https://phlcouncil.com/stated-meetings/",
+            "retrieved": "2026-10-09"
+          }
+        ]
+      },
+      "schedule": [
+        {
+          "body": "City Council stated meetings",
+          "pattern": "Thursdays at 10:00 AM on the dates the Council lists",
+          "location": "Room 400, City Hall",
+          "source": {
+            "url": "https://phlcouncil.com/stated-meetings/",
+            "retrieved": "2026-10-09"
+          }
+        }
+      ],
+      "meetings": [
+        {
+          "body": "Committee on Commerce & Economic Development",
+          "date": "2026-10-14",
+          "time": "2:00 PM",
+          "location": "Room 400, City Hall",
+          "agenda_url": "https://phila.legistar.com/View.ashx?M=A&ID=1449206&GUID=0CA399AA-5B29-4863-831F-6C5EF41EB82A",
+          "details_url": "https://phila.legistar.com/MeetingDetail.aspx?ID=1449206&GUID=0CA399AA-5B29-4863-831F-6C5EF41EB82A&Options=info|&Search="
+        },
+        {
+          "body": "CITY COUNCIL",
+          "date": "2026-10-15",
+          "time": "10:00 AM",
+          "location": "Room 400, City Hall",
+          "agenda_url": null,
+          "details_url": null
+        },
+        {
+          "body": "Committee on Public Property and Public Works",
+          "date": "2026-10-21",
+          "time": "1:00 PM",
+          "location": "Room 400, City Hall",
+          "agenda_url": null,
+          "details_url": "https://phila.legistar.com/MeetingDetail.aspx?ID=1454355&GUID=A82E415A-C929-41F9-B911-63C99342E58C&Options=info|&Search="
+        },
+        {
+          "body": "CITY COUNCIL",
+          "date": "2026-10-22",
+          "time": "10:00 AM",
+          "location": "Room 400, City Hall",
+          "agenda_url": null,
+          "details_url": null
+        },
+        {
+          "body": "Committee on Legislative Oversight",
+          "date": "2026-10-26",
+          "time": "2:00 PM",
+          "location": "Room 400, City Hall",
+          "agenda_url": "https://phila.legistar.com/View.ashx?M=A&ID=1454139&GUID=B98DD8BD-DE28-465E-8095-D73B0BA4B0C6",
+          "details_url": "https://phila.legistar.com/MeetingDetail.aspx?ID=1454139&GUID=B98DD8BD-DE28-465E-8095-D73B0BA4B0C6&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Rules",
+          "date": "2026-10-27",
+          "time": "10:00 AM",
+          "location": "Room 400, City Hall",
+          "agenda_url": "https://phila.legistar.com/View.ashx?M=A&ID=1454249&GUID=A7DB55EB-23AC-4FAB-9718-02EFE9EAD974",
+          "details_url": "https://phila.legistar.com/MeetingDetail.aspx?ID=1454249&GUID=A7DB55EB-23AC-4FAB-9718-02EFE9EAD974&Options=info|&Search="
+        },
+        {
+          "body": "CITY COUNCIL",
+          "date": "2026-10-29",
+          "time": "10:00 AM",
+          "location": "Room 400, City Hall",
+          "agenda_url": null,
+          "details_url": null
+        }
+      ],
+      "meetings_source": {
+        "name": "Philadelphia City Council calendar (Legistar)",
+        "url": "https://phila.legistar.com/Calendar.aspx",
+        "method": "legistar-web",
+        "fetched_at": "2026-10-09T09:00:19-04:00"
+      },
+      "meetings_note": null,
+      "official_hosts": [
+        "phila.gov",
+        "phlcouncil.com",
+        "controller.phila.gov",
+        "phila.legistar.com"
+      ]
+    },
+    {
+      "geoid": "4819000",
+      "name": "Dallas",
+      "state": "TX",
+      "kind": "25",
+      "description": "Dallas is a city in Collin, Dallas, Denton, Kaufman, and Rockwall counties in Texas. It covers about 340 square miles of land and 44 square miles of water, and about 1,329,491 people live there (Census Bureau estimate for July 1, 2025).",
+      "government": {
+        "summary": "Dallas has a mayor and a City Council with one council member for each of 14 districts. The council's page also lists the city manager, city attorney, and city secretary.",
+        "source": {
+          "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
+          "retrieved": "2026-10-09"
+        }
+      },
+      "officials": [
+        {
+          "office": "Mayor",
+          "name": "Eric L. Johnson",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://dallascityhall.com/government/citymayor/Pages/default.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Chad West",
+          "seat": "District 1",
+          "role": null,
+          "source": {
+            "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Jesse Moreno",
+          "seat": "District 2",
+          "role": null,
+          "source": {
+            "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Zarin D. Gracey",
+          "seat": "District 3",
+          "role": null,
+          "source": {
+            "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Maxie Johnson",
+          "seat": "District 4",
+          "role": "Deputy Mayor Pro Tem",
+          "source": {
+            "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Jaime Resendez",
+          "seat": "District 5",
+          "role": "Mayor Pro Tem",
+          "source": {
+            "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Laura Cadena",
+          "seat": "District 6",
+          "role": null,
+          "source": {
+            "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Adam Bazaldua",
+          "seat": "District 7",
+          "role": null,
+          "source": {
+            "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Lorie Blair",
+          "seat": "District 8",
+          "role": null,
+          "source": {
+            "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Paula Blackmon",
+          "seat": "District 9",
+          "role": null,
+          "source": {
+            "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Kathy Stewart",
+          "seat": "District 10",
+          "role": null,
+          "source": {
+            "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "William Roth",
+          "seat": "District 11",
+          "role": null,
+          "source": {
+            "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Cara Mendelsohn",
+          "seat": "District 12",
+          "role": null,
+          "source": {
+            "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Gay Donnell Willis",
+          "seat": "District 13",
+          "role": null,
+          "source": {
+            "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Paul E. Ridley",
+          "seat": "District 14",
+          "role": null,
+          "source": {
+            "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
+            "retrieved": "2026-10-09"
+          }
+        }
+      ],
+      "not_listed": [],
+      "city_hall": {
+        "name": "Mayor and City Council office",
+        "address": "1500 Marilla St., Dallas, TX 75201",
+        "hours": null,
+        "phone": "214-670-4050",
+        "website": "https://dallascityhall.com/",
+        "sources": [
+          {
+            "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
+            "retrieved": "2026-10-09"
+          }
+        ]
+      },
+      "schedule": [],
+      "meetings": [
+        {
+          "body": "Public Safety Committee",
+          "date": "2026-10-13",
+          "time": "1:00 PM",
+          "location": "COUNCIL CHAMBERS, CITY HALL",
+          "agenda_url": null,
+          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4284&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
+        },
+        {
+          "body": "Community Police Oversight Board",
+          "date": "2026-10-13",
+          "time": "5:30 PM",
+          "location": "COUNCIL CHAMBERS, CITY HALL, 6EN",
+          "agenda_url": null,
+          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4784&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
+        },
+        {
+          "body": "City Council",
+          "date": "2026-10-14",
+          "time": "9:00 AM",
+          "location": "COUNCIL CHAMBERS, CITY HALL",
+          "agenda_url": "https://cityofdallas.legistar1.com/cityofdallas/meetings/2026/10/4349_A_City_Council_26-10-14_COUNCIL_AGENDA.pdf",
+          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4349&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
+        },
+        {
+          "body": "Environmental Commission",
+          "date": "2026-10-14",
+          "time": "5:30 PM",
+          "location": "COUNCIL BRIEFING, ROOM 6ES",
+          "agenda_url": null,
+          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4317&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
+        },
+        {
+          "body": "Citizen Homelessness Commission",
+          "date": "2026-10-15",
+          "time": "1:00 PM",
+          "location": "L1FN AUDITORIUM",
+          "agenda_url": null,
+          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4417&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
+        },
+        {
+          "body": "Arts and Culture Advisory Commission",
+          "date": "2026-10-15",
+          "time": "4:30 PM",
+          "location": "DALLAS CITY HALL, 6FN",
+          "agenda_url": null,
+          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4440&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
+        },
+        {
+          "body": "Veteran Affairs Commission",
+          "date": "2026-11-12",
+          "time": "9:00 AM",
+          "location": "COUNCIL BRIEFING ROOM, 6ES",
+          "agenda_url": null,
+          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4748&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
+        },
+        {
+          "body": "Citizen Homelessness Commission",
+          "date": "2026-11-19",
+          "time": "1:00 PM",
+          "location": "L1FN AUDITORIUM",
+          "agenda_url": null,
+          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4418&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
+        }
+      ],
+      "meetings_source": {
+        "name": "Dallas City Council and board meetings (Legistar)",
+        "url": "https://cityofdallas.legistar.com/Calendar.aspx",
+        "method": "legistar-api",
+        "fetched_at": "2026-10-09T09:00:19-04:00"
+      },
+      "meetings_note": null,
+      "official_hosts": [
+        "dallascityhall.com",
+        "cityofdallas.legistar.com",
+        "legistar.com",
+        "legistar1.com",
+        "legistar2.com",
+        "granicus.com"
+      ]
+    },
+    {
+      "geoid": "4827000",
+      "name": "Fort Worth",
+      "state": "TX",
+      "kind": "25",
+      "description": "Fort Worth is a city in Denton, Johnson, Parker, Tarrant, and Wise counties in Texas. It covers about 352 square miles of land and 8.2 square miles of water, and about 1,028,117 people live there (Census Bureau estimate for July 1, 2025).",
+      "government": {
+        "summary": "Fort Worth has a mayor and a City Council with council members for districts 2 through 11.",
+        "source": {
+          "url": "https://www.fortworthtexas.gov/government/districts",
+          "retrieved": "2026-10-09"
+        }
+      },
+      "officials": [
+        {
+          "office": "Mayor",
+          "name": "Mattie Parker",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://www.fortworthtexas.gov/government/mayor",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Carlos Flores",
+          "seat": "District 2",
+          "role": null,
+          "source": {
+            "url": "https://www.fortworthtexas.gov/government/districts/district2",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Michael Crain",
+          "seat": "District 3",
+          "role": null,
+          "source": {
+            "url": "https://www.fortworthtexas.gov/government/districts/district3",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Charles Lauersdorf",
+          "seat": "District 4",
+          "role": null,
+          "source": {
+            "url": "https://www.fortworthtexas.gov/government/districts/district4",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Mia Hall",
+          "seat": "District 6",
+          "role": null,
+          "source": {
+            "url": "https://www.fortworthtexas.gov/government/districts/district6",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Macy Hill",
+          "seat": "District 7",
+          "role": null,
+          "source": {
+            "url": "https://www.fortworthtexas.gov/government/districts/district7",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Chris Nettles",
+          "seat": "District 8",
+          "role": null,
+          "source": {
+            "url": "https://www.fortworthtexas.gov/government/districts/district8",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Elizabeth Beck",
+          "seat": "District 9",
+          "role": null,
+          "source": {
+            "url": "https://www.fortworthtexas.gov/government/districts/district9",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Chris Jamieson",
+          "seat": "District 10",
+          "role": null,
+          "source": {
+            "url": "https://www.fortworthtexas.gov/government/districts/district10",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Jeanette Martinez",
+          "seat": "District 11",
+          "role": null,
+          "source": {
+            "url": "https://www.fortworthtexas.gov/government/districts/district11",
+            "retrieved": "2026-10-09"
+          }
+        }
+      ],
+      "not_listed": [
+        "District 5 council member: the city's district page does not name a current member, so it is not listed yet."
+      ],
+      "city_hall": {
+        "name": "Fort Worth City Hall",
+        "address": "100 Fort Worth Trail, Fort Worth, TX 76102",
+        "hours": null,
+        "phone": "817-392-1234",
+        "website": "https://www.fortworthtexas.gov/",
+        "sources": [
+          {
+            "url": "https://www.fortworthtexas.gov/government/city-council-meetings",
+            "retrieved": "2026-10-09"
+          }
+        ]
+      },
+      "schedule": [],
+      "meetings": [],
+      "meetings_source": null,
+      "meetings_note": "Upcoming meeting dates are not listed yet. Fort Worth moved its agendas to a new system in June 2026 that scripts cannot read yet, so check the city's meetings page.",
+      "official_hosts": [
+        "fortworthtexas.gov",
+        "docspublished.io"
+      ]
+    },
+    {
+      "geoid": "4835000",
+      "name": "Houston",
+      "state": "TX",
+      "kind": "25",
+      "description": "Houston is a city in Fort Bend, Harris, Montgomery, and Waller counties in Texas. It covers about 641 square miles of land and 31 square miles of water, and about 2,397,315 people live there (Census Bureau estimate for July 1, 2025).",
+      "government": {
+        "summary": "Houston voters elect a mayor, a city controller, and 16 council members every four years. Eleven council members represent districts and five are elected citywide (at-large).",
+        "source": {
+          "url": "https://www.houstontx.gov/council/",
+          "retrieved": "2026-10-09"
+        }
+      },
+      "officials": [
+        {
+          "office": "Mayor",
+          "name": "John Whitmire",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://www.houstontx.gov/mayor/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Amy Peck",
+          "seat": "District A",
+          "role": "Vice Mayor Pro-Tem",
+          "source": {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Tarsha Jackson",
+          "seat": "District B",
+          "role": null,
+          "source": {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Joe Panzarella",
+          "seat": "District C",
+          "role": null,
+          "source": {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Carolyn Evans-Shabazz",
+          "seat": "District D",
+          "role": null,
+          "source": {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Fred Flickinger",
+          "seat": "District E",
+          "role": null,
+          "source": {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Tiffany D. Thomas",
+          "seat": "District F",
+          "role": null,
+          "source": {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Mary Nan Huffman",
+          "seat": "District G",
+          "role": null,
+          "source": {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Mario Castillo",
+          "seat": "District H",
+          "role": null,
+          "source": {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Joaquin Martinez",
+          "seat": "District I",
+          "role": null,
+          "source": {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Edward Pollard",
+          "seat": "District J",
+          "role": null,
+          "source": {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Martha Castex-Tatum",
+          "seat": "District K",
+          "role": "Mayor Pro-Tem",
+          "source": {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Julian Ramirez",
+          "seat": "At-Large Position 1",
+          "role": null,
+          "source": {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Willie Davis",
+          "seat": "At-Large Position 2",
+          "role": null,
+          "source": {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Twila Carter",
+          "seat": "At-Large Position 3",
+          "role": null,
+          "source": {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Alejandra Salinas",
+          "seat": "At-Large Position 4",
+          "role": null,
+          "source": {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Council Member",
+          "name": "Sallie Alcorn",
+          "seat": "At-Large Position 5",
+          "role": null,
+          "source": {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        }
+      ],
+      "not_listed": [
+        "The city controller is not listed yet."
+      ],
+      "city_hall": {
+        "name": "Houston City Hall",
+        "address": "901 Bagby, Houston, TX 77002",
+        "hours": null,
+        "phone": null,
+        "website": "https://www.houstontx.gov/",
+        "sources": [
+          {
+            "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-09"
+          }
+        ]
+      },
+      "schedule": [
+        {
+          "body": "City Council",
+          "pattern": "Tuesdays at 1:30 PM and Wednesdays starting at 9:00 AM. Public comment is on Tuesdays starting at 2:00 PM (5:00 PM on the last Tuesday of the month).",
+          "location": "City Council Chamber, City Hall",
+          "source": {
+            "url": "https://www.houstontx.gov/council/meetingsinfo.html",
+            "retrieved": "2026-10-09"
+          }
+        }
+      ],
+      "meetings": [],
+      "meetings_source": null,
+      "meetings_note": "Upcoming meeting dates are not listed yet. Houston posts each agenda through a search page that scripts cannot read, so check the City Secretary's agenda page.",
+      "official_hosts": [
+        "houstontx.gov",
+        "houston.novusagenda.com"
+      ]
+    },
+    {
+      "geoid": "4865000",
+      "name": "San Antonio",
+      "state": "TX",
+      "kind": "25",
+      "description": "San Antonio is a city in Bexar, Comal, and Medina counties in Texas. It covers about 499 square miles of land and 5.7 square miles of water, and about 1,548,422 people live there (Census Bureau estimate for July 1, 2025).",
+      "government": {
+        "summary": "San Antonio has a mayor and a City Council with one councilmember for each of 10 districts.",
+        "source": {
+          "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
+          "retrieved": "2026-10-09"
+        }
+      },
+      "officials": [
+        {
+          "office": "Mayor",
+          "name": "Gina Ortiz Jones",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Sukh Kaur",
+          "seat": "District 1",
+          "role": null,
+          "source": {
+            "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Jalen McKee-Rodriguez",
+          "seat": "District 2",
+          "role": null,
+          "source": {
+            "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Phyllis Viagran",
+          "seat": "District 3",
+          "role": null,
+          "source": {
+            "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Edward Mungia",
+          "seat": "District 4",
+          "role": null,
+          "source": {
+            "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Teri Castillo",
+          "seat": "District 5",
+          "role": null,
+          "source": {
+            "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Ric Galvan",
+          "seat": "District 6",
+          "role": null,
+          "source": {
+            "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Marina Alderete Gavito",
+          "seat": "District 7",
+          "role": null,
+          "source": {
+            "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Ivalis Meza Gonzalez",
+          "seat": "District 8",
+          "role": null,
+          "source": {
+            "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Misty Spears",
+          "seat": "District 9",
+          "role": null,
+          "source": {
+            "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
+            "retrieved": "2026-10-09"
+          }
+        },
+        {
+          "office": "Councilmember",
+          "name": "Marc Whyte",
+          "seat": "District 10",
+          "role": null,
+          "source": {
+            "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
+            "retrieved": "2026-10-09"
+          }
+        }
+      ],
+      "not_listed": [],
+      "city_hall": {
+        "name": "City of San Antonio",
+        "address": null,
+        "hours": null,
+        "phone": "311 or 210-207-6000",
+        "website": "https://www.sa.gov/",
+        "sources": [
+          {
+            "url": "https://www.sa.gov/Directory/Departments/Mayor-Council/Contact",
+            "retrieved": "2026-10-09"
+          }
+        ]
+      },
+      "schedule": [],
+      "meetings": [],
+      "meetings_source": null,
+      "meetings_note": "Upcoming meeting dates are not listed yet. Check the city's council and committee agenda page.",
+      "official_hosts": [
+        "sa.gov",
+        "sanantonio.gov"
+      ]
+    }
+  ]
+}

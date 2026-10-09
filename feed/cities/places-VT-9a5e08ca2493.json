@@ -1,0 +1,3620 @@
+{
+ "bundle": "cities-places",
+ "schema_version": 1,
+ "state": "VT",
+ "sources": [
+  {
+   "name": "U.S. Census Bureau, 2025 Gazetteer Files (places and counties)",
+   "url": "https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html"
+  },
+  {
+   "name": "U.S. Census Bureau, Vintage 2025 population estimates for cities and towns (July 1, 2025)",
+   "url": "https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 Census counts (TIGERweb, Census 2020 places)",
+   "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_Census2020/MapServer"
+  },
+  {
+   "name": "U.S. Census Bureau, 2020 place-to-county list",
+   "url": "https://www.census.gov/library/reference/code-lists/ansi.html"
+  }
+ ],
+ "places": [
+  {
+   "geoid": "5000400",
+   "name": "Albany",
+   "kind": "47",
+   "counties": [
+    "Orleans County"
+   ],
+   "lat": 44.72993,
+   "lon": -72.38176,
+   "land_sqmi": 1.542,
+   "water_sqmi": 0.01,
+   "population": {
+    "count": 176,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "Albany is a village in Orleans County in northern Vermont. It covers about 1.5 square miles of land, and about 176 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5000850",
+   "name": "Alburgh",
+   "kind": "47",
+   "counties": [
+    "Grand Isle County"
+   ],
+   "lat": 44.97673,
+   "lon": -73.30257,
+   "land_sqmi": 0.638,
+   "water_sqmi": 0,
+   "population": {
+    "count": 606,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "Alburgh is a village in Grand Isle County in northern Vermont. It covers about 0.6 square miles of land, and about 606 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5001035",
+   "name": "Algiers",
+   "kind": "57",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 42.82001,
+   "lon": -72.57956,
+   "land_sqmi": 0.65,
+   "water_sqmi": 0,
+   "population": {
+    "count": 186,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Algiers is a community in Windham County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 186 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5001375",
+   "name": "Arlington",
+   "kind": "57",
+   "counties": [
+    "Bennington County"
+   ],
+   "lat": 43.07292,
+   "lon": -73.14609,
+   "land_sqmi": 3.835,
+   "water_sqmi": 0.057,
+   "population": {
+    "count": 1249,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Arlington is a community in Bennington County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.8 square miles of land and 0.1 square miles of water, and 1,249 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5001750",
+   "name": "Ascutney",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.40831,
+   "lon": -72.4057,
+   "land_sqmi": 1.688,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 529,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Ascutney is a community in Windsor County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land, and 529 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5002425",
+   "name": "Bakersfield",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 44.78202,
+   "lon": -72.80328,
+   "land_sqmi": 1.04,
+   "water_sqmi": 0,
+   "population": {
+    "count": 347,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Bakersfield is a community in Franklin County in northern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 347 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5002800",
+   "name": "Barnet",
+   "kind": "57",
+   "counties": [
+    "Caledonia County"
+   ],
+   "lat": 44.29548,
+   "lon": -72.04983,
+   "land_sqmi": 0.625,
+   "water_sqmi": 0.019,
+   "population": {
+    "count": 127,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Barnet is a community in Caledonia County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 127 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5003175",
+   "name": "Barre",
+   "kind": "25",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.19909,
+   "lon": -72.50798,
+   "land_sqmi": 3.987,
+   "water_sqmi": 0.032,
+   "population": {
+    "count": 8214,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Barre is a city in Washington County in Vermont. It covers about 4 square miles of land, and about 8,214 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5003475",
+   "name": "Barton",
+   "kind": "47",
+   "counties": [
+    "Orleans County"
+   ],
+   "lat": 44.74797,
+   "lon": -72.17855,
+   "land_sqmi": 1.131,
+   "water_sqmi": 0.013,
+   "population": {
+    "count": 715,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "Barton is a village in Orleans County in northern Vermont. It covers about 1.1 square miles of land, and about 715 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5004150",
+   "name": "Beecher Falls",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 45.00959,
+   "lon": -71.48793,
+   "land_sqmi": 1.267,
+   "water_sqmi": 0.047,
+   "population": {
+    "count": 139,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Beecher Falls is a community in Essex County in northern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 139 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5004225",
+   "name": "Bellows Falls",
+   "kind": "47",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 43.13456,
+   "lon": -72.4591,
+   "land_sqmi": 1.359,
+   "water_sqmi": 0.018,
+   "population": {
+    "count": 2706,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Bellows Falls is a village in Windham County in southern Vermont. It covers about 1.4 square miles of land, and about 2,706 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5004750",
+   "name": "Bennington",
+   "kind": "57",
+   "counties": [
+    "Bennington County"
+   ],
+   "lat": 42.87124,
+   "lon": -73.18018,
+   "land_sqmi": 4.828,
+   "water_sqmi": 0.036,
+   "population": {
+    "count": 8795,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Bennington is a community in Bennington County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.8 square miles of land, and 8,795 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5005125",
+   "name": "Benson",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.71006,
+   "lon": -73.30298,
+   "land_sqmi": 3.874,
+   "water_sqmi": 0.061,
+   "population": {
+    "count": 269,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Benson is a community in Rutland County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.9 square miles of land and 0.1 square miles of water, and 269 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5005725",
+   "name": "Bethel",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.8297,
+   "lon": -72.63449,
+   "land_sqmi": 1.907,
+   "water_sqmi": 0.078,
+   "population": {
+    "count": 670,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Bethel is a community in Windsor County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land and 0.1 square miles of water, and 670 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5006475",
+   "name": "Bolton",
+   "kind": "57",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.37422,
+   "lon": -72.88601,
+   "land_sqmi": 0.068,
+   "water_sqmi": 0,
+   "population": {
+    "count": 23,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Bolton is a community in Chittenden County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 23 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5006700",
+   "name": "Bolton Valley",
+   "kind": "57",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.41664,
+   "lon": -72.85747,
+   "land_sqmi": 0.436,
+   "water_sqmi": 0,
+   "population": {
+    "count": 295,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Bolton Valley is a community in Chittenden County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 295 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5007225",
+   "name": "Bradford",
+   "kind": "57",
+   "counties": [
+    "Orange County"
+   ],
+   "lat": 43.99593,
+   "lon": -72.12446,
+   "land_sqmi": 0.951,
+   "water_sqmi": 0.042,
+   "population": {
+    "count": 907,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Bradford is a community in Orange County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 907 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5007675",
+   "name": "Brandon",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.81047,
+   "lon": -73.09028,
+   "land_sqmi": 2.83,
+   "water_sqmi": 0.004,
+   "population": {
+    "count": 1727,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Brandon is a community in Rutland County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.8 square miles of land, and 1,727 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5007975",
+   "name": "Brattleboro",
+   "kind": "57",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 42.86162,
+   "lon": -72.55922,
+   "land_sqmi": 4.2,
+   "water_sqmi": 0.35,
+   "population": {
+    "count": 7352,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Brattleboro is a community in Windham County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.2 square miles of land and 0.4 square miles of water, and 7,352 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5008950",
+   "name": "Bristol",
+   "kind": "57",
+   "counties": [
+    "Addison County"
+   ],
+   "lat": 44.13768,
+   "lon": -73.09131,
+   "land_sqmi": 2.386,
+   "water_sqmi": 0.027,
+   "population": {
+    "count": 1936,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Bristol is a community in Addison County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land, and 1,936 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5010675",
+   "name": "Burlington",
+   "kind": "25",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.49193,
+   "lon": -73.23888,
+   "land_sqmi": 10.303,
+   "water_sqmi": 5.05,
+   "population": {
+    "count": 44019,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Burlington is a city in Chittenden County in Vermont. It covers about 10 square miles of land and 5.1 square miles of water, and about 44,019 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5011050",
+   "name": "Cabot",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.40678,
+   "lon": -72.31669,
+   "land_sqmi": 1.243,
+   "water_sqmi": 0,
+   "population": {
+    "count": 235,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Cabot is a community in Washington County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 235 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5011425",
+   "name": "Cambridge",
+   "kind": "47",
+   "counties": [
+    "Lamoille County"
+   ],
+   "lat": 44.63731,
+   "lon": -72.88141,
+   "land_sqmi": 1.237,
+   "water_sqmi": 0.024,
+   "population": {
+    "count": 192,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Cambridge is a village in Lamoille County in Vermont. It covers about 1.2 square miles of land, and about 192 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5011725",
+   "name": "Canaan",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 45.00674,
+   "lon": -71.52714,
+   "land_sqmi": 1.571,
+   "water_sqmi": 0.038,
+   "population": {
+    "count": 393,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Canaan is a community in Essex County in northern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land, and 393 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5011875",
+   "name": "Castleton",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.60544,
+   "lon": -73.18482,
+   "land_sqmi": 1.263,
+   "water_sqmi": 0.006,
+   "population": {
+    "count": 1337,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Castleton is a community in Rutland County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 1,337 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5012062",
+   "name": "Castleton Four Corners",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.61197,
+   "lon": -73.21057,
+   "land_sqmi": 2.127,
+   "water_sqmi": 0.023,
+   "population": {
+    "count": 699,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Castleton Four Corners is a community in Rutland County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land, and 699 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5012175",
+   "name": "Cavendish",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.38539,
+   "lon": -72.60786,
+   "land_sqmi": 0.841,
+   "water_sqmi": 0.046,
+   "population": {
+    "count": 246,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Cavendish is a community in Windsor County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 246 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5013450",
+   "name": "Chelsea",
+   "kind": "57",
+   "counties": [
+    "Orange County"
+   ],
+   "lat": 43.99174,
+   "lon": -72.45121,
+   "land_sqmi": 0.888,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 342,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Chelsea is a community in Orange County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 342 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5013600",
+   "name": "Chester",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.26923,
+   "lon": -72.5963,
+   "land_sqmi": 1.643,
+   "water_sqmi": 0.038,
+   "population": {
+    "count": 1132,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Chester is a community in Windsor County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land, and 1,132 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5013860",
+   "name": "Chimney Hill",
+   "kind": "57",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 42.88899,
+   "lon": -72.90964,
+   "land_sqmi": 2.072,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 263,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Chimney Hill is a community in Windham County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land, and 263 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5014275",
+   "name": "Chittenden",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.70332,
+   "lon": -72.94946,
+   "land_sqmi": 0.492,
+   "water_sqmi": 0,
+   "population": {
+    "count": 136,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Chittenden is a community in Rutland County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 136 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5015175",
+   "name": "Concord",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 44.4356,
+   "lon": -71.8864,
+   "land_sqmi": 1.098,
+   "water_sqmi": 0.028,
+   "population": {
+    "count": 213,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Concord is a community in Essex County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 213 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5016075",
+   "name": "Coventry",
+   "kind": "57",
+   "counties": [
+    "Orleans County"
+   ],
+   "lat": 44.86494,
+   "lon": -72.27004,
+   "land_sqmi": 0.264,
+   "water_sqmi": 0.011,
+   "population": {
+    "count": 111,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Coventry is a community in Orleans County in northern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 111 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5016750",
+   "name": "Danby",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.34367,
+   "lon": -72.99463,
+   "land_sqmi": 0.714,
+   "water_sqmi": 0,
+   "population": {
+    "count": 200,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Danby is a community in Rutland County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 200 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5017050",
+   "name": "Danville",
+   "kind": "57",
+   "counties": [
+    "Caledonia County"
+   ],
+   "lat": 44.41026,
+   "lon": -72.14161,
+   "land_sqmi": 1.025,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 385,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Danville is a community in Caledonia County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 385 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5017425",
+   "name": "Derby Center",
+   "kind": "47",
+   "counties": [
+    "Orleans County"
+   ],
+   "lat": 44.95456,
+   "lon": -72.13621,
+   "land_sqmi": 1.393,
+   "water_sqmi": 0.009,
+   "population": {
+    "count": 632,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "Derby Center is a village in Orleans County in northern Vermont. It covers about 1.4 square miles of land, and about 632 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5017500",
+   "name": "Derby Line",
+   "kind": "47",
+   "counties": [
+    "Orleans County"
+   ],
+   "lat": 44.99873,
+   "lon": -72.10728,
+   "land_sqmi": 0.726,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 663,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "Derby Line is a village in Orleans County in northern Vermont. It covers about 0.7 square miles of land, and about 663 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5017650",
+   "name": "Dorset",
+   "kind": "57",
+   "counties": [
+    "Bennington County"
+   ],
+   "lat": 43.26046,
+   "lon": -73.10837,
+   "land_sqmi": 2.081,
+   "water_sqmi": 0.019,
+   "population": {
+    "count": 360,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Dorset is a community in Bennington County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.1 square miles of land, and 360 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5019075",
+   "name": "East Barre",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.14834,
+   "lon": -72.4495,
+   "land_sqmi": 2.62,
+   "water_sqmi": 0.014,
+   "population": {
+    "count": 811,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "East Barre is a community in Washington County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land, and 811 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5019600",
+   "name": "East Burke",
+   "kind": "57",
+   "counties": [
+    "Caledonia County"
+   ],
+   "lat": 44.58766,
+   "lon": -71.94097,
+   "land_sqmi": 0.528,
+   "water_sqmi": 0.012,
+   "population": {
+    "count": 94,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "East Burke is a community in Caledonia County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 94 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5019975",
+   "name": "East Charlotte",
+   "kind": "57",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.31837,
+   "lon": -73.19086,
+   "land_sqmi": 0.425,
+   "water_sqmi": 0,
+   "population": {
+    "count": 169,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "East Charlotte is a community in Chittenden County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 169 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5020350",
+   "name": "East Dorset",
+   "kind": "57",
+   "counties": [
+    "Bennington County"
+   ],
+   "lat": 43.24374,
+   "lon": -73.00736,
+   "land_sqmi": 2.223,
+   "water_sqmi": 0.012,
+   "population": {
+    "count": 296,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "East Dorset is a community in Bennington County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land, and 296 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5021700",
+   "name": "East Middlebury",
+   "kind": "57",
+   "counties": [
+    "Addison County"
+   ],
+   "lat": 43.97659,
+   "lon": -73.10023,
+   "land_sqmi": 0.731,
+   "water_sqmi": 0.015,
+   "population": {
+    "count": 426,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "East Middlebury is a community in Addison County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 426 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5021850",
+   "name": "East Montpelier",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.26732,
+   "lon": -72.49124,
+   "land_sqmi": 0.238,
+   "water_sqmi": 0.008,
+   "population": {
+    "count": 107,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "East Montpelier is a community in Washington County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 107 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5022300",
+   "name": "East Poultney",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.52565,
+   "lon": -73.21501,
+   "land_sqmi": 0.775,
+   "water_sqmi": 0.01,
+   "population": {
+    "count": 288,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "East Poultney is a community in Rutland County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 288 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5024025",
+   "name": "Enosburg Falls",
+   "kind": "47",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 44.90847,
+   "lon": -72.80149,
+   "land_sqmi": 3.527,
+   "water_sqmi": 0.1,
+   "population": {
+    "count": 1329,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "Enosburg Falls is a village in Franklin County in northern Vermont. It covers about 3.5 square miles of land and 0.1 square miles of water, and about 1,329 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5024400",
+   "name": "Essex Junction",
+   "kind": "25",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.49029,
+   "lon": -73.11412,
+   "land_sqmi": 4.569,
+   "water_sqmi": 0.193,
+   "population": {
+    "count": 10921,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Essex Junction is a city in Chittenden County in Vermont. It covers about 4.6 square miles of land and 0.2 square miles of water, and about 10,921 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5024850",
+   "name": "Fairfax",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 44.67128,
+   "lon": -73.00927,
+   "land_sqmi": 1.893,
+   "water_sqmi": 0.066,
+   "population": {
+    "count": 865,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Fairfax is a community in Franklin County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land and 0.1 square miles of water, and 865 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5025450",
+   "name": "Fair Haven",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.59278,
+   "lon": -73.2689,
+   "land_sqmi": 2.694,
+   "water_sqmi": 0.029,
+   "population": {
+    "count": 2225,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Fair Haven is a community in Rutland County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.7 square miles of land, and 2,225 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5025600",
+   "name": "Fairlee",
+   "kind": "57",
+   "counties": [
+    "Orange County"
+   ],
+   "lat": 43.89382,
+   "lon": -72.15914,
+   "land_sqmi": 0.603,
+   "water_sqmi": 0.056,
+   "population": {
+    "count": 198,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Fairlee is a community in Orange County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land and 0.1 square miles of water, and 198 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5027925",
+   "name": "Gilman",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 44.41398,
+   "lon": -71.71228,
+   "land_sqmi": 0.443,
+   "water_sqmi": 0.061,
+   "population": {
+    "count": 238,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Gilman is a community in Essex County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land and 0.1 square miles of water, and 238 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5028000",
+   "name": "Glover",
+   "kind": "57",
+   "counties": [
+    "Orleans County"
+   ],
+   "lat": 44.70711,
+   "lon": -72.19933,
+   "land_sqmi": 1.751,
+   "water_sqmi": 0,
+   "population": {
+    "count": 256,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Glover is a community in Orleans County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land, and 256 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5028825",
+   "name": "Grafton",
+   "kind": "57",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 43.17074,
+   "lon": -72.60853,
+   "land_sqmi": 0.129,
+   "water_sqmi": 0,
+   "population": {
+    "count": 49,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Grafton is a community in Windham County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 49 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5029425",
+   "name": "Graniteville",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.14585,
+   "lon": -72.4814,
+   "land_sqmi": 1.71,
+   "water_sqmi": 0.024,
+   "population": {
+    "count": 717,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Graniteville is a community in Washington County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.7 square miles of land, and 717 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5030100",
+   "name": "Greensboro",
+   "kind": "57",
+   "counties": [
+    "Orleans County"
+   ],
+   "lat": 44.57899,
+   "lon": -72.3155,
+   "land_sqmi": 2.592,
+   "water_sqmi": 1.229,
+   "population": {
+    "count": 156,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Greensboro is a community in Orleans County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land and 1.2 square miles of water, and 156 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5030325",
+   "name": "Greensboro Bend",
+   "kind": "57",
+   "counties": [
+    "Orleans County"
+   ],
+   "lat": 44.5614,
+   "lon": -72.26565,
+   "land_sqmi": 2.232,
+   "water_sqmi": 0.018,
+   "population": {
+    "count": 237,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Greensboro Bend is a community in Orleans County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land, and 237 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5030475",
+   "name": "Groton",
+   "kind": "57",
+   "counties": [
+    "Caledonia County"
+   ],
+   "lat": 44.21892,
+   "lon": -72.2011,
+   "land_sqmi": 2.358,
+   "water_sqmi": 0.028,
+   "population": {
+    "count": 419,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Groton is a community in Caledonia County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land, and 419 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5031600",
+   "name": "Hanksville",
+   "kind": "57",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.25337,
+   "lon": -72.96089,
+   "land_sqmi": 0.131,
+   "water_sqmi": 0,
+   "population": {
+    "count": 62,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Hanksville is a community in Chittenden County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 62 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5031750",
+   "name": "Hardwick",
+   "kind": "57",
+   "counties": [
+    "Caledonia County"
+   ],
+   "lat": 44.49696,
+   "lon": -72.36445,
+   "land_sqmi": 1.572,
+   "water_sqmi": 0.017,
+   "population": {
+    "count": 1269,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Hardwick is a community in Caledonia County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land, and 1,269 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5032050",
+   "name": "Harmonyville",
+   "kind": "57",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 43.03629,
+   "lon": -72.66743,
+   "land_sqmi": 0.328,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 92,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Harmonyville is a community in Windham County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 92 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5032205",
+   "name": "Hartford Village",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.66674,
+   "lon": -72.33774,
+   "land_sqmi": 1.17,
+   "water_sqmi": 0.068,
+   "population": {
+    "count": 754,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Hartford Village is a community in Windsor County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land and 0.1 square miles of water, and 754 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5032350",
+   "name": "Hartland",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.54264,
+   "lon": -72.40115,
+   "land_sqmi": 1.087,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 379,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Hartland is a community in Windsor County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 379 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5033175",
+   "name": "Highgate Center",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 44.93492,
+   "lon": -73.03847,
+   "land_sqmi": 0.664,
+   "water_sqmi": 0.027,
+   "population": {
+    "count": 361,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Highgate Center is a community in Franklin County in northern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 361 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5033325",
+   "name": "Highgate Springs",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 44.97833,
+   "lon": -73.10563,
+   "land_sqmi": 0.29,
+   "water_sqmi": 0.074,
+   "population": {
+    "count": 77,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Highgate Springs is a community in Franklin County in northern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land and 0.1 square miles of water, and 77 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5033400",
+   "name": "Hinesburg",
+   "kind": "57",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.33315,
+   "lon": -73.10921,
+   "land_sqmi": 1.244,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 872,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Hinesburg is a community in Chittenden County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 872 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5034525",
+   "name": "Huntington",
+   "kind": "57",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.3264,
+   "lon": -72.98936,
+   "land_sqmi": 0.822,
+   "water_sqmi": 0.031,
+   "population": {
+    "count": 535,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Huntington is a community in Chittenden County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 535 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5034675",
+   "name": "Huntington Center",
+   "kind": "57",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.28904,
+   "lon": -72.96916,
+   "land_sqmi": 0.3,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 156,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Huntington Center is a community in Chittenden County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 156 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5034975",
+   "name": "Hyde Park",
+   "kind": "47",
+   "counties": [
+    "Lamoille County"
+   ],
+   "lat": 44.59908,
+   "lon": -72.60836,
+   "land_sqmi": 1.147,
+   "water_sqmi": 0.004,
+   "population": {
+    "count": 424,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Hyde Park is a village in Lamoille County in Vermont. It covers about 1.1 square miles of land, and about 424 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5035500",
+   "name": "Irasburg",
+   "kind": "57",
+   "counties": [
+    "Orleans County"
+   ],
+   "lat": 44.80077,
+   "lon": -72.29057,
+   "land_sqmi": 0.982,
+   "water_sqmi": 0.016,
+   "population": {
+    "count": 159,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Irasburg is a community in Orleans County in northern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 159 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5035725",
+   "name": "Island Pond",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 44.81403,
+   "lon": -71.88555,
+   "land_sqmi": 4.202,
+   "water_sqmi": 0.385,
+   "population": {
+    "count": 750,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Island Pond is a community in Essex County in northern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.2 square miles of land and 0.4 square miles of water, and 750 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5036025",
+   "name": "Jacksonville",
+   "kind": "47",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 42.79403,
+   "lon": -72.81556,
+   "land_sqmi": 1.138,
+   "water_sqmi": 0.025,
+   "population": {
+    "count": 214,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Jacksonville is a village in Windham County in southern Vermont. It covers about 1.1 square miles of land, and about 214 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5036100",
+   "name": "Jamaica",
+   "kind": "57",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 43.0952,
+   "lon": -72.77457,
+   "land_sqmi": 0.768,
+   "water_sqmi": 0.011,
+   "population": {
+    "count": 174,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Jamaica is a community in Windham County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 174 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5036475",
+   "name": "Jeffersonville",
+   "kind": "47",
+   "counties": [
+    "Lamoille County"
+   ],
+   "lat": 44.64659,
+   "lon": -72.8261,
+   "land_sqmi": 0.776,
+   "water_sqmi": 0.026,
+   "population": {
+    "count": 747,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Jeffersonville is a village in Lamoille County in Vermont. It covers about 0.8 square miles of land, and about 747 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5036625",
+   "name": "Jericho",
+   "kind": "47",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.50268,
+   "lon": -72.99029,
+   "land_sqmi": 1.388,
+   "water_sqmi": 0.006,
+   "population": {
+    "count": 1333,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Jericho is a village in Chittenden County in Vermont. It covers about 1.4 square miles of land, and 1,333 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5036775",
+   "name": "Jericho Center",
+   "kind": "57",
+   "counties": [],
+   "lat": 44.47159,
+   "lon": -72.97222,
+   "land_sqmi": 0.242,
+   "water_sqmi": 0,
+   "population": null,
+   "position": null,
+   "description": "Jericho Center is a community in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5037000",
+   "name": "Johnson",
+   "kind": "47",
+   "counties": [
+    "Lamoille County"
+   ],
+   "lat": 44.63697,
+   "lon": -72.6787,
+   "land_sqmi": 1.167,
+   "water_sqmi": 0.052,
+   "population": {
+    "count": 1326,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Johnson is a village in Lamoille County in Vermont. It covers about 1.2 square miles of land and 0.1 square miles of water, and about 1,326 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5037750",
+   "name": "Killington Village",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.65055,
+   "lon": -72.77842,
+   "land_sqmi": 5.943,
+   "water_sqmi": 0.068,
+   "population": {
+    "count": 861,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Killington Village is a community in Rutland County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.9 square miles of land and 0.1 square miles of water, and 861 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5040000",
+   "name": "Lincoln",
+   "kind": "57",
+   "counties": [
+    "Addison County"
+   ],
+   "lat": 44.10271,
+   "lon": -72.99377,
+   "land_sqmi": 2.36,
+   "water_sqmi": 0.027,
+   "population": {
+    "count": 266,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Lincoln is a community in Addison County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land, and 266 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5040150",
+   "name": "Londonderry",
+   "kind": "57",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 43.23011,
+   "lon": -72.80797,
+   "land_sqmi": 0.357,
+   "water_sqmi": 0.019,
+   "population": {
+    "count": 180,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Londonderry is a community in Windham County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 180 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5040450",
+   "name": "Lowell",
+   "kind": "57",
+   "counties": [
+    "Orleans County"
+   ],
+   "lat": 44.79348,
+   "lon": -72.43276,
+   "land_sqmi": 2.928,
+   "water_sqmi": 0.004,
+   "population": {
+    "count": 254,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Lowell is a community in Orleans County in northern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.9 square miles of land, and 254 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5041200",
+   "name": "Ludlow",
+   "kind": "47",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.40186,
+   "lon": -72.69921,
+   "land_sqmi": 1.338,
+   "water_sqmi": 0.021,
+   "population": {
+    "count": 767,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Ludlow is a village in Windsor County in southern Vermont. It covers about 1.3 square miles of land, and about 767 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5041350",
+   "name": "Lunenburg",
+   "kind": "57",
+   "counties": [
+    "Essex County"
+   ],
+   "lat": 44.45306,
+   "lon": -71.6742,
+   "land_sqmi": 2.539,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 234,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Lunenburg is a community in Essex County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.5 square miles of land, and 234 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5041650",
+   "name": "Lyndon",
+   "kind": "57",
+   "counties": [
+    "Caledonia County"
+   ],
+   "lat": 44.51512,
+   "lon": -72.01376,
+   "land_sqmi": 0.238,
+   "water_sqmi": 0,
+   "population": {
+    "count": 203,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Lyndon is a community in Caledonia County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 203 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5041800",
+   "name": "Lyndon Center",
+   "kind": "57",
+   "counties": [
+    "Caledonia County"
+   ],
+   "lat": 44.5406,
+   "lon": -72.01561,
+   "land_sqmi": 0.383,
+   "water_sqmi": 0.015,
+   "population": {
+    "count": 187,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Lyndon Center is a community in Caledonia County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 187 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5041950",
+   "name": "Lyndonville",
+   "kind": "57",
+   "counties": [
+    "Caledonia County"
+   ],
+   "lat": 44.52964,
+   "lon": -71.99814,
+   "land_sqmi": 1.46,
+   "water_sqmi": 0.042,
+   "population": {
+    "count": 1136,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Lyndonville is a community in Caledonia County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 1,136 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5042700",
+   "name": "Manchester",
+   "kind": "47",
+   "counties": [
+    "Bennington County"
+   ],
+   "lat": 43.16004,
+   "lon": -73.0671,
+   "land_sqmi": 3.536,
+   "water_sqmi": 0.029,
+   "population": {
+    "count": 757,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Manchester is a village in Bennington County in southern Vermont. It covers about 3.5 square miles of land, and about 757 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5042925",
+   "name": "Manchester Center",
+   "kind": "57",
+   "counties": [
+    "Bennington County"
+   ],
+   "lat": 43.1884,
+   "lon": -73.03518,
+   "land_sqmi": 4.627,
+   "water_sqmi": 0.016,
+   "population": {
+    "count": 2145,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Manchester Center is a community in Bennington County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.6 square miles of land, and 2,145 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5043525",
+   "name": "Marshfield",
+   "kind": "47",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.35336,
+   "lon": -72.34973,
+   "land_sqmi": 0.258,
+   "water_sqmi": 0.009,
+   "population": {
+    "count": 267,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Marshfield is a village in Washington County in Vermont. It covers about 0.3 square miles of land, and about 267 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5044275",
+   "name": "Middlebury",
+   "kind": "57",
+   "counties": [
+    "Addison County"
+   ],
+   "lat": 44.0079,
+   "lon": -73.15761,
+   "land_sqmi": 14.179,
+   "water_sqmi": 0.197,
+   "population": {
+    "count": 7304,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Middlebury is a community in Addison County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 14 square miles of land and 0.2 square miles of water, and 7,304 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5044725",
+   "name": "Middletown Springs",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.48657,
+   "lon": -73.12305,
+   "land_sqmi": 0.694,
+   "water_sqmi": 0,
+   "population": {
+    "count": 194,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Middletown Springs is a community in Rutland County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 194 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5045175",
+   "name": "Milton",
+   "kind": "57",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.63038,
+   "lon": -73.12244,
+   "land_sqmi": 3.115,
+   "water_sqmi": 0.168,
+   "population": {
+    "count": 3804,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Milton is a community in Chittenden County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.1 square miles of land and 0.2 square miles of water, and 3,804 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5046000",
+   "name": "Montpelier",
+   "kind": "25",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.26645,
+   "lon": -72.57152,
+   "land_sqmi": 10.057,
+   "water_sqmi": 0.195,
+   "population": {
+    "count": 7823,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Montpelier is a city in Washington County in Vermont. It covers about 10 square miles of land and 0.2 square miles of water, and about 7,823 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5046825",
+   "name": "Morrisville",
+   "kind": "47",
+   "counties": [
+    "Lamoille County"
+   ],
+   "lat": 44.55723,
+   "lon": -72.58997,
+   "land_sqmi": 1.956,
+   "water_sqmi": 0.069,
+   "population": {
+    "count": 2404,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Morrisville is a village in Lamoille County in Vermont. It covers about 2 square miles of land and 0.1 square miles of water, and about 2,404 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5048100",
+   "name": "Newbury",
+   "kind": "47",
+   "counties": [
+    "Orange County"
+   ],
+   "lat": 44.08083,
+   "lon": -72.05772,
+   "land_sqmi": 4.965,
+   "water_sqmi": 0.118,
+   "population": {
+    "count": 459,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Newbury is a village in Orange County in Vermont. It covers about 5 square miles of land and 0.1 square miles of water, and about 459 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5048325",
+   "name": "Newfane",
+   "kind": "47",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 42.98741,
+   "lon": -72.65589,
+   "land_sqmi": 0.176,
+   "water_sqmi": 0,
+   "population": {
+    "count": 92,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Newfane is a village in Windham County in southern Vermont. It covers about 0.2 square miles of land, and about 92 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5048550",
+   "name": "New Haven",
+   "kind": "57",
+   "counties": [
+    "Addison County"
+   ],
+   "lat": 44.13302,
+   "lon": -73.14537,
+   "land_sqmi": 2.673,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 245,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "New Haven is a community in Addison County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.7 square miles of land, and 245 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5048850",
+   "name": "Newport",
+   "kind": "25",
+   "counties": [
+    "Orleans County"
+   ],
+   "lat": 44.93687,
+   "lon": -72.21116,
+   "land_sqmi": 5.858,
+   "water_sqmi": 1.766,
+   "population": {
+    "count": 4274,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "Newport is a city in Orleans County in northern Vermont. It covers about 5.9 square miles of land and 1.8 square miles of water, and about 4,274 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5049000",
+   "name": "Newport Center",
+   "kind": "57",
+   "counties": [
+    "Orleans County"
+   ],
+   "lat": 44.95244,
+   "lon": -72.30611,
+   "land_sqmi": 0.394,
+   "water_sqmi": 0.004,
+   "population": {
+    "count": 231,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Newport Center is a community in Orleans County in northern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 231 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5049075",
+   "name": "North Bennington",
+   "kind": "47",
+   "counties": [
+    "Bennington County"
+   ],
+   "lat": 42.92055,
+   "lon": -73.24093,
+   "land_sqmi": 1.873,
+   "water_sqmi": 0.027,
+   "population": {
+    "count": 1688,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "North Bennington is a village in Bennington County in southern Vermont. It covers about 1.9 square miles of land, and about 1,688 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5049450",
+   "name": "North Clarendon",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.57119,
+   "lon": -72.96847,
+   "land_sqmi": 1.334,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 395,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "North Clarendon is a community in Rutland County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 395 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5050200",
+   "name": "Northfield",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.14652,
+   "lon": -72.6571,
+   "land_sqmi": 2.433,
+   "water_sqmi": 0.045,
+   "population": {
+    "count": 3757,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Northfield is a community in Washington County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land, and 3,757 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5050500",
+   "name": "North Hartland",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.59699,
+   "lon": -72.35972,
+   "land_sqmi": 1.003,
+   "water_sqmi": 0.024,
+   "population": {
+    "count": 321,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "North Hartland is a community in Windsor County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1 square mile of land, and 321 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5050725",
+   "name": "North Hyde Park",
+   "kind": "57",
+   "counties": [
+    "Lamoille County"
+   ],
+   "lat": 44.66422,
+   "lon": -72.58885,
+   "land_sqmi": 2.781,
+   "water_sqmi": 0.026,
+   "population": {
+    "count": 403,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "North Hyde Park is a community in Lamoille County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.8 square miles of land, and 403 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5051325",
+   "name": "North Pownal",
+   "kind": "57",
+   "counties": [
+    "Bennington County"
+   ],
+   "lat": 42.79856,
+   "lon": -73.25732,
+   "land_sqmi": 1.189,
+   "water_sqmi": 0.021,
+   "population": {
+    "count": 303,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "North Pownal is a community in Bennington County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 303 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5051925",
+   "name": "North Springfield",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.3299,
+   "lon": -72.53379,
+   "land_sqmi": 1.231,
+   "water_sqmi": 0.024,
+   "population": {
+    "count": 694,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "North Springfield is a community in Windsor County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 694 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5052075",
+   "name": "North Troy",
+   "kind": "47",
+   "counties": [
+    "Orleans County"
+   ],
+   "lat": 44.99633,
+   "lon": -72.40351,
+   "land_sqmi": 1.874,
+   "water_sqmi": 0.045,
+   "population": {
+    "count": 600,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "North Troy is a village in Orleans County in northern Vermont. It covers about 1.9 square miles of land, and about 600 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5052375",
+   "name": "North Westminster",
+   "kind": "57",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 43.12239,
+   "lon": -72.45642,
+   "land_sqmi": 0.486,
+   "water_sqmi": 0.015,
+   "population": {
+    "count": 262,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "North Westminster is a community in Windham County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 262 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5052825",
+   "name": "Norwich",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.71802,
+   "lon": -72.30566,
+   "land_sqmi": 1.453,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 905,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Norwich is a community in Windsor County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 905 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5053125",
+   "name": "Old Bennington",
+   "kind": "47",
+   "counties": [
+    "Bennington County"
+   ],
+   "lat": 42.88486,
+   "lon": -73.2143,
+   "land_sqmi": 0.368,
+   "water_sqmi": 0,
+   "population": {
+    "count": 122,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Old Bennington is a village in Bennington County in southern Vermont. It covers about 0.4 square miles of land, and about 122 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5053575",
+   "name": "Orleans",
+   "kind": "47",
+   "counties": [
+    "Orleans County"
+   ],
+   "lat": 44.80877,
+   "lon": -72.1995,
+   "land_sqmi": 0.884,
+   "water_sqmi": 0.033,
+   "population": {
+    "count": 761,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "Orleans is a village in Orleans County in northern Vermont. It covers about 0.9 square miles of land, and about 761 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5054175",
+   "name": "Pawlet",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.33897,
+   "lon": -73.16839,
+   "land_sqmi": 2.537,
+   "water_sqmi": 0,
+   "population": {
+    "count": 194,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Pawlet is a community in Rutland County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.5 square miles of land, and 194 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5054325",
+   "name": "Peacham",
+   "kind": "57",
+   "counties": [
+    "Caledonia County"
+   ],
+   "lat": 44.32958,
+   "lon": -72.17245,
+   "land_sqmi": 1.541,
+   "water_sqmi": 0,
+   "population": {
+    "count": 147,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Peacham is a community in Caledonia County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.5 square miles of land, and 147 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5055525",
+   "name": "Pittsford",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.71234,
+   "lon": -73.02526,
+   "land_sqmi": 1.98,
+   "water_sqmi": 0.007,
+   "population": {
+    "count": 805,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Pittsford is a community in Rutland County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land, and 805 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5055750",
+   "name": "Plainfield",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.28096,
+   "lon": -72.43182,
+   "land_sqmi": 0.473,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 424,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Plainfield is a community in Washington County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 424 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5056800",
+   "name": "Poultney",
+   "kind": "47",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.51782,
+   "lon": -73.23597,
+   "land_sqmi": 0.629,
+   "water_sqmi": 0.006,
+   "population": {
+    "count": 1072,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Poultney is a village in Rutland County in southern Vermont. It covers about 0.6 square miles of land, and about 1,072 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5056950",
+   "name": "Pownal",
+   "kind": "57",
+   "counties": [
+    "Bennington County"
+   ],
+   "lat": 42.76535,
+   "lon": -73.23416,
+   "land_sqmi": 0.513,
+   "water_sqmi": 0.006,
+   "population": {
+    "count": 548,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Pownal is a community in Bennington County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 548 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5057100",
+   "name": "Pownal Center",
+   "kind": "57",
+   "counties": [
+    "Bennington County"
+   ],
+   "lat": 42.79766,
+   "lon": -73.2215,
+   "land_sqmi": 1.557,
+   "water_sqmi": 0,
+   "population": {
+    "count": 437,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Pownal Center is a community in Bennington County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land, and 437 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5057246",
+   "name": "Proctor",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.6764,
+   "lon": -73.04534,
+   "land_sqmi": 3.678,
+   "water_sqmi": 0.068,
+   "population": {
+    "count": 1565,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Proctor is a community in Rutland County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.7 square miles of land and 0.1 square miles of water, and 1,565 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5057400",
+   "name": "Proctorsville",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.38083,
+   "lon": -72.64147,
+   "land_sqmi": 0.813,
+   "water_sqmi": 0.024,
+   "population": {
+    "count": 451,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Proctorsville is a community in Windsor County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 451 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5057625",
+   "name": "Putney",
+   "kind": "57",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 42.97132,
+   "lon": -72.5277,
+   "land_sqmi": 1.402,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 571,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Putney is a community in Windham County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.4 square miles of land, and 571 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5057775",
+   "name": "Quechee",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.64451,
+   "lon": -72.41897,
+   "land_sqmi": 1.852,
+   "water_sqmi": 0.085,
+   "population": {
+    "count": 831,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Quechee is a community in Windsor County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land and 0.1 square miles of water, and 831 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5058000",
+   "name": "Randolph",
+   "kind": "57",
+   "counties": [
+    "Orange County"
+   ],
+   "lat": 43.92635,
+   "lon": -72.66636,
+   "land_sqmi": 4.474,
+   "water_sqmi": 0.039,
+   "population": {
+    "count": 2083,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Randolph is a community in Orange County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 4.5 square miles of land, and 2,083 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5058525",
+   "name": "Readsboro",
+   "kind": "57",
+   "counties": [
+    "Bennington County"
+   ],
+   "lat": 42.76556,
+   "lon": -72.95206,
+   "land_sqmi": 1.229,
+   "water_sqmi": 0.01,
+   "population": {
+    "count": 297,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Readsboro is a community in Bennington County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 297 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5059050",
+   "name": "Richford",
+   "kind": "57",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 44.99401,
+   "lon": -72.66944,
+   "land_sqmi": 1.059,
+   "water_sqmi": 0.047,
+   "population": {
+    "count": 1304,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Richford is a community in Franklin County in northern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 1,304 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5059200",
+   "name": "Richmond",
+   "kind": "57",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.40574,
+   "lon": -73.00147,
+   "land_sqmi": 1.252,
+   "water_sqmi": 0.102,
+   "population": {
+    "count": 853,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Richmond is a community in Chittenden County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land and 0.1 square miles of water, and 853 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5060025",
+   "name": "Rochester",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.87039,
+   "lon": -72.80359,
+   "land_sqmi": 0.634,
+   "water_sqmi": 0.013,
+   "population": {
+    "count": 321,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Rochester is a community in Windsor County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 321 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5061225",
+   "name": "Rutland",
+   "kind": "25",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.60967,
+   "lon": -72.97779,
+   "land_sqmi": 7.553,
+   "water_sqmi": 0.117,
+   "population": {
+    "count": 15363,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Rutland is a city in Rutland County in Vermont. It covers about 7.6 square miles of land and 0.1 square miles of water, and about 15,363 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5061675",
+   "name": "St. Albans",
+   "kind": "25",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 44.81154,
+   "lon": -73.08446,
+   "land_sqmi": 1.955,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 6939,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "St. Albans is a city in Franklin County in northern Vermont. It covers about 2 square miles of land, and about 6,939 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5062046",
+   "name": "St. George",
+   "kind": "57",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.37975,
+   "lon": -73.13156,
+   "land_sqmi": 0.896,
+   "water_sqmi": 0,
+   "population": {
+    "count": 498,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "St. George is a community in Chittenden County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 498 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5062125",
+   "name": "St. Johnsbury",
+   "kind": "57",
+   "counties": [
+    "Caledonia County"
+   ],
+   "lat": 44.43045,
+   "lon": -72.00858,
+   "land_sqmi": 12.822,
+   "water_sqmi": 0.222,
+   "population": {
+    "count": 5994,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "St. Johnsbury is a community in Caledonia County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 13 square miles of land and 0.2 square miles of water, and 5,994 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5062950",
+   "name": "Saxtons River",
+   "kind": "47",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 43.13937,
+   "lon": -72.51114,
+   "land_sqmi": 0.469,
+   "water_sqmi": 0.017,
+   "population": {
+    "count": 464,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Saxtons River is a village in Windham County in southern Vermont. It covers about 0.5 square miles of land, and about 464 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5064000",
+   "name": "Sheffield",
+   "kind": "57",
+   "counties": [
+    "Caledonia County"
+   ],
+   "lat": 44.59609,
+   "lon": -72.11518,
+   "land_sqmi": 0.643,
+   "water_sqmi": 0.006,
+   "population": {
+    "count": 186,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Sheffield is a community in Caledonia County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 186 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5064225",
+   "name": "Shelburne",
+   "kind": "57",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.39045,
+   "lon": -73.21799,
+   "land_sqmi": 7.17,
+   "water_sqmi": 0.614,
+   "population": {
+    "count": 6178,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Shelburne is a community in Chittenden County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 7.2 square miles of land and 0.6 square miles of water, and 6,178 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5066025",
+   "name": "South Barre",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.16069,
+   "lon": -72.50226,
+   "land_sqmi": 1.938,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 1193,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "South Barre is a community in Washington County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.9 square miles of land, and 1,193 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5066175",
+   "name": "South Burlington",
+   "kind": "25",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.43657,
+   "lon": -73.1811,
+   "land_sqmi": 16.435,
+   "water_sqmi": 14.403,
+   "population": {
+    "count": 21394,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "South Burlington is a city in Chittenden County in Vermont. It covers about 16 square miles of land and 14 square miles of water, and about 21,394 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5066925",
+   "name": "South Hero",
+   "kind": "57",
+   "counties": [
+    "Grand Isle County"
+   ],
+   "lat": 44.64844,
+   "lon": -73.30132,
+   "land_sqmi": 1.082,
+   "water_sqmi": 0.347,
+   "population": {
+    "count": 225,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "South Hero is a community in Grand Isle County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land and 0.3 square miles of water, and 225 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5067150",
+   "name": "South Lincoln",
+   "kind": "57",
+   "counties": [
+    "Addison County"
+   ],
+   "lat": 44.05993,
+   "lon": -72.97453,
+   "land_sqmi": 2.376,
+   "water_sqmi": 0.031,
+   "population": {
+    "count": 251,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "South Lincoln is a community in Addison County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.4 square miles of land, and 251 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5067225",
+   "name": "South Londonderry",
+   "kind": "57",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 43.19143,
+   "lon": -72.80826,
+   "land_sqmi": 0.622,
+   "water_sqmi": 0.02,
+   "population": {
+    "count": 147,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "South Londonderry is a community in Windham County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.6 square miles of land, and 147 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5068050",
+   "name": "South Royalton",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.80723,
+   "lon": -72.51233,
+   "land_sqmi": 1.11,
+   "water_sqmi": 0.071,
+   "population": {
+    "count": 654,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "South Royalton is a community in Windsor County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land and 0.1 square miles of water, and 654 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5068200",
+   "name": "South Shaftsbury",
+   "kind": "57",
+   "counties": [
+    "Bennington County"
+   ],
+   "lat": 42.9406,
+   "lon": -73.19463,
+   "land_sqmi": 2.243,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 681,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "South Shaftsbury is a community in Bennington County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.2 square miles of land, and 681 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5069250",
+   "name": "South Woodstock",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.56022,
+   "lon": -72.52702,
+   "land_sqmi": 0.922,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 109,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "South Woodstock is a community in Windsor County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 109 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5069475",
+   "name": "Springfield",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.29664,
+   "lon": -72.48187,
+   "land_sqmi": 3.342,
+   "water_sqmi": 0.101,
+   "population": {
+    "count": 4189,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Springfield is a community in Windsor County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.3 square miles of land and 0.1 square miles of water, and 4,189 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5069700",
+   "name": "Stamford",
+   "kind": "57",
+   "counties": [
+    "Bennington County"
+   ],
+   "lat": 42.75484,
+   "lon": -73.06096,
+   "land_sqmi": 5.358,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 467,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Stamford is a community in Bennington County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 5.4 square miles of land, and 467 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5070450",
+   "name": "Stowe",
+   "kind": "57",
+   "counties": [
+    "Lamoille County"
+   ],
+   "lat": 44.46724,
+   "lon": -72.68377,
+   "land_sqmi": 0.771,
+   "water_sqmi": 0.008,
+   "population": {
+    "count": 616,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Stowe is a community in Lamoille County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 616 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5070825",
+   "name": "Stratton Mountain",
+   "kind": "57",
+   "counties": [
+    "Bennington County",
+    "Windham County"
+   ],
+   "lat": 43.1162,
+   "lon": -72.90531,
+   "land_sqmi": 2.627,
+   "water_sqmi": 0.029,
+   "population": {
+    "count": 335,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Stratton Mountain is a community in Bennington and Windham counties in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.6 square miles of land, and 335 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5071500",
+   "name": "Sutton",
+   "kind": "57",
+   "counties": [
+    "Caledonia County"
+   ],
+   "lat": 44.63009,
+   "lon": -72.03153,
+   "land_sqmi": 1.779,
+   "water_sqmi": 0,
+   "population": {
+    "count": 153,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Sutton is a community in Caledonia County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land, and 153 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5071650",
+   "name": "Swanton",
+   "kind": "47",
+   "counties": [
+    "Franklin County"
+   ],
+   "lat": 44.92454,
+   "lon": -73.11935,
+   "land_sqmi": 0.763,
+   "water_sqmi": 0.031,
+   "population": {
+    "count": 2380,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "northern",
+   "description": "Swanton is a village in Franklin County in northern Vermont. It covers about 0.8 square miles of land, and about 2,380 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5073225",
+   "name": "Townshend",
+   "kind": "57",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 43.04946,
+   "lon": -72.67037,
+   "land_sqmi": 0.349,
+   "water_sqmi": 0,
+   "population": {
+    "count": 199,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Townshend is a community in Windham County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.3 square miles of land, and 199 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5073450",
+   "name": "Troy",
+   "kind": "57",
+   "counties": [
+    "Orleans County"
+   ],
+   "lat": 44.9111,
+   "lon": -72.40164,
+   "land_sqmi": 0.924,
+   "water_sqmi": 0.024,
+   "population": {
+    "count": 261,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "northern",
+   "description": "Troy is a community in Orleans County in northern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 261 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5074050",
+   "name": "Underhill Center",
+   "kind": "57",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.50805,
+   "lon": -72.89874,
+   "land_sqmi": 0.214,
+   "water_sqmi": 0,
+   "population": {
+    "count": 142,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Underhill Center is a community in Chittenden County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 142 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5074125",
+   "name": "Underhill Flats",
+   "kind": "57",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.52326,
+   "lon": -72.94623,
+   "land_sqmi": 0.748,
+   "water_sqmi": 0,
+   "population": {
+    "count": 643,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Underhill Flats is a community in Chittenden County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 643 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5074650",
+   "name": "Vergennes",
+   "kind": "25",
+   "counties": [
+    "Addison County"
+   ],
+   "lat": 44.16766,
+   "lon": -73.25532,
+   "land_sqmi": 2.456,
+   "water_sqmi": 0.077,
+   "population": {
+    "count": 2559,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Vergennes is a city in Addison County in Vermont. It covers about 2.5 square miles of land and 0.1 square miles of water, and about 2,559 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5075250",
+   "name": "Waitsfield",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.18335,
+   "lon": -72.83451,
+   "land_sqmi": 0.655,
+   "water_sqmi": 0.015,
+   "population": {
+    "count": 330,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Waitsfield is a community in Washington County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 330 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5075850",
+   "name": "Wallingford",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.47266,
+   "lon": -72.966,
+   "land_sqmi": 1.782,
+   "water_sqmi": 0.01,
+   "population": {
+    "count": 818,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Wallingford is a community in Rutland County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.8 square miles of land, and 818 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5076150",
+   "name": "Wardsboro",
+   "kind": "57",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 43.04382,
+   "lon": -72.78842,
+   "land_sqmi": 0.111,
+   "water_sqmi": 0.005,
+   "population": {
+    "count": 70,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Wardsboro is a community in Windham County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 70 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5076900",
+   "name": "Waterbury",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.33642,
+   "lon": -72.74905,
+   "land_sqmi": 1.292,
+   "water_sqmi": 0.029,
+   "population": {
+    "count": 1897,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Waterbury is a community in Washington County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.3 square miles of land, and 1,897 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5077050",
+   "name": "Waterbury Center",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.378,
+   "lon": -72.72082,
+   "land_sqmi": 0.434,
+   "water_sqmi": 0,
+   "population": {
+    "count": 390,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Waterbury Center is a community in Washington County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.4 square miles of land, and 390 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5077800",
+   "name": "Websterville",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.15731,
+   "lon": -72.47764,
+   "land_sqmi": 2.016,
+   "water_sqmi": 0.046,
+   "population": {
+    "count": 570,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Websterville is a community in Washington County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2 square miles of land, and 570 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5077875",
+   "name": "Wells",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.41868,
+   "lon": -73.21228,
+   "land_sqmi": 0.793,
+   "water_sqmi": 0.015,
+   "population": {
+    "count": 386,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Wells is a community in Rutland County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land, and 386 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5078025",
+   "name": "Wells River",
+   "kind": "47",
+   "counties": [
+    "Orange County"
+   ],
+   "lat": 44.15648,
+   "lon": -72.06798,
+   "land_sqmi": 1.89,
+   "water_sqmi": 0.037,
+   "population": {
+    "count": 449,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Wells River is a village in Orange County in Vermont. It covers about 1.9 square miles of land, and about 449 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5078850",
+   "name": "West Brattleboro",
+   "kind": "57",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 42.85652,
+   "lon": -72.60036,
+   "land_sqmi": 1.635,
+   "water_sqmi": 0.006,
+   "population": {
+    "count": 2803,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "West Brattleboro is a community in Windham County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.6 square miles of land, and 2,803 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5079150",
+   "name": "West Burke",
+   "kind": "47",
+   "counties": [
+    "Caledonia County"
+   ],
+   "lat": 44.64383,
+   "lon": -71.9793,
+   "land_sqmi": 0.475,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 275,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "West Burke is a village in Caledonia County in Vermont. It covers about 0.5 square miles of land, and about 275 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5079335",
+   "name": "West Charlotte",
+   "kind": "57",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.30734,
+   "lon": -73.25725,
+   "land_sqmi": 0.698,
+   "water_sqmi": 0.003,
+   "population": {
+    "count": 169,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "West Charlotte is a community in Chittenden County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.7 square miles of land, and 169 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5079750",
+   "name": "West Dummerston",
+   "kind": "57",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 42.9298,
+   "lon": -72.61283,
+   "land_sqmi": 0.129,
+   "water_sqmi": 0,
+   "population": {
+    "count": 77,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "West Dummerston is a community in Windham County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 77 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5080275",
+   "name": "Westford",
+   "kind": "57",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.60332,
+   "lon": -73.01599,
+   "land_sqmi": 1.163,
+   "water_sqmi": 0.029,
+   "population": {
+    "count": 99,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Westford is a community in Chittenden County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land, and 99 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5081325",
+   "name": "Westminster",
+   "kind": "47",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 43.07854,
+   "lon": -72.45431,
+   "land_sqmi": 1.363,
+   "water_sqmi": 0.006,
+   "population": {
+    "count": 277,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": "southern",
+   "description": "Westminster is a village in Windham County in southern Vermont. It covers about 1.4 square miles of land, and about 277 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5081925",
+   "name": "Weston",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.29074,
+   "lon": -72.7937,
+   "land_sqmi": 0.186,
+   "water_sqmi": 0.001,
+   "population": {
+    "count": 77,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Weston is a community in Windsor County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 77 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5082150",
+   "name": "West Pawlet",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.35437,
+   "lon": -73.24757,
+   "land_sqmi": 0.522,
+   "water_sqmi": 0.002,
+   "population": {
+    "count": 220,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "West Pawlet is a community in Rutland County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.5 square miles of land, and 220 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5082375",
+   "name": "West Rutland",
+   "kind": "57",
+   "counties": [
+    "Rutland County"
+   ],
+   "lat": 43.59672,
+   "lon": -73.04298,
+   "land_sqmi": 3.677,
+   "water_sqmi": 0.019,
+   "population": {
+    "count": 1898,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "West Rutland is a community in Rutland County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.7 square miles of land, and 1,898 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5083125",
+   "name": "West Woodstock",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.61034,
+   "lon": -72.5534,
+   "land_sqmi": 0.837,
+   "water_sqmi": 0.056,
+   "population": {
+    "count": 401,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "West Woodstock is a community in Windsor County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.8 square miles of land and 0.1 square miles of water, and 401 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5083575",
+   "name": "White River Junction",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.65003,
+   "lon": -72.32917,
+   "land_sqmi": 2.337,
+   "water_sqmi": 0.042,
+   "population": {
+    "count": 2532,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "White River Junction is a community in Windsor County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.3 square miles of land, and 2,532 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5083875",
+   "name": "Whitingham",
+   "kind": "57",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 42.78919,
+   "lon": -72.88335,
+   "land_sqmi": 0.162,
+   "water_sqmi": 0,
+   "population": {
+    "count": 91,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Whitingham is a community in Windham County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.2 square miles of land, and 91 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5084025",
+   "name": "Wilder",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.67768,
+   "lon": -72.32042,
+   "land_sqmi": 2.544,
+   "water_sqmi": 0.009,
+   "population": {
+    "count": 3071,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Wilder is a community in Windsor County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 2.5 square miles of land, and 3,071 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5084100",
+   "name": "Williamstown",
+   "kind": "57",
+   "counties": [
+    "Orange County"
+   ],
+   "lat": 44.11771,
+   "lon": -72.5505,
+   "land_sqmi": 3.356,
+   "water_sqmi": 0.006,
+   "population": {
+    "count": 1264,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Williamstown is a community in Orange County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 3.4 square miles of land, and 1,264 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5084625",
+   "name": "Wilmington",
+   "kind": "57",
+   "counties": [
+    "Windham County"
+   ],
+   "lat": 42.86933,
+   "lon": -72.86106,
+   "land_sqmi": 1.083,
+   "water_sqmi": 0.015,
+   "population": {
+    "count": 439,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Wilmington is a community in Windham County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.1 square miles of land, and 439 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5085000",
+   "name": "Windsor",
+   "kind": "57",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.47921,
+   "lon": -72.39066,
+   "land_sqmi": 1.232,
+   "water_sqmi": 0.108,
+   "population": {
+    "count": 2139,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": "southern",
+   "description": "Windsor is a community in Windsor County in southern Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 1.2 square miles of land and 0.1 square miles of water, and 2,139 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5085150",
+   "name": "Winooski",
+   "kind": "25",
+   "counties": [
+    "Chittenden County"
+   ],
+   "lat": 44.49559,
+   "lon": -73.18486,
+   "land_sqmi": 1.381,
+   "water_sqmi": 0.091,
+   "population": {
+    "count": 8239,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Winooski is a city in Chittenden County in Vermont. It covers about 1.4 square miles of land and 0.1 square miles of water, and about 8,239 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5085300",
+   "name": "Wolcott",
+   "kind": "57",
+   "counties": [
+    "Lamoille County"
+   ],
+   "lat": 44.55181,
+   "lon": -72.47007,
+   "land_sqmi": 0.891,
+   "water_sqmi": 0.038,
+   "population": {
+    "count": 176,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Wolcott is a community in Lamoille County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.9 square miles of land, and 176 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5085900",
+   "name": "Woodstock",
+   "kind": "47",
+   "counties": [
+    "Windsor County"
+   ],
+   "lat": 43.62344,
+   "lon": -72.513,
+   "land_sqmi": 1.18,
+   "water_sqmi": 0.033,
+   "population": {
+    "count": 903,
+    "year": 2025,
+    "kind": "estimate"
+   },
+   "position": null,
+   "description": "Woodstock is a village in Windsor County in Vermont. It covers about 1.2 square miles of land, and about 903 people live there (Census Bureau estimate for July 1, 2025).",
+   "tier": "placeholder"
+  },
+  {
+   "geoid": "5086050",
+   "name": "Worcester",
+   "kind": "57",
+   "counties": [
+    "Washington County"
+   ],
+   "lat": 44.37003,
+   "lon": -72.55015,
+   "land_sqmi": 0.121,
+   "water_sqmi": 0.004,
+   "population": {
+    "count": 120,
+    "year": 2020,
+    "kind": "census"
+   },
+   "position": null,
+   "description": "Worcester is a community in Washington County in Vermont that the Census Bureau counts as a place but that has no city or town government of its own. It covers about 0.1 square miles of land, and 120 people lived there at the 2020 Census.",
+   "tier": "placeholder"
+  }
+ ]
+}
