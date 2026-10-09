@@ -1,0 +1,12 @@
+{
+  "feed": "the-record-constitution-checks-feed",
+  "schema_version": 1,
+  "generated_at": "2026-10-08T22:59:08-04:00",
+  "checks": {
+    "version": "2026-10-08",
+    "path": "constitution-checks-2026-10-08.json",
+    "sha256": "c2e4925768211287e0b8b2774984fa6e9d0965b796ee7a8ccba67e9063ce7617",
+    "count": 14,
+    "integrity_report": "INTEGRITY_REPORT-constitution-checks-2026-10-08.md"
+  }
+}
