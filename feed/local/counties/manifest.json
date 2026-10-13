@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "feed": "the-record-local-counties",
+  "version": "2026-10-13-29d94df9",
+  "generated_at": "2026-10-13T15:01:58-04:00",
+  "bundle": {
+    "path": "counties-29d94df95a27.json",
+    "sha256": "29d94df95a27a72b8003131b358d670b8bb7580b8189f3c290c739a54e633202",
+    "bytes": 64360
+  },
+  "count": 12,
+  "integrity_report": "INTEGRITY_REPORT_COUNTIES-2026-10-11.md",
+  "integrity_report_sha256": "481b89ae8c92720d5600f0f447c152d36a18fa2dad1f6263c05ce5a856fb2d41",
+  "a9_schema_sha256": "0055cbf993573d364b5671f1800dd391da94f4f8325c19ef61945d6639122ff3",
+  "ingest_log_sha256": "b435799f193591c93d4c90c7b4a22399137dda6826f854e74b23752455a148b8",
+  "sources": [
+    {
+      "name": "us-county-04013.json",
+      "sha256": "1071f6400ae56173ab617c3f3114a7f13d3d540d55fde88ee8023b936821beb2"
+    },
+    {
+      "name": "us-county-06037.json",
+      "sha256": "7ecfe3fc9c5d2e9d276146cd244704ded913ac32d1ff40da86e68200a9f11a19"
+    },
+    {
+      "name": "us-county-06059.json",
+      "sha256": "3f61776bae9434346d7792e21d206469c2fa0932585782e255dce355ea8dede8"
+    },
+    {
+      "name": "us-county-06065.json",
+      "sha256": "2ba0c892b389a515efbc6d689884241235233b48f90b651ea551a34db4e77cfa"
+    },
+    {
+      "name": "us-county-06073.json",
+      "sha256": "fd7b07e9bb3d449274beeb29d10abcb15faeb3a8d7e9a3e66af4b99551d025bd"
+    },
+    {
+      "name": "us-county-12055.json",
+      "sha256": "2c416b8836b704719cc0d3a23fa936b65d24dc1c777bf05f22c954c7f81818a3"
+    },
+    {
+      "name": "us-county-12086.json",
+      "sha256": "8f0ee84be0d16b8c7409dd3cb3a01654422b72c0ec8db4c40390585483cd0c2c"
+    },
+    {
+      "name": "us-county-17031.json",
+      "sha256": "2c1bddbbb499cd09b2a54ba0fb2a5ef9f64abf5a3cdf40981f700116613daecc"
+    },
+    {
+      "name": "us-county-27007.json",
+      "sha256": "86dbe756fc2e1fe400bad9db928f02a210668bef47a2f610df0b9f69de8e55d5"
+    },
+    {
+      "name": "us-county-36047.json",
+      "sha256": "514ba2b7db720be92f4657ab958b23077da6614da26202e18da690d2a84d3023"
+    },
+    {
+      "name": "us-county-48113.json",
+      "sha256": "0af0a619186a9f9f637ce94ca050f6770866d6df49e09fe35635d40629610521"
+    },
+    {
+      "name": "us-county-48201.json",
+      "sha256": "3f174004285fd60063d9283bd869595d8c83922ceb2ce68a2a33856a2a31e2ca"
+    }
+  ]
+}
