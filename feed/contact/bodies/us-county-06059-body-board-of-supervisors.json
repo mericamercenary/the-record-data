@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "body_id": "us-county-06059-body-board-of-supervisors",
+  "schedule_text": {
+    "value": "Regular Board meetings are held at 9:30 a.m. on the second and fourth Tuesdays of each month.",
+    "source_url": "https://board.oc.gov/orange-county-board-supervisors-meeting-schedule",
+    "as_of": "2026-10-11T02:06:20-04:00"
+  },
+  "meetings": "UNKNOWN",
+  "public_comment_signup": "UNKNOWN",
+  "virtual_attendance": "UNKNOWN",
+  "comment_rules": "UNKNOWN",
+  "public_forums": "UNKNOWN",
+  "collected_at": "2026-10-11T02:06:20-04:00"
+}

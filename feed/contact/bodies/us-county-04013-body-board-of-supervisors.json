@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "body_id": "us-county-04013-body-board-of-supervisors",
+  "schedule_text": "UNKNOWN",
+  "meetings": [
+    {
+      "start": "2026-10-19T09:30:00-07:00",
+      "place": {
+        "value": "Supervisors' Auditorium/Sullivan Conference Room",
+        "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice"
+      },
+      "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice",
+      "meeting_type": {
+        "value": "Informal/Executive",
+        "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice"
+      },
+      "as_of": "2026-10-11T02:06:20-04:00"
+    },
+    {
+      "start": "2026-10-21T09:30:00-07:00",
+      "place": {
+        "value": "Supervisors' Auditorium",
+        "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice"
+      },
+      "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice",
+      "meeting_type": {
+        "value": "Formal",
+        "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice"
+      },
+      "as_of": "2026-10-11T02:06:20-04:00"
+    },
+    {
+      "start": "2026-11-02T09:30:00-07:00",
+      "place": {
+        "value": "Supervisors' Auditorium/Sullivan Conference Room",
+        "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice"
+      },
+      "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice",
+      "meeting_type": {
+        "value": "Informal/Executive",
+        "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice"
+      },
+      "as_of": "2026-10-11T02:06:20-04:00"
+    },
+    {
+      "start": "2026-11-04T09:30:00-07:00",
+      "place": {
+        "value": "Supervisors' Auditorium",
+        "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice"
+      },
+      "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice",
+      "meeting_type": {
+        "value": "Formal",
+        "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice"
+      },
+      "as_of": "2026-10-11T02:06:20-04:00"
+    },
+    {
+      "start": "2026-11-16T09:30:00-07:00",
+      "place": {
+        "value": "Supervisors' Auditorium/Sullivan Conference Room",
+        "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice"
+      },
+      "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice",
+      "meeting_type": {
+        "value": "Informal/Executive",
+        "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice"
+      },
+      "as_of": "2026-10-11T02:06:20-04:00"
+    },
+    {
+      "start": "2026-11-18T09:30:00-07:00",
+      "place": {
+        "value": "Supervisors' Auditorium",
+        "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice"
+      },
+      "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice",
+      "meeting_type": {
+        "value": "Formal",
+        "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice"
+      },
+      "as_of": "2026-10-11T02:06:20-04:00"
+    },
+    {
+      "start": "2026-12-07T09:30:00-07:00",
+      "place": {
+        "value": "Supervisors' Auditorium/Sullivan Conference Room",
+        "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice"
+      },
+      "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice",
+      "meeting_type": {
+        "value": "Informal/Executive",
+        "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice"
+      },
+      "as_of": "2026-10-11T02:06:20-04:00"
+    },
+    {
+      "start": "2026-12-09T09:30:00-07:00",
+      "place": {
+        "value": "Supervisors' Auditorium",
+        "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice"
+      },
+      "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice",
+      "meeting_type": {
+        "value": "Formal",
+        "source_url": "https://www.maricopa.gov/6704/2026-Annual-Board-Meeting-Notice"
+      },
+      "as_of": "2026-10-11T02:06:20-04:00"
+    }
+  ],
+  "public_comment_signup": {
+    "value": "Attendees will be required to complete a “request to speak” form and return it to the Clerk of the Board of Supervisors, or designee, no later than ten minutes after the Board meeting formally begins.",
+    "source_url": "https://www.maricopa.gov/324/Board-of-Supervisors-Meeting-Information",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "virtual_attendance": "UNKNOWN",
+  "comment_rules": {
+    "value": "Attendees may be limited to speaking on a maximum of two agenda items as well as the call to the public, at the discretion of the Chairman. Attendees’ comments on individual agenda items and during call to the public will be limited to 2 minutes.",
+    "source_url": "https://www.maricopa.gov/324/Board-of-Supervisors-Meeting-Information",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "public_forums": "UNKNOWN",
+  "collected_at": "2026-10-11T02:06:20-04:00"
+}

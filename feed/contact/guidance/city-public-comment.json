@@ -1,0 +1,72 @@
+{
+  "guidance_id": "city-public-comment",
+  "section": "city",
+  "items": [
+    {
+      "topic": "identify_as_constituent",
+      "text": "Example (Houston, Dallas): speaker registration asks for your name and address.",
+      "citations": [
+        {
+          "source_url": "https://www.houstontx.gov/council/meetingsinfo.html",
+          "title": "Meetings Information (Houston City Council)",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true
+        },
+        {
+          "source_url": "https://dallascityhall.com/government/citysecretary/Pages/CCrules.aspx",
+          "title": "City Council Rules of Procedure / Speaker Registration (Dallas)",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true
+        }
+      ]
+    },
+    {
+      "topic": "name_bill_or_issue",
+      "text": "Example (Houston): registration asks for a brief description of the subject, no more than ten words.",
+      "citations": [
+        {
+          "source_url": "https://www.houstontx.gov/council/meetingsinfo.html",
+          "title": "Meetings Information (Houston City Council)",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true
+        }
+      ]
+    },
+    {
+      "topic": "one_clear_request",
+      "text": "UNKNOWN",
+      "citations": "UNKNOWN"
+    },
+    {
+      "topic": "keep_short",
+      "text": "UNKNOWN",
+      "citations": "UNKNOWN"
+    },
+    {
+      "topic": "be_respectful",
+      "text": "Example (Fort Worth): members of the public must observe the rules of decorum.",
+      "citations": [
+        {
+          "source_url": "https://www.fortworthtexas.gov/departments/citysecretary/appear-at-council",
+          "title": "How to Appear or Speak Before City Council (Fort Worth)",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true
+        }
+      ]
+    },
+    {
+      "topic": "how_to_reach_you",
+      "text": "Example (Dallas): registration asks for a daytime telephone number.",
+      "citations": [
+        {
+          "source_url": "https://dallascityhall.com/government/citysecretary/Pages/CCrules.aspx",
+          "title": "City Council Rules of Procedure / Speaker Registration (Dallas)",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true
+        }
+      ]
+    }
+  ],
+  "version": 2,
+  "updated_at": "2026-10-11T01:46:42-04:00"
+}

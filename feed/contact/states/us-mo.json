@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "jurisdiction_id": "us-mo",
+  "state": "MO",
+  "state_name": "Missouri",
+  "mode": "directory-only",
+  "members": "UNKNOWN",
+  "directory_status": "verified",
+  "member_directory": [
+    {
+      "chamber": "lower",
+      "directory_url": {
+        "value": "https://house.mo.gov/MemberGridCluster.aspx",
+        "source_url": "https://house.mo.gov/MemberGridCluster.aspx"
+      },
+      "as_of": "2026-10-11T02:22:31-04:00"
+    }
+  ],
+  "contact_page_pattern": "UNKNOWN",
+  "collected_at": "2026-10-11T02:25:00-04:00"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "official_ref": {
+    "bioguide_id": "C001096"
+  },
+  "name": "Kevin Cramer",
+  "chamber": "senate",
+  "state": "ND",
+  "jurisdiction_id": "us-congress",
+  "official_site": {
+    "value": "https://www.cramer.senate.gov",
+    "source_url": "https://www.senate.gov/general/contact_information/senators_cfm.xml",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "contact_form": {
+    "value": "https://www.cramer.senate.gov/contact/contact-kevin",
+    "source_url": "https://www.cramer.senate.gov/contact/contact-kevin",
+    "as_of": "2026-10-11T01:51:47-04:00"
+  },
+  "office_phones": [
+    {
+      "label": "Washington Office",
+      "value": "(202) 224-2043",
+      "source_url": "https://www.senate.gov/general/contact_information/senators_cfm.xml",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "office_addresses": [
+    {
+      "label": "Washington Office",
+      "building": "313 Hart Senate Office Building",
+      "street": null,
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20510",
+      "verbatim": "313 Hart Senate Office Building Washington DC 20510",
+      "source_url": "https://www.senate.gov/general/contact_information/senators_cfm.xml",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "district_offices": "UNKNOWN",
+  "testify_instructions": "UNKNOWN",
+  "collected_at": "2026-10-11T01:51:47-04:00",
+  "notes": [
+    "State/district offices not in the bulk senate.gov XML; per-member site parsing not done this run (UNKNOWN)."
+  ]
+}

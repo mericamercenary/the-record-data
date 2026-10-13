@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "official_ref": {
+    "bioguide_id": "S000344"
+  },
+  "name": "Brad Sherman",
+  "chamber": "house",
+  "state_district": "CA32",
+  "jurisdiction_id": "us-congress",
+  "official_site": {
+    "value": "https://sherman.house.gov",
+    "source_url": "https://www.house.gov/representatives",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "contact_form": {
+    "value": "https://sherman.house.gov/contact",
+    "source_url": "https://sherman.house.gov/contact",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "office_phones": [
+    {
+      "label": "Washington Office",
+      "value": "(202) 225-5911",
+      "source_url": "https://clerk.house.gov/xml/lists/MemberData.xml",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "office_addresses": [
+    {
+      "label": "Washington Office",
+      "building": "RHOB",
+      "street": null,
+      "room": "2365",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20515-0532",
+      "source_url": "https://clerk.house.gov/xml/lists/MemberData.xml",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "district_offices": "UNKNOWN",
+  "testify_instructions": "UNKNOWN",
+  "collected_at": "2026-10-11T01:31:00-04:00",
+  "notes": [
+    "District offices: no bulk official source; per-member parsing not done this run (UNKNOWN). Clerk 'townname' (hometown) deliberately excluded."
+  ]
+}

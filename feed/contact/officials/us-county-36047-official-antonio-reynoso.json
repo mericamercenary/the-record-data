@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "official_ref": {
+    "a9_official_id": "us-county-36047-official-antonio-reynoso"
+  },
+  "name": "Antonio Reynoso",
+  "office": "Brooklyn Borough President",
+  "jurisdiction_id": "us-county-36047",
+  "contact_form": "UNKNOWN",
+  "office_phones": [
+    {
+      "label": "Brooklyn Borough Hall",
+      "value": "(718) 802-3700",
+      "source_url": "https://www.brooklynbp.nyc.gov/contact/",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "office_addresses": [
+    {
+      "label": "Brooklyn Borough Hall",
+      "building": "Brooklyn Borough Hall",
+      "street": "209 Joralemon Street",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11201",
+      "source_url": "https://www.brooklynbp.nyc.gov/contact/",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "testify_instructions": "UNKNOWN",
+  "collected_at": "2026-10-11T01:31:00-04:00"
+}

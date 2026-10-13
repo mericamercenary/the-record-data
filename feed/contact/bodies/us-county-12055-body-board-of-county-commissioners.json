@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "body_id": "us-county-12055-body-board-of-county-commissioners",
+  "schedule_text": {
+    "value": "The Board meets at the Highlands County Government Center Boardroom at 600 S. Commerce Ave. in Sebring, Florida on the first and third Tuesday of every month at 9 a.m. except those meeting weeks when a nationally recognized holiday falls on a Monday, then the regular meeting will be held on Thursday instead of Tuesday.",
+    "source_url": "https://www.highlandsfl.gov/county_commissioners/board_meetings.php",
+    "as_of": "2026-10-11T02:06:20-04:00"
+  },
+  "meetings": "UNKNOWN",
+  "public_comment_signup": "UNKNOWN",
+  "virtual_attendance": {
+    "value": {
+      "method": "The Board meetings are broadcast live on social media.",
+      "url": "UNKNOWN"
+    },
+    "source_url": "https://www.highlandsfl.gov/county_commissioners/board_meetings.php",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "comment_rules": "UNKNOWN",
+  "public_forums": "UNKNOWN",
+  "collected_at": "2026-10-11T02:06:20-04:00"
+}

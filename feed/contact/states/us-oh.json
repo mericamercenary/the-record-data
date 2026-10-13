@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "jurisdiction_id": "us-oh",
+  "state": "OH",
+  "state_name": "Ohio",
+  "mode": "directory-only",
+  "members": "UNKNOWN",
+  "directory_status": "verified",
+  "member_directory": [
+    {
+      "chamber": "lower",
+      "directory_url": {
+        "value": "https://www.ohiohouse.gov/members/directory",
+        "source_url": "https://www.ohiohouse.gov/members/directory"
+      },
+      "as_of": "2026-10-11T02:22:50-04:00"
+    }
+  ],
+  "contact_page_pattern": "UNKNOWN",
+  "collected_at": "2026-10-11T02:25:00-04:00"
+}

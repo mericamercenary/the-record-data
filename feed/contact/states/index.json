@@ -1,0 +1,355 @@
+{
+  "generated_at": "2026-10-11T01:45:56-04:00",
+  "entries": [
+    {
+      "id": "us-ak-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-ak",
+      "path": "states/us-ak.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-al-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-al",
+      "path": "states/us-al.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-ar-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-ar",
+      "path": "states/us-ar.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-az-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-az",
+      "path": "states/us-az.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-ca-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-ca",
+      "path": "states/us-ca.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-co-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-co",
+      "path": "states/us-co.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-ct-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-ct",
+      "path": "states/us-ct.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-de-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-de",
+      "path": "states/us-de.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-fl-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-fl",
+      "path": "states/us-fl.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-ga-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-ga",
+      "path": "states/us-ga.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-hi-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-hi",
+      "path": "states/us-hi.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-ia-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-ia",
+      "path": "states/us-ia.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-id-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-id",
+      "path": "states/us-id.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-il-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-il",
+      "path": "states/us-il.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-in-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-in",
+      "path": "states/us-in.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-ks-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-ks",
+      "path": "states/us-ks.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-ky-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-ky",
+      "path": "states/us-ky.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-la-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-la",
+      "path": "states/us-la.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-ma-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-ma",
+      "path": "states/us-ma.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-md-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-md",
+      "path": "states/us-md.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-me-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-me",
+      "path": "states/us-me.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-mi-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-mi",
+      "path": "states/us-mi.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-mn-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-mn",
+      "path": "states/us-mn.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-mo-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-mo",
+      "path": "states/us-mo.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-ms-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-ms",
+      "path": "states/us-ms.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-mt-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-mt",
+      "path": "states/us-mt.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-nc-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-nc",
+      "path": "states/us-nc.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-nd-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-nd",
+      "path": "states/us-nd.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-ne-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-ne",
+      "path": "states/us-ne.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-nh-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-nh",
+      "path": "states/us-nh.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-nj-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-nj",
+      "path": "states/us-nj.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-nm-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-nm",
+      "path": "states/us-nm.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-nv-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-nv",
+      "path": "states/us-nv.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-ny-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-ny",
+      "path": "states/us-ny.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-oh-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-oh",
+      "path": "states/us-oh.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-ok-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-ok",
+      "path": "states/us-ok.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-or-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-or",
+      "path": "states/us-or.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-pa-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-pa",
+      "path": "states/us-pa.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-ri-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-ri",
+      "path": "states/us-ri.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-sc-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-sc",
+      "path": "states/us-sc.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-sd-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-sd",
+      "path": "states/us-sd.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-tn-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-tn",
+      "path": "states/us-tn.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-tx-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-tx",
+      "path": "states/us-tx.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-ut-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-ut",
+      "path": "states/us-ut.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-va-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-va",
+      "path": "states/us-va.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-vt-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-vt",
+      "path": "states/us-vt.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-wa-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-wa",
+      "path": "states/us-wa.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-wi-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-wi",
+      "path": "states/us-wi.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-wv-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-wv",
+      "path": "states/us-wv.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    },
+    {
+      "id": "us-wy-legislature-directory",
+      "kind": "state_legislature_directory",
+      "jurisdiction_id": "us-wy",
+      "path": "states/us-wy.json",
+      "as_of": "2026-10-11T01:45:56-04:00"
+    }
+  ]
+}

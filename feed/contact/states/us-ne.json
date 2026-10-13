@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "jurisdiction_id": "us-ne",
+  "state": "NE",
+  "state_name": "Nebraska",
+  "mode": "directory-only",
+  "members": "UNKNOWN",
+  "directory_status": "verified",
+  "member_directory": [
+    {
+      "chamber": "unicameral",
+      "directory_url": {
+        "value": "https://nebraskalegislature.gov/senators/senator_list.php",
+        "source_url": "https://nebraskalegislature.gov/senators/senator_list.php"
+      },
+      "as_of": "2026-10-11T02:22:40-04:00"
+    }
+  ],
+  "contact_page_pattern": "UNKNOWN",
+  "collected_at": "2026-10-11T02:25:00-04:00"
+}

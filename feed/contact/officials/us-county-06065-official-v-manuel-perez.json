@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "official_ref": {
+    "a9_official_id": "us-county-06065-official-v-manuel-perez"
+  },
+  "name": "V. Manuel Perez",
+  "office": "Supervisor, Fourth District",
+  "jurisdiction_id": "us-county-06065",
+  "contact_form": "UNKNOWN",
+  "office_phones": [
+    {
+      "label": "County Administrative Center",
+      "value": "(951) 955-1040",
+      "source_url": "https://rivco.gov/board-supervisors",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "office_addresses": [
+    {
+      "label": "County Administrative Center",
+      "building": "County Administrative Center",
+      "street": "4080 Lemon Street, 5th Floor",
+      "city": "Riverside",
+      "state": "CA",
+      "zip": "92501",
+      "source_url": "https://rivco.gov/board-supervisors",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "testify_instructions": "UNKNOWN",
+  "collected_at": "2026-10-11T01:31:00-04:00"
+}

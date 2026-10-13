@@ -1,0 +1,62 @@
+{
+  "guidance_id": "county-public-comment",
+  "section": "county",
+  "items": [
+    {
+      "topic": "identify_as_constituent",
+      "text": "UNKNOWN",
+      "citations": "UNKNOWN"
+    },
+    {
+      "topic": "name_bill_or_issue",
+      "text": "Example (LA County): written comments ask you to choose the agenda item(s) you wish to address.",
+      "citations": [
+        {
+          "source_url": "https://bos.lacounty.gov/board-meeting-information/",
+          "title": "Board Meeting Information (LA County)",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true,
+          "example_jurisdiction": "us-county-06037"
+        }
+      ]
+    },
+    {
+      "topic": "one_clear_request",
+      "text": "Example (Maricopa County): speakers may be limited to a maximum of two agenda items plus the call to the public.",
+      "citations": [
+        {
+          "source_url": "https://www.maricopa.gov/324/Board-of-Supervisors-Meeting-Information",
+          "title": "Board of Supervisors Meeting Information (Maricopa County)",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true,
+          "example_jurisdiction": "us-county-04013"
+        }
+      ]
+    },
+    {
+      "topic": "keep_short",
+      "text": "UNKNOWN",
+      "citations": "UNKNOWN"
+    },
+    {
+      "topic": "be_respectful",
+      "text": "Example (Maricopa County): the Board publishes Rules of Decorum During Open Meetings.",
+      "citations": [
+        {
+          "source_url": "https://www.maricopa.gov/324/Board-of-Supervisors-Meeting-Information",
+          "title": "Board of Supervisors Meeting Information (Maricopa County)",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true,
+          "example_jurisdiction": "us-county-04013"
+        }
+      ]
+    },
+    {
+      "topic": "how_to_reach_you",
+      "text": "UNKNOWN",
+      "citations": "UNKNOWN"
+    }
+  ],
+  "version": 2,
+  "updated_at": "2026-10-11T01:46:42-04:00"
+}

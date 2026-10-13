@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "jurisdiction_id": "us-az",
+  "state": "AZ",
+  "state_name": "Arizona",
+  "mode": "directory-only",
+  "members": "UNKNOWN",
+  "directory_status": "verified",
+  "member_directory": [
+    {
+      "chamber": "both",
+      "directory_url": {
+        "value": "https://www.azleg.gov/memberroster/",
+        "source_url": "https://www.azleg.gov/memberroster/"
+      },
+      "as_of": "2026-10-11T02:21:53-04:00"
+    }
+  ],
+  "contact_page_pattern": "UNKNOWN",
+  "collected_at": "2026-10-11T02:25:00-04:00"
+}

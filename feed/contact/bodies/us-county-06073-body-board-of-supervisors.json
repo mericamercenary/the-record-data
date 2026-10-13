@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "body_id": "us-county-06073-body-board-of-supervisors",
+  "schedule_text": {
+    "value": "A regular meeting of the Board is held at 9 a.m., beginning on Tuesday. Each meeting has two sessions. The Tuesday session is called the General Legislative Session. The Wednesday session is called the Land Use Legislative Session and generally deals with planning and land use matters.",
+    "source_url": "https://www.sandiegocounty.gov/content/sdc/cob/bosa/aginfo.html",
+    "as_of": "2026-10-11T02:06:20-04:00"
+  },
+  "meetings": "UNKNOWN",
+  "public_comment_signup": {
+    "value": "Request to Speak : Speakers must select, \" Non-Agenda Public Communication \" in the online Request to Speak",
+    "source_url": "https://www.sandiegocounty.gov/content/sdc/cob/bosa/aginfo.html",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "virtual_attendance": {
+    "value": {
+      "method": "Live streaming of the proceedings is available online.",
+      "url": "UNKNOWN"
+    },
+    "source_url": "https://www.sandiegocounty.gov/content/sdc/cob/bosa/aginfo.html",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "comment_rules": {
+    "value": "Time allotted to each speaker is determined by the Chair, and in general is limited to two (2) minutes. NON-AGENDA PUBLIC COMMENT: Public Comment Time : Up to 20 minutes at the start of General Legislative and Land Use Legislative sessions is allocated for public comments on topics within the Board's jurisdiction that are not on the agenda. Speaker Time Limit : Each speaker is allowed up to 2 minutes, subject to reduction by the Chairperson if necessary to maintain the meeting's schedule.",
+    "source_url": "https://www.sandiegocounty.gov/content/sdc/cob/bosa/aginfo.html",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "public_forums": "UNKNOWN",
+  "collected_at": "2026-10-11T02:06:20-04:00"
+}

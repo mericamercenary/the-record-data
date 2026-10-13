@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "jurisdiction_id": "us-ks",
+  "state": "KS",
+  "state_name": "Kansas",
+  "mode": "directory-only",
+  "members": "UNKNOWN",
+  "directory_status": "verified",
+  "member_directory": [
+    {
+      "chamber": "both",
+      "directory_url": {
+        "value": "https://www.kslegislature.gov/b2025_26/legislators/",
+        "source_url": "https://www.kslegislature.gov/"
+      },
+      "as_of": "2026-10-11T02:22:14-04:00"
+    }
+  ],
+  "contact_page_pattern": "UNKNOWN",
+  "collected_at": "2026-10-11T02:25:00-04:00"
+}

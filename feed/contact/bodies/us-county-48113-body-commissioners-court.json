@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "body_id": "us-county-48113-body-commissioners-court",
+  "schedule_text": {
+    "value": "Commissioners Court meets twice a month on the first and third Tuesday, at 9:00 AM in the Commissioners Courtroom in the Dallas County Records Building - 500 Elm Street, 2nd Floor Court Room - except for July when the Court meets only on the first Tuesday.",
+    "source_url": "https://www.dallascounty.org/government/comcrt/meeting-schedule.php",
+    "as_of": "2026-10-11T02:06:20-04:00"
+  },
+  "meetings": "UNKNOWN",
+  "public_comment_signup": "UNKNOWN",
+  "virtual_attendance": "UNKNOWN",
+  "comment_rules": "UNKNOWN",
+  "public_forums": "UNKNOWN",
+  "collected_at": "2026-10-11T02:06:20-04:00"
+}

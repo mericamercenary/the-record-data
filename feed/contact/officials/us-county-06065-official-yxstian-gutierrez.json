@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "official_ref": {
+    "a9_official_id": "us-county-06065-official-yxstian-gutierrez"
+  },
+  "name": "Yxstian Gutierrez",
+  "office": "Supervisor, Fifth District",
+  "jurisdiction_id": "us-county-06065",
+  "contact_form": "UNKNOWN",
+  "office_phones": [
+    {
+      "label": "County Administrative Center",
+      "value": "(951) 955-1050",
+      "source_url": "https://rivco.gov/board-supervisors",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "office_addresses": [
+    {
+      "label": "County Administrative Center",
+      "building": "County Administrative Center",
+      "street": "4080 Lemon Street, 5th Floor",
+      "city": "Riverside",
+      "state": "CA",
+      "zip": "92501",
+      "source_url": "https://rivco.gov/board-supervisors",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "label": "District Office",
+      "building": null,
+      "street": "390 W Oak Valley Pkwy",
+      "city": "Beaumont",
+      "state": "CA",
+      "zip": "92223",
+      "source_url": "https://rivco.gov/board-supervisors",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "label": "District Office",
+      "building": null,
+      "street": "50391 Carmen Ave., Suite 1",
+      "city": "Cabazon",
+      "state": "CA",
+      "zip": "92230",
+      "source_url": "https://rivco.gov/board-supervisors",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "label": "District Office",
+      "building": null,
+      "street": "14375 Nason St., Suite 207",
+      "city": "Moreno Valley",
+      "state": "CA",
+      "zip": "92555",
+      "source_url": "https://rivco.gov/board-supervisors",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "testify_instructions": "UNKNOWN",
+  "collected_at": "2026-10-11T01:31:00-04:00"
+}

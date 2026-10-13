@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "jurisdiction_id": "us-co",
+  "state": "CO",
+  "state_name": "Colorado",
+  "mode": "directory-only",
+  "members": "UNKNOWN",
+  "directory_status": "verified",
+  "member_directory": [
+    {
+      "chamber": "both",
+      "directory_url": {
+        "value": "https://leg.colorado.gov/legislators",
+        "source_url": "https://leg.colorado.gov/legislators"
+      },
+      "as_of": "2026-10-11T02:21:58-04:00"
+    }
+  ],
+  "contact_page_pattern": "UNKNOWN",
+  "collected_at": "2026-10-11T02:25:00-04:00"
+}

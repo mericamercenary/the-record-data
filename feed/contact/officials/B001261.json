@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "official_ref": {
+    "bioguide_id": "B001261"
+  },
+  "name": "John Barrasso",
+  "chamber": "senate",
+  "state": "WY",
+  "jurisdiction_id": "us-congress",
+  "official_site": {
+    "value": "https://www.barrasso.senate.gov",
+    "source_url": "https://www.senate.gov/general/contact_information/senators_cfm.xml",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "contact_form": "UNKNOWN",
+  "office_phones": [
+    {
+      "label": "Washington Office",
+      "value": "(202) 224-6441",
+      "source_url": "https://www.senate.gov/general/contact_information/senators_cfm.xml",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "office_addresses": [
+    {
+      "label": "Washington Office",
+      "building": "307 Dirksen Senate Office Building",
+      "street": null,
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20510",
+      "verbatim": "307 Dirksen Senate Office Building Washington DC 20510",
+      "source_url": "https://www.senate.gov/general/contact_information/senators_cfm.xml",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "district_offices": "UNKNOWN",
+  "testify_instructions": "UNKNOWN",
+  "collected_at": "2026-10-11T01:51:47-04:00",
+  "notes": [
+    "State/district offices not in the bulk senate.gov XML; per-member site parsing not done this run (UNKNOWN)."
+  ]
+}

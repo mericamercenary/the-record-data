@@ -1,0 +1,4577 @@
+{
+  "generated_at": "2026-10-11T01:51:47-04:00",
+  "entries": [
+    {
+      "id": "A000382",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/A000382.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "A000383",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/A000383.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001230",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001230.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001299",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001299.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001261",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001261.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001267",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001267.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001243",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001243.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001277",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001277.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001303",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001303.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001288",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001288.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001236",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001236.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001319",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001319.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001305",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001305.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C000127",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C000127.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001047",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001047.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001075",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001075.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001035",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001035.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001088",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001088.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001056",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001056.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001113",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001113.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001095",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001095.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001096",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001096.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C000880",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C000880.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001098",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001098.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001114",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001114.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000618",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000618.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000622",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000622.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000563",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000563.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "E000295",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/E000295.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000479",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000479.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000463",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000463.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000574",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000574.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000555",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000555.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000608",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000608.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000386",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000386.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H000601",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H000601.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001076",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001076.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001089",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001089.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001046",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001046.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H000273",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H000273.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001042",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001042.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001061",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001061.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001104",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001104.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001079",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001079.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "J000293",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/J000293.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "J000312",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/J000312.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000384",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000384.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000377",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000377.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000393",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000393.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000394",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000394.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000383",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000383.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000367",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000367.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000575",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000575.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000577",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000577.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000570",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000570.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000571",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000571.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M000133",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M000133.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001198",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001198.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M000355",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M000355.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001243",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001243.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001176",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001176.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001244",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001244.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M000934",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M000934.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001242",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001242.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001153",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001153.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001169",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001169.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001111",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001111.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "O000174",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/O000174.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000145",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000145.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000603",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000603.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000595",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000595.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000122",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000122.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000618",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000618.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000584",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000584.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000608",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000608.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000605",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000605.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S000033",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S000033.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001194",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001194.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001150",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001150.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001227",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001227.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S000148",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S000148.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001217",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001217.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001184",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001184.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001181",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001181.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001232",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001232.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001208",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001208.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001203",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001203.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001198",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001198.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000250",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000250.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000476",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000476.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000278",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000278.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "V000128",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/V000128.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000805",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000805.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000790",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000790.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000817",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000817.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000800",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000800.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000802",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000802.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000437",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000437.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000779",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000779.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "Y000064",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/Y000064.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001323",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001323.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001212",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001212.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000481",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000481.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000575",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000575.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "A000055",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/A000055.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001220",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001220.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000609",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000609.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001185",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001185.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001087",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001087.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001072",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001072.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000809",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000809.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000821",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000821.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000600",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000600.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001183",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001183.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001132",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001132.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "A000381",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/A000381.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001211",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001211.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001302",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001302.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001133",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001133.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000606",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000606.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001098",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001098.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000565",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000565.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000607",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000607.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001068",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001068.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000401",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000401.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000460",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000460.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001177",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001177.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001287",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001287.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001163",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001163.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000559",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000559.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001090",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001090.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000623",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000623.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000197",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000197.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001231",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001231.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000605",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000605.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000832",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000832.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001225",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001225.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000607",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000607.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000389",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000389.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000397",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000397.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000613",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000613.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000480",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000480.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001059",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001059.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "V000129",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/V000129.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "O000019",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/O000019.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001112",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001112.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000599",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000599.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001285",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001285.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000830",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000830.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001080",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001080.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000620",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000620.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000483",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000483.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001123",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001123.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S000344",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S000344.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "A000371",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/A000371.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000585",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000585.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000474",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000474.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000582",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000582.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000400",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000400.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001156",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001156.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000472",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000472.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000397",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000397.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C000059",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C000059.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000598",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000598.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000187",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000187.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001300",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001300.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000491",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000491.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001110",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001110.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001241",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001241.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "I000056",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/I000056.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000593",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000593.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000608",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000608.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "J000305",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/J000305.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "V000130",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/V000130.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000197",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000197.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "N000191",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/N000191.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001100",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001100.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B000825",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B000825.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001137",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001137.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001121",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001121.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000620",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000620.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "E000300",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/E000300.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000557",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000557.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001069",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001069.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000216",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000216.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001047",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001047.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001081",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001081.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "N000147",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/N000147.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001238",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001238.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000622",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000622.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000628",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000628.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001039",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001039.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001314",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001314.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000609",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000609.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000484",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000484.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001216",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001216.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001099",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001099.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001200",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001200.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000476",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000476.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000806",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000806.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001257",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001257.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000596",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000596.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001066",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001066.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000597",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000597.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001260",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001260.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001214",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001214.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000472",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000472.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000032",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000032.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001199",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001199.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000462",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000462.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001217",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001217.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000808",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000808.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000797",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000797.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000600",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000600.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S000168",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S000168.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000593",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000593.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001103",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001103.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B000490",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B000490.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "J000311",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/J000311.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "J000288",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/J000288.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000788",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000788.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001208",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001208.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001218",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001218.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001189",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001189.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001116",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001116.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001129",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001129.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000583",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000583.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "A000372",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/A000372.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001328",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001328.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000485",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000485.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001219",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001219.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001055",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001055.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000487",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000487.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001215",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001215.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001091",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001091.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "N000193",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/N000193.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000446",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000446.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000469",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000469.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001148",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001148.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "J000309",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/J000309.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000385",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000385.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000617",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000617.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000586",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000586.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "Q000023",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/Q000023.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001117",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001117.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000096",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000096.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000391",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000391.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001145",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001145.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001190",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001190.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000454",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000454.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001295",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001295.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001315",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001315.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "U000040",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/U000040.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001211",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001211.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000585",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000585.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001225",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001225.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001214",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001214.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "Y000067",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/Y000067.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001188",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001188.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001307",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001307.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S000929",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S000929.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001229",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001229.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001072",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001072.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001233",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001233.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001093",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001093.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M000871",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M000871.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001228",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001228.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000629",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000629.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "E000298",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/E000298.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001108",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001108.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000558",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000558.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001220",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001220.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001184",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001184.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000395",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000395.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001282",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001282.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001176",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001176.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001125",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001125.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001077",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001077.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "J000299",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/J000299.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000595",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000595.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000110",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000110.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "N000015",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/N000015.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M000312",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M000312.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000482",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000482.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "A000148",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/A000148.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001101",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001101.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001196",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001196.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000617",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000617.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000562",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000562.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000375",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000375.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001052",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001052.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "O000176",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/O000176.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "E000301",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/E000301.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "I000058",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/I000058.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H000874",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H000874.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001232",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001232.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M000687",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M000687.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000606",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000606.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000597",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000597.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000592",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000592.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001301",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001301.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001194",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001194.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001221",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001221.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001058",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001058.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000798",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000798.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000624",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000624.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001321",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001321.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001237",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001237.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001136",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001136.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "J000307",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/J000307.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001215",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001215.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000481",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000481.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000488",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000488.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000475",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000475.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001119",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001119.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001234",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001234.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001143",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001143.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "O000173",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/O000173.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "E000294",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/E000294.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000470",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000470.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001212",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001212.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001324",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001324.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000812",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000812.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "O000177",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/O000177.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "A000379",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/A000379.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001061",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001061.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000546",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000546.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001316",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001316.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001195",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001195.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000404",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000404.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000388",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000388.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000193",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000193.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000591",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000591.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "E000235",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/E000235.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "Z000018",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/Z000018.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000634",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000634.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000230",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000230.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000305",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000305.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001210",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001210.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000477",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000477.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000450",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000450.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001240",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001240.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000603",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000603.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001102",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001102.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001067",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001067.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001101",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001101.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "E000246",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/E000246.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "A000370",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/A000370.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000405",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000405.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001236",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001236.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000482",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000482.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000474",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000474.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001298",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001298.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001172",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001172.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000614",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000614.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000604",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000604.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "N000188",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/N000188.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "V000133",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/V000133.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001136",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001136.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S000522",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S000522.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000583",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000583.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000034",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000034.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000398",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000398.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001226",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001226.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000621",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000621.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001229",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001229.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001246",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001246.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000822",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000822.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001218",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001218.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "V000136",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/V000136.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000273",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000273.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000468",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000468.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "A000369",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/A000369.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000590",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000590.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001066",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001066.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000598",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000598.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000597",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000597.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001201",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001201.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000602",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000602.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001137",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001137.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001188",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001188.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "V000081",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/V000081.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "J000294",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/J000294.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001067",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001067.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000599",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000599.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M000317",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M000317.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "N000002",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/N000002.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "E000297",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/E000297.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "O000172",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/O000172.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000486",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000486.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000606",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000606.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000599",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000599.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000579",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000579.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000622",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000622.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000469",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000469.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001196",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001196.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001231",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001231.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000600",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000600.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000478",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000478.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001206",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001206.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000402",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000402.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000601",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000601.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000490",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000490.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001281",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001281.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "J000289",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/J000289.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000566",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000566.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000619",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000619.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001222",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001222.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000626",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000626.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000009",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000009.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000463",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000463.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001313",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001313.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001306",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001306.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001223",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001223.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "J000295",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/J000295.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001126",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001126.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001082",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001082.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001317",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001317.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000491",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000491.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001053",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001053.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B000740",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B000740.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001278",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001278.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B000668",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B000668.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000635",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000635.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001094",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001094.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001326",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001326.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001226",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001226.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000466",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000466.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001296",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001296.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "E000296",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/E000296.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000631",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000631.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001205",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001205.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001085",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001085.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001230",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001230.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001327",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001327.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001204",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001204.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000605",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000605.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001199",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001199.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000602",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000602.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "J000302",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/J000302.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000610",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000610.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000467",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000467.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000376",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000376.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000530",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000530.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001103",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001103.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "A000380",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/A000380.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001223",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001223.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M000194",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M000194.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000795",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000795.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001325",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001325.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000480",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000480.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "N000190",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/N000190.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C000537",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C000537.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000478",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000478.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "J000301",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/J000301.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001086",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001086.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001309",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001309.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000459",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000459.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000616",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000616.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "O000175",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/O000175.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000612",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000612.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "V000139",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/V000139.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000392",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000392.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001068",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001068.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001224",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001224.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001120",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001120.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001224",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001224.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000246",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000246.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000589",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000589.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "E000071",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/E000071.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000468",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000468.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000603",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000603.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000553",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000553.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001157",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001157.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000048",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000048.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000601",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000601.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "J000304",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/J000304.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000814",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000814.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000594",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000594.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "E000299",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/E000299.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S000250",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S000250.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001245",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001245.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "A000375",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/A000375.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001091",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001091.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000614",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000614.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "N000026",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/N000026.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "V000134",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/V000134.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000816",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000816.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000603",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000603.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001115",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001115.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001063",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001063.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000587",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000587.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001130",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001130.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001051",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001051.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "J000310",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/J000310.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "V000131",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/V000131.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000581",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000581.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001131",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001131.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001291",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001291.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000399",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000399.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001095",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001095.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001213",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001213.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001228",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001228.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000403",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000403.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "O000086",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/O000086.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000804",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000804.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "K000399",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/K000399.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S000185",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S000185.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001227",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001227.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001239",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001239.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "C001118",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/C001118.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "V000138",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/V000138.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001292",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001292.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000568",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000568.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001230",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001230.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000831",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000831.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000610",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000610.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001318",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001318.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "D000617",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/D000617.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "L000560",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/L000560.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000600",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000600.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "N000189",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/N000189.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "B001322",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/B001322.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "R000621",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/R000621.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "J000298",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/J000298.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001216",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001216.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S000510",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S000510.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001159",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001159.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "S001213",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/S001213.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "P000607",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/P000607.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "V000135",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/V000135.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001160",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001160.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "F000471",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/F000471.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "G000576",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/G000576.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "T000165",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/T000165.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "W000829",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/W000829.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001205",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001205.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "M001235",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/M001235.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "H001096",
+      "kind": "official",
+      "jurisdiction_id": "us-congress",
+      "path": "officials/H001096.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-04013-official-mark-stewart",
+      "kind": "official",
+      "jurisdiction_id": "us-county-04013",
+      "path": "officials/us-county-04013-official-mark-stewart.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-04013-official-thomas-galvin",
+      "kind": "official",
+      "jurisdiction_id": "us-county-04013",
+      "path": "officials/us-county-04013-official-thomas-galvin.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-04013-official-kate-brophy-mcgee",
+      "kind": "official",
+      "jurisdiction_id": "us-county-04013",
+      "path": "officials/us-county-04013-official-kate-brophy-mcgee.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-04013-official-debbie-lesko",
+      "kind": "official",
+      "jurisdiction_id": "us-county-04013",
+      "path": "officials/us-county-04013-official-debbie-lesko.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-04013-official-steve-gallardo",
+      "kind": "official",
+      "jurisdiction_id": "us-county-04013",
+      "path": "officials/us-county-04013-official-steve-gallardo.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06037-official-hilda-l-solis",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06037",
+      "path": "officials/us-county-06037-official-hilda-l-solis.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06037-official-holly-j-mitchell",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06037",
+      "path": "officials/us-county-06037-official-holly-j-mitchell.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06037-official-lindsey-p-horvath",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06037",
+      "path": "officials/us-county-06037-official-lindsey-p-horvath.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06037-official-janice-hahn",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06037",
+      "path": "officials/us-county-06037-official-janice-hahn.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06037-official-kathryn-barger",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06037",
+      "path": "officials/us-county-06037-official-kathryn-barger.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06059-official-janet-nguyen",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06059",
+      "path": "officials/us-county-06059-official-janet-nguyen.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06059-official-vicente-sarmiento",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06059",
+      "path": "officials/us-county-06059-official-vicente-sarmiento.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06059-official-donald-p-wagner",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06059",
+      "path": "officials/us-county-06059-official-donald-p-wagner.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06059-official-doug-chaffee",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06059",
+      "path": "officials/us-county-06059-official-doug-chaffee.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06059-official-katrina-foley",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06059",
+      "path": "officials/us-county-06059-official-katrina-foley.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06065-official-jose-medina",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06065",
+      "path": "officials/us-county-06065-official-jose-medina.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06065-official-karen-spiegel",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06065",
+      "path": "officials/us-county-06065-official-karen-spiegel.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06065-official-chuck-washington",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06065",
+      "path": "officials/us-county-06065-official-chuck-washington.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06065-official-v-manuel-perez",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06065",
+      "path": "officials/us-county-06065-official-v-manuel-perez.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06065-official-yxstian-gutierrez",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06065",
+      "path": "officials/us-county-06065-official-yxstian-gutierrez.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06073-official-paloma-aguirre",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06073",
+      "path": "officials/us-county-06073-official-paloma-aguirre.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06073-official-joel-anderson",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06073",
+      "path": "officials/us-county-06073-official-joel-anderson.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06073-official-terra-lawson-remer",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06073",
+      "path": "officials/us-county-06073-official-terra-lawson-remer.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06073-official-monica-montgomery-steppe",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06073",
+      "path": "officials/us-county-06073-official-monica-montgomery-steppe.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06073-official-jim-desmond",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06073",
+      "path": "officials/us-county-06073-official-jim-desmond.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06073-official-ebony-n-shelton",
+      "kind": "official",
+      "jurisdiction_id": "us-county-06073",
+      "path": "officials/us-county-06073-official-ebony-n-shelton.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12055-official-kevin-roberts",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12055",
+      "path": "officials/us-county-12055-official-kevin-roberts.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12055-official-don-elwell",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12055",
+      "path": "officials/us-county-12055-official-don-elwell.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12055-official-scott-kirouac",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12055",
+      "path": "officials/us-county-12055-official-scott-kirouac.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12055-official-arlene-tuck",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12055",
+      "path": "officials/us-county-12055-official-arlene-tuck.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12055-official-chris-campbell",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12055",
+      "path": "officials/us-county-12055-official-chris-campbell.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12055-official-laurie-hurner",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12055",
+      "path": "officials/us-county-12055-official-laurie-hurner.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12086-official-oliver-g-gilbert-iii",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12086",
+      "path": "officials/us-county-12086-official-oliver-g-gilbert-iii.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12086-official-marleine-bastien",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12086",
+      "path": "officials/us-county-12086-official-marleine-bastien.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12086-official-keon-hardemon",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12086",
+      "path": "officials/us-county-12086-official-keon-hardemon.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12086-official-micky-steinberg",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12086",
+      "path": "officials/us-county-12086-official-micky-steinberg.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12086-official-vicki-l-lopez",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12086",
+      "path": "officials/us-county-12086-official-vicki-l-lopez.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12086-official-natalie-milian-orbis",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12086",
+      "path": "officials/us-county-12086-official-natalie-milian-orbis.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12086-official-raquel-a-regalado",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12086",
+      "path": "officials/us-county-12086-official-raquel-a-regalado.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12086-official-danielle-cohen-higgins",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12086",
+      "path": "officials/us-county-12086-official-danielle-cohen-higgins.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12086-official-kionne-l-mcghee",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12086",
+      "path": "officials/us-county-12086-official-kionne-l-mcghee.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12086-official-anthony-rodriguez",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12086",
+      "path": "officials/us-county-12086-official-anthony-rodriguez.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12086-official-roberto-j-gonzalez",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12086",
+      "path": "officials/us-county-12086-official-roberto-j-gonzalez.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12086-official-juan-carlos-jc-bermudez",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12086",
+      "path": "officials/us-county-12086-official-juan-carlos-jc-bermudez.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12086-official-rené-garcia",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12086",
+      "path": "officials/us-county-12086-official-rené-garcia.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12086-official-daniella-levine-cava",
+      "kind": "official",
+      "jurisdiction_id": "us-county-12086",
+      "path": "officials/us-county-12086-official-daniella-levine-cava.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-tara-s-stamps",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-tara-s-stamps.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-michael-scott-jr",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-michael-scott-jr.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-bill-lowry",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-bill-lowry.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-stanley-moore",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-stanley-moore.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-dr-kisha-mccaskill",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-dr-kisha-mccaskill.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-donna-miller",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-donna-miller.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-alma-anaya",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-alma-anaya.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-jessica-vásquez",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-jessica-vásquez.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-maggie-trevor",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-maggie-trevor.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-bridget-gainer",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-bridget-gainer.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-john-p-daley",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-john-p-daley.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-bridget-degnen",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-bridget-degnen.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-josina-morita",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-josina-morita.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-scott-r-britton",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-scott-r-britton.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-kevin-b-morrison",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-kevin-b-morrison.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-frank-j-aguilar",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-frank-j-aguilar.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-sean-m-morrison",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-sean-m-morrison.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-official-toni-preckwinkle",
+      "kind": "official",
+      "jurisdiction_id": "us-county-17031",
+      "path": "officials/us-county-17031-official-toni-preckwinkle.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-27007-official-craig-gaasvig",
+      "kind": "official",
+      "jurisdiction_id": "us-county-27007",
+      "path": "officials/us-county-27007-official-craig-gaasvig.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-27007-official-joe-gould",
+      "kind": "official",
+      "jurisdiction_id": "us-county-27007",
+      "path": "officials/us-county-27007-official-joe-gould.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-27007-official-scott-winger",
+      "kind": "official",
+      "jurisdiction_id": "us-county-27007",
+      "path": "officials/us-county-27007-official-scott-winger.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-27007-official-tim-sumner",
+      "kind": "official",
+      "jurisdiction_id": "us-county-27007",
+      "path": "officials/us-county-27007-official-tim-sumner.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-27007-official-john-carlson",
+      "kind": "official",
+      "jurisdiction_id": "us-county-27007",
+      "path": "officials/us-county-27007-official-john-carlson.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-antonio-reynoso",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-antonio-reynoso.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-lincoln-restler",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-lincoln-restler.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-jennifer-gutiérrez",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-jennifer-gutiérrez.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-crystal-hudson",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-crystal-hudson.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-chi-ossé",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-chi-ossé.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-sandy-nurse",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-sandy-nurse.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-alexa-avilés",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-alexa-avilés.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-shahana-hanif",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-shahana-hanif.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-rita-c-joseph",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-rita-c-joseph.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-darlene-mealy",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-darlene-mealy.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-chris-banks",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-chris-banks.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-susan-zhuang",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-susan-zhuang.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-simcha-felder",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-simcha-felder.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-farah-n-louis",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-farah-n-louis.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-mercedes-narcisse",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-mercedes-narcisse.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-kayla-santosuosso",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-kayla-santosuosso.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-inna-vernikov",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-inna-vernikov.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-36047-official-david-carr",
+      "kind": "official",
+      "jurisdiction_id": "us-county-36047",
+      "path": "officials/us-county-36047-official-david-carr.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-48113-official-clay-lewis-jenkins",
+      "kind": "official",
+      "jurisdiction_id": "us-county-48113",
+      "path": "officials/us-county-48113-official-clay-lewis-jenkins.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-48113-official-dr-theresa-daniel",
+      "kind": "official",
+      "jurisdiction_id": "us-county-48113",
+      "path": "officials/us-county-48113-official-dr-theresa-daniel.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-48113-official-andy-sommerman",
+      "kind": "official",
+      "jurisdiction_id": "us-county-48113",
+      "path": "officials/us-county-48113-official-andy-sommerman.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-48113-official-john-wiley-price",
+      "kind": "official",
+      "jurisdiction_id": "us-county-48113",
+      "path": "officials/us-county-48113-official-john-wiley-price.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-48113-official-dr-elba-garcia",
+      "kind": "official",
+      "jurisdiction_id": "us-county-48113",
+      "path": "officials/us-county-48113-official-dr-elba-garcia.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-48113-official-darryl-martin",
+      "kind": "official",
+      "jurisdiction_id": "us-county-48113",
+      "path": "officials/us-county-48113-official-darryl-martin.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-48201-official-lina-hidalgo",
+      "kind": "official",
+      "jurisdiction_id": "us-county-48201",
+      "path": "officials/us-county-48201-official-lina-hidalgo.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-48201-official-rodney-ellis",
+      "kind": "official",
+      "jurisdiction_id": "us-county-48201",
+      "path": "officials/us-county-48201-official-rodney-ellis.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-48201-official-adrian-garcia",
+      "kind": "official",
+      "jurisdiction_id": "us-county-48201",
+      "path": "officials/us-county-48201-official-adrian-garcia.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-48201-official-tom-s-ramsey",
+      "kind": "official",
+      "jurisdiction_id": "us-county-48201",
+      "path": "officials/us-county-48201-official-tom-s-ramsey.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-48201-official-lesley-briones",
+      "kind": "official",
+      "jurisdiction_id": "us-county-48201",
+      "path": "officials/us-county-48201-official-lesley-briones.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-04013-body-board-of-supervisors",
+      "kind": "body",
+      "jurisdiction_id": "us-county-04013",
+      "path": "bodies/us-county-04013-body-board-of-supervisors.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06037-body-board-of-supervisors",
+      "kind": "body",
+      "jurisdiction_id": "us-county-06037",
+      "path": "bodies/us-county-06037-body-board-of-supervisors.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06059-body-board-of-supervisors",
+      "kind": "body",
+      "jurisdiction_id": "us-county-06059",
+      "path": "bodies/us-county-06059-body-board-of-supervisors.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06065-body-board-of-supervisors",
+      "kind": "body",
+      "jurisdiction_id": "us-county-06065",
+      "path": "bodies/us-county-06065-body-board-of-supervisors.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-06073-body-board-of-supervisors",
+      "kind": "body",
+      "jurisdiction_id": "us-county-06073",
+      "path": "bodies/us-county-06073-body-board-of-supervisors.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12055-body-board-of-county-commissioners",
+      "kind": "body",
+      "jurisdiction_id": "us-county-12055",
+      "path": "bodies/us-county-12055-body-board-of-county-commissioners.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-12086-body-board-of-county-commissioners",
+      "kind": "body",
+      "jurisdiction_id": "us-county-12086",
+      "path": "bodies/us-county-12086-body-board-of-county-commissioners.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-17031-body-board-of-commissioners",
+      "kind": "body",
+      "jurisdiction_id": "us-county-17031",
+      "path": "bodies/us-county-17031-body-board-of-commissioners.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-27007-body-board-of-commissioners",
+      "kind": "body",
+      "jurisdiction_id": "us-county-27007",
+      "path": "bodies/us-county-27007-body-board-of-commissioners.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-48113-body-commissioners-court",
+      "kind": "body",
+      "jurisdiction_id": "us-county-48113",
+      "path": "bodies/us-county-48113-body-commissioners-court.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-48201-body-commissioners-court",
+      "kind": "body",
+      "jurisdiction_id": "us-county-48201",
+      "path": "bodies/us-county-48201-body-commissioners-court.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "us-county-42101-body-city-council",
+      "kind": "body",
+      "jurisdiction_id": "us-county-42101",
+      "path": "bodies/us-county-42101-body-city-council.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "federal-contact",
+      "kind": "guidance",
+      "jurisdiction_id": "federal",
+      "path": "guidance/federal-contact.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "state-contact",
+      "kind": "guidance",
+      "jurisdiction_id": "state",
+      "path": "guidance/state-contact.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "county-public-comment",
+      "kind": "guidance",
+      "jurisdiction_id": "county",
+      "path": "guidance/county-public-comment.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    },
+    {
+      "id": "city-public-comment",
+      "kind": "guidance",
+      "jurisdiction_id": "city",
+      "path": "guidance/city-public-comment.json",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "version": "a11 r3"
+}

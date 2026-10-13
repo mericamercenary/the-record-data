@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "jurisdiction_id": "us-ma",
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "mode": "directory-only",
+  "members": "UNKNOWN",
+  "directory_status": "verified",
+  "member_directory": [
+    {
+      "chamber": "lower",
+      "directory_url": {
+        "value": "https://malegislature.gov/Legislators/Members/House",
+        "source_url": "https://malegislature.gov/Legislators/Members/House"
+      },
+      "as_of": "2026-10-11T02:22:20-04:00"
+    }
+  ],
+  "contact_page_pattern": "UNKNOWN",
+  "collected_at": "2026-10-11T02:25:00-04:00"
+}

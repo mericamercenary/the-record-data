@@ -1,0 +1,128 @@
+{
+  "guidance_id": "state-contact",
+  "section": "state",
+  "items": [
+    {
+      "topic": "identify_as_constituent",
+      "text": "Example from one state legislature (Hawaii): if you live in their district and are a constituent, let them know.",
+      "citations": [
+        {
+          "source_url": "https://lrb.hawaii.gov/par/how-to-communicate-with-legislators/",
+          "title": "How to Communicate with Legislators – LRB – Public Access Room",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true,
+          "example_jurisdiction": "HI"
+        }
+      ]
+    },
+    {
+      "topic": "name_bill_or_issue",
+      "text": "Example from state legislatures: identify your issue at the beginning. In Washington you can look up a bill by number before you comment.",
+      "citations": [
+        {
+          "source_url": "https://www.capitol.tn.gov/help/contacting.html",
+          "title": "Communicating - TN General Assembly",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true,
+          "example_jurisdiction": "TN"
+        },
+        {
+          "source_url": "https://leg.wa.gov/bills-meetings-and-session/bills/how-to-comment-on-a-bill/",
+          "title": "Washington State Legislature – Comment on a bill",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true,
+          "example_jurisdiction": "WA"
+        }
+      ]
+    },
+    {
+      "topic": "one_clear_request",
+      "text": "Example from state legislatures: address one issue per message and state its purpose clearly.",
+      "citations": [
+        {
+          "source_url": "https://vga.virginia.gov/engage/participation-public-comment/writing-to-your-legislators/",
+          "title": "Writing to Your Legislators – Virginia General Assembly",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true,
+          "example_jurisdiction": "VA"
+        },
+        {
+          "source_url": "https://www.flsenate.gov/About/EffectiveCommunication",
+          "title": "Effective Communication With a Legislator - The Florida Senate",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true,
+          "example_jurisdiction": "FL"
+        }
+      ]
+    },
+    {
+      "topic": "keep_short",
+      "text": "Example from state legislatures: keep letters brief, if possible no more than one page.",
+      "citations": [
+        {
+          "source_url": "https://vga.virginia.gov/engage/participation-public-comment/writing-to-your-legislators/",
+          "title": "Writing to Your Legislators – Virginia General Assembly",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true,
+          "example_jurisdiction": "VA"
+        },
+        {
+          "source_url": "https://www.capitol.tn.gov/help/contacting.html",
+          "title": "Communicating - TN General Assembly",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true,
+          "example_jurisdiction": "TN"
+        }
+      ]
+    },
+    {
+      "topic": "be_respectful",
+      "text": "Example from state legislatures: be courteous and polite, even if you disagree strongly.",
+      "citations": [
+        {
+          "source_url": "https://vga.virginia.gov/engage/participation-public-comment/writing-to-your-legislators/",
+          "title": "Writing to Your Legislators – Virginia General Assembly",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true,
+          "example_jurisdiction": "VA"
+        },
+        {
+          "source_url": "https://www.capitol.tn.gov/help/contacting.html",
+          "title": "Communicating - TN General Assembly",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true,
+          "example_jurisdiction": "TN"
+        },
+        {
+          "source_url": "https://lrb.hawaii.gov/par/how-to-communicate-with-legislators/",
+          "title": "How to Communicate with Legislators – LRB – Public Access Room",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true,
+          "example_jurisdiction": "HI"
+        }
+      ]
+    },
+    {
+      "topic": "how_to_reach_you",
+      "text": "Example from state legislatures: include your contact information so the office can respond.",
+      "citations": [
+        {
+          "source_url": "https://vga.virginia.gov/engage/participation-public-comment/writing-to-your-legislators/",
+          "title": "Writing to Your Legislators – Virginia General Assembly",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true,
+          "example_jurisdiction": "VA"
+        },
+        {
+          "source_url": "https://www.capitol.tn.gov/help/contacting.html",
+          "title": "Communicating - TN General Assembly",
+          "as_of": "2026-10-11T01:33:43-04:00",
+          "example_source": true,
+          "example_jurisdiction": "TN"
+        }
+      ]
+    }
+  ],
+  "version": 2,
+  "updated_at": "2026-10-11T01:46:42-04:00"
+}

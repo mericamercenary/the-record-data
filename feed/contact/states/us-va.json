@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "jurisdiction_id": "us-va",
+  "state": "VA",
+  "state_name": "Virginia",
+  "mode": "directory-only",
+  "members": "UNKNOWN",
+  "directory_status": "verified",
+  "member_directory": [
+    {
+      "chamber": "upper",
+      "directory_url": {
+        "value": "https://apps.senate.virginia.gov/Senator/index.php",
+        "source_url": "https://vga.virginia.gov/engage/members-and-committees/"
+      },
+      "as_of": "2026-10-11T02:23:16-04:00"
+    },
+    {
+      "chamber": "lower",
+      "directory_url": {
+        "value": "https://house.vga.virginia.gov/members",
+        "source_url": "https://vga.virginia.gov/engage/members-and-committees/"
+      },
+      "as_of": "2026-10-11T02:23:18-04:00"
+    }
+  ],
+  "contact_page_pattern": "UNKNOWN",
+  "collected_at": "2026-10-11T02:25:00-04:00"
+}

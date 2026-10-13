@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "jurisdiction_id": "us-ca",
+  "state": "CA",
+  "state_name": "California",
+  "mode": "directory-only",
+  "members": "UNKNOWN",
+  "directory_status": "verified",
+  "member_directory": [
+    {
+      "chamber": "lower",
+      "directory_url": {
+        "value": "https://www.assembly.ca.gov/assemblymembers",
+        "source_url": "https://www.assembly.ca.gov/assemblymembers"
+      },
+      "as_of": "2026-10-11T02:21:54-04:00"
+    },
+    {
+      "chamber": "upper",
+      "directory_url": {
+        "value": "https://www.senate.ca.gov/senators",
+        "source_url": "https://www.senate.ca.gov/senators"
+      },
+      "as_of": "2026-10-11T02:21:56-04:00"
+    }
+  ],
+  "contact_page_pattern": "UNKNOWN",
+  "collected_at": "2026-10-11T02:25:00-04:00"
+}

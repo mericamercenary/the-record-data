@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "body_id": "us-county-06037-body-board-of-supervisors",
+  "schedule_text": {
+    "value": "Meetings of the Board of Supervisors are held on Tuesdays at 9:30 a.m. at 500 West Temple Street, Room 381B, at the Kenneth Hahn Hall of Administration in Los Angeles.",
+    "source_url": "https://bos.lacounty.gov/board-meeting-information/",
+    "as_of": "2026-10-11T02:06:20-04:00"
+  },
+  "meetings": [
+    {
+      "start": {
+        "date": {
+          "value": "2026-10-20",
+          "source_url": "https://bos.lacounty.gov/board-meeting-agendas/"
+        },
+        "time": "UNKNOWN"
+      },
+      "place": "UNKNOWN",
+      "source_url": "https://bos.lacounty.gov/board-meeting-agendas/",
+      "meeting_type": {
+        "value": "Regular Board Meeting",
+        "source_url": "https://bos.lacounty.gov/board-meeting-agendas/"
+      },
+      "as_of": "2026-10-11T02:06:20-04:00"
+    }
+  ],
+  "public_comment_signup": {
+    "value": "To Submit Written Comments: To provide written comments on agenda items, use the following link: Public Comment Complete information at the top of the comment page ( Note : First and Last names are required fields.) Choose the agenda item(s) that you wish to address.",
+    "source_url": "https://bos.lacounty.gov/board-meeting-information",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "virtual_attendance": {
+    "value": {
+      "method": "To Listen Only: Call (213) 444-2600 Press * (Star), after following the prompts, press “1”",
+      "url": "https://bos.lacounty.gov/board-meeting-agendas/live-broadcast"
+    },
+    "source_url": "https://bos.lacounty.gov/board-meeting-information",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "comment_rules": {
+    "value": "Time allotted may change at the Chair’s discretion. Speakers may be allowed to speak up to 6 minutes each meeting.",
+    "source_url": "https://bos.lacounty.gov/board-meeting-information",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "public_forums": "UNKNOWN",
+  "collected_at": "2026-10-11T02:06:20-04:00"
+}

@@ -1,0 +1,55 @@
+{
+  "guidance_id": "federal-contact",
+  "section": "federal",
+  "items": [
+    {
+      "topic": "identify_as_constituent",
+      "text": "The Senate says questions and requests should go to the senators from your state, and that many senators acknowledge but do not respond to messages from another senator's constituent. House.gov's Find Your Representative tool matches a ZIP code to a district.",
+      "citations": [
+        {
+          "source_url": "https://www.senate.gov/senators/senators-contact.htm",
+          "title": "Contacting U.S. Senators",
+          "as_of": "2026-10-11T01:33:43-04:00"
+        },
+        {
+          "source_url": "https://www.house.gov/representatives/find-your-representative",
+          "title": "Find Your Representative | house.gov",
+          "as_of": "2026-10-11T01:33:43-04:00"
+        }
+      ]
+    },
+    {
+      "topic": "name_bill_or_issue",
+      "text": "UNKNOWN",
+      "citations": "UNKNOWN"
+    },
+    {
+      "topic": "one_clear_request",
+      "text": "UNKNOWN",
+      "citations": "UNKNOWN"
+    },
+    {
+      "topic": "keep_short",
+      "text": "UNKNOWN",
+      "citations": "UNKNOWN"
+    },
+    {
+      "topic": "be_respectful",
+      "text": "UNKNOWN",
+      "citations": "UNKNOWN"
+    },
+    {
+      "topic": "how_to_reach_you",
+      "text": "The Senate asks that you include your return postal mailing address when you write to a Senate office.",
+      "citations": [
+        {
+          "source_url": "https://www.senate.gov/senators/senators-contact.htm",
+          "title": "Contacting U.S. Senators",
+          "as_of": "2026-10-11T01:33:43-04:00"
+        }
+      ]
+    }
+  ],
+  "version": 3,
+  "updated_at": "2026-10-11T01:34:16-04:00"
+}

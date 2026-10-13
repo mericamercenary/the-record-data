@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "jurisdiction_id": "us-sc",
+  "state": "SC",
+  "state_name": "South Carolina",
+  "mode": "directory-only",
+  "members": "UNKNOWN",
+  "directory_status": "verified",
+  "member_directory": [
+    {
+      "chamber": "lower",
+      "directory_url": {
+        "value": "https://www.scstatehouse.gov/member.php?chamber=H",
+        "source_url": "https://www.scstatehouse.gov/member.php?chamber=H"
+      },
+      "as_of": "2026-10-11T02:23:08-04:00"
+    }
+  ],
+  "contact_page_pattern": "UNKNOWN",
+  "collected_at": "2026-10-11T02:25:00-04:00"
+}

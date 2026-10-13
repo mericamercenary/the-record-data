@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "official_ref": {
+    "bioguide_id": "L000562"
+  },
+  "name": "Stephen F. Lynch",
+  "chamber": "house",
+  "state_district": "MA08",
+  "jurisdiction_id": "us-congress",
+  "official_site": {
+    "value": "https://lynch.house.gov/",
+    "source_url": "https://www.house.gov/representatives",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "contact_form": {
+    "value": "https://lynch.house.gov/email-me",
+    "source_url": "https://lynch.house.gov/email-me",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "office_phones": [
+    {
+      "label": "Washington Office",
+      "value": "(202) 225-8273",
+      "source_url": "https://clerk.house.gov/xml/lists/MemberData.xml",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "office_addresses": [
+    {
+      "label": "Washington Office",
+      "building": "RHOB",
+      "street": null,
+      "room": "2109",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20515-2108",
+      "source_url": "https://clerk.house.gov/xml/lists/MemberData.xml",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "district_offices": "UNKNOWN",
+  "testify_instructions": "UNKNOWN",
+  "collected_at": "2026-10-11T01:31:00-04:00",
+  "notes": [
+    "District offices: no bulk official source; per-member parsing not done this run (UNKNOWN). Clerk 'townname' (hometown) deliberately excluded."
+  ]
+}

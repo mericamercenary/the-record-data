@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "jurisdiction_id": "us-md",
+  "state": "MD",
+  "state_name": "Maryland",
+  "mode": "directory-only",
+  "members": "UNKNOWN",
+  "directory_status": "verified",
+  "member_directory": [
+    {
+      "chamber": "lower",
+      "directory_url": {
+        "value": "https://mgaleg.maryland.gov/mgawebsite/Members/Index/house",
+        "source_url": "https://mgaleg.maryland.gov/mgawebsite/Members/Index/house"
+      },
+      "as_of": "2026-10-11T02:22:22-04:00"
+    }
+  ],
+  "contact_page_pattern": "UNKNOWN",
+  "collected_at": "2026-10-11T02:25:00-04:00"
+}

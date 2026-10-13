@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "official_ref": {
+    "bioguide_id": "W000788"
+  },
+  "name": "Nikema Williams",
+  "chamber": "house",
+  "state_district": "GA05",
+  "jurisdiction_id": "us-congress",
+  "official_site": {
+    "value": "https://nikemawilliams.house.gov",
+    "source_url": "https://www.house.gov/representatives",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "contact_form": {
+    "value": "https://nikemawilliams.house.gov/contact",
+    "source_url": "https://nikemawilliams.house.gov/contact",
+    "as_of": "2026-10-11T01:31:00-04:00"
+  },
+  "office_phones": [
+    {
+      "label": "Washington Office",
+      "value": "(202) 225-3801",
+      "source_url": "https://clerk.house.gov/xml/lists/MemberData.xml",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "office_addresses": [
+    {
+      "label": "Washington Office",
+      "building": "LHOB",
+      "street": null,
+      "room": "1406",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20515-1005",
+      "source_url": "https://clerk.house.gov/xml/lists/MemberData.xml",
+      "as_of": "2026-10-11T01:31:00-04:00"
+    }
+  ],
+  "district_offices": "UNKNOWN",
+  "testify_instructions": "UNKNOWN",
+  "collected_at": "2026-10-11T01:31:00-04:00",
+  "notes": [
+    "District offices: no bulk official source; per-member parsing not done this run (UNKNOWN). Clerk 'townname' (hometown) deliberately excluded."
+  ]
+}
