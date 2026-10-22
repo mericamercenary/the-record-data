@@ -1,11 +1,11 @@
 {
   "bundle": "cities-full",
   "schema_version": 1,
-  "version": "2026-10-19",
-  "generated_at": "2026-10-19T08:22:46-04:00",
+  "version": "2026-10-22",
+  "generated_at": "2026-10-22T08:23:02-04:00",
   "window": {
-    "from": "2026-10-19",
-    "to": "2026-12-18"
+    "from": "2026-10-22",
+    "to": "2026-12-21"
   },
   "cities": [
     {
@@ -18,7 +18,7 @@
         "summary": "The Phoenix City Council is a mayor and eight councilmembers, one for each district, elected on a non-partisan ballot for four-year terms.",
         "source": {
           "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
-          "retrieved": "2026-10-19"
+          "retrieved": "2026-10-22"
         }
       },
       "officials": [
@@ -29,7 +29,7 @@
           "role": null,
           "source": {
             "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -39,7 +39,7 @@
           "role": null,
           "source": {
             "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -49,7 +49,7 @@
           "role": null,
           "source": {
             "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -59,7 +59,7 @@
           "role": null,
           "source": {
             "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -69,7 +69,7 @@
           "role": null,
           "source": {
             "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -79,7 +79,7 @@
           "role": null,
           "source": {
             "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -89,7 +89,7 @@
           "role": null,
           "source": {
             "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -99,7 +99,7 @@
           "role": null,
           "source": {
             "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -109,7 +109,7 @@
           "role": "Vice Mayor",
           "source": {
             "url": "https://www.phoenix.gov/administration/mayorcouncil.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         }
       ],
@@ -123,26 +123,17 @@
         "sources": [
           {
             "url": "https://www.phoenix.gov/contact-us.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         ]
       },
       "schedule": [],
-      "meetings": [
-        {
-          "body": "City Council Formal Meeting",
-          "date": "2026-10-21",
-          "time": "2:30 PM",
-          "location": null,
-          "agenda_url": null,
-          "details_url": "https://phoenix.legistar.com/MeetingDetail.aspx?LEGID=2601&GID=485&G=3F9B5896-D56F-4AD3-85AD-A8E5E58DD74C"
-        }
-      ],
+      "meetings": [],
       "meetings_source": {
         "name": "Phoenix City Council meetings (Legistar)",
         "url": "https://phoenix.legistar.com/Calendar.aspx",
         "method": "legistar-api",
-        "fetched_at": "2026-10-19T08:22:46-04:00"
+        "fetched_at": "2026-10-22T08:23:02-04:00"
       },
       "meetings_note": null,
       "official_hosts": [
@@ -164,7 +155,7 @@
         "summary": "Los Angeles has a mayor and a 15-member City Council. Voters elect the mayor, the city attorney, and the controller citywide, and one councilmember in each of 15 districts.",
         "source": {
           "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-          "retrieved": "2026-10-19"
+          "retrieved": "2026-10-22"
         }
       },
       "officials": [
@@ -175,7 +166,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -185,7 +176,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -195,7 +186,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -205,7 +196,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -215,7 +206,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -225,7 +216,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -235,7 +226,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -245,7 +236,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -255,7 +246,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -265,7 +256,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -275,7 +266,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -285,7 +276,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -295,7 +286,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -305,7 +296,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -315,7 +306,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -325,7 +316,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -335,7 +326,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -345,7 +336,7 @@
           "role": null,
           "source": {
             "url": "https://clerk.lacity.gov/articles/current-elected-officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         }
       ],
@@ -359,7 +350,7 @@
         "sources": [
           {
             "url": "https://lacity.gov/government/city-hall-locations",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         ]
       },
@@ -370,7 +361,7 @@
           "location": "John Ferraro Council Chambers (Room 340), Los Angeles City Hall",
           "source": {
             "url": "https://clerk.lacity.gov/calendar",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         }
       ],
@@ -393,7 +384,7 @@
         "summary": "San Diego has a mayor and a nine-member City Council, one councilmember for each district. The city's page also lists its City Attorney.",
         "source": {
           "url": "https://www.sandiego.gov/citycouncil",
-          "retrieved": "2026-10-19"
+          "retrieved": "2026-10-22"
         }
       },
       "officials": [
@@ -404,7 +395,7 @@
           "role": null,
           "source": {
             "url": "https://www.sandiego.gov/citycouncil",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -414,7 +405,7 @@
           "role": null,
           "source": {
             "url": "https://www.sandiego.gov/citycouncil",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -424,7 +415,7 @@
           "role": "Council President",
           "source": {
             "url": "https://www.sandiego.gov/citycouncil",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -434,7 +425,7 @@
           "role": null,
           "source": {
             "url": "https://www.sandiego.gov/citycouncil",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -444,7 +435,7 @@
           "role": null,
           "source": {
             "url": "https://www.sandiego.gov/citycouncil",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -454,7 +445,7 @@
           "role": null,
           "source": {
             "url": "https://www.sandiego.gov/citycouncil",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -464,7 +455,7 @@
           "role": null,
           "source": {
             "url": "https://www.sandiego.gov/citycouncil",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -474,7 +465,7 @@
           "role": "Council President Pro Tem",
           "source": {
             "url": "https://www.sandiego.gov/citycouncil",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -484,7 +475,7 @@
           "role": null,
           "source": {
             "url": "https://www.sandiego.gov/citycouncil",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -494,7 +485,7 @@
           "role": null,
           "source": {
             "url": "https://www.sandiego.gov/citycouncil",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -504,7 +495,7 @@
           "role": null,
           "source": {
             "url": "https://www.sandiego.gov/citycouncil",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         }
       ],
@@ -518,7 +509,7 @@
         "sources": [
           {
             "url": "https://www.sandiego.gov/contact",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         ]
       },
@@ -526,26 +517,26 @@
       "meetings": [
         {
           "body": "City Council: Closed Session",
-          "date": "2026-10-19",
+          "date": "2026-10-26",
           "time": "10:00 AM",
           "location": null,
-          "agenda_url": "https://www.sandiego.gov/211agendaonlinecouncil/Meetings/ViewMeeting?id=7220&doctype=1&site=council",
+          "agenda_url": "https://www.sandiego.gov/211agendaonlinecouncil/Meetings/ViewMeeting?id=7234&doctype=1&site=council",
           "details_url": null
         },
         {
-          "body": "City Council: Monday Agenda Revised Added S400",
-          "date": "2026-10-19",
+          "body": "City Council: Monday Agenda",
+          "date": "2026-10-26",
           "time": "10:00 AM",
           "location": null,
-          "agenda_url": "https://www.sandiego.gov/211agendaonlinecouncil/Meetings/ViewMeeting?id=7211&doctype=1&site=council",
+          "agenda_url": "https://www.sandiego.gov/211agendaonlinecouncil/Meetings/ViewMeeting?id=7218&doctype=1&site=council",
           "details_url": null
         },
         {
-          "body": "City Council: Tuesday Agenda Revised Added S500-S504",
-          "date": "2026-10-20",
+          "body": "City Council: Tuesday Agenda Revised Added S500-S502",
+          "date": "2026-10-27",
           "time": "10:00 AM",
           "location": null,
-          "agenda_url": "https://www.sandiego.gov/211agendaonlinecouncil/Meetings/ViewMeeting?id=7212&doctype=1&site=council",
+          "agenda_url": "https://www.sandiego.gov/211agendaonlinecouncil/Meetings/ViewMeeting?id=7217&doctype=1&site=council",
           "details_url": null
         }
       ],
@@ -553,7 +544,7 @@
         "name": "San Diego City Council agendas (City Clerk)",
         "url": "https://www.sandiego.gov/city-clerk/officialdocs/council-agendas-minutes-results",
         "method": "onbase-agenda",
-        "fetched_at": "2026-10-19T08:22:46-04:00"
+        "fetched_at": "2026-10-22T08:23:02-04:00"
       },
       "meetings_note": null,
       "official_hosts": [
@@ -571,7 +562,7 @@
         "summary": "Lake Placid has a mayor/council form of government: voters elect a mayor and four Town Council members to four-year terms, and the council picks one member as vice mayor each year.",
         "source": {
           "url": "https://www.lakeplacidfl.net/201/Elected-Officials",
-          "retrieved": "2026-10-19"
+          "retrieved": "2026-10-22"
         }
       },
       "officials": [
@@ -582,7 +573,7 @@
           "role": null,
           "source": {
             "url": "https://www.lakeplacidfl.net/directory.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -602,7 +593,7 @@
           "role": null,
           "source": {
             "url": "https://www.lakeplacidfl.net/directory.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -612,7 +603,7 @@
           "role": null,
           "source": {
             "url": "https://www.lakeplacidfl.net/directory.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -622,7 +613,7 @@
           "role": null,
           "source": {
             "url": "https://www.lakeplacidfl.net/directory.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         }
       ],
@@ -636,7 +627,7 @@
         "sources": [
           {
             "url": "https://www.lakeplacidfl.net/201/Elected-Officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         ]
       },
@@ -647,19 +638,11 @@
           "location": "Council Chambers, Lake Placid Government Center, 1069 U.S. Highway 27 N",
           "source": {
             "url": "https://www.lakeplacidfl.net/201/Elected-Officials",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         }
       ],
       "meetings": [
-        {
-          "body": "Town Council Regular Meeting",
-          "date": "2026-10-19",
-          "time": "5:30 PM",
-          "location": "Town of Lake Placid Government Center Council Chanbers, 1069 US Highway 27, N",
-          "agenda_url": null,
-          "details_url": "https://www.lakeplacidfl.net/Calendar.aspx?EID=382"
-        },
         {
           "body": "Town of Lake Placid Local Planning Agency/Board of Adjustments",
           "date": "2026-11-02",
@@ -715,13 +698,21 @@
           "location": "Town of Lake Placid Government Center, Council Chambers, 1069 US Highway 27, N",
           "agenda_url": null,
           "details_url": "https://www.lakeplacidfl.net/Calendar.aspx?EID=285"
+        },
+        {
+          "body": "Town Council Regular Meeting",
+          "date": "2026-12-21",
+          "time": "5:30 PM",
+          "location": "Town of Lake Placid Government Center Council Chanbers, 1069 US Highway 27, N",
+          "agenda_url": null,
+          "details_url": "https://www.lakeplacidfl.net/Calendar.aspx?EID=384"
         }
       ],
       "meetings_source": {
         "name": "Town of Lake Placid calendar",
         "url": "https://www.lakeplacidfl.net/calendar.aspx",
         "method": "civicplus-calendar",
-        "fetched_at": "2026-10-19T08:22:46-04:00"
+        "fetched_at": "2026-10-22T08:23:02-04:00"
       },
       "meetings_note": null,
       "official_hosts": [
@@ -739,7 +730,7 @@
         "summary": "Chicago has a mayor and a 50-member City Council. Voters elect the mayor citywide and one alderperson in each of 50 wards.",
         "source": {
           "url": "https://www.chicago.gov/city/en/about/wards.html",
-          "retrieved": "2026-10-19"
+          "retrieved": "2026-10-22"
         }
       },
       "officials": [
@@ -750,7 +741,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/depts/mayor.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -760,7 +751,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -770,7 +761,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -780,7 +771,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -790,7 +781,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -800,7 +791,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -810,7 +801,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -820,7 +811,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -830,7 +821,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -840,7 +831,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -850,7 +841,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -860,7 +851,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -870,7 +861,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -880,7 +871,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -890,7 +881,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -900,7 +891,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -910,7 +901,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -920,7 +911,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -930,7 +921,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -940,7 +931,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -950,7 +941,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -960,7 +951,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -970,7 +961,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -980,7 +971,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -990,7 +981,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1000,7 +991,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1010,7 +1001,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1020,7 +1011,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1030,7 +1021,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1040,7 +1031,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1050,7 +1041,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1060,7 +1051,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1070,7 +1061,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1080,7 +1071,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1090,7 +1081,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1100,7 +1091,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1110,7 +1101,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1120,7 +1111,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1130,7 +1121,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1140,7 +1131,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1150,7 +1141,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1160,7 +1151,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1170,7 +1161,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1180,7 +1171,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1190,7 +1181,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1200,7 +1191,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1210,7 +1201,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1220,7 +1211,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1230,7 +1221,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1240,7 +1231,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1250,7 +1241,7 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/about/wards.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         }
       ],
@@ -1266,31 +1257,23 @@
         "sources": [
           {
             "url": "https://www.chicityclerk.com/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           },
           {
             "url": "https://www.chicago.gov/city/en/depts/311.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         ]
       },
       "schedule": [],
       "meetings": [
         {
-          "body": "Committee on Contracting Oversight and Equity",
-          "date": "2026-10-20",
-          "time": "1:30 PM",
-          "location": "201A, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
-          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/ccf66c0c-aaef-4f83-9f3d-e26e4089504f.pdf",
-          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=6AC88818-A8C8-F111-AAAE-001DD80B58E5"
-        },
-        {
-          "body": "City Council",
-          "date": "2026-10-21",
-          "time": "10:00 AM",
+          "body": "Committee on Budget and Government Operations",
+          "date": "2026-10-23",
+          "time": "11:00 AM",
           "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
-          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/ca2f38df-9d98-4458-87c0-69c0b3d6228d.pdf",
-          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=6AE8B3E3-86C9-F111-AAAE-001DD80FDA55"
+          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c740d6fe-9c12-44d2-b2fd-d98395215984.pdf",
+          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=54F057FC-81CC-F111-A05C-001DD80B58E5"
         },
         {
           "body": "Committee on Budget and Government Operations",
@@ -1305,7 +1288,7 @@
           "date": "2026-10-27",
           "time": "9:30 AM",
           "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
-          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/0e7ec177-a445-4555-8fe1-eca6a7094e39.pdf",
+          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/a56530b4-2ac9-4cce-be1d-ad275557922e.pdf",
           "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=851CA01E-91C9-F111-AAAE-001DD80B58E5"
         },
         {
@@ -1313,7 +1296,7 @@
           "date": "2026-10-28",
           "time": "9:30 AM",
           "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
-          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/5bd7df65-8485-4772-a4cc-ba5dbc5b5555.pdf",
+          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7c081e42-66fe-4ca5-af0c-2b14f3dcef4f.pdf",
           "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=2D73B4D3-91C9-F111-AAAE-001DD80B58E5"
         },
         {
@@ -1321,7 +1304,7 @@
           "date": "2026-10-29",
           "time": "9:30 AM",
           "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
-          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/d1f0f7b0-a8d8-426f-9cfa-fa11a1f39324.pdf",
+          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e5732fb9-f11f-4d90-9b3e-e80ad1397aac.pdf",
           "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=31EFF839-92C9-F111-AAAE-001DD80B58E5"
         },
         {
@@ -1329,7 +1312,7 @@
           "date": "2026-11-04",
           "time": "9:30 AM",
           "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
-          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/4959837d-c730-4464-9718-5c75f21e0b31.pdf",
+          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/077463a6-1b09-4ba7-9ab7-3dfd2f0c7cef.pdf",
           "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=8A97D1CA-92C9-F111-AAAE-001DD80B58E5"
         },
         {
@@ -1337,7 +1320,7 @@
           "date": "2026-11-05",
           "time": "9:30 AM",
           "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
-          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/a7ee866d-f413-493a-8b8d-f51b6b8efe68.pdf",
+          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c3b7092e-1eb7-4259-b45f-97c49adebde1.pdf",
           "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=93474B73-93C9-F111-AAAE-001DD80B58E5"
         },
         {
@@ -1361,7 +1344,7 @@
           "date": "2026-11-10",
           "time": "9:30 AM",
           "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
-          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/b9a82d43-2686-45a9-8566-df723d98a221.pdf",
+          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c427ef01-6eb2-4e9e-9ad9-1a84e4472c5a.pdf",
           "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=D7BBF3E9-94C9-F111-AAAE-001DD80B58E5"
         },
         {
@@ -1373,11 +1356,43 @@
           "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=69A07090-79C9-F111-AAAE-001DD80FDA55"
         },
         {
+          "body": "Committee on Economic, Capital and Technology Development",
+          "date": "2026-11-12",
+          "time": "11:00 AM",
+          "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
+          "agenda_url": null,
+          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=247DE37C-CBCC-F111-A05B-001DD80FDA55"
+        },
+        {
+          "body": "Committee on Economic, Capital and Technology Development",
+          "date": "2026-11-12",
+          "time": "11:20 AM",
+          "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
+          "agenda_url": null,
+          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=DC76B469-CCCC-F111-A05B-001DD80FDA55"
+        },
+        {
+          "body": "Committee on Economic, Capital and Technology Development",
+          "date": "2026-11-12",
+          "time": "11:40 AM",
+          "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
+          "agenda_url": null,
+          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=534F9E60-D1CC-F111-A05B-001DD80FDA55"
+        },
+        {
+          "body": "Committee on Economic, Capital and Technology Development",
+          "date": "2026-11-12",
+          "time": "12:00 PM",
+          "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
+          "agenda_url": null,
+          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=BBF5DC84-D2CC-F111-A05B-001DD80FDA55"
+        },
+        {
           "body": "Committee on Police and Fire",
           "date": "2026-11-12",
           "time": "1:00 PM",
           "location": "201A, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
-          "agenda_url": null,
+          "agenda_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/a564fdd7-0b79-4598-9d17-c306a88830b3.pdf",
           "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=051DB20E-BCC9-F111-AAAE-001DD803894A"
         },
         {
@@ -1387,6 +1402,22 @@
           "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
           "agenda_url": null,
           "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=7F0B31CB-9CC9-F111-AAAE-001DD80FDA55"
+        },
+        {
+          "body": "Committee on Zoning, Landmarks and Building Standards",
+          "date": "2026-11-17",
+          "time": "10:00 AM",
+          "location": "City Council Chamber, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
+          "agenda_url": null,
+          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=C3D059C8-D0CB-F111-A05C-001DD80B58E5"
+        },
+        {
+          "body": "Committee on Housing and Real Estate",
+          "date": "2026-11-17",
+          "time": "10:30 AM",
+          "location": "201A, 2nd Floor, City Hall, 121 North LaSalle Street - Chicago, IL 60602",
+          "agenda_url": null,
+          "details_url": "https://chicityclerkelms.chicago.gov/Meeting/?meetingId=86AB53B2-BCCC-F111-A05C-001DD80B58E5"
         },
         {
           "body": "City Council",
@@ -1409,7 +1440,7 @@
         "name": "Chicago City Clerk eLMS meeting list",
         "url": "https://chicityclerkelms.chicago.gov/",
         "method": "chicago-elms",
-        "fetched_at": "2026-10-19T08:22:46-04:00"
+        "fetched_at": "2026-10-22T08:23:02-04:00"
       },
       "meetings_note": null,
       "official_hosts": [
@@ -1549,22 +1580,6 @@
       ],
       "meetings": [
         {
-          "body": "City Council Meeting",
-          "date": "2026-10-19",
-          "time": "6:00 PM",
-          "location": "City Hall, 317 4th Street NW, Bemidji",
-          "agenda_url": "https://bemidjimn.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=913,plainText=false)",
-          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1329/files"
-        },
-        {
-          "body": "Heritage Preservation Commission",
-          "date": "2026-10-20",
-          "time": "4:30 PM",
-          "location": "City Hall, 317 4th Street NW, Bemidji",
-          "agenda_url": "https://bemidjimn.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=917,plainText=false)",
-          "details_url": "https://bemidjimn.portal.civicclerk.com/event/273/files"
-        },
-        {
           "body": "Planning Commission",
           "date": "2026-10-22",
           "time": "5:30 PM",
@@ -1667,13 +1682,29 @@
           "location": "317 4th Street NW, Bemidji",
           "agenda_url": null,
           "details_url": "https://bemidjimn.portal.civicclerk.com/event/1306/files"
+        },
+        {
+          "body": "Community and Police Advisory Board",
+          "date": "2026-11-24",
+          "time": "4:00 PM",
+          "location": "City Hall, 317 4th Street NW, Bemidji",
+          "agenda_url": null,
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1388/files"
+        },
+        {
+          "body": "Sanford Center Advisory Board",
+          "date": "2026-11-25",
+          "time": "7:00 AM",
+          "location": "City Hall, 317 4th Street NW, Bemidji",
+          "agenda_url": null,
+          "details_url": "https://bemidjimn.portal.civicclerk.com/event/1376/files"
         }
       ],
       "meetings_source": {
         "name": "Bemidji meeting portal (CivicClerk)",
         "url": "https://bemidjimn.portal.civicclerk.com/",
         "method": "civicclerk",
-        "fetched_at": "2026-10-19T08:22:46-04:00"
+        "fetched_at": "2026-10-22T08:23:02-04:00"
       },
       "meetings_note": null,
       "official_hosts": [
@@ -1692,7 +1723,7 @@
         "summary": "New York City has a mayor and a 51-member City Council. Voters elect the mayor, the public advocate, and the comptroller citywide, and one Council Member in each of 51 districts.",
         "source": {
           "url": "https://council.nyc.gov/districts/",
-          "retrieved": "2026-10-19"
+          "retrieved": "2026-10-22"
         }
       },
       "officials": [
@@ -1713,7 +1744,7 @@
           "role": null,
           "source": {
             "url": "https://advocate.nyc.gov/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1723,7 +1754,7 @@
           "role": null,
           "source": {
             "url": "https://comptroller.nyc.gov/about/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1733,7 +1764,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1743,7 +1774,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1753,7 +1784,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1763,7 +1794,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1773,7 +1804,7 @@
           "role": "Council Speaker",
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1783,7 +1814,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1793,7 +1824,7 @@
           "role": "Majority Leader",
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1803,7 +1834,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1813,7 +1844,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1823,7 +1854,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1833,7 +1864,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1843,7 +1874,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1853,7 +1884,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1863,7 +1894,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1873,7 +1904,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1883,7 +1914,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1893,7 +1924,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1903,7 +1934,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1913,7 +1944,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1923,7 +1954,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1933,7 +1964,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1943,7 +1974,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1953,7 +1984,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1963,7 +1994,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1973,7 +2004,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1983,7 +2014,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -1993,7 +2024,7 @@
           "role": "Deputy Speaker",
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2003,7 +2034,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2013,7 +2044,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2023,7 +2054,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2033,7 +2064,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2043,7 +2074,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2053,7 +2084,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2063,7 +2094,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2073,7 +2104,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2083,7 +2114,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2093,7 +2124,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2103,7 +2134,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2113,7 +2144,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2123,7 +2154,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2133,7 +2164,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2143,7 +2174,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2153,7 +2184,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2163,7 +2194,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2173,7 +2204,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2183,7 +2214,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2193,7 +2224,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2203,7 +2234,7 @@
           "role": "Minority Whip",
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2213,7 +2244,7 @@
           "role": "Majority Whip",
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2223,7 +2254,7 @@
           "role": "Minority Leader",
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2233,7 +2264,7 @@
           "role": null,
           "source": {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         }
       ],
@@ -2249,155 +2280,27 @@
         "sources": [
           {
             "url": "https://council.nyc.gov/districts/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         ]
       },
       "schedule": [],
       "meetings": [
         {
-          "body": "Committee on Health",
-          "date": "2026-10-19",
-          "time": "10:00 AM",
-          "location": "250 Broadway - 8th Floor - Hearing Room 2",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1452152&GUID=88AFDE9D-F71C-4163-AD6A-7F25AAA30F37",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1452152&GUID=88AFDE9D-F71C-4163-AD6A-7F25AAA30F37&Options=info|&Search="
-        },
-        {
-          "body": "Committee on Cultural Affairs, Libraries and International Relations",
-          "date": "2026-10-19",
-          "time": "1:00 PM",
-          "location": "250 Broadway - 8th Floor - Hearing Room 1",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1442652&GUID=E940DC9C-946E-40F7-B923-AA3E498FD815",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1442652&GUID=E940DC9C-946E-40F7-B923-AA3E498FD815&Options=info|&Search="
-        },
-        {
-          "body": "Committee on Criminal Justice",
-          "date": "2026-10-19",
-          "time": null,
-          "location": "250 Broadway - 8th Floor - Hearing Room 3",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1441259&GUID=2A68F183-E7CE-43C4-961E-D25BD9B53B19",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1441259&GUID=2A68F183-E7CE-43C4-961E-D25BD9B53B19&Options=info|&Search="
-        },
-        {
-          "body": "Committee on Economic Development",
-          "date": "2026-10-20",
-          "time": "10:00 AM",
-          "location": "Committee Room - City Hall Jointly with the Committee on Transportation and Infrastructure.",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1445958&GUID=0E2D5F66-FF29-4F98-A9CB-6F7CE37D616E",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1445958&GUID=0E2D5F66-FF29-4F98-A9CB-6F7CE37D616E&Options=info|&Search="
-        },
-        {
-          "body": "Committee on Fire and Emergency Management",
-          "date": "2026-10-20",
-          "time": "10:00 AM",
-          "location": "250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Committee on Hospitals.",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1447133&GUID=2EFBB7E6-2A47-4A99-B8C9-2C22ADE60EA3",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1447133&GUID=2EFBB7E6-2A47-4A99-B8C9-2C22ADE60EA3&Options=info|&Search="
-        },
-        {
-          "body": "Committee on Hospitals",
-          "date": "2026-10-20",
-          "time": "10:00 AM",
-          "location": "250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Committee on Fire and Emergency Management",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1447134&GUID=46663D1F-E384-4629-94B2-A287EB9A06C3",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1447134&GUID=46663D1F-E384-4629-94B2-A287EB9A06C3&Options=info|&Search="
-        },
-        {
-          "body": "Committee on Transportation and Infrastructure",
-          "date": "2026-10-20",
-          "time": "10:00 AM",
-          "location": "Committee Room - City Hall Jointly with the Committee on Economic Development",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1445962&GUID=8FF7375F-E5B0-4629-9A06-35CA5D9F9366",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1445962&GUID=8FF7375F-E5B0-4629-9A06-35CA5D9F9366&Options=info|&Search="
-        },
-        {
-          "body": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
-          "date": "2026-10-20",
-          "time": "10:00 AM",
-          "location": "250 Broadway - 8th Floor - Hearing Room 3",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1440276&GUID=C3E05FB0-5151-45EC-B473-0607F18B01A4",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1440276&GUID=C3E05FB0-5151-45EC-B473-0607F18B01A4&Options=info|&Search="
-        },
-        {
-          "body": "Subcommittee on Zoning and Franchises",
-          "date": "2026-10-20",
-          "time": "11:00 AM",
-          "location": "250 Broadway - 8th Floor - Hearing Room 3",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1440284&GUID=D5E8AC5A-F231-4A06-B357-446B82A0F916",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1440284&GUID=D5E8AC5A-F231-4A06-B357-446B82A0F916&Options=info|&Search="
-        },
-        {
-          "body": "Committee on Environmental Protection and Waterfronts",
-          "date": "2026-10-20",
-          "time": "12:00 PM",
-          "location": "250 Broadway - 8th Floor - Hearing Room 1",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1423568&GUID=A8C45A94-BB6A-40B6-A5F7-3C9F5E09999B",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1423568&GUID=A8C45A94-BB6A-40B6-A5F7-3C9F5E09999B&Options=info|&Search="
-        },
-        {
           "body": "Committee on Education",
-          "date": "2026-10-20",
-          "time": "1:00 PM",
-          "location": "250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Committee on Higher Education",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1445988&GUID=831F5DAB-D903-4CF2-BC64-9D8E64E4F316",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1445988&GUID=831F5DAB-D903-4CF2-BC64-9D8E64E4F316&Options=info|&Search="
+          "date": "2026-10-22",
+          "time": "9:00 AM",
+          "location": "Council Chambers - City Hall",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1456907&GUID=480CE67E-608F-441E-8D8C-34E81603F9DD",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456907&GUID=480CE67E-608F-441E-8D8C-34E81603F9DD&Options=info|&Search="
         },
         {
-          "body": "Committee on Higher Education",
-          "date": "2026-10-20",
-          "time": "1:00 PM",
-          "location": "250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Committee on Education.",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1445989&GUID=A82C2E2A-C24D-43C3-8F99-ED3A553CCA5C",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1445989&GUID=A82C2E2A-C24D-43C3-8F99-ED3A553CCA5C&Options=info|&Search="
-        },
-        {
-          "body": "Committee on General Welfare",
-          "date": "2026-10-21",
-          "time": "10:00 AM",
-          "location": "250 Broadway - 8th Floor - Hearing Room 3 Jointly with the Committee on Veterans",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1444701&GUID=EB0AA2E4-3CBF-4E44-A5C7-E9353E1E7611",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1444701&GUID=EB0AA2E4-3CBF-4E44-A5C7-E9353E1E7611&Options=info|&Search="
-        },
-        {
-          "body": "Committee on Housing and Buildings",
-          "date": "2026-10-21",
-          "time": "10:00 AM",
-          "location": "250 Broadway - 8th Floor - Hearing Room 1",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1441262&GUID=BD7CF3B0-8691-4C86-90BE-9BBF6FA256CC",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1441262&GUID=BD7CF3B0-8691-4C86-90BE-9BBF6FA256CC&Options=info|&Search="
-        },
-        {
-          "body": "Committee on Veterans",
-          "date": "2026-10-21",
-          "time": "10:00 AM",
-          "location": "250 Broadway - 8th Floor - Hearing Room 3 Jointly with the Committee on General Welfare.",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1444702&GUID=609E6242-DEB4-499D-981C-893B52C7B3E4",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1444702&GUID=609E6242-DEB4-499D-981C-893B52C7B3E4&Options=info|&Search="
-        },
-        {
-          "body": "Committee on Land Use",
-          "date": "2026-10-21",
-          "time": "1:00 PM",
-          "location": "250 Broadway - 8th Floor - Hearing Room 3",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1440250&GUID=9943A2A2-23E5-4C9C-BA3A-54CA76E64574",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1440250&GUID=9943A2A2-23E5-4C9C-BA3A-54CA76E64574&Options=info|&Search="
-        },
-        {
-          "body": "Committee on Mental Health and Substance Use",
-          "date": "2026-10-21",
-          "time": "1:00 PM",
-          "location": "250 Broadway - 8th Floor - Hearing Room 2",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1454036&GUID=BB567A5E-3335-4074-A76C-26D13A39264B",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1454036&GUID=BB567A5E-3335-4074-A76C-26D13A39264B&Options=info|&Search="
-        },
-        {
-          "body": "Committee on Public Safety",
-          "date": "2026-10-21",
-          "time": null,
-          "location": "250 Broadway - 8th Floor - Hearing Room 2",
-          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1443396&GUID=354F0DEB-7C56-45BB-8574-5F90477EC354",
-          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1443396&GUID=354F0DEB-7C56-45BB-8574-5F90477EC354&Options=info|&Search="
+          "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+          "date": "2026-10-22",
+          "time": "9:30 AM",
+          "location": "Committee Room - City Hall",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1454901&GUID=1108345C-4939-4C2A-8CF5-121B26CCEC24",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1454901&GUID=1108345C-4939-4C2A-8CF5-121B26CCEC24&Options=info|&Search="
         },
         {
           "body": "Committee on Finance",
@@ -2430,6 +2333,22 @@
           "location": "Council Chambers - City Hall",
           "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1456186&GUID=C19222A6-0B69-47F6-87A5-ABBE8101EA0E",
           "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456186&GUID=C19222A6-0B69-47F6-87A5-ABBE8101EA0E&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Cultural Affairs, Libraries and International Relations",
+          "date": "2026-10-22",
+          "time": "10:30 AM",
+          "location": "Committee Room - City Hall",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1456023&GUID=330FD343-F2C0-44A1-8478-AB5D82E4B990",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456023&GUID=330FD343-F2C0-44A1-8478-AB5D82E4B990&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Housing and Buildings",
+          "date": "2026-10-22",
+          "time": "11:00 AM",
+          "location": "Council Chambers - City Hall",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1456095&GUID=2405720D-9057-40E3-827D-FAEFE9242B88",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456095&GUID=2405720D-9057-40E3-827D-FAEFE9242B88&Options=info|&Search="
         },
         {
           "body": "City Council Stated Meeting",
@@ -2574,13 +2493,125 @@
           "location": "250 Broadway - 8th Floor - Hearing Room 1 Jointly with the Committee on Small Business",
           "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1444736&GUID=A6C12B16-BF42-4183-A6C6-19D408976949",
           "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1444736&GUID=A6C12B16-BF42-4183-A6C6-19D408976949&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Contracts",
+          "date": "2026-10-29",
+          "time": "2:00 PM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 2",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1455081&GUID=B86CF53E-FDB9-4663-BBB1-D1A3EE039111",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1455081&GUID=B86CF53E-FDB9-4663-BBB1-D1A3EE039111&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Governmental Operations, State & Federal Legislation",
+          "date": "2026-10-30",
+          "time": "1:00 PM",
+          "location": "Council Chambers - City Hall Jointly with the Committee on Public Safety",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1456240&GUID=86D3979D-A320-4152-A6AD-8358CA5B535E",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456240&GUID=86D3979D-A320-4152-A6AD-8358CA5B535E&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Public Safety",
+          "date": "2026-10-30",
+          "time": "1:00 PM",
+          "location": "Council Chambers - City Hall Jointly with the Committee on Governmental Operations, State & Federal Legislation.",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1456231&GUID=328125E3-8011-4F8F-81CB-E02379F208D9",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456231&GUID=328125E3-8011-4F8F-81CB-E02379F208D9&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Health",
+          "date": "2026-10-30",
+          "time": null,
+          "location": "250 Broadway - 8th Floor - Hearing Room 1 Jointly with the Committee on Immigration and the Committee on Women and Gender Equity",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1454059&GUID=5CF2F5CA-04A1-4164-945A-27536CAF6EFF",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1454059&GUID=5CF2F5CA-04A1-4164-945A-27536CAF6EFF&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Immigration",
+          "date": "2026-10-30",
+          "time": null,
+          "location": "250 Broadway - 8th Floor - Hearing Room 1 Jointly with the Committee on Health and the Committee on Women and Gender Equity.",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1454055&GUID=E3939B8F-C23F-433F-84DC-834CF188ADE9",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1454055&GUID=E3939B8F-C23F-433F-84DC-834CF188ADE9&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Women and Gender Equity",
+          "date": "2026-10-30",
+          "time": null,
+          "location": "250 Broadway - 8th Floor - Hearing Room 1 Jointly with the Committee on Immigration and the Committee on Health",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1454060&GUID=02F4F8FD-6842-4202-92F9-832BCF5A9CE6",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1454060&GUID=02F4F8FD-6842-4202-92F9-832BCF5A9CE6&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Sanitation and Solid Waste Management",
+          "date": "2026-11-02",
+          "time": "10:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 1",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1449028&GUID=937F9679-9860-42BB-A66D-FCB8E904478E",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1449028&GUID=937F9679-9860-42BB-A66D-FCB8E904478E&Options=info|&Search="
+        },
+        {
+          "body": "Subcommittee on Zoning and Franchises",
+          "date": "2026-11-10",
+          "time": "11:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 3",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1443477&GUID=E6D074CB-80D3-4947-9927-D2C5FBE653CF",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1443477&GUID=E6D074CB-80D3-4947-9927-D2C5FBE653CF&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Land Use",
+          "date": "2026-11-10",
+          "time": "12:00 PM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 3",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1443476&GUID=C0CBE808-1D3B-4A25-BE87-89C73AE97637",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1443476&GUID=C0CBE808-1D3B-4A25-BE87-89C73AE97637&Options=info|&Search="
+        },
+        {
+          "body": "City Council Stated Meeting",
+          "date": "2026-11-12",
+          "time": "1:30 PM",
+          "location": "Council Chambers - City Hall",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1418196&GUID=7AC3E437-9D1F-4D0B-ABD3-DFE33F6FC089",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1418196&GUID=7AC3E437-9D1F-4D0B-ABD3-DFE33F6FC089&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Higher Education",
+          "date": "2026-11-17",
+          "time": "1:00 PM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 1",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1454579&GUID=5B2BF0B6-BE58-4AC7-8749-3F41DF896A5D",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1454579&GUID=5B2BF0B6-BE58-4AC7-8749-3F41DF896A5D&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Finance",
+          "date": "2026-11-19",
+          "time": "11:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 1",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1455568&GUID=F1DDA7FE-9DA8-4374-86C7-B1219DF7F609",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1455568&GUID=F1DDA7FE-9DA8-4374-86C7-B1219DF7F609&Options=info|&Search="
+        },
+        {
+          "body": "City Council Stated Meeting",
+          "date": "2026-11-19",
+          "time": "1:30 PM",
+          "location": "Council Chambers - City Hall",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1418197&GUID=1EB7E7FF-9178-4582-8487-F6C09B566213",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1418197&GUID=1EB7E7FF-9178-4582-8487-F6C09B566213&Options=info|&Search="
+        },
+        {
+          "body": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
+          "date": "2026-11-24",
+          "time": "11:00 AM",
+          "location": "250 Broadway - 8th Floor - Hearing Room 3",
+          "agenda_url": "https://legistar.council.nyc.gov/View.ashx?M=A&ID=1455577&GUID=FA32791D-BA65-422D-B94F-7E30F066E28A",
+          "details_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1455577&GUID=FA32791D-BA65-422D-B94F-7E30F066E28A&Options=info|&Search="
         }
       ],
       "meetings_source": {
         "name": "New York City Council meeting calendar (Legistar)",
         "url": "https://legistar.council.nyc.gov/Calendar.aspx",
         "method": "legistar-web",
-        "fetched_at": "2026-10-19T08:22:46-04:00"
+        "fetched_at": "2026-10-22T08:23:02-04:00"
       },
       "meetings_note": null,
       "official_hosts": [
@@ -2601,7 +2632,7 @@
         "summary": "Philadelphia has a mayor and a 17-member City Council: 10 members represent districts and 7 are elected citywide (at-large). Voters also elect a city controller.",
         "source": {
           "url": "https://phlcouncil.com/council-members/",
-          "retrieved": "2026-10-19"
+          "retrieved": "2026-10-22"
         }
       },
       "officials": [
@@ -2612,7 +2643,7 @@
           "role": null,
           "source": {
             "url": "https://www.phila.gov/departments/mayor/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2622,7 +2653,7 @@
           "role": null,
           "source": {
             "url": "https://controller.phila.gov/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2632,7 +2663,7 @@
           "role": null,
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2642,7 +2673,7 @@
           "role": "Council President",
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2652,7 +2683,7 @@
           "role": null,
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2662,7 +2693,7 @@
           "role": null,
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2672,7 +2703,7 @@
           "role": null,
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2682,7 +2713,7 @@
           "role": null,
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2692,7 +2723,7 @@
           "role": null,
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2702,7 +2733,7 @@
           "role": null,
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2712,7 +2743,7 @@
           "role": null,
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2722,7 +2753,7 @@
           "role": null,
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2732,7 +2763,7 @@
           "role": null,
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2742,7 +2773,7 @@
           "role": null,
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2752,7 +2783,7 @@
           "role": null,
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2762,7 +2793,7 @@
           "role": null,
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2772,7 +2803,7 @@
           "role": null,
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2782,7 +2813,7 @@
           "role": null,
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2792,7 +2823,7 @@
           "role": null,
           "source": {
             "url": "https://phlcouncil.com/council-members/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         }
       ],
@@ -2806,7 +2837,7 @@
         "sources": [
           {
             "url": "https://phlcouncil.com/stated-meetings/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         ]
       },
@@ -2817,26 +2848,18 @@
           "location": "Room 400, City Hall",
           "source": {
             "url": "https://phlcouncil.com/stated-meetings/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         }
       ],
       "meetings": [
         {
-          "body": "Committee on Public Property and Public Works",
-          "date": "2026-10-21",
-          "time": "1:00 PM",
-          "location": "Room 400, City Hall",
-          "agenda_url": null,
-          "details_url": "https://phila.legistar.com/MeetingDetail.aspx?ID=1454355&GUID=A82E415A-C929-41F9-B911-63C99342E58C&Options=info|&Search="
-        },
-        {
           "body": "CITY COUNCIL",
           "date": "2026-10-22",
           "time": "10:00 AM",
           "location": "Room 400, City Hall",
-          "agenda_url": null,
-          "details_url": null
+          "agenda_url": "https://phila.legistar.com/View.ashx?M=A&ID=1454938&GUID=BFF61EC6-BC30-43E1-9EB2-12A6CF2C4E5B",
+          "details_url": "https://phila.legistar.com/MeetingDetail.aspx?ID=1454938&GUID=BFF61EC6-BC30-43E1-9EB2-12A6CF2C4E5B&Options=info|&Search="
         },
         {
           "body": "Committee on Legislative Oversight",
@@ -2855,6 +2878,22 @@
           "details_url": "https://phila.legistar.com/MeetingDetail.aspx?ID=1454249&GUID=A7DB55EB-23AC-4FAB-9718-02EFE9EAD974&Options=info|&Search="
         },
         {
+          "body": "Committee on Licenses and Inspections",
+          "date": "2026-10-28",
+          "time": "10:00 AM",
+          "location": "Room 400, City Hall",
+          "agenda_url": "https://phila.legistar.com/View.ashx?M=A&ID=1456338&GUID=D4D2BC6C-1BE8-448E-A16C-445EB9A2CB96",
+          "details_url": "https://phila.legistar.com/MeetingDetail.aspx?ID=1456338&GUID=D4D2BC6C-1BE8-448E-A16C-445EB9A2CB96&Options=info|&Search="
+        },
+        {
+          "body": "Committee on Legislative Oversight",
+          "date": "2026-10-28",
+          "time": "2:00 PM",
+          "location": "Room 400, City Hall",
+          "agenda_url": "https://phila.legistar.com/View.ashx?M=A&ID=1456339&GUID=CDF94767-3ABB-4CC7-9E6B-9D5CA4ADF14B",
+          "details_url": "https://phila.legistar.com/MeetingDetail.aspx?ID=1456339&GUID=CDF94767-3ABB-4CC7-9E6B-9D5CA4ADF14B&Options=info|&Search="
+        },
+        {
           "body": "CITY COUNCIL",
           "date": "2026-10-29",
           "time": "10:00 AM",
@@ -2867,7 +2906,7 @@
         "name": "Philadelphia City Council calendar (Legistar)",
         "url": "https://phila.legistar.com/Calendar.aspx",
         "method": "legistar-web",
-        "fetched_at": "2026-10-19T08:22:46-04:00"
+        "fetched_at": "2026-10-22T08:23:02-04:00"
       },
       "meetings_note": null,
       "official_hosts": [
@@ -2887,7 +2926,7 @@
         "summary": "Dallas has a mayor and a City Council with one council member for each of 14 districts. The council's page also lists the city manager, city attorney, and city secretary.",
         "source": {
           "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
-          "retrieved": "2026-10-19"
+          "retrieved": "2026-10-22"
         }
       },
       "officials": [
@@ -2898,7 +2937,7 @@
           "role": null,
           "source": {
             "url": "https://dallascityhall.com/government/citymayor/Pages/default.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2908,7 +2947,7 @@
           "role": null,
           "source": {
             "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2918,7 +2957,7 @@
           "role": null,
           "source": {
             "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2928,7 +2967,7 @@
           "role": null,
           "source": {
             "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2938,7 +2977,7 @@
           "role": "Deputy Mayor Pro Tem",
           "source": {
             "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2948,7 +2987,7 @@
           "role": "Mayor Pro Tem",
           "source": {
             "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2958,7 +2997,7 @@
           "role": null,
           "source": {
             "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2968,7 +3007,7 @@
           "role": null,
           "source": {
             "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2978,7 +3017,7 @@
           "role": null,
           "source": {
             "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2988,7 +3027,7 @@
           "role": null,
           "source": {
             "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -2998,7 +3037,7 @@
           "role": null,
           "source": {
             "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3008,7 +3047,7 @@
           "role": null,
           "source": {
             "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3018,7 +3057,7 @@
           "role": null,
           "source": {
             "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3028,7 +3067,7 @@
           "role": null,
           "source": {
             "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3038,7 +3077,7 @@
           "role": null,
           "source": {
             "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         }
       ],
@@ -3052,84 +3091,12 @@
         "sources": [
           {
             "url": "https://dallascityhall.com/government/Pages/city-council.aspx",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         ]
       },
       "schedule": [],
       "meetings": [
-        {
-          "body": "Quality of Life, Arts, and Culture Committee",
-          "date": "2026-10-19",
-          "time": "9:00 AM",
-          "location": "COUNCIL CHAMBERS, CITY HALL",
-          "agenda_url": null,
-          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4286&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
-        },
-        {
-          "body": "Committee on Finance",
-          "date": "2026-10-19",
-          "time": "11:00 AM",
-          "location": "COUNCIL CHAMBERS, CITY HALL",
-          "agenda_url": null,
-          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4783&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
-        },
-        {
-          "body": "Senior Affairs Commission",
-          "date": "2026-10-19",
-          "time": "12:00 PM",
-          "location": "CITY HALL, L1FN AUDITORIUM",
-          "agenda_url": null,
-          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4451&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
-        },
-        {
-          "body": "Transportation and Infrastructure Committee",
-          "date": "2026-10-19",
-          "time": "1:00 PM",
-          "location": "COUNCIL CHAMBERS, CITY HALL",
-          "agenda_url": null,
-          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4285&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
-        },
-        {
-          "body": "Martin Luther King Jr. Community Center Board",
-          "date": "2026-10-19",
-          "time": "6:30 PM",
-          "location": "MLK COMMUNITY CENTER, ACTIVITY ROOM A 2922 MARTIN LUTHER KING JR. BLVD. DALLAS, TX 75215",
-          "agenda_url": null,
-          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4786&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
-        },
-        {
-          "body": "Board of Adjustment, Panel A",
-          "date": "2026-10-20",
-          "time": "10:00 AM",
-          "location": "COUNCIL CHAMBERS, 6TH FLOOR",
-          "agenda_url": null,
-          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4498&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
-        },
-        {
-          "body": "Building Inspection Advisory Examining Appeals Boards",
-          "date": "2026-10-20",
-          "time": "10:30 AM",
-          "location": "OCMC RM.300",
-          "agenda_url": null,
-          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4463&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
-        },
-        {
-          "body": "Briefing",
-          "date": "2026-10-21",
-          "time": "9:00 AM",
-          "location": "COUNCIL CHAMBERS, CITY HALL",
-          "agenda_url": "https://cityofdallas.legistar1.com/cityofdallas/meetings/2026/10/4348_A_Briefing_26-10-21_Briefing_Agenda.pdf",
-          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4348&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
-        },
-        {
-          "body": "Board of Adjustment, Panel B",
-          "date": "2026-10-21",
-          "time": "10:00 AM",
-          "location": "6ES",
-          "agenda_url": null,
-          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4510&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
-        },
         {
           "body": "Park and Recreation Board",
           "date": "2026-10-22",
@@ -3161,6 +3128,38 @@
           "location": "COUNCIL BRIEFING ROOM, 6ES",
           "agenda_url": null,
           "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4364&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
+        },
+        {
+          "body": "Housing and Homelessness Solutions Committee",
+          "date": "2026-10-26",
+          "time": "9:00 AM",
+          "location": "COUNCIL CHAMBERS, CITY HALL",
+          "agenda_url": "https://cityofdallas.legistar1.com/cityofdallas/meetings/2026/10/4288_A_Housing_and_Homelessness_Solutions_Committee_26-10-26_Briefing_Agenda.pdf",
+          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4288&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
+        },
+        {
+          "body": "Committee on Finance",
+          "date": "2026-10-26",
+          "time": "1:00 PM",
+          "location": "COUNCIL CHAMBERS, CITY HALL",
+          "agenda_url": null,
+          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4287&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
+        },
+        {
+          "body": "Youth Commission",
+          "date": "2026-10-26",
+          "time": "6:00 PM",
+          "location": "COUNCIL CHAMBERS, CITY HALL",
+          "agenda_url": "https://cityofdallas.legistar1.com/cityofdallas/meetings/2026/10/4766_A_Youth_Commission_26-10-26_Briefing_Agenda.pdf",
+          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4766&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
+        },
+        {
+          "body": "Dallas Public Facility Corporation",
+          "date": "2026-10-27",
+          "time": "12:00 PM",
+          "location": "CITY HALL, L1 AUDITORIUM",
+          "agenda_url": null,
+          "details_url": "https://cityofdallas.legistar.com/MeetingDetail.aspx?LEGID=4394&GID=713&G=FA9AD36F-9FB5-4633-8A99-4487E4A1114C"
         },
         {
           "body": "Municipal Library Board",
@@ -3215,7 +3214,7 @@
         "name": "Dallas City Council and board meetings (Legistar)",
         "url": "https://cityofdallas.legistar.com/Calendar.aspx",
         "method": "legistar-api",
-        "fetched_at": "2026-10-19T08:22:46-04:00"
+        "fetched_at": "2026-10-22T08:23:02-04:00"
       },
       "meetings_note": null,
       "official_hosts": [
@@ -3237,7 +3236,7 @@
         "summary": "Fort Worth has a mayor and a City Council with council members for districts 2 through 11.",
         "source": {
           "url": "https://www.fortworthtexas.gov/government/districts",
-          "retrieved": "2026-10-19"
+          "retrieved": "2026-10-22"
         }
       },
       "officials": [
@@ -3248,7 +3247,7 @@
           "role": null,
           "source": {
             "url": "https://www.fortworthtexas.gov/government/mayor",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3258,7 +3257,7 @@
           "role": null,
           "source": {
             "url": "https://www.fortworthtexas.gov/government/districts/district2",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3268,7 +3267,7 @@
           "role": null,
           "source": {
             "url": "https://www.fortworthtexas.gov/government/districts/district3",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3278,7 +3277,7 @@
           "role": null,
           "source": {
             "url": "https://www.fortworthtexas.gov/government/districts/district4",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3288,7 +3287,7 @@
           "role": null,
           "source": {
             "url": "https://www.fortworthtexas.gov/government/districts/district6",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3298,7 +3297,7 @@
           "role": null,
           "source": {
             "url": "https://www.fortworthtexas.gov/government/districts/district7",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3308,7 +3307,7 @@
           "role": null,
           "source": {
             "url": "https://www.fortworthtexas.gov/government/districts/district8",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3318,7 +3317,7 @@
           "role": null,
           "source": {
             "url": "https://www.fortworthtexas.gov/government/districts/district9",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3328,7 +3327,7 @@
           "role": null,
           "source": {
             "url": "https://www.fortworthtexas.gov/government/districts/district10",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3338,7 +3337,7 @@
           "role": null,
           "source": {
             "url": "https://www.fortworthtexas.gov/government/districts/district11",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         }
       ],
@@ -3354,7 +3353,7 @@
         "sources": [
           {
             "url": "https://www.fortworthtexas.gov/government/city-council-meetings",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         ]
       },
@@ -3377,7 +3376,7 @@
         "summary": "Houston voters elect a mayor, a city controller, and 16 council members every four years. Eleven council members represent districts and five are elected citywide (at-large).",
         "source": {
           "url": "https://www.houstontx.gov/council/",
-          "retrieved": "2026-10-19"
+          "retrieved": "2026-10-22"
         }
       },
       "officials": [
@@ -3388,7 +3387,7 @@
           "role": null,
           "source": {
             "url": "https://www.houstontx.gov/mayor/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3398,7 +3397,7 @@
           "role": "Vice Mayor Pro-Tem",
           "source": {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3408,7 +3407,7 @@
           "role": null,
           "source": {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3418,7 +3417,7 @@
           "role": null,
           "source": {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3428,7 +3427,7 @@
           "role": null,
           "source": {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3438,7 +3437,7 @@
           "role": null,
           "source": {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3448,7 +3447,7 @@
           "role": null,
           "source": {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3458,7 +3457,7 @@
           "role": null,
           "source": {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3468,7 +3467,7 @@
           "role": null,
           "source": {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3478,7 +3477,7 @@
           "role": null,
           "source": {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3488,7 +3487,7 @@
           "role": null,
           "source": {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3498,7 +3497,7 @@
           "role": "Mayor Pro-Tem",
           "source": {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3508,7 +3507,7 @@
           "role": null,
           "source": {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3518,7 +3517,7 @@
           "role": null,
           "source": {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3528,7 +3527,7 @@
           "role": null,
           "source": {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3538,7 +3537,7 @@
           "role": null,
           "source": {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3548,7 +3547,7 @@
           "role": null,
           "source": {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         }
       ],
@@ -3564,7 +3563,7 @@
         "sources": [
           {
             "url": "https://www.houstontx.gov/council/",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         ]
       },
@@ -3575,7 +3574,7 @@
           "location": "City Council Chamber, City Hall",
           "source": {
             "url": "https://www.houstontx.gov/council/meetingsinfo.html",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         }
       ],
@@ -3597,7 +3596,7 @@
         "summary": "San Antonio has a mayor and a City Council with one councilmember for each of 10 districts.",
         "source": {
           "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
-          "retrieved": "2026-10-19"
+          "retrieved": "2026-10-22"
         }
       },
       "officials": [
@@ -3608,7 +3607,7 @@
           "role": null,
           "source": {
             "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3618,7 +3617,7 @@
           "role": null,
           "source": {
             "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3628,7 +3627,7 @@
           "role": null,
           "source": {
             "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3638,7 +3637,7 @@
           "role": null,
           "source": {
             "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3648,7 +3647,7 @@
           "role": null,
           "source": {
             "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3658,7 +3657,7 @@
           "role": null,
           "source": {
             "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3668,7 +3667,7 @@
           "role": null,
           "source": {
             "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3678,7 +3677,7 @@
           "role": null,
           "source": {
             "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3688,7 +3687,7 @@
           "role": null,
           "source": {
             "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3698,7 +3697,7 @@
           "role": null,
           "source": {
             "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         },
         {
@@ -3708,7 +3707,7 @@
           "role": null,
           "source": {
             "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         }
       ],
@@ -3722,7 +3721,7 @@
         "sources": [
           {
             "url": "https://www.sa.gov/Directory/Departments/Mayor-Council/Contact",
-            "retrieved": "2026-10-19"
+            "retrieved": "2026-10-22"
           }
         ]
       },
