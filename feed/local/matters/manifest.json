@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "feed": "the-record-local-matters",
+  "version": "2026-10-26-f8a2e308",
+  "generated_at": "2026-10-26T15:30:00-04:00",
+  "bundle": {
+    "path": "matters-f8a2e308104c.json",
+    "sha256": "f8a2e308104c8611300771f783d57c407882afe9c4276392bbdce5b6c507b944",
+    "bytes": 68879
+  },
+  "matters_count": 17,
+  "actions_count": 62,
+  "integrity_report": "INTEGRITY_REPORT_LOCAL_MATTERS-2026-10-26.md",
+  "integrity_report_sha256": "e9fb17f92046f18a1935f045530e3c689567ca1e901499c66393d7386d4cb352",
+  "ingest_log_sha256": "a14a43c0daefa1f21031d9faef4ceb86708ac186bd3c23e075e06acb9475923d"
+}
