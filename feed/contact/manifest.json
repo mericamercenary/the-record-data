@@ -1,73 +1,73 @@
 {
   "schema_version": 1,
   "feed": "the-record-contact",
-  "version": "2026-10-13-47cc3d6e",
-  "generated_at": "2026-10-13T15:02:10-04:00",
+  "version": "2026-10-26-67db8dba",
+  "generated_at": "2026-10-26T15:29:29-04:00",
   "count": 705,
   "integrity_report": "INTEGRITY_REPORT_CONTACT-2026-10-13.md",
-  "integrity_report_sha256": "8572bdba66d4fef5c9698e9dc6e591adc961d553c666d12c281758987554b7ed",
+  "integrity_report_sha256": "ce0a85b69da8e0fe2678448e3eb71a692dc175037d2f9bd1575af276b53fe277",
   "a11_schema_sha256": "7786224a727598380b0df087dad3111522bd40c81c90d4704d261feecef58fea",
-  "ingest_log_sha256": "937c173b3d01a581cc24e5a33d86e16309ca6c211735d3035b7ada99c0001119",
+  "ingest_log_sha256": "cc5e5ea6b8b79de4f0e083580b0ad3c1f25e7c0c1b31abdf8c51e112605a1496",
   "files": [
     {
       "path": "bodies/us-county-04013-body-board-of-supervisors.json",
-      "sha256": "44b140afe012134c796c436397471041a92630245fa4913a90e9d70107d935e6",
-      "bytes": 5123
+      "sha256": "89d491087b9d24ba196c3cbc5a9189da489d85ba50b6918e1db8be0601d62552",
+      "bytes": 5133
     },
     {
       "path": "bodies/us-county-06037-body-board-of-supervisors.json",
-      "sha256": "8d2073c934158a8939d4465e49fb85eda73b0755f29cc74b0c96a02c4a7de027",
-      "bytes": 2052
+      "sha256": "d9ea08b6e886c19e7a2b7a2a0da28613d28cd46fec3147077ccf19ec6e97ffbf",
+      "bytes": 2407
     },
     {
       "path": "bodies/us-county-06059-body-board-of-supervisors.json",
-      "sha256": "62b7baeef916ab04f8ca382451fbf1e22822b4f79fc3e378b016f39fb7d28000",
-      "bytes": 556
+      "sha256": "6f8b2eb34d7082e2af361aea94bd13f5b8b4919035892a4730cde624c463f8b1",
+      "bytes": 557
     },
     {
       "path": "bodies/us-county-06065-body-board-of-supervisors.json",
-      "sha256": "92e4fe863e62f028eb1e361e5c726f63b8454c8f2298167af0da7a8d8f95823c",
-      "bytes": 1837
+      "sha256": "904aa18ad33956142d06bc9544c7c5e53c7a8f3b63dad75121b71dd55252b406",
+      "bytes": 3362
     },
     {
       "path": "bodies/us-county-06073-body-board-of-supervisors.json",
-      "sha256": "225821f7ae81c3711d1fc60e382801b8531e0e2248872ce045b341ae1a018d84",
-      "bytes": 1864
+      "sha256": "c85df60042ea1218380deaf0d7d22299a88a74b97f6abd1278dcd504ed4d3a83",
+      "bytes": 3201
     },
     {
       "path": "bodies/us-county-12055-body-board-of-county-commissioners.json",
-      "sha256": "d838dd36f2e8e5f91939fe5eb3dff08560302707dafa05ef7bf664223f1041a1",
-      "bytes": 1035
+      "sha256": "d592d6f55200f67e666274d2ce13dbf607777bf95c43a03cc41203e540dbf372",
+      "bytes": 1036
     },
     {
       "path": "bodies/us-county-12086-body-board-of-county-commissioners.json",
-      "sha256": "65032fe135584278f6f51d90c94078f671c947bdd3ea6cd3672650fc7a526ba8",
-      "bytes": 2764
+      "sha256": "097aea6082f75d73022152e39b88eeff999dee7d5ca8fac0da2b85160ceee777",
+      "bytes": 2765
     },
     {
       "path": "bodies/us-county-17031-body-board-of-commissioners.json",
-      "sha256": "ece3f5db50a30f8f074f7c19bca19d448f5a5ec8477c61c119292dac3ba16df8",
-      "bytes": 320
+      "sha256": "df40653165978223b7031c94cffafca50de05725991e3cc5ad642fdacb4797c5",
+      "bytes": 1015
     },
     {
       "path": "bodies/us-county-27007-body-board-of-commissioners.json",
-      "sha256": "f9a4ebc5ae47440dc7fef9957c3ff0ca63d08c7672900b6207f14d176281b6de",
-      "bytes": 320
+      "sha256": "204b80c490670da53bff73bc37b16003620bde4118a38c644172416c73ff27dc",
+      "bytes": 321
     },
     {
       "path": "bodies/us-county-42101-body-city-council.json",
-      "sha256": "460594b328f01010931e2214c00b3e9f0f2950670c7e532f053a872b74c65e8b",
-      "bytes": 310
+      "sha256": "9aac767e2f80b11578344aedf7f48380cbf27a638feb581e450c00b8c2a0686c",
+      "bytes": 536
     },
     {
       "path": "bodies/us-county-48113-body-commissioners-court.json",
-      "sha256": "da03e3567bcc8c039a65e9d2a35133bea9ea6714733fb9330fc21b2dd6e605ef",
-      "bytes": 716
+      "sha256": "49ad76bb9de16980b46c289913f898ed6f50868b54342fa30d71862ad89a0355",
+      "bytes": 717
     },
     {
       "path": "bodies/us-county-48201-body-commissioners-court.json",
-      "sha256": "0c784a0135345024336dd705351cdc958190fa96c5f7b29f63f4e6fa3aef8232",
-      "bytes": 1263
+      "sha256": "169c40d14d2e5a2d6de8a5421e0f6895a33e5bc7b5e2074dace1aeb26cb6b72c",
+      "bytes": 1583
     },
     {
       "path": "guidance/city-public-comment.json",
@@ -91,8 +91,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "2c640c688bd6135128221045e300270ab70a87d56af795b1ec2c2749dc5bfeda",
-      "bytes": 128459
+      "sha256": "00fcd14e22da692f73cf52ea2b57a2cfce915d56af4e68aead8f209c0bb55f31",
+      "bytes": 128499
     },
     {
       "path": "officials/A000055.json",
@@ -2891,8 +2891,8 @@
     },
     {
       "path": "officials/us-county-06073-official-ebony-n-shelton.json",
-      "sha256": "9177c12ab00a8b307bb5f9641dcdfc237b73fc0dfdf1666c61e979841d6668db",
-      "bytes": 405
+      "sha256": "32063470e987b8a24f327446a2754af682444b88f8c35ea68b7295fa6cdac2a3",
+      "bytes": 990
     },
     {
       "path": "officials/us-county-06073-official-jim-desmond.json",
@@ -2921,23 +2921,23 @@
     },
     {
       "path": "officials/us-county-12055-official-arlene-tuck.json",
-      "sha256": "81888c9ee694a7144469da454f9374261070f72218208329a8aaa34ddf9c4f83",
-      "bytes": 392
+      "sha256": "bff4ed8d55ee8dc5c9f00ddf20e37fa5f0a5130b5e3f2439ac0bf4a7d69ea898",
+      "bytes": 1164
     },
     {
       "path": "officials/us-county-12055-official-chris-campbell.json",
-      "sha256": "302f493a1b7b4820dd2e5e773def45b9d3e60ac27da9983b84e59dde6f81443d",
-      "bytes": 411
+      "sha256": "e16b5f4dc9ffc11c1b279ede9ee02e0353969ceeaed23d326834a1c75d8b87ae",
+      "bytes": 990
     },
     {
       "path": "officials/us-county-12055-official-don-elwell.json",
-      "sha256": "78135d7c2db1d7e713ef2ef39ade397a4aa75c041799df41302f05658757b157",
-      "bytes": 398
+      "sha256": "37828b92806d406c42987da1319ebb48e58334599d2ef5177c8abb0cce269a34",
+      "bytes": 1194
     },
     {
       "path": "officials/us-county-12055-official-kevin-roberts.json",
-      "sha256": "f371aeb33980eea82ee062f8811524d6049cbf70254312fd8c99420b3a5f61d5",
-      "bytes": 396
+      "sha256": "ae34063438f361e33db85df854c817c0ec3b09d9af7356bc89acfaa7f7741ac9",
+      "bytes": 951
     },
     {
       "path": "officials/us-county-12055-official-laurie-hurner.json",
@@ -2946,8 +2946,8 @@
     },
     {
       "path": "officials/us-county-12055-official-scott-kirouac.json",
-      "sha256": "a2cd7cf70537761da739ace66243b27d0517a0f5737339b2eae6ab0241627ae6",
-      "bytes": 396
+      "sha256": "47acd74abe63939cc8245b031366a3c3fa0eef373c42de32683861ab1d6ae012",
+      "bytes": 951
     },
     {
       "path": "officials/us-county-12086-official-anthony-rodriguez.json",
@@ -2956,8 +2956,8 @@
     },
     {
       "path": "officials/us-county-12086-official-daniella-levine-cava.json",
-      "sha256": "4b8060576e6e6cc1132e84b92d6b027e8309719a828b83943f9aeedc1d0bc812",
-      "bytes": 391
+      "sha256": "642da835dd926fe2901af620ad7a1d079b597b86d5949fa6d2bb4496d281a2d4",
+      "bytes": 931
     },
     {
       "path": "officials/us-county-12086-official-danielle-cohen-higgins.json",
@@ -3236,8 +3236,8 @@
     },
     {
       "path": "officials/us-county-48113-official-darryl-martin.json",
-      "sha256": "95613b39f75ad4e1de29e69ab6ecb750998070bcbd47d3027ac801cf0772b37d",
-      "bytes": 392
+      "sha256": "35827f18544a7e3f3eb90a5e74876007dbbbb2b2bc79d271524da717464c1e45",
+      "bytes": 909
     },
     {
       "path": "officials/us-county-48113-official-dr-elba-garcia.json",

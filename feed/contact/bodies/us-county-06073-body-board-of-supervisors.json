@@ -6,7 +6,34 @@
     "source_url": "https://www.sandiegocounty.gov/content/sdc/cob/bosa/aginfo.html",
     "as_of": "2026-10-11T02:06:20-04:00"
   },
-  "meetings": "UNKNOWN",
+  "meetings": [
+    {
+      "start": "2026-10-27T09:00:00-07:00",
+      "place": {
+        "value": "County Administration Center Board Chamber, Room 327",
+        "source_url": "https://sdcounty.legistar.com/MeetingDetail.aspx?LEGID=2042&GID=644&G=56D5B5E7-094C-4C55-990E-6D7CAD52B798"
+      },
+      "source_url": "https://sdcounty.legistar.com/MeetingDetail.aspx?LEGID=2042&GID=644&G=56D5B5E7-094C-4C55-990E-6D7CAD52B798",
+      "meeting_type": {
+        "value": "BOARD OF SUPERVISORS",
+        "source_url": "https://sdcounty.legistar.com/MeetingDetail.aspx?LEGID=2042&GID=644&G=56D5B5E7-094C-4C55-990E-6D7CAD52B798"
+      },
+      "as_of": "2026-10-26T14:57:26-04:00"
+    },
+    {
+      "start": "2026-10-28T13:00:00-07:00",
+      "place": {
+        "value": "County Administration Center Board Chamber, Room 327",
+        "source_url": "https://sdcounty.legistar.com/MeetingDetail.aspx?LEGID=2046&GID=644&G=56D5B5E7-094C-4C55-990E-6D7CAD52B798"
+      },
+      "source_url": "https://sdcounty.legistar.com/MeetingDetail.aspx?LEGID=2046&GID=644&G=56D5B5E7-094C-4C55-990E-6D7CAD52B798",
+      "meeting_type": {
+        "value": "BOARD OF SUPERVISORS - LAND USE",
+        "source_url": "https://sdcounty.legistar.com/MeetingDetail.aspx?LEGID=2046&GID=644&G=56D5B5E7-094C-4C55-990E-6D7CAD52B798"
+      },
+      "as_of": "2026-10-26T14:57:26-04:00"
+    }
+  ],
   "public_comment_signup": {
     "value": "Request to Speak : Speakers must select, \" Non-Agenda Public Communication \" in the online Request to Speak",
     "source_url": "https://www.sandiegocounty.gov/content/sdc/cob/bosa/aginfo.html",
@@ -26,5 +53,5 @@
     "as_of": "2026-10-11T01:31:00-04:00"
   },
   "public_forums": "UNKNOWN",
-  "collected_at": "2026-10-11T02:06:20-04:00"
+  "collected_at": "2026-10-26T14:57:26-04:00"
 }

@@ -7,8 +7,26 @@
   "office": "County Administrator",
   "jurisdiction_id": "us-county-48113",
   "contact_form": "UNKNOWN",
-  "office_phones": "UNKNOWN",
-  "office_addresses": "UNKNOWN",
+  "office_phones": [
+    {
+      "label": "Office",
+      "value": "214-653-7327",
+      "source_url": "https://www.dallascounty.org/government/county-administrator/",
+      "as_of": "2026-10-26T14:57:26-04:00"
+    }
+  ],
+  "office_addresses": [
+    {
+      "label": "County Administration",
+      "building": null,
+      "street": "500 Elm Street, 7th Floor, Suite 7600",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75202",
+      "source_url": "https://www.dallascounty.org/government/county-administrator/",
+      "as_of": "2026-10-26T14:57:26-04:00"
+    }
+  ],
   "testify_instructions": "UNKNOWN",
-  "collected_at": "2026-10-11T01:31:00-04:00"
+  "collected_at": "2026-10-26T14:57:26-04:00"
 }

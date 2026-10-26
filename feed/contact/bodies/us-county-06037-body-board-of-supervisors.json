@@ -22,6 +22,16 @@
         "source_url": "https://bos.lacounty.gov/board-meeting-agendas/"
       },
       "as_of": "2026-10-11T02:06:20-04:00"
+    },
+    {
+      "start": "2026-10-27T09:30:00-07:00",
+      "place": "UNKNOWN",
+      "source_url": "https://bos.lacounty.gov/board-meeting-agendas/",
+      "meeting_type": {
+        "value": "Public Hearing Meeting",
+        "source_url": "https://bos.lacounty.gov/board-meeting-agendas/"
+      },
+      "as_of": "2026-10-26T14:57:26-04:00"
     }
   ],
   "public_comment_signup": {
@@ -31,17 +41,17 @@
   },
   "virtual_attendance": {
     "value": {
-      "method": "To Listen Only: Call (213) 444-2600 Press * (Star), after following the prompts, press “1”",
+      "method": "To Listen Only: Call (213) 444-2600 Press * (Star), after following the prompts, press \u201c1\u201d",
       "url": "https://bos.lacounty.gov/board-meeting-agendas/live-broadcast"
     },
     "source_url": "https://bos.lacounty.gov/board-meeting-information",
     "as_of": "2026-10-11T01:31:00-04:00"
   },
   "comment_rules": {
-    "value": "Time allotted may change at the Chair’s discretion. Speakers may be allowed to speak up to 6 minutes each meeting.",
+    "value": "Time allotted may change at the Chair\u2019s discretion. Speakers may be allowed to speak up to 6 minutes each meeting.",
     "source_url": "https://bos.lacounty.gov/board-meeting-information",
     "as_of": "2026-10-11T01:31:00-04:00"
   },
   "public_forums": "UNKNOWN",
-  "collected_at": "2026-10-11T02:06:20-04:00"
+  "collected_at": "2026-10-26T14:57:26-04:00"
 }

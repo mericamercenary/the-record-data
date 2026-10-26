@@ -7,8 +7,32 @@
   "office": "Commissioner, District 2 / Chair",
   "jurisdiction_id": "us-county-12055",
   "contact_form": "UNKNOWN",
-  "office_phones": "UNKNOWN",
-  "office_addresses": "UNKNOWN",
+  "office_phones": [
+    {
+      "label": "Contact Us",
+      "value": "(863) 402-6500",
+      "source_url": "https://www.highlandsfl.gov/county_commissioners/district_2_commissioner_elwell_chair.php",
+      "as_of": "2026-10-26T14:57:26-04:00"
+    },
+    {
+      "label": "Contact Us",
+      "value": "(863) 381-5622",
+      "source_url": "https://www.highlandsfl.gov/county_commissioners/district_2_commissioner_elwell_chair.php",
+      "as_of": "2026-10-26T14:57:26-04:00"
+    }
+  ],
+  "office_addresses": [
+    {
+      "label": "Highlands County, FL",
+      "building": null,
+      "street": "600 South Commerce Ave.",
+      "city": "Sebring",
+      "state": "FL",
+      "zip": "33870",
+      "source_url": "https://www.highlandsfl.gov/county_commissioners/district_2_commissioner_elwell_chair.php",
+      "as_of": "2026-10-26T14:57:26-04:00"
+    }
+  ],
   "testify_instructions": "UNKNOWN",
-  "collected_at": "2026-10-11T01:31:00-04:00"
+  "collected_at": "2026-10-26T14:57:26-04:00"
 }

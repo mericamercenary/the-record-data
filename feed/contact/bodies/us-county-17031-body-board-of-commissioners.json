@@ -2,10 +2,24 @@
   "schema_version": 1,
   "body_id": "us-county-17031-body-board-of-commissioners",
   "schedule_text": "UNKNOWN",
-  "meetings": "UNKNOWN",
+  "meetings": [
+    {
+      "start": "2026-10-29T09:30:00-05:00",
+      "place": {
+        "value": "Cook County Building, Board Room, 118 North Clark Street, Chicago, Illinois",
+        "source_url": "https://cook-county.legistar.com/MeetingDetail.aspx?LEGID=9565&GID=301&G=F1990FE7-FDB2-4981-9F7C-83B7F1CFD59A"
+      },
+      "source_url": "https://cook-county.legistar.com/MeetingDetail.aspx?LEGID=9565&GID=301&G=F1990FE7-FDB2-4981-9F7C-83B7F1CFD59A",
+      "meeting_type": {
+        "value": "Board of Commissioners",
+        "source_url": "https://cook-county.legistar.com/MeetingDetail.aspx?LEGID=9565&GID=301&G=F1990FE7-FDB2-4981-9F7C-83B7F1CFD59A"
+      },
+      "as_of": "2026-10-26T14:57:26-04:00"
+    }
+  ],
   "public_comment_signup": "UNKNOWN",
   "virtual_attendance": "UNKNOWN",
   "comment_rules": "UNKNOWN",
   "public_forums": "UNKNOWN",
-  "collected_at": "2026-10-11T02:06:20-04:00"
+  "collected_at": "2026-10-26T14:57:26-04:00"
 }

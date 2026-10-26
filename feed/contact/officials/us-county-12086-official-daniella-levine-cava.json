@@ -7,8 +7,26 @@
   "office": "Mayor",
   "jurisdiction_id": "us-county-12086",
   "contact_form": "UNKNOWN",
-  "office_phones": "UNKNOWN",
-  "office_addresses": "UNKNOWN",
+  "office_phones": [
+    {
+      "label": "Office of the Mayor",
+      "value": "305-375-5071",
+      "source_url": "https://www.miamidade.gov/global/government/mayor/home.page",
+      "as_of": "2026-10-26T14:57:26-04:00"
+    }
+  ],
+  "office_addresses": [
+    {
+      "label": "Stephen P. Clark Center",
+      "building": "Stephen P. Clark Center",
+      "street": "111 NW 1st Street, 29th Floor",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33128",
+      "source_url": "https://www.miamidade.gov/global/government/mayor/home.page",
+      "as_of": "2026-10-26T14:57:26-04:00"
+    }
+  ],
   "testify_instructions": "UNKNOWN",
-  "collected_at": "2026-10-11T01:31:00-04:00"
+  "collected_at": "2026-10-26T14:57:26-04:00"
 }

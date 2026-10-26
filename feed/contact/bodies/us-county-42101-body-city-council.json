@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "body_id": "us-county-42101-body-city-council",
-  "schedule_text": "UNKNOWN",
+  "schedule_text": {
+    "value": "Regular Stated Meetings of Philadelphia City Council are held on Thursdays at 10:00 AM in Room 400, City Hall.",
+    "source_url": "https://phlcouncil.com/stated-meetings/",
+    "as_of": "2026-10-26T14:57:26-04:00"
+  },
   "meetings": "UNKNOWN",
   "public_comment_signup": "UNKNOWN",
   "virtual_attendance": "UNKNOWN",
   "comment_rules": "UNKNOWN",
   "public_forums": "UNKNOWN",
-  "collected_at": "2026-10-11T02:06:20-04:00"
+  "collected_at": "2026-10-26T14:57:26-04:00"
 }

@@ -109,16 +109,16 @@
     }
   ],
   "public_comment_signup": {
-    "value": "Attendees will be required to complete a “request to speak” form and return it to the Clerk of the Board of Supervisors, or designee, no later than ten minutes after the Board meeting formally begins.",
+    "value": "Attendees will be required to complete a \u201crequest to speak\u201d form and return it to the Clerk of the Board of Supervisors, or designee, no later than ten minutes after the Board meeting formally begins.",
     "source_url": "https://www.maricopa.gov/324/Board-of-Supervisors-Meeting-Information",
     "as_of": "2026-10-11T01:31:00-04:00"
   },
   "virtual_attendance": "UNKNOWN",
   "comment_rules": {
-    "value": "Attendees may be limited to speaking on a maximum of two agenda items as well as the call to the public, at the discretion of the Chairman. Attendees’ comments on individual agenda items and during call to the public will be limited to 2 minutes.",
+    "value": "Attendees may be limited to speaking on a maximum of two agenda items as well as the call to the public, at the discretion of the Chairman. Attendees\u2019 comments on individual agenda items and during call to the public will be limited to 2 minutes.",
     "source_url": "https://www.maricopa.gov/324/Board-of-Supervisors-Meeting-Information",
     "as_of": "2026-10-11T01:31:00-04:00"
   },
   "public_forums": "UNKNOWN",
-  "collected_at": "2026-10-11T02:06:20-04:00"
+  "collected_at": "2026-10-26T14:57:26-04:00"
 }
