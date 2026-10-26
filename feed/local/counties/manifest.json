@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "feed": "the-record-local-counties",
-  "version": "2026-10-13-29d94df9",
-  "generated_at": "2026-10-13T15:01:58-04:00",
+  "version": "2026-10-26-85351115",
+  "generated_at": "2026-10-26T15:29:26-04:00",
   "bundle": {
-    "path": "counties-29d94df95a27.json",
-    "sha256": "29d94df95a27a72b8003131b358d670b8bb7580b8189f3c290c739a54e633202",
-    "bytes": 64360
+    "path": "counties-8535111586e1.json",
+    "sha256": "8535111586e132f64869978759648304c0ad51f5993e7af058b8993b3d7e8546",
+    "bytes": 70267
   },
   "count": 12,
   "integrity_report": "INTEGRITY_REPORT_COUNTIES-2026-10-11.md",
-  "integrity_report_sha256": "481b89ae8c92720d5600f0f447c152d36a18fa2dad1f6263c05ce5a856fb2d41",
+  "integrity_report_sha256": "86fcc7ed141def8b1906fec37fedffe7edce4c26273a3b529d81ed6ff03ec568",
   "a9_schema_sha256": "0055cbf993573d364b5671f1800dd391da94f4f8325c19ef61945d6639122ff3",
-  "ingest_log_sha256": "b435799f193591c93d4c90c7b4a22399137dda6826f854e74b23752455a148b8",
+  "ingest_log_sha256": "80c024ae5e6b2597c6176de2cf4cafaea63ed29bf8ba77ae8cfcff0bf631684f",
   "sources": [
     {
       "name": "us-county-04013.json",
@@ -20,7 +20,7 @@
     },
     {
       "name": "us-county-06037.json",
-      "sha256": "7ecfe3fc9c5d2e9d276146cd244704ded913ac32d1ff40da86e68200a9f11a19"
+      "sha256": "49f5204e8376d343f4231e9f6045436e6152ebdd3e97b8776f0bddfbf51ebd9d"
     },
     {
       "name": "us-county-06059.json",
@@ -28,23 +28,23 @@
     },
     {
       "name": "us-county-06065.json",
-      "sha256": "2ba0c892b389a515efbc6d689884241235233b48f90b651ea551a34db4e77cfa"
+      "sha256": "5d8294d8a5ad79b07a724f6dfdb046ab1abd3e92e86a0654a5ff24a158ea9538"
     },
     {
       "name": "us-county-06073.json",
-      "sha256": "fd7b07e9bb3d449274beeb29d10abcb15faeb3a8d7e9a3e66af4b99551d025bd"
+      "sha256": "abb3c195af17f428c23f27df7c15fffb29dc737fe049fb2c092f65be39c69825"
     },
     {
       "name": "us-county-12055.json",
-      "sha256": "2c416b8836b704719cc0d3a23fa936b65d24dc1c777bf05f22c954c7f81818a3"
+      "sha256": "a08ad0e14e1483ddee16b83bea7470ed75c52840cc0d16bb9c7a5f8fe693d5f9"
     },
     {
       "name": "us-county-12086.json",
-      "sha256": "8f0ee84be0d16b8c7409dd3cb3a01654422b72c0ec8db4c40390585483cd0c2c"
+      "sha256": "e4da6084ebfabc82f35f23f976256f970ef91d07c391cebcf46f7182e9393b17"
     },
     {
       "name": "us-county-17031.json",
-      "sha256": "2c1bddbbb499cd09b2a54ba0fb2a5ef9f64abf5a3cdf40981f700116613daecc"
+      "sha256": "879edde4140868e0e94b8be50c28abcf26d4b2fd0341abac9c1cc4f298fa4ee2"
     },
     {
       "name": "us-county-27007.json",
@@ -52,15 +52,15 @@
     },
     {
       "name": "us-county-36047.json",
-      "sha256": "514ba2b7db720be92f4657ab958b23077da6614da26202e18da690d2a84d3023"
+      "sha256": "536791eff2a3a39668e82d23f4e1b28240178e2349f84aea143bc7deeaf6c800"
     },
     {
       "name": "us-county-48113.json",
-      "sha256": "0af0a619186a9f9f637ce94ca050f6770866d6df49e09fe35635d40629610521"
+      "sha256": "9b6d610cd110b50eecfb7ba1f917b28c8fb158e976acb514a228cf3df3918b76"
     },
     {
       "name": "us-county-48201.json",
-      "sha256": "3f174004285fd60063d9283bd869595d8c83922ceb2ce68a2a33856a2a31e2ca"
+      "sha256": "32a28a3c17a1d3222feb58c48bd1a1209d580c55a97e7c78bb510c712e7bd53d"
     }
   ]
 }
