@@ -1,13 +1,13 @@
 {
   "bundle": "representatives",
   "schema_version": 1,
-  "version": "2026-10-19",
-  "generated_at": "2026-10-19T08:17:51-04:00",
+  "version": "2026-10-26",
+  "generated_at": "2026-10-26T08:14:39-04:00",
   "congress": 119,
   "source": {
     "name": "Congress.gov API, Library of Congress (current members)",
     "url": "https://api.congress.gov/v3/member/congress/119?currentMember=true",
-    "retrieved_at": "2026-10-19T08:17:51-04:00"
+    "retrieved_at": "2026-10-26T08:14:39-04:00"
   },
   "house": [
     {
