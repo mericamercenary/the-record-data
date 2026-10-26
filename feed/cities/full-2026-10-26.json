@@ -2,7 +2,7 @@
   "bundle": "cities-full",
   "schema_version": 1,
   "version": "2026-10-26",
-  "generated_at": "2026-10-26T08:26:28-04:00",
+  "generated_at": "2026-10-26T14:47:46-04:00",
   "window": {
     "from": "2026-10-26",
     "to": "2026-12-25"
@@ -142,7 +142,7 @@
         "name": "Phoenix City Council meetings (Legistar)",
         "url": "https://phoenix.legistar.com/Calendar.aspx",
         "method": "legistar-api",
-        "fetched_at": "2026-10-26T08:26:28-04:00"
+        "fetched_at": "2026-10-26T14:47:46-04:00"
       },
       "meetings_note": null,
       "official_hosts": [
@@ -353,12 +353,16 @@
       "city_hall": {
         "name": "Los Angeles City Hall",
         "address": "200 North Spring St., Los Angeles, CA 90012",
-        "hours": null,
+        "hours": "Office of the City Clerk: Monday to Friday, 8:00 AM to 4:30 PM",
         "phone": "(213) 485-2121",
         "website": "https://lacity.gov/",
         "sources": [
           {
             "url": "https://lacity.gov/government/city-hall-locations",
+            "retrieved": "2026-10-26"
+          },
+          {
+            "url": "https://clerk.lacity.gov/contact-us",
             "retrieved": "2026-10-26"
           }
         ]
@@ -376,11 +380,12 @@
       ],
       "meetings": [],
       "meetings_source": null,
-      "meetings_note": "Upcoming meeting dates are not listed yet. The city's agenda system asks scripts not to read it, so check the City Clerk's calendar.",
+      "meetings_note": "Upcoming meeting dates are not listed yet. On October 26, 2026, the Office of the City Clerk launched its new Legislative Management System at lms.lacity.gov/meetings, whose robots.txt asks scripts not to read it, so check the City Clerk's calendar.",
       "official_hosts": [
         "lacity.gov",
         "lacity.org",
-        "clerk.lacity.gov"
+        "clerk.lacity.gov",
+        "lms.lacity.gov"
       ]
     },
     {
@@ -512,12 +517,16 @@
       "city_hall": {
         "name": "City Administration Building",
         "address": "202 C St., San Diego, CA 92101",
-        "hours": null,
+        "hours": "Office of the City Clerk: Monday to Friday, 8:00 AM to 5:00 PM",
         "phone": "City Information Center: 619-236-5555",
         "website": "https://www.sandiego.gov/",
         "sources": [
           {
             "url": "https://www.sandiego.gov/contact",
+            "retrieved": "2026-10-26"
+          },
+          {
+            "url": "https://www.sandiego.gov/city-clerk",
             "retrieved": "2026-10-26"
           }
         ]
@@ -561,7 +570,7 @@
         "name": "San Diego City Council agendas (City Clerk)",
         "url": "https://www.sandiego.gov/city-clerk/officialdocs/council-agendas-minutes-results",
         "method": "onbase-agenda",
-        "fetched_at": "2026-10-26T08:26:28-04:00"
+        "fetched_at": "2026-10-26T14:47:46-04:00"
       },
       "meetings_note": null,
       "official_hosts": [
@@ -753,7 +762,7 @@
         "name": "Town of Lake Placid calendar",
         "url": "https://www.lakeplacidfl.net/calendar.aspx",
         "method": "civicplus-calendar",
-        "fetched_at": "2026-10-26T08:26:28-04:00"
+        "fetched_at": "2026-10-26T14:47:46-04:00"
       },
       "meetings_note": null,
       "official_hosts": [
@@ -768,7 +777,7 @@
       "kind": "25",
       "description": "Chicago is a city in Cook and DuPage counties in northeastern Illinois. It covers about 228 square miles of land and 6.8 square miles of water, and about 2,731,585 people live there (Census Bureau estimate for July 1, 2025).",
       "government": {
-        "summary": "Chicago has a mayor and a 50-member City Council. Voters elect the mayor citywide and one alderperson in each of 50 wards.",
+        "summary": "Chicago has a mayor, a city clerk, a city treasurer, and a 50-member City Council. Voters elect the mayor, the city clerk, and the city treasurer citywide and one alderperson in each of 50 wards.",
         "source": {
           "url": "https://www.chicago.gov/city/en/about/wards.html",
           "retrieved": "2026-10-26"
@@ -782,6 +791,26 @@
           "role": null,
           "source": {
             "url": "https://www.chicago.gov/city/en/depts/mayor.html",
+            "retrieved": "2026-10-26"
+          }
+        },
+        {
+          "office": "City Clerk",
+          "name": "Anna Valencia",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://www.chicityclerk.com/about-office-city-clerk/about-clerk-valencia",
+            "retrieved": "2026-10-26"
+          }
+        },
+        {
+          "office": "City Treasurer",
+          "name": "Melissa Conyears-Ervin",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://chicagocitytreasurer.com/",
             "retrieved": "2026-10-26"
           }
         },
@@ -1286,9 +1315,7 @@
           }
         }
       ],
-      "not_listed": [
-        "The city clerk and city treasurer are not listed yet."
-      ],
+      "not_listed": [],
       "city_hall": {
         "name": "Chicago City Hall",
         "address": "121 N. LaSalle St., Chicago, IL 60602",
@@ -1481,14 +1508,15 @@
         "name": "Chicago City Clerk eLMS meeting list",
         "url": "https://chicityclerkelms.chicago.gov/",
         "method": "chicago-elms",
-        "fetched_at": "2026-10-26T08:26:28-04:00"
+        "fetched_at": "2026-10-26T14:47:46-04:00"
       },
       "meetings_note": null,
       "official_hosts": [
         "chicago.gov",
         "chicityclerk.com",
         "chicityclerkelms.chicago.gov",
-        "occprodstoragev1.blob.core.usgovcloudapi.net"
+        "occprodstoragev1.blob.core.usgovcloudapi.net",
+        "chicagocitytreasurer.com"
       ]
     },
     {
@@ -1745,7 +1773,7 @@
         "name": "Bemidji meeting portal (CivicClerk)",
         "url": "https://bemidjimn.portal.civicclerk.com/",
         "method": "civicclerk",
-        "fetched_at": "2026-10-26T08:26:28-04:00"
+        "fetched_at": "2026-10-26T14:47:46-04:00"
       },
       "meetings_note": null,
       "official_hosts": [
@@ -1795,6 +1823,56 @@
           "role": null,
           "source": {
             "url": "https://comptroller.nyc.gov/about/",
+            "retrieved": "2026-10-26"
+          }
+        },
+        {
+          "office": "Borough President",
+          "name": "Vanessa L. Gibson",
+          "seat": "The Bronx",
+          "role": null,
+          "source": {
+            "url": "https://comptroller.nyc.gov/newsroom/nyc-comptroller-levine-and-pension-trustees-announce-robust-13-pension-aggregate-return-for-fiscal-year-2026/",
+            "retrieved": "2026-10-26"
+          }
+        },
+        {
+          "office": "Borough President",
+          "name": "Antonio Reynoso",
+          "seat": "Brooklyn",
+          "role": null,
+          "source": {
+            "url": "https://www.brooklynbp.nyc.gov/",
+            "retrieved": "2026-10-26"
+          }
+        },
+        {
+          "office": "Borough President",
+          "name": "Brad Hoylman-Sigal",
+          "seat": "Manhattan",
+          "role": null,
+          "source": {
+            "url": "https://www.manhattanbp.nyc.gov/",
+            "retrieved": "2026-10-26"
+          }
+        },
+        {
+          "office": "Borough President",
+          "name": "Donovan Richards Jr.",
+          "seat": "Queens",
+          "role": null,
+          "source": {
+            "url": "https://www.queensbp.nyc.gov/",
+            "retrieved": "2026-10-26"
+          }
+        },
+        {
+          "office": "Borough President",
+          "name": "Vito Fossella",
+          "seat": "Staten Island",
+          "role": null,
+          "source": {
+            "url": "https://www.statenislandusa.com/",
             "retrieved": "2026-10-26"
           }
         },
@@ -2309,18 +2387,20 @@
           }
         }
       ],
-      "not_listed": [
-        "Borough presidents are not listed yet."
-      ],
+      "not_listed": [],
       "city_hall": {
         "name": "New York City Council",
-        "address": null,
-        "hours": null,
-        "phone": null,
+        "address": "New York City Hall, and Council Member offices at 250 Broadway, New York, NY",
+        "hours": "Public Advocate office: Monday to Thursday, 10:00 AM to 4:00 PM",
+        "phone": "(212) 669-7250 (Public Advocate hotline)",
         "website": "https://council.nyc.gov/",
         "sources": [
           {
             "url": "https://council.nyc.gov/districts/",
+            "retrieved": "2026-10-26"
+          },
+          {
+            "url": "https://advocate.nyc.gov/",
             "retrieved": "2026-10-26"
           }
         ]
@@ -2596,7 +2676,7 @@
         "name": "New York City Council meeting calendar (Legistar)",
         "url": "https://legistar.council.nyc.gov/Calendar.aspx",
         "method": "legistar-web",
-        "fetched_at": "2026-10-26T08:26:28-04:00"
+        "fetched_at": "2026-10-26T14:47:46-04:00"
       },
       "meetings_note": null,
       "official_hosts": [
@@ -2604,7 +2684,11 @@
         "council.nyc.gov",
         "advocate.nyc.gov",
         "comptroller.nyc.gov",
-        "legistar.council.nyc.gov"
+        "legistar.council.nyc.gov",
+        "brooklynbp.nyc.gov",
+        "manhattanbp.nyc.gov",
+        "queensbp.nyc.gov",
+        "statenislandusa.com"
       ]
     },
     {
@@ -2815,13 +2899,17 @@
       "not_listed": [],
       "city_hall": {
         "name": "Philadelphia City Hall",
-        "address": null,
+        "address": "City Hall, Office 215, Philadelphia, PA 19107",
         "hours": null,
-        "phone": null,
+        "phone": "(215) 686-2181",
         "website": "https://www.phila.gov/",
         "sources": [
           {
             "url": "https://phlcouncil.com/stated-meetings/",
+            "retrieved": "2026-10-26"
+          },
+          {
+            "url": "https://www.phila.gov/departments/mayor/",
             "retrieved": "2026-10-26"
           }
         ]
@@ -2883,7 +2971,7 @@
         "name": "Philadelphia City Council calendar (Legistar)",
         "url": "https://phila.legistar.com/Calendar.aspx",
         "method": "legistar-web",
-        "fetched_at": "2026-10-26T08:26:28-04:00"
+        "fetched_at": "2026-10-26T14:47:46-04:00"
       },
       "meetings_note": null,
       "official_hosts": [
@@ -3215,7 +3303,7 @@
         "name": "Dallas City Council and board meetings (Legistar)",
         "url": "https://cityofdallas.legistar.com/Calendar.aspx",
         "method": "legistar-api",
-        "fetched_at": "2026-10-26T08:26:28-04:00"
+        "fetched_at": "2026-10-26T14:47:46-04:00"
       },
       "meetings_note": null,
       "official_hosts": [
@@ -3348,23 +3436,242 @@
       "city_hall": {
         "name": "Fort Worth City Hall",
         "address": "100 Fort Worth Trail, Fort Worth, TX 76102",
-        "hours": null,
+        "hours": "Monday to Friday, 8:00 AM to 5:00 PM",
         "phone": "817-392-1234",
         "website": "https://www.fortworthtexas.gov/",
         "sources": [
           {
             "url": "https://www.fortworthtexas.gov/government/city-council-meetings",
             "retrieved": "2026-10-26"
+          },
+          {
+            "url": "https://www.fortworthtexas.gov/government/districts/district5",
+            "retrieved": "2026-10-26"
           }
         ]
       },
       "schedule": [],
-      "meetings": [],
-      "meetings_source": null,
-      "meetings_note": "Upcoming meeting dates are not listed yet. Fort Worth moved its agendas to a new system in June 2026 that scripts cannot read yet, so check the city's meetings page.",
+      "meetings": [
+        {
+          "body": "City Council Work Session",
+          "date": "2026-10-27",
+          "time": "10:00 AM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "City Council Executive Session Meeting",
+          "date": "2026-10-27",
+          "time": "10:05 AM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "2026 Public Notice Consideration of Tax Abatement Agreement",
+          "date": "2026-10-27",
+          "time": "1:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "City Council Day Meeting",
+          "date": "2026-10-27",
+          "time": "1:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "Fort Worth Housing Finance Corporation (FWHFC)",
+          "date": "2026-10-27",
+          "time": "1:08 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "City Council Executive Session Meeting",
+          "date": "2026-11-03",
+          "time": "1:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "City Council Work Session",
+          "date": "2026-11-03",
+          "time": "2:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "Property Management & Environmental Services Committee",
+          "date": "2026-11-10",
+          "time": "2:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "Community Development Committee",
+          "date": "2026-11-10",
+          "time": "3:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "City Council Work Session",
+          "date": "2026-11-10",
+          "time": "4:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "City Council Evening Meeting",
+          "date": "2026-11-10",
+          "time": "6:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "City Council Work Session",
+          "date": "2026-11-17",
+          "time": "9:00 AM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "City Council Executive Session Meeting",
+          "date": "2026-11-17",
+          "time": "10:05 AM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "City Council Day Meeting",
+          "date": "2026-11-17",
+          "time": "1:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "Local Development Corporation (LDC)",
+          "date": "2026-11-17",
+          "time": "1:02 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "Central City Local Government Corporation (CCLGC)",
+          "date": "2026-11-17",
+          "time": "1:04 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "Fort Worth Housing Finance Corporation (FWHFC)",
+          "date": "2026-11-17",
+          "time": "1:08 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "Audit & Finance Committee",
+          "date": "2026-12-01",
+          "time": "9:00 AM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "Public Safety Committee",
+          "date": "2026-12-01",
+          "time": "10:00 AM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "Legislative and Intergovernmental Affairs Committee",
+          "date": "2026-12-01",
+          "time": "11:00 AM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "City Council Executive Session Meeting",
+          "date": "2026-12-01",
+          "time": "1:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "City Council Work Session",
+          "date": "2026-12-01",
+          "time": "2:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "Property Management & Environmental Services Committee",
+          "date": "2026-12-08",
+          "time": "2:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "Infrastructure and Growth Committee",
+          "date": "2026-12-08",
+          "time": "3:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "Community Development Committee",
+          "date": "2026-12-08",
+          "time": "4:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        },
+        {
+          "body": "City Council Evening Meeting",
+          "date": "2026-12-08",
+          "time": "6:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.fortworthtexas.gov/calendar/city-council"
+        }
+      ],
+      "meetings_source": {
+        "name": "Fort Worth City Council calendar",
+        "url": "https://www.fortworthtexas.gov/calendar/city-council",
+        "method": "opencities-calendar",
+        "fetched_at": "2026-10-26T14:47:46-04:00"
+      },
+      "meetings_note": null,
       "official_hosts": [
         "fortworthtexas.gov",
-        "docspublished.io"
+        "docspublished.io",
+        "www.fortworthtexas.gov"
       ]
     },
     {
@@ -3388,6 +3695,16 @@
           "role": null,
           "source": {
             "url": "https://www.houstontx.gov/mayor/",
+            "retrieved": "2026-10-26"
+          }
+        },
+        {
+          "office": "City Controller",
+          "name": "Chris Hollins",
+          "seat": null,
+          "role": null,
+          "source": {
+            "url": "https://www.houstontx.gov/controller/",
             "retrieved": "2026-10-26"
           }
         },
@@ -3552,18 +3869,24 @@
           }
         }
       ],
-      "not_listed": [
-        "The city controller is not listed yet."
-      ],
+      "not_listed": [],
       "city_hall": {
         "name": "Houston City Hall",
         "address": "901 Bagby, Houston, TX 77002",
-        "hours": null,
-        "phone": null,
+        "hours": "Office of the City Secretary: Monday to Friday, 8:00 AM to 5:00 PM",
+        "phone": "311 or 713-837-0311 (City Secretary: 832-393-1100)",
         "website": "https://www.houstontx.gov/",
         "sources": [
           {
             "url": "https://www.houstontx.gov/council/",
+            "retrieved": "2026-10-26"
+          },
+          {
+            "url": "https://www.houstontx.gov/contactus/index.html",
+            "retrieved": "2026-10-26"
+          },
+          {
+            "url": "https://www.houstontx.gov/citysec/",
             "retrieved": "2026-10-26"
           }
         ]
@@ -3715,24 +4038,276 @@
       "not_listed": [],
       "city_hall": {
         "name": "City of San Antonio",
-        "address": null,
-        "hours": null,
-        "phone": "311 or 210-207-6000",
+        "address": "City Hall, 100 Military Plaza, San Antonio, TX 78205",
+        "hours": "Monday to Friday, 7:45 AM to 4:30 PM",
+        "phone": "311 or 210-207-6000 (Mayor: 210-207-7107; Council: 210-207-7040)",
         "website": "https://www.sa.gov/",
         "sources": [
           {
             "url": "https://www.sa.gov/Directory/Departments/Mayor-Council/Contact",
             "retrieved": "2026-10-26"
+          },
+          {
+            "url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
+            "retrieved": "2026-10-26"
           }
         ]
       },
       "schedule": [],
-      "meetings": [],
-      "meetings_source": null,
-      "meetings_note": "Upcoming meeting dates are not listed yet. Check the city's council and committee agenda page.",
+      "meetings": [
+        {
+          "body": "Zoning Board of Adjustment Meeting",
+          "date": "2026-10-26",
+          "time": "1:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/QA16363"
+        },
+        {
+          "body": "SA Climate Ready Advisory Committee",
+          "date": "2026-10-26",
+          "time": "3:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/RC20227"
+        },
+        {
+          "body": "Planning and Community Development Committee",
+          "date": "2026-10-27",
+          "time": "10:00 AM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/BF27322"
+        },
+        {
+          "body": "Economic and Workforce Development Committee",
+          "date": "2026-10-27",
+          "time": "2:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/UB35500"
+        },
+        {
+          "body": "District 2 Last Twosday Community Event",
+          "date": "2026-10-27",
+          "time": "4:30 PM",
+          "location": "Healy Murphy Park, Nolan Street, San Antonio, TX",
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/HX0868"
+        },
+        {
+          "body": "District 10 Townhall — Meet the Chief",
+          "date": "2026-10-27",
+          "time": "6:00 PM",
+          "location": "4135 Thousand Oaks Drive, San Antonio, TX",
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/F40520"
+        },
+        {
+          "body": "N. Frio Bike and Pedestrian Improvements Pre-Construction Public Meeting",
+          "date": "2026-10-27",
+          "time": "6:00 PM",
+          "location": "Bazan Branch Library, West Commerce Street, San Antonio, TX",
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/T04111"
+        },
+        {
+          "body": "Tax Increment Reinvestment Zone No. 30 Westside",
+          "date": "2026-10-28",
+          "time": "10:00 AM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/MQ04615"
+        },
+        {
+          "body": "Conservation Advisory Board Meeting",
+          "date": "2026-10-28",
+          "time": "1:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/EJ54223"
+        },
+        {
+          "body": "City Council B Session",
+          "date": "2026-10-28",
+          "time": "2:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/KT55110"
+        },
+        {
+          "body": "INFO. SESSION #1 (Virtual): 0% Interest Rate Loan Program FY 2027",
+          "date": "2026-10-28",
+          "time": "2:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/E06873"
+        },
+        {
+          "body": "Planning Commission Meeting",
+          "date": "2026-10-28",
+          "time": "2:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/JV56026"
+        },
+        {
+          "body": "San Antonio Public Library Board of Trustees",
+          "date": "2026-10-28",
+          "time": "4:30 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/TV26725"
+        },
+        {
+          "body": "Transportation Advisory Board Meeting",
+          "date": "2026-10-28",
+          "time": "5:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/FA88730"
+        },
+        {
+          "body": "City Hall to All",
+          "date": "2026-10-28",
+          "time": "6:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/NF12543"
+        },
+        {
+          "body": "City Council A Session",
+          "date": "2026-10-29",
+          "time": "9:00 AM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/SM75145"
+        },
+        {
+          "body": "City Council Meeting",
+          "date": "2026-10-29",
+          "time": "9:00 AM",
+          "location": "114 West Commerce Street, San Antonio, TX",
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/F28726"
+        },
+        {
+          "body": "City of San Antonio Commission on Education Meeting",
+          "date": "2026-10-29",
+          "time": "4:30 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/SC74737"
+        },
+        {
+          "body": "San Antonio Arts Commission",
+          "date": "2026-10-29",
+          "time": "6:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/CR16438"
+        },
+        {
+          "body": "Downtown Stakeholder Meeting",
+          "date": "2026-11-03",
+          "time": "10:00 AM",
+          "location": "Texas Public Radio, 321 West Commerce Street, San Antonio, TX",
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/JV2432"
+        },
+        {
+          "body": "Preservation in Action: Historic & Design Review Commission",
+          "date": "2026-11-04",
+          "time": "3:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/K58878"
+        },
+        {
+          "body": "Renters' Solutions Subcommittee of the Housing Commission",
+          "date": "2026-11-05",
+          "time": "5:30 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/M76847"
+        },
+        {
+          "body": "Rental Housing 101: A Landlord's Guide",
+          "date": "2026-11-06",
+          "time": "2:00 PM",
+          "location": "San Antonio Apartment Association, 7525 Babcock Road, San Antonio, TX",
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/H55631"
+        },
+        {
+          "body": "Coffee with the Councilwoman: Public Safety",
+          "date": "2026-11-10",
+          "time": "10:00 AM",
+          "location": "5084 De Zavala Road, San Antonio, TX",
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/FX4202"
+        },
+        {
+          "body": "INFO. SESSION #2 (Virtual): 0% Interest Rate Loan Program FY 2027",
+          "date": "2026-11-12",
+          "time": "10:00 AM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/I75501"
+        },
+        {
+          "body": "Unique San Antonio: Wood Windows 101",
+          "date": "2026-11-13",
+          "time": "10:00 AM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/U57157"
+        },
+        {
+          "body": "[Virtual] Rental Housing Provider 101: A Landlord's Guide",
+          "date": "2026-11-16",
+          "time": "1:00 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/B21800"
+        },
+        {
+          "body": "Holiday Market at Mission Marquee Plaza",
+          "date": "2026-11-21",
+          "time": "9:00 AM",
+          "location": "Mission Marquee Plaza, 3100 Roosevelt Avenue, San Antonio, TX",
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/T47070"
+        },
+        {
+          "body": "Renters' Solutions Subcommittee of the Housing Commission",
+          "date": "2026-12-03",
+          "time": "5:30 PM",
+          "location": null,
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/V31422"
+        },
+        {
+          "body": "Marbach Road Community Workshop #2",
+          "date": "2026-12-08",
+          "time": "5:00 PM",
+          "location": "9833 Marbach Road, San Antonio, TX",
+          "agenda_url": null,
+          "details_url": "https://www.saspeakup.com/E25562"
+        }
+      ],
+      "meetings_source": {
+        "name": "San Antonio SASpeakUp public meetings calendar",
+        "url": "https://www.sa.gov/Government/Agendas",
+        "method": "saspeakup-calendar",
+        "fetched_at": "2026-10-26T14:47:46-04:00"
+      },
+      "meetings_note": null,
       "official_hosts": [
         "sa.gov",
-        "sanantonio.gov"
+        "sanantonio.gov",
+        "saspeakup.com",
+        "www.saspeakup.com"
       ]
     }
   ]

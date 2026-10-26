@@ -1,7 +1,7 @@
 {
   "feed": "the-record-cities",
   "schema_version": 1,
-  "generated_at": "2026-10-26T08:26:28-04:00",
+  "generated_at": "2026-10-26T14:47:46-04:00",
   "version": "2026-10-26",
   "index": {
     "path": "index-294d919328fa.json",
@@ -10,7 +10,7 @@
   },
   "full": {
     "path": "full-2026-10-26.json",
-    "sha256": "ca7898c76298ce721dced1bfe85cd29b3a79b1c4af786a75459db2e58758ffdd",
+    "sha256": "49d5c846767f0795169691abed0feb974497f2104f42b62e736a09a42313f49c",
     "count": 12
   },
   "shards": [
