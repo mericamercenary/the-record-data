@@ -1,16 +1,16 @@
 {
   "feed": "the-record-cities",
   "schema_version": 1,
-  "generated_at": "2026-10-26T14:47:46-04:00",
-  "version": "2026-10-26",
+  "generated_at": "2026-10-29T08:16:08-04:00",
+  "version": "2026-10-29",
   "index": {
     "path": "index-294d919328fa.json",
     "sha256": "294d919328faa4c16778ab0a032cc5a658210d409be24fb334f6b69adad81dcc",
     "count": 32350
   },
   "full": {
-    "path": "full-2026-10-26.json",
-    "sha256": "49d5c846767f0795169691abed0feb974497f2104f42b62e736a09a42313f49c",
+    "path": "full-2026-10-29.json",
+    "sha256": "a4024b25ed72a5f0a064b77d5e9407930655b2576622125d2e62274c79a2a21c",
     "count": 12
   },
   "shards": [
@@ -327,5 +327,5 @@
       "count": 205
     }
   ],
-  "validation_report": "INTEGRITY_REPORT-cities-2026-10-26.md"
+  "validation_report": "INTEGRITY_REPORT-cities-2026-10-29.md"
 }
